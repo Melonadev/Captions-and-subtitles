@@ -1,0 +1,747 @@
+0:00:02.060,0:00:06.160
+Let’s talk about what happens when you combine
+two different musical creation techniques:
+
+0:00:06.360,0:00:07.500
+The use of looping
+
+0:00:07.500,0:00:10.620
+(which is the repeating of a portion
+of sound over and over again)
+
+0:00:10.620,0:00:12.000
+...and the use of chance.
+
+0:00:12.000,0:00:16.060
+(which is allowing music to be affected by an
+element of unpredictability or randomness)
+
+0:00:16.340,0:00:17.100
+When combined,
+
+0:00:17.100,0:00:18.720
+...the results can be incredible,
+
+0:00:18.720,0:00:21.160
+...forming the most well-known
+technique in what we call
+
+0:00:21.160,0:00:22.420
+...'aleatoric music'.
+
+0:00:22.780,0:00:25.760
+Today, aleatoric technique can be found everywhere,
+
+0:00:25.760,0:00:27.260
+...especially in electronic,
+
+0:00:27.260,0:00:27.760
+...rock, or
+
+0:00:27.760,0:00:28.740
+...ambient music.
+
+0:00:28.940,0:00:32.720
+And it can be traced back to composers
+writing in the early- to mid-20th century,
+
+0:00:32.720,0:00:35.960
+...yet another illustration of how
+amazing that period was for music.
+
+0:00:36.220,0:00:37.000
+And what’s more,
+
+0:00:37.000,0:00:39.940
+...it’s often used very effectively in game design too.
+
+0:00:39.940,0:00:43.680
+So in this video, we’re going to be looking at
+how its used across these different genres,
+
+0:00:43.680,0:00:46.400
+...and how much there is to learn
+by investigating its history.
+
+0:00:46.700,0:00:49.540
+Now, we’ve all seen solo performers
+using looping pedals
+
+0:00:49.540,0:00:52.720
+...to create multi-layered backing
+tracks using just their voice,
+
+0:00:52.720,0:00:55.000
+...which is pretty enjoyable to watch being done live,
+
+0:00:55.000,0:00:58.480
+...with probably my favourite example
+being this TED Talk by Beardyman:
+
+0:01:12.500,0:01:13.060
+Or,
+
+0:01:13.060,0:01:14.700
+...there are those who play live sets
+
+0:01:14.700,0:01:17.020
+...using multiple pieces of linked-up hardware,
+
+0:01:17.020,0:01:19.180
+...where the looping is a little bit more malleable,
+
+0:01:19.180,0:01:21.660
+...like this work by the YouTuber Michael Forest.
+
+0:01:28.980,0:01:29.980
+Generally speaking,
+
+0:01:29.980,0:01:33.280
+...this is one of the two major
+variations of looping technique,
+
+0:01:33.280,0:01:35.500
+...where everything is synchronised to a steady rhythm.
+
+0:01:35.780,0:01:37.920
+The other major variation of looping technique
+
+0:01:37.920,0:01:40.780
+...is where the artist avoids syncing to any type of beat.
+
+0:01:40.780,0:01:44.600
+...often for the purpose of creating free-flowing
+ambience or background texture.
+
+0:01:44.840,0:01:47.880
+Here’s a fantastic example by the YouTuber AMULETS,
+
+0:01:47.880,0:01:50.440
+...who creates his own looping
+devices out of cassette players:
+
+0:01:58.820,0:02:01.340
+And with each looping device
+running at different lengths,
+
+0:02:01.340,0:02:04.260
+...new combinations of sound will
+just keep developing over time.
+
+0:02:04.260,0:02:07.980
+I highly recommend checking out both
+AMULETS' and Michael Forest’s channels,
+
+0:02:07.980,0:02:09.960
+...and I’ve put relevant links below in the description.
+
+0:02:10.140,0:02:14.020
+We’ll come back to the idea of using looping
+for textural purposes in just a second.
+
+0:02:14.240,0:02:16.220
+Now, when sticking to a strict tempo,
+
+0:02:16.220,0:02:20.800
+...one simple trick is to deliberately lengthen or
+shorten the number of beats in a given loop
+
+0:02:20.800,0:02:23.060
+...to achieve more complex, syncopated patterns.
+
+0:02:23.380,0:02:24.400
+For a quick example,
+
+0:02:24.400,0:02:26.580
+...let’s just jump into Reason to see what I mean.
+
+0:02:26.860,0:02:29.280
+First off, I created a simple pattern in 4 time:
+
+0:02:36.300,0:02:38.520
+Now, let’s add a pattern that loops every 3 beats,
+
+0:02:38.520,0:02:40.020
+...and we’ll first play it slowly
+
+0:02:40.020,0:02:42.600
+...so you can hear the rhythmic
+offsets that are being created:
+
+0:02:49.880,0:02:52.960
+And on top, let’s add a pattern that loops every 9 beats,
+
+0:02:52.960,0:02:54.200
+...and we’ll also play that slowly:
+
+0:03:03.480,0:03:05.800
+Now, if we quadruple the speed of both those patterns,
+
+0:03:05.800,0:03:07.680
+...we can hear how nicely they bounce off each other:
+
+0:03:15.620,0:03:18.560
+Now, one interesting feature of this particular device,
+
+0:03:18.560,0:03:22.040
+...where we begin to transition into a
+discussion about aleatoric music,
+
+0:03:22.040,0:03:23.440
+...is this button called:
+
+0:03:24.140,0:03:27.320
+...which allows the order of individual
+beats to be left up to chance:
+
+0:03:32.960,0:03:36.180
+And this simple combination of
+controlled chance and looping
+
+0:03:36.180,0:03:39.260
+...can be traced back to two composers
+during the mid-20th century:
+
+0:03:42.300,0:03:45.800
+...who, independently of each other,
+came up with a nearly identical system.
+
+0:03:45.900,0:03:47.820
+To understand what they were trying to achieve,
+
+0:03:47.820,0:03:50.340
+...let’s look at a common problem faced by composers.
+
+0:03:50.500,0:03:52.680
+Let’s say you wanted to achieve a detailed texture
+
+0:03:52.680,0:03:55.320
+...like this example from Hovhaness’s 'Magnificat':
+
+0:04:04.660,0:04:07.240
+...or this one from Lutosławski’s 'Piano Concerto':
+
+0:04:15.300,0:04:17.740
+Well, if you were trying to use traditional notation,
+
+0:04:17.740,0:04:20.380
+(let me just lay out the notes
+from Lutoslawski’s score here)
+
+0:04:20.380,0:04:23.300
+...you’d first want to avoid having
+all the notes synced up like this:
+
+0:04:27.540,0:04:29.760
+That just obviously doesn’t sound right at all.
+
+0:04:29.760,0:04:31.940
+So, to get close to what Lutosławski achieved,
+
+0:04:31.940,0:04:35.840
+...you’d need to create all kinds of
+complicated off-beat patterns and tuplets.
+
+0:04:39.260,0:04:43.200
+But, as any composer who’s put something
+like this in front of an orchestra knows,
+
+0:04:43.200,0:04:45.540
+...performers and conductors hate this kind of thing.
+
+0:04:45.540,0:04:48.460
+It’s ludicrously hard for the musicians to time it properly,
+
+0:04:48.460,0:04:52.120
+...and the conductor won’t be able to micromanage
+this level of rhythmic complexity either.
+
+0:04:52.380,0:04:56.100
+The only way this could work would be to devote
+an impractical amount of rehearsal time.
+
+0:04:56.100,0:04:57.560
+And with classical ensembles,
+
+0:04:57.560,0:04:59.640
+...where you’d be lucky to get even three rehearsals,
+
+0:04:59.640,0:05:00.920
+...that’s not going to happen.
+
+0:05:01.100,0:05:01.780
+Moreover,
+
+0:05:01.780,0:05:04.040
+...it would be difficult to predict
+the outcome ahead of time
+
+0:05:04.040,0:05:06.780
+...and poor performances would
+be much more likely to happen.
+
+0:05:07.340,0:05:08.820
+And for those of you thinking,
+
+0:05:08.820,0:05:11.160
+(well, I suppose, those very few of you thinking)
+
+0:05:11.160,0:05:13.280
+"Have you never heard of New Complexity?"
+
+0:05:13.280,0:05:13.960
+I have,
+
+0:05:13.980,0:05:16.180
+...but that’s a different discussion for another day.
+
+0:05:16.380,0:05:20.660
+And so Hovhaness & Lutosławski both
+conceived of almost identical solutions
+
+0:05:20.660,0:05:23.700
+...to achieve the sort of complex 
+flowing textures they were after.
+
+0:05:23.900,0:05:26.240
+These techniques are pretty easy to describe.
+
+0:05:26.240,0:05:29.220
+If we stick with Lutoslawski’s
+'Piano Concerto' for a second,
+
+0:05:29.220,0:05:31.980
+...let’s focus in on one instrument
+to understand what he’s doing.
+
+0:05:32.600,0:05:33.300
+Now, at this point,
+
+0:05:33.300,0:05:35.700
+...a performer would be reading the notation as normal,
+
+0:05:35.700,0:05:37.760
+...until they reach a section that looks like this:
+
+0:05:38.000,0:05:40.860
+A few notes sandwiched between two repeat bars.
+
+0:05:41.180,0:05:42.620
+This is our looping mechanism.
+
+0:05:42.820,0:05:46.060
+The musician now knows that they must
+repeat this loop over and over again,
+
+0:05:46.060,0:05:48.320
+...until the conductor gives the signal to stop
+
+0:05:48.320,0:05:51.020
+...at which point the musician
+abandons the loop immediately.
+
+0:05:51.380,0:05:53.860
+The conductor's cues are often notated like this:
+
+0:05:54.200,0:05:56.120
+But what’s really liberating about these loops
+
+0:05:56.120,0:05:58.900
+...is that the performer is no longer tied to the meter,
+
+0:05:58.900,0:06:01.560
+...so they needn’t worry about
+staying in time with everyone else.
+
+0:06:02.060,0:06:04.160
+These loops are often coupled with the direction:
+
+0:06:05.080,0:06:05.960
+...which, in this context,
+
+0:06:05.960,0:06:09.740
+...indicates that the player can improvise
+certain aspects of the performance.
+
+0:06:09.740,0:06:12.040
+Things like articulation, volume,
+
+0:06:12.040,0:06:14.220
+...or even the ordering of the notes sometimes.
+
+0:06:14.220,0:06:14.980
+All in all,
+
+0:06:14.980,0:06:17.280
+...this system allows the composer
+to achieve new sounds
+
+0:06:17.280,0:06:20.960
+...by actually relinquishing control over
+certain elements of the performance.
+
+0:06:20.960,0:06:22.560
+A, sort of, controlled use of chance
+
+0:06:22.560,0:06:27.300
+...that opens up all kinds of textures and orchestral
+colours that are hard to achieve any other way.
+
+0:06:27.300,0:06:28.660
+In his 'Piano Concerto',
+
+0:06:28.660,0:06:30.460
+...Lutosławski uses this technique
+
+0:06:30.460,0:06:33.360
+...to allow the pianist a high
+degree of rhythmic flexibility,
+
+0:06:33.360,0:06:35.660
+...so that every little phrase has room to breath.
+
+0:06:35.660,0:06:38.780
+I’ve animated an example
+I particularly like in the opening,
+
+0:06:38.780,0:06:41.120
+...where three flutes jump between different loops
+
+0:06:41.120,0:06:43.900
+...to provide a background texture
+for the pianist to play over:
+
+0:07:03.360,0:07:06.960
+And what’s interesting here is how all four
+musicians are able to work together
+
+0:07:06.960,0:07:09.340
+...despite being rhythmically independent of each other.
+
+0:07:09.660,0:07:12.060
+I’ve used this technique in my own music too.
+
+0:07:12.440,0:07:13.380
+In this example,
+
+0:07:13.380,0:07:16.980
+...I'm giving three string players
+rhythmically independent looping patterns,
+
+0:07:16.980,0:07:20.500
+...which allows a guitar player
+time to play a solo as he sees fit:
+
+0:07:34.240,0:07:36.900
+Another classic variation of this idea can be seen in
+
+0:07:36.900,0:07:40.160
+...Penderecki’s ‘Threnody for the Victims of Hiroshima’,
+
+0:07:40.160,0:07:43.100
+...which has been fully animated
+on this channel ‘gerubach’,
+
+0:07:43.100,0:07:44.680
+...which I highly recommend you watch.
+
+0:07:48.700,0:07:50.060
+Each of these strange symbols
+
+0:07:50.060,0:07:53.860
+...represents a different unconventional way
+that a player can strike their instrument,
+
+0:07:53.860,0:07:56.460
+...which, along with the loosely coordinated looping,
+
+0:07:56.460,0:07:58.320
+...creates a sense of pure mayhem.
+
+0:08:01.620,0:08:02.160
+Today,
+
+0:08:02.160,0:08:05.600
+...composers are still modifying this
+technique to suit their own style.
+
+0:08:05.860,0:08:07.660
+Take the composer Gregor Forbes,
+
+0:08:07.660,0:08:10.280
+...who studied with me at the
+Royal Conservatoire of Scotland.
+
+0:08:10.280,0:08:13.340
+His aleatoric techniques are
+sometimes quite open-ended,
+
+0:08:13.340,0:08:18.000
+...allowing performers to take control over
+larger things like length and overall structure.
+
+0:08:18.200,0:08:19.620
+Take as an example his piece
+
+0:08:20.460,0:08:21.720
+...written for three players,
+
+0:08:21.720,0:08:23.680
+(clarinet, violin and piano)
+
+0:08:23.680,0:08:27.860
+...where each player is given only three very
+short fragments of music to choose from.
+
+0:08:27.860,0:08:30.460
+Here, you can see the three options
+available to the clarinettist.
+
+0:08:30.900,0:08:35.060
+Now, not only can the players choose which
+fragment they want to play at any given moment,
+
+0:08:35.060,0:08:37.840
+...they also don’t need to play
+the notation from left to right:
+
+0:08:51.520,0:08:52.760
+And when you think about it
+
+0:08:52.760,0:08:56.100
+...aleatoric technique is actually
+perfect for game design too,
+
+0:08:56.100,0:08:59.500
+...where the chance events are provided
+by actions the players are taking,
+
+0:08:59.500,0:09:01.420
+...which then affects what the music is doing.
+
+0:09:01.580,0:09:03.560
+Take the game ‘Flower’ for example.
+
+0:09:03.560,0:09:06.660
+In the opening, the background
+music loops around the key of D:
+
+0:09:10.580,0:09:12.020
+It’s quite simple to begin with,
+
+0:09:12.020,0:09:14.360
+...until the player begins to interact with the scene,
+
+0:09:14.360,0:09:18.720
+...which triggers chords and musical flourishes
+that are harmonically consonant with that key:
+
+0:09:22.840,0:09:27.240
+Notice, also, that the lack of a strict rhythm is
+helping these moments blend together nicely.
+
+0:09:27.240,0:09:28.700
+Here's that same technique again,
+
+0:09:28.700,0:09:30.180
+...used in the game 'Flow'.
+
+0:09:36.760,0:09:41.120
+Both of these feel quite similar to the technique
+employed in Terry Riley’s famous piece
+
+0:09:42.180,0:09:43.920
+...which, as the name implies,
+
+0:09:43.920,0:09:48.000
+...strictly locks down the key so that other
+asynchronous rhythmic choices can be made
+
+0:09:48.000,0:09:49.820
+...without the results sounding messy:
+
+0:09:55.220,0:09:58.540
+And then there are games that want
+strong driving beats in their music.
+
+0:09:58.540,0:10:00.940
+The most common aleatoric technique that they use
+
+0:10:00.940,0:10:04.100
+...is to first create a library of
+multiple synchronised loops.
+
+0:10:04.100,0:10:04.860
+And we’ll look at the game
+
+0:10:05.500,0:10:06.680
+...for an example of this.
+
+0:10:06.960,0:10:10.420
+Initially, you can hear an underlying
+pattern that starts off quite simply:
+
+0:10:15.080,0:10:16.600
+Then, as the level gets harder,
+
+0:10:16.600,0:10:18.340
+...to ramp up the feeling of progression,
+
+0:10:18.340,0:10:22.200
+...additional layers of percussion and harmony
+are triggered by the actions the player takes:
+
+0:10:28.680,0:10:32.180
+Then there are also moments where the
+music is stripped back to just one layer
+
+0:10:32.180,0:10:34.300
+...to indicate that a new level is about to begin:
+
+0:10:38.720,0:10:39.660
+I like this because,
+
+0:10:39.660,0:10:42.980
+...not only does it give you a bit of breathing
+space to prepare for the next level,
+
+0:10:42.980,0:10:45.460
+...it also, sort of, clears the air for the music
+
+0:10:45.460,0:10:47.860
+...so that it can change pace or maybe change the key.
+
+0:10:48.320,0:10:52.180
+And I hope you also noticed how all the
+moment-to-moment effects and explosions
+
+0:10:52.180,0:10:54.180
+...have been tuned to complement the key,
+
+0:10:54.180,0:10:57.560
+...another common game technique that really
+makes the game a pleasure to listen to.
+
+0:10:57.560,0:11:00.680
+So that’s my quite quick introduction to aleatoric music,
+
+0:11:00.680,0:11:03.660
+...which just keeps on morphing and
+changing through the decades,
+
+0:11:03.660,0:11:06.680
+...with different musicians arriving at it
+from completely different angles.
+
+0:11:06.860,0:11:07.960
+If you’re a composer,
+
+0:11:07.960,0:11:12.260
+...it’s a very nice way to include a degree of
+looseness into quite rigid musical structures,
+
+0:11:12.500,0:11:14.400
+...and I highly recommend you give it a try.
+
+0:11:14.400,0:11:14.920
+In fact,
+
+0:11:14.920,0:11:18.800
+...if there are any people out there who have come up
+with their own novel versions of this technique,
+
+0:11:18.800,0:11:19.940
+...no matter the genre,
+
+0:11:19.940,0:11:20.680
+...just let me know.
+
+0:11:20.680,0:11:22.160
+And if I get enough responses,
+
+0:11:22.160,0:11:23.980
+...I'll do a follow-up video to feature them
+
+0:11:23.980,0:11:26.080
+...and discuss their individual working methods.
+
+0:11:26.500,0:11:28.580
+Like, you could do something really revolutionary,
+
+0:11:28.580,0:11:29.620
+...uh, like this!
+
+0:11:29.760,0:11:30.940
+Let’s take a random...
+
+0:11:30.940,0:11:32.300
+...2-syllable word, like...
+
+0:11:32.300,0:11:33.620
+Well... this one:
+
+0:11:35.640,0:11:37.560
+And a long 3-syllable phrase,
+
+0:11:37.560,0:11:38.600
+...like this one:
+
+0:11:40.840,0:11:42.280
+And... an- yeah, tha- that's good.
+
+0:11:42.280,0:11:43.180
+Let's play that.
+
+0:11:47.940,0:11:48.680
+And now,
+
+0:11:48.680,0:11:50.340
+...to introduce an element of chance,
+
+0:11:50.340,0:11:50.840
+...this i-
+
+0:11:50.840,0:11:52.660
+That's where, uh... you guys come in.
+
+0:11:52.660,0:11:54.320
+The actions taken by YOU.
+
+0:11:54.460,0:11:54.960
+Uh...
+
+0:11:54.960,0:11:55.980
+You, the viewer,
+
+0:11:55.980,0:11:56.580
+...and...
+
+0:11:56.580,0:11:58.580
+It's a great illustration of, you know, the kind of,
+
+0:11:58.580,0:11:59.340
+...novel...
+
+0:11:59.340,0:12:00.120
+...internet...
+
+0:12:00.120,0:12:01.500
+...composition, um...
+
+0:12:01.500,0:12:03.100
+Because we’re all connected, and, like...
+
+0:12:03.320,0:12:05.360
+You know, we’re democratising the listening process,
+
+0:12:05.360,0:12:05.860
+...and uh-
+
+0:12:11.100,0:12:11.680
+Oh, well.
+
+0:12:12.920,0:12:14.080
+That's the bar, guys.
+
+0:12:14.080,0:12:15.200
+See if you can top that.

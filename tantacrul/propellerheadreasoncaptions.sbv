@@ -1,0 +1,1164 @@
+0:00:02.100,0:00:04.560
+I discovered Reason when I was in my early twenties.
+
+0:00:04.560,0:00:05.520
+It was great,
+
+0:00:05.520,0:00:07.760
+...even though at first glance it did look a bit daunting.
+
+0:00:07.760,0:00:10.920
+A hellscape of never-ending, incomprehensible controls.
+
+0:00:10.920,0:00:12.280
+Man, I've no idea what I'm looking at.
+
+0:00:12.280,0:00:13.500
+W- What is all these stuff?
+
+0:00:13.680,0:00:16.020
+H H H H ∀ ∀ ∀ ∀ ∀ ∀ ∀ ∀ ∀ ∀ ∀ ∀ ∀ ∀ ∀ ∀
+
+0:00:16.020,0:00:17.380
+But it’s actually really intuitive:
+
+0:00:17.380,0:00:19.580
+You drag audio units into a virtual rack,
+
+0:00:19.580,0:00:20.600
+...you wire them together,
+
+0:00:20.600,0:00:21.480
+...and hey presto!
+
+0:00:21.480,0:00:25.160
+You now have the ability to construct incredibly
+powerful synthesizers from the ground up.
+
+0:00:25.160,0:00:26.500
+However, in the mid 2000s,
+
+0:00:26.500,0:00:27.880
+...due to increasing competition,
+
+0:00:27.880,0:00:28.980
+...technical growing pains,
+
+0:00:28.980,0:00:30.700
+...and some notably absent features,
+
+0:00:30.700,0:00:32.700
+...Reason began to feel a little bit inferior.
+
+0:00:32.700,0:00:33.660
+And noticing this,
+
+0:00:33.660,0:00:36.720
+...Propellerhead realised they needed to
+make some dangerous design decisions
+
+0:00:36.720,0:00:39.800
+...in order to get Reason to be the
+all-singing, all-dancing workstation
+
+0:00:39.800,0:00:41.240
+...that everyone wanted it to be.
+
+0:00:41.240,0:00:43.200
+And in this video, we’re going to look at that journey,
+
+0:00:43.200,0:00:46.180
+...because it offers us a masterclass
+in design decision-making,
+
+0:00:46.180,0:00:47.780
+...from high-level strategic decisions
+
+0:00:47.780,0:00:51.200
+...down to the minute detail of how the
+interface of Reason looks and feels.
+
+0:00:51.200,0:00:52.500
+And this is the first in a series
+
+0:00:52.500,0:00:56.240
+...that will touch on different audio applications
+from a musical and design perspective,
+
+0:00:56.240,0:00:58.760
+...and I’ll talk a little more about what’s next at the end.
+
+0:00:58.760,0:01:01.760
+In 2005, I moved to London to study music composition
+
+0:01:01.760,0:01:04.260
+...and funded myself by working as a software designer.
+
+0:01:04.260,0:01:05.600
+And from these two perspectives,
+
+0:01:05.600,0:01:07.760
+...I began to look at Reason in a very different way.
+
+0:01:07.760,0:01:11.400
+As a composer, I wanted it to be a
+full-blown digital audio workstation,
+
+0:01:11.400,0:01:12.860
+(or DAW for short)
+
+0:01:12.860,0:01:15.100
+...with audio recording and professional mixing.
+
+0:01:15.100,0:01:18.820
+But as a designer, I recognised that this
+wasn’t a simple thing to just go and do.
+
+0:01:18.820,0:01:19.760
+To grant this request,
+
+0:01:19.760,0:01:22.380
+...some very difficult design
+challenges needed to be overcome.
+
+0:01:22.380,0:01:24.680
+And we’re going to look at those
+through a very specific lens
+
+0:01:24.680,0:01:26.580
+...something that’s rarely discussed in software design
+
+0:01:26.580,0:01:28.460
+...that I think needs to be called out more often:
+
+0:01:30.100,0:01:31.540
+This is a blanket term I’m using
+
+0:01:31.540,0:01:35.020
+...for the practice of strictly adhering
+to self-imposed design rules.
+
+0:01:35.020,0:01:37.280
+The ideal is that by choosing a perfect vision,
+
+0:01:37.280,0:01:40.020
+...you can get close to achieving a ‘perfect’ application:
+
+0:01:40.020,0:01:43.700
+Something immensely satisfying that
+requires zero learning curve to use.
+
+0:01:43.700,0:01:45.900
+And even though we all know perfection isn’t possible,
+
+0:01:45.900,0:01:47.600
+...it makes sense to try to achieve it,
+
+0:01:47.600,0:01:50.680
+...which is why when companies are
+faced with unexpected roadblocks,
+
+0:01:50.680,0:01:54.700
+...there’s often an instinctive emotional reluctance
+to deviate from the established vision,
+
+0:01:54.700,0:01:57.020
+...because if perfection is no longer the goal,
+
+0:01:57.020,0:01:59.100
+...then surely we’re moving in the wrong direction, right?
+
+0:01:59.100,0:02:00.460
+And when I say ‘design rules’,
+
+0:02:00.460,0:02:01.780
+...I’m referring to everything:
+
+0:02:01.780,0:02:03.140
+High-level strategic decisions,
+
+0:02:03.140,0:02:05.060
+...like defining your target audience.
+
+0:02:05.060,0:02:07.720
+Company mantras stating broad principles like:
+
+0:02:08.980,0:02:09.480
+...or:
+
+0:02:11.920,0:02:13.360
+Then there are mid-level design rules
+
+0:02:13.360,0:02:15.660
+...that state how your software is generally arranged,
+
+0:02:15.660,0:02:18.220
+...all the way down to tiny visual rules dictating things
+
+0:02:18.220,0:02:21.060
+...like the precise amount of pixels between controls.
+
+0:02:21.060,0:02:22.180
+And you can add into the mix,
+
+0:02:22.180,0:02:24.640
+...a range of external design trends and ‘best practices’
+
+0:02:24.640,0:02:26.260
+..which can also be very influential.
+
+0:02:26.260,0:02:28.560
+Now, all of these things serve a practical purpose:
+
+0:02:28.560,0:02:32.180
+Helping to set a common vision for
+designers, CEOs and investors alike,
+
+0:02:32.180,0:02:36.420
+...while avoiding the organisational chaos that can
+occur when people go off and do their own thing.
+
+0:02:36.420,0:02:37.620
+And as you probably guessed,
+
+0:02:37.620,0:02:40.520
+...this video is about the difficult moments
+where you need to break these rules,
+
+0:02:40.520,0:02:42.080
+...where you should be non-ideological.
+
+0:02:42.080,0:02:42.880
+Simple in theory
+
+0:02:42.880,0:02:44.960
+...but often pretty difficult in practice.
+
+0:02:45.600,0:02:48.700
+So lt’s start with a simple, small-scale
+example of a general trend.
+
+0:02:48.700,0:02:49.760
+If you work in design,
+
+0:02:49.760,0:02:50.960
+...you’ve most likely come across
+
+0:02:51.960,0:02:54.800
+...the practise of setting a limit on
+the number of clicks or presses
+
+0:02:54.800,0:02:56.600
+...it takes to get from one place to another.
+
+0:02:56.600,0:02:57.280
+The phrase
+
+0:02:58.940,0:03:00.700
+...is pretty common in the world of design.
+
+0:03:00.700,0:03:02.280
+And although the intention is good,
+
+0:03:02.280,0:03:05.020
+...it nearly always results in upfront clutter like this:
+
+0:03:05.020,0:03:05.760
+W- W- Wow.
+
+0:03:05.760,0:03:06.900
+What am I looking at here?
+
+0:03:06.900,0:03:07.460
+God.
+
+0:03:07.460,0:03:09.060
+T- There's options for my options.
+
+0:03:12.220,0:03:14.300
+H H H H ∀ ∀ ∀ ∀ ∀ ∀ ∀ ∀ ∀ ∀ ∀ ∀ ∀ ∀ ∀ ∀
+
+0:03:14.300,0:03:15.660
+For websites like Amazon,
+
+0:03:15.660,0:03:17.560
+...this type of principle makes a lot of sense.
+
+0:03:17.560,0:03:18.440
+...but in other cases
+
+0:03:18.440,0:03:19.120
+...it doesn’t.
+
+0:03:19.380,0:03:22.820
+So let’s now apply it to something
+generally regarded as being well-designed:
+
+0:03:22.820,0:03:23.860
+The iPhone menu.
+
+0:03:24.060,0:03:27.760
+We’d get in trouble pretty quickly if we
+want to change, say, accessibility settings.
+
+0:03:28.120,0:03:28.760
+One,
+
+0:03:29.660,0:03:30.360
+...two,
+
+0:03:30.760,0:03:31.420
+...three,
+
+0:03:31.780,0:03:32.600
+Uh-oh!
+
+0:03:32.600,0:03:34.760
+3-click rule says this isn't good design.
+
+0:03:34.760,0:03:37.340
+We need all those options in
+one gargantuan scrolling list.
+
+0:03:37.700,0:03:40.540
+I hope your accessibility issue
+wasn’t carpal tunnel syndrome!
+
+0:03:43.160,0:03:45.960
+Another ideal designers worry about on a daily basis is
+
+0:03:47.220,0:03:49.420
+Obviously, if an app behaves in a consistent way,
+
+0:03:49.420,0:03:52.500
+...it’s going to be easier for people to
+navigate it without getting confused.
+
+0:03:52.500,0:03:53.620
+Imagine you were making a website
+
+0:03:53.620,0:03:55.160
+...that used the colour red to mean ‘No’
+
+0:03:55.160,0:03:56.660
+...and green to mean ‘Yes’,
+
+0:03:56.660,0:03:57.880
+Then it would be a pretty big mistake
+
+0:03:57.880,0:04:00.260
+...if your credit card details page was styled like this:
+
+0:04:01.320,0:04:02.920
+However, at the structural level,
+
+0:04:02.920,0:04:05.460
+...the topic 'consistency' gets a bit more complicated.
+
+0:04:05.460,0:04:08.580
+Back to my earlier example of wanting
+to find things quickly on the iPhone.
+
+0:04:08.580,0:04:11.120
+Apple eventually realised that
+their menu was slightly clunky
+
+0:04:11.120,0:04:14.000
+...when it came to common tasks
+like turning on and off WiFi.
+
+0:04:14.000,0:04:17.540
+And because they didn’t want to break with
+the perfectly good system they’d already built,
+
+0:04:17.540,0:04:20.200
+...they, instead, took a lesson
+from Android and Ubuntu Mobile
+
+0:04:20.200,0:04:22.620
+...by introducing the Control Centre with iOS 7.
+
+0:04:22.880,0:04:26.820
+A necessary halfway house that broke with both
+the look and logic of the rest of the system.
+
+0:04:26.820,0:04:28.620
+Usability before consistency.
+
+0:04:28.620,0:04:29.460
+Good Apple.
+
+0:04:29.460,0:04:30.920
+You get one point for that.
+
+0:04:31.320,0:04:32.380
+And with this in mind,
+
+0:04:32.380,0:04:35.880
+...we can now start talking about the massive
+design problems Propellerhead faced.
+
+0:04:35.880,0:04:37.300
+By the time we got to Reason 5,
+
+0:04:37.300,0:04:39.200
+...it had two major consistency rules:
+
+0:04:39.200,0:04:39.860
+First,
+
+0:04:39.860,0:04:43.300
+...anything that produced sound was represented
+as a physical piece of hardware.
+
+0:04:43.300,0:04:46.840
+This real-world representation made
+it easy to ‘get’ how Reason worked,
+
+0:04:46.840,0:04:48.400
+...but this came with limitations.
+
+0:04:48.400,0:04:52.020
+Mimicking the real world in this way requires
+that you observe the rules of physics,
+
+0:04:52.020,0:04:55.320
+...especially the idea that everything
+has to wired up in order to work.
+
+0:04:55.320,0:04:56.960
+So if I wanted to do something complex,
+
+0:04:56.960,0:04:59.680
+...like send an audio signal to multiple different places,
+
+0:04:59.680,0:05:01.500
+I’d have to first send it to this thing:
+
+0:05:01.500,0:05:03.540
+...a unique device that splits the signal,
+
+0:05:03.540,0:05:04.920
+...giving me multiple outputs,
+
+0:05:04.920,0:05:07.900
+...each of which I then have to wire
+to the intended device manually.
+
+0:05:07.900,0:05:10.520
+Programs like Logic Pro use a more abstract system,
+
+0:05:10.520,0:05:12.500
+...where you can send an audio
+signal to a different place
+
+0:05:12.500,0:05:14.760
+...by selecting it from a disconnected dropdown.
+
+0:05:14.760,0:05:16.580
+The link between elements is implied,
+
+0:05:16.580,0:05:18.900
+...more in line with other music creation apps.
+
+0:05:18.900,0:05:19.980
+And although this is faster,
+
+0:05:19.980,0:05:21.480
+...it’s not necessarily better.
+
+0:05:21.480,0:05:24.520
+Apps that rely too much on abstract
+connections can be difficult to learn,
+
+0:05:24.520,0:05:27.160
+...which can dissuade first-time
+users from ever coming back.
+
+0:05:27.160,0:05:29.820
+So even though Reason’s literal
+system was sometimes clunky,
+
+0:05:29.820,0:05:31.000
+...it was easy to understand
+
+0:05:31.000,0:05:32.360
+...and also kind of fun too.
+
+0:05:33.380,0:05:35.480
+The other major consistency rule of Reason
+
+0:05:35.480,0:05:37.560
+...was that all sound have to be triggered by MIDI,
+
+0:05:37.560,0:05:38.800
+...either written in manually
+
+0:05:38.800,0:05:40.700
+...or recorded externally on a keyboard.
+
+0:05:40.700,0:05:43.240
+If you wanted to use pre-recorded audio of any kind,
+
+0:05:43.240,0:05:44.560
+...you had to import it into a sampler
+
+0:05:44.560,0:05:46.560
+...and then trigger it using a MIDI signal.
+
+0:05:46.560,0:05:48.440
+You couldn’t just record audio directly in,
+
+0:05:48.440,0:05:49.120
+...because...
+
+0:05:49.120,0:05:51.320
+...that wasn’t really what it was originally intended for.
+
+0:05:51.320,0:05:52.840
+But due to these limitations,
+
+0:05:52.840,0:05:54.480
+...Reason was really streamlined.
+
+0:05:54.480,0:05:56.160
+Everything worked the same way.
+
+0:05:56.160,0:05:57.240
+However, on the other hand,
+
+0:05:57.240,0:05:57.880
+...programs like
+
+0:06:00.040,0:06:02.720
+...were introducing features that
+directly competed with Reason.
+
+0:06:02.720,0:06:04.920
+They began to look like the better overall choice.
+
+0:06:04.920,0:06:05.740
+Great synths
+
+0:06:05.740,0:06:08.260
+...and the ability to record and mix live audio.
+
+0:06:08.260,0:06:10.320
+And there was definitely a point around 2005
+
+0:06:10.320,0:06:12.520
+...where Reason looked in danger of becoming obsolete.
+
+0:06:12.520,0:06:13.500
+So, recognising this,
+
+0:06:13.500,0:06:16.780
+...Propellerhead began planning to offer
+audio-recording and proper mixing.
+
+0:06:16.780,0:06:19.340
+And here’s where they came up
+against a massive design challenge:
+
+0:06:19.340,0:06:21.000
+In order to offer any of this stuff,
+
+0:06:21.000,0:06:22.360
+...they needed to break not one,
+
+0:06:22.360,0:06:24.300
+...but both of their core consistency rules.
+
+0:06:25.100,0:06:26.120
+Let me explain.
+
+0:06:26.120,0:06:27.420
+Up to Reason version 5,
+
+0:06:27.420,0:06:28.740
+...you first created your instrument
+
+0:06:28.740,0:06:31.120
+...and then you hooked it up to a
+main mixer at the top of the rack.
+
+0:06:31.120,0:06:31.980
+If you didn’t do this,
+
+0:06:31.980,0:06:33.240
+...you didn’t hear anything.
+
+0:06:33.240,0:06:35.660
+And since each mixer contained only 14 channels,
+
+0:06:35.660,0:06:39.320
+...you often needed to awkwardly chain multiple
+mixers together to get more than that.
+
+0:06:39.320,0:06:42.860
+And this is why audio recording posed
+such a large structural problem.
+
+0:06:42.860,0:06:45.540
+Imagine how bad it would be if every
+time you wanted to record a new take
+
+0:06:45.540,0:06:47.680
+...you had to manually wire the channel to a mixer?
+
+0:06:47.680,0:06:48.800
+It would never fly.
+
+0:06:48.800,0:06:50.540
+Audio recording needed to be automatic,
+
+0:06:50.540,0:06:52.340
+...and you needed a lot more channels too.
+
+0:06:52.340,0:06:55.900
+And so Propellerhead took the brave decision
+to allow multiple inconsistencies.
+
+0:06:56.120,0:06:58.940
+First, they introduced a virtual mixer
+that lived outside the rack,
+
+0:06:58.940,0:07:01.320
+...and which had no visible connection to the devices.
+
+0:07:01.320,0:07:03.520
+This meant that when you wanted
+to create a new audio track,
+
+0:07:03.520,0:07:06.100
+...it was represented by this
+piece of imaginary hardware,
+
+0:07:06.100,0:07:07.720
+...which just popped into existence.
+
+0:07:07.720,0:07:09.420
+It wasn’t wired in any visible way.
+
+0:07:09.420,0:07:11.760
+You just had to learn that for every
+one of these you had in your rack,
+
+0:07:11.760,0:07:14.120
+...a channel existed for it somewhere in your mixer.
+
+0:07:14.120,0:07:17.340
+And by allowing audio to be recorded
+and played back independent of MIDI,
+
+0:07:17.340,0:07:19.640
+...a whole bunch of new interface controls were needed,
+
+0:07:19.640,0:07:21.600
+...which took away from the app's simplicity.
+
+0:07:21.600,0:07:23.860
+This can’t have been an easy decision for Propellerhead,
+
+0:07:23.860,0:07:25.660
+...breaking with the traditions that had put it on the map.
+
+0:07:25.660,0:07:28.700
+And I’d love to know how many arguments
+it caused in the design studio.
+
+0:07:28.920,0:07:30.500
+But I think it was the right decision.
+
+0:07:30.500,0:07:31.920
+Rather than sticking to an ideal,
+
+0:07:31.920,0:07:34.960
+...they risked complicating their
+existing system and forged ahead,
+
+0:07:34.960,0:07:38.920
+...making sure that everything new they created
+was as fun and Reason-like as possible.
+
+0:07:38.920,0:07:41.280
+The result is an app that’s infinitely better than before,
+
+0:07:41.280,0:07:43.300
+...albeit with a slightly higher learning curve.
+
+0:07:44.040,0:07:47.300
+So now, let’s take a look at Reason
+from a slightly different point of view.
+
+0:07:47.300,0:07:48.760
+One of the problems of interface design
+
+0:07:48.760,0:07:51.520
+...is that things go in and out
+of fashion relatively quickly.
+
+0:07:51.520,0:07:54.640
+And when journalists write about
+specific examples of ‘bad practice’,
+
+0:07:54.640,0:07:55.660
+...say in web design,
+
+0:07:55.660,0:07:56.820
+...it can gain traction,
+
+0:07:56.820,0:07:59.720
+...often influencing designers working
+on something completely different,
+
+0:07:59.720,0:08:01.660
+...like a game or operating system.
+
+0:08:01.660,0:08:03.340
+For example, I can’t count the amount of times I’ve seen
+
+0:08:03.340,0:08:05.700
+...mobile app controls ending up on the desktop.
+
+0:08:05.700,0:08:06.520
+Oh look!
+
+0:08:06.520,0:08:08.300
+Pitchfork have this hamburger menu now.
+
+0:08:08.560,0:08:09.160
+Uh...
+
+0:08:09.460,0:08:11.000
+My whole screen is taken over,
+
+0:08:11.000,0:08:13.460
+...so I can see the same options I already have here.
+
+0:08:14.380,0:08:15.960
+Have you ever heard of a rollover menu?
+
+0:08:16.480,0:08:17.840
+Oh, Pitchfork.
+
+0:08:17.840,0:08:20.600
+The best place to go for all the latest showbiz goss.
+
+0:08:25.100,0:08:25.960
+Cool.
+
+0:08:25.960,0:08:26.660
+Oh look.
+
+0:08:26.660,0:08:27.320
+Pharell!
+
+0:08:27.320,0:08:28.880
+That's three names I know!
+
+0:08:28.880,0:08:31.220
+Let’s look at an article that came out last year, titled:
+
+0:08:33.460,0:08:35.740
+...which criticises a variety of music-creation apps
+
+0:08:35.740,0:08:37.420
+...for their heavy use of something called:
+
+0:08:38.600,0:08:39.460
+For those who don’t know,
+
+0:08:39.460,0:08:41.440
+...'skeuomorphism' is a tedious design buzzword
+
+0:08:41.440,0:08:45.220
+...that refers to the practice of basing
+interactive elements on real physical objects,
+
+0:08:45.220,0:08:47.040
+...like a slider mimics the way a- uh,
+
+0:08:47.040,0:08:47.920
+...slider works.
+
+0:08:47.920,0:08:48.480
+Or...
+
+0:08:48.480,0:08:49.720
+I know there’s another example.
+
+0:08:49.720,0:08:51.000
+Um... pretty common.
+
+0:08:51.000,0:08:51.800
+What are they called again?
+
+0:08:51.800,0:08:52.600
+Uh- oh yeah,
+
+0:08:53.660,0:08:55.640
+And one thing to note about
+skeuomorphic design is that
+
+0:08:55.640,0:08:58.980
+...just because it works like a real thing
+doesn’t mean it has to it look like a real thing.
+
+0:08:58.980,0:09:01.680
+Case in point, the older versions of Apple’s IOS.
+
+0:09:01.680,0:09:04.200
+For some reason, the iPhone just
+keeps popping up in this video.
+
+0:09:04.200,0:09:06.700
+Back then, iBooks used to look like an actual bookshelf,
+
+0:09:06.700,0:09:07.900
+...until a few versions later
+
+0:09:07.900,0:09:10.700
+...when Apple finally realised that
+it was pointless and awful-looking.
+
+0:09:10.700,0:09:12.980
+And due to the large amount
+of commentary on this topic,
+
+0:09:12.980,0:09:15.040
+...'skeuomorphism' became a bit of a dirty word.
+
+0:09:15.520,0:09:16.240
+Bad Apple.
+
+0:09:16.240,0:09:17.900
+That's -1 point for you.
+
+0:09:17.900,0:09:19.640
+So let's scroll down through the article,
+
+0:09:19.640,0:09:22.180
+...past some admittedly bizarre-looking plugins.
+
+0:09:22.180,0:09:23.780
+I mean, what the hell is this?
+
+0:09:23.780,0:09:26.060
+A criminally terrible use of space.
+
+0:09:26.060,0:09:26.920
+And oh look!
+
+0:09:26.920,0:09:28.280
+A little section on Reason!
+
+0:09:36.260,0:09:37.720
+A- And why is that bad?
+
+0:09:37.720,0:09:38.480
+Oh, that’s it?
+
+0:09:38.480,0:09:40.040
+'It’s bad because skeuomorphism is bad.'
+
+0:09:40.040,0:09:41.060
+End of critique.
+
+0:09:41.060,0:09:42.620
+I guess it’s just lost on the author
+
+0:09:42.620,0:09:45.060
+...that one of the advantages of
+designing an interface in this way
+
+0:09:45.060,0:09:49.060
+...is that it helps complicated things to be
+separated out into visually distinguishable parts.
+
+0:09:49.060,0:09:51.380
+Or that the mimicking of real-world analog devices
+
+0:09:51.380,0:09:52.720
+...is very useful for young musicians
+
+0:09:52.720,0:09:55.700
+...because it actually teaches them
+about how these things work in real life?
+
+0:09:55.700,0:09:56.440
+But hold on,
+
+0:09:56.440,0:09:57.660
+...there’s more insight to be had!
+
+0:10:04.640,0:10:05.220
+W- What?
+
+0:10:05.220,0:10:07.280
+Okay, let’s put that statement to the test.
+
+0:10:07.280,0:10:08.640
+So in most music software,
+
+0:10:08.640,0:10:10.060
+...knobs work like this:
+
+0:10:10.060,0:10:12.820
+You click and drag downwards
+or upwards to change the value.
+
+0:10:12.820,0:10:14.420
+And most commonly, if you hold 'shift',
+
+0:10:14.420,0:10:17.320
+...then the control is much finer
+so you can hit precise values.
+
+0:10:17.320,0:10:19.460
+In other apps like After Effects or Premiere,
+
+0:10:19.460,0:10:22.300
+...you can drag on these text values
+in exactly the same way.
+
+0:10:22.300,0:10:24.280
+This is about as efficient as it gets,
+
+0:10:24.280,0:10:26.880
+...and knobs are just a different-looking
+version of the same thing.
+
+0:10:26.880,0:10:28.320
+But you might rightly ask,
+
+0:10:28.320,0:10:31.440
+"Can’t we just show text values instead of
+knobs then if they're the same thing?"
+
+0:10:31.440,0:10:32.640
+Well, let’s take a look:
+
+0:10:32.640,0:10:34.980
+Here’s a synth in Reason that has lots of knobs.
+
+0:10:34.980,0:10:36.900
+So let's replace them with text values then.
+
+0:10:39.440,0:10:39.940
+Hmm.
+
+0:10:39.940,0:10:41.060
+Okay, so first off,
+
+0:10:41.060,0:10:41.880
+...unlike knobs,
+
+0:10:41.880,0:10:44.960
+...I have no idea of what the maximum
+or minimum of any of these values are,
+
+0:10:44.960,0:10:46.480
+...meaning I’ve lost information.
+
+0:10:46.480,0:10:50.500
+And I can no longer quickly glance at any area
+to get a rough idea of how it’s arranged.
+
+0:10:50.500,0:10:53.120
+I have to read each value one by one to comprehend it.
+
+0:10:53.120,0:10:54.480
+This is compounded by the fact that
+
+0:10:54.480,0:10:58.100
+...MIDI parameters often range from -64 to 63,
+
+0:10:58.100,0:10:59.760
+...meaning that I’ve no common baseline.
+
+0:10:59.760,0:11:01.600
+‘0’ could mean either ‘nothing at all’
+
+0:11:01.600,0:11:03.000
+...or ‘right in the middle’.
+
+0:11:03.000,0:11:04.780
+Not to mention, if I have an external keyboard
+
+0:11:04.780,0:11:06.240
+...and I turn one real knob,
+
+0:11:06.240,0:11:08.860
+...I can no longer see its equivalent turning in the UI.
+
+0:11:08.860,0:11:12.180
+So figuring out how these things are connected
+is much more time-consuming too.
+
+0:11:12.520,0:11:13.260
+Yep.
+
+0:11:13.260,0:11:14.700
+You see why they chose knobs?
+
+0:11:15.000,0:11:17.540
+This is a type of criticism Reason's faced for years,
+
+0:11:17.540,0:11:18.600
+...one they've rightly ignored
+
+0:11:18.600,0:11:22.280
+...because they understand better than
+most the value of their unique mechanics.
+
+0:11:22.280,0:11:24.200
+I'm giving this article an 'E-'.
+
+0:11:24.200,0:11:25.100
+Congratulations.
+
+0:11:25.100,0:11:26.180
+You didn't get an 'F'.
+
+0:11:26.180,0:11:26.680
+I gave you extra credit for not mentioning Hitler.
+
+0:11:26.680,0:11:27.180
+I gave you extra credit for not mentioning  ̶H̶i̶t̶l̶e̶r̶.
+
+0:11:27.180,0:11:28.620
+I gave you extra credit for not mentioning Patsies.
+
+0:11:28.620,0:11:30.980
+And one last point about this
+whole skeuomorphism thing:
+
+0:11:30.980,0:11:32.600
+If you think these controls look a bit lame
+
+0:11:32.600,0:11:34.140
+...and you’d like to see something more modern
+
+0:11:34.140,0:11:36.040
+...like the Yofiel Synth seen here,
+
+0:11:36.040,0:11:36.900
+...then fine.
+
+0:11:36.900,0:11:39.620
+But just don't make the mistake of
+assuming that because they look cheesy,
+
+0:11:39.620,0:11:41.720
+...that they’re bad from an interaction point of view.
+
+0:11:41.720,0:11:44.240
+Elements like this are only bad
+when they’re being misused.
+
+0:11:44.240,0:11:45.260
+If my dog gets sick
+
+0:11:45.260,0:11:47.020
+...and I choose to cure him with a spanner
+
+0:11:47.020,0:11:48.060
+...and he died,
+
+0:11:48.060,0:11:49.960
+...his death isn’t the fault of the spanner.
+
+0:11:50.300,0:11:51.900
+It’s his own goddamn fault for getting sick.
+
+0:11:51.900,0:11:56.280
+Anyway, the most recent improvement Propellerhead
+made marks yet another big reversal for them:
+
+0:11:56.280,0:11:58.740
+Finally providing VST plugin support,
+
+0:11:58.740,0:12:00.800
+...something they said they’d never do in the past,
+
+0:12:00.800,0:12:03.340
+...so much so that when their
+CEO made the announcement,
+
+0:12:03.340,0:12:04.360
+...he started with the words
+
+0:12:06.520,0:12:10.420
+Instead of persisting with the argument that
+VSTs reduce stability and performance,
+
+0:12:10.420,0:12:13.340
+...they, instead, allowed us to decide
+on that trade-off for ourselves,
+
+0:12:13.340,0:12:16.260
+...and as a result, gave us a massively
+improved range of choice,
+
+0:12:16.260,0:12:19.420
+...allowing me to finally use
+my favourite synth of all time.
+
+0:12:19.420,0:12:22.080
+So before I talk about what software
+I’m going to be looking at next,
+
+0:12:22.080,0:12:25.740
+...let’s give one last hurrah for Propellerhead
+and their practical design decision-making,
+
+0:12:25.740,0:12:27.260
+...both small and large-scale.
+
+0:12:27.260,0:12:28.660
+They’ve had some bumps along the way,
+
+0:12:28.660,0:12:31.720
+...but they’ve always rebounded to make
+the right choices in the right order.
+
+0:12:31.720,0:12:32.880
+Well done, Propellerhead.
+
+0:12:32.880,0:12:33.900
+You get a point.
+
+0:12:34.180,0:12:35.120
+And if you wouldn’t mind,
+
+0:12:35.120,0:12:36.160
+...I’d also love a point.
+
+0:12:36.360,0:12:37.460
+So, what's next?
+
+0:12:37.760,0:12:39.340
+What other music software app can we look at
+
+0:12:39.340,0:12:42.240
+...that can offer us the same
+level of unique design insight?
+
+0:12:43.220,0:12:43.860
+Oh.
+
+0:12:45.140,0:12:45.920
+Oh.
+
+0:12:47.380,0:12:48.700
+Oh, jesus.
+
+0:12:48.700,0:12:49.200
+Jesus christ.
+
+0:12:49.200,0:12:49.700
+J̵̥̗͐͆͑́̓͗̾͒̄̔͂̔̓͛̍̕͝ ̵̛̭̜̯̻̖͕̦͉͎͖̰͈̗̮̝̑̇̽͂̅̃̏̏̃̂̾͒̈́̀̎̎e̶̛̛̦̣͙̝̦͎̟͒̓̏̏͂̌̑͂̿̚͘͜ ̴̢͙̤̘͆̈́̋̈́̓̇͑̇̇̎͂s̶̛̥͍͚̱̖ ̵̢͓͔̳̦̣̗̩̜̰̘͚͍͉̩̇ȕ̸̢̨̻̖̣̠̣̫̩̣̥̳̤̰̙͒̃̏̈́̏̅̏̇̓͜͜͝s̵̡̲̝̞̫͙͖̪͍̫̜͉̬̱̯̄͋͗̾̒͌̈͛̏̀̑̄̈́͘͝ ̴̡̨̫͈̙͓̮͖̲͕͉̘̺̇͊̒͒́̈́̎̅̌͛͜ͅc̷̡̛̜̱̊̿͌̊͒̏̓͗̋͋̚͝͝ ̴̫̭͚̻̠̺̤̪̮͇̩̠̮̫̃͌͑͛̏̿́̈́̏́͜͠ ̸̨̘̣̗́̓̌͛̌̑́͘̚͘̕h̷̛̩̳̦̠̼̗͕̥͚͇̭̯̠̃́̉͂̎̈́̈́̋̏̿̅́͝ ̴̨̭̘̼̾̐̊̏̐̿̎͊̇́̍͝ͅr̴̘̭̈́͋́i̶̡̨̙̬̞̬̼̲̫̣̹̼̫͗̊͋͂̈́͘̚ͅş̷̠͙̋̇̐̑̄̄̈́̽ ̸̥̈́̎̇̾̓̓̃̀̂̚͝ ̸̗͈̯̼̗̳̦͈̖͕̐̂̊̊͂́̿̾̆͑̽̎̋̍̚̚͜͠t̴̢͈̟̳̦̺̒̃͊̾̍̂́͋̑̉̏͘͘̕͝ ̴̢͍͉͓̺̗̬͉͎̝̠͈̻͐̓͜ͅ
+
+0:12:49.700,0:12:50.200
+̶̵̴̣̮̞͇͙̟̗̹͍͎̖̹̻̗̼̂͂́͌̊͐̉̊̓̄͌͘͝͝J̸̵̵̢̛̜͚͍̼̣̼͖̘̬̺̝̱̫̈͐̓̑̀̐̄̔̄̚̕ ̶̶̴̢̢͙̘̩̻̦͓̰̙̰̀̀̐̊̑́̾̑̈͑̃̒͌̑̅ ̴̷̷̨͇̯̟̺̬̖͈͖̎̅̊͒̈͒̓̌̓̉̎͊͆̋̉̄̀̂̀͆̆̚̕̕͝ ̵̶̵̡̻̫͉͓̥̜̭̜͔̜͖̹͚̩̘̲̪̱͎̫͍̍̾̉̀̓͌̈̑̀̏̓̀̈́̉̃̓͐̚͠͠ ̴̵̸̨̧̧̛̹̮̳̥̪̩̤̝̤̳͗̆̏̎͋̏̏̑͆̒͛̃̐͠͝ ̸̴̴͖̦̜͉̗͓̰̺̲̫̖̙̖́̌̈́́̚̕͜͠ẹ̶̷̶̡̧̨̡̠͎̻͕͉͕͉̰̫͆́̄̈̌͆́̚̕̚ ̵̵̵͓̜̺̺̗̺̻̯͆́͋̒̆͑̔̒̆̈̈́̓͒̔́̕̚͜͜ ̷̶̵̨̡̞͇̝͕̘̱̦̈́̌͆̊̐͋̽̈̓͜͝͝͝ ̴̵̵̨͇̮͎̺̙̥̲̜̠͇̞̟̖̇̀̓͌̓̓̏̿͘͘ ̷̴̸̧̛̝̠͙̳̫̲̝̮͉̏̓̈́͆̌͐̕ ̷̴̷̡̡͈̼̻̭̞̱̰̹̙̎̊̂̂̀͋̅̀͜͜͠s̴̸̸̛̘̳̙͎͓̬̳̈̉̀̂̓͛́̒͗͜͝͝ ̸̸̷̡̢̛̦̣̩̦̪͔̱̹͔̜̤͍̦̦͇̭͕̭̫͔̰̿̎̀̽͗́̄̉̿̇̾̒͌̚̕͠͝͝ͅȕ̶̴̴͓̟̦̯̙̱̜̞̘̹̰͇̈́̎́̂͒̇̈̉̚͜ͅ ̶̵̷̨͚̫̱̙̩̦̜̪̦̖̫̰̪̃̐̓̍͑͌͆̊̓̚͠͝ ̴̶̷̢̡̜̭̙̼̤̟̰̘͍̜̭̯̯̓͊͗̎͊̄̒̉̐͐͂͠ ̶̷̸̢̭͉̩̣̬̺͍̄̆̒̌̑̅̊̏͛̈̓͛̅̕͝ͅs̸̴̵̢̼̬̿͂̄̐̿̓̏̌̆̄̀̓̋̾̐̏̂͆̕͘̚̚ ̴̸̸̡̨̺̫̦̰̹̩̙͉̬̙͙͇̞̜͓͂̌̂̓̂̓ͅ ̶̶̴̧̢̨̼͈̩͕̺̤̬͎̙͕̙̘̲̹͖̯͔̠̘͓̟̠̈́͗̎͒̈́̈́̅ͅ ̶̴̵̣̣̗̱͙͚̞̥̞͖̙̦̘̻̫̰̜͕̌̈́́̒̓̾͐̉̆̔̑̒͌͌̐͘͜ ̵̵̸̨̣̟̺̹̬̯̱̝̍͊̃̈̀̇̇̏̏̆̎̀̕͝ç̷̸̶̧̢̛̜̟͖͖͖̟̘͍̤̥̿̈͒̿̓́͆̏͌̆̽̈́̂͌̑̉̀̃͊͌̉̓ ̸̸̷̛͈͙̩̟̫̞̞͎̪̺̅̓̋̍͂̀̅̃̅̑̿̈͜ ̸̵̸̢̟̙͙͉̪̗͙̦̻̣̳̹̒̔̊͂̋̌̏̓̍̉̿͌̈͆̐͒̕͜ ̸̶̷̨̜̱̦̥̳̪̦̳̘̠̬̘͕̪̘͖͇̺͊̃̓̿̎̾̇̄̍̊̌́̈́͛̃̌̕͜h̷̶̷͙͙̲̑̈͛̾̏̇͝ͅ ̸̶̴̻̪͙̲̣͙̭̝̜̝̺͗̑̈́͗̈́̆̎̑̒͑̑̉̚̚͜r̵̵̸̛̻̝͇̠̤̫̙̯̹̤͙̙̱͖̒͆̅̅̀̌͛͋͗̔͛̀͘͠ͅ ̵̶̸̧̘̘͇̤͔̭̥̘̬̫̜̄͗̂̉̽̉͌́͑̆̒͐̐̚͘͜͝ ̶̶̷̤͉͕̤̮͖̲̫͚̩̲͓̭͗̈̆͐͊̿̇̈́̈́́̚ ̷̴̸̨̧̨̧̢͚̬͍͈̙̠̼̠̼̝͍̩̯̦̺̲̞̎͂̂͒͑̇́̆̊͘ǐ̸̸̵̢̭̥̣̭̝̙͈͔̥̱͈̓͗̽̃́͐̍̄̊̉̾̚ ̸̵̷̢̧̹̠̠̙̲͉͖͖͔̫̰͖̖͆͋͗͂̑͒̓̋̾͗̐͑ ̶̵̸̰͓̰̘͔͍̘̦̈́͌̈́̓̄̽͗̆̄̑͑̇͆̓͘̕͝͝ ̵̷̴͈͓̦̦̔͂̔̑̂̋̀̓̿͝͠ş̶̵̷̛̝̳̭̠͎̯̳̼̣̟̻̖̠́͒́̉̐̅̉͑̊̎̑͆͂͊̂̑͝ ̴̸̷͔̲̠̪̼̝̝̩̻͉̗̰̼͖̩̦̬́͆̃̎͂̿̉̀͒̅͋̾̾̎̓͐̍̿̇̉͝͝ͅ ̷̵̶̨̳̺͈̬͓̼̤̜̮̖̘͊͗̆͂̄̈́̍̈́̄̍͆̅̐̈́̉͠ ̴̵̶̨͈̤͓̣͚̮̰̙͙̹̊͆̔̿̓́͂̔̎̀̍̏͐̒͝t̴̵̴̡̧͕̺̹̺̫͈̦̤̫̥͇͚̼̦͗̒͋̉̐̏̀̈́̓̀͌̈̉̈́̇͘̚͜ ̵̷̶̺̘̮̜̙̙̝͈̘͈̤̱͔̻̄̌͂̽̉̃́̎̕̚͘͝ ̴̴̷̡̢̨̪̺̜̻̘̫̥͖̦̬̖̘̯̞͓̥̥͓̽͆͊̌̈́͗

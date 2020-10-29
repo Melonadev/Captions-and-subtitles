@@ -1,0 +1,1022 @@
+0:00:00.160,0:00:00.880
+Hi.
+
+0:00:00.880,0:00:02.120
+It is time for you
+
+0:00:02.120,0:00:04.640
+...to learn about the basic components.
+
+0:00:05.180,0:00:07.820
+Well, I've already told you about resistors a while back,
+
+0:00:07.820,0:00:10.620
+...so all is left is capacitors and inductors.
+
+0:00:10.620,0:00:12.360
+They are quite simple, really,
+
+0:00:12.360,0:00:14.300
+...and I won't dive too deep.
+
+0:00:14.300,0:00:15.200
+Ｉ  ｐｒｏｍｉｓｅ．
+
+0:00:15.420,0:00:18.160
+The capacitor theory is quite simple, really.
+
+0:00:18.160,0:00:19.360
+Atoms have cores
+
+0:00:19.360,0:00:21.320
+...and electrons that turn around them.
+
+0:00:21.320,0:00:22.920
+Electrons have negative charge
+
+0:00:22.920,0:00:25.640
+...while cores have protons that are positive.
+
+0:00:25.640,0:00:27.540
+Opposing charges attract each other,
+
+0:00:27.540,0:00:29.640
+...while the same charges repel each other
+
+0:00:29.640,0:00:31.380
+...all thanks to electric fields.
+
+0:00:31.640,0:00:33.440
+That's all you need to know for now.
+
+0:00:33.440,0:00:34.520
+And a bit more.
+
+0:00:34.520,0:00:37.460
+See, you can't just shove an electron into a conductor,
+
+0:00:37.460,0:00:38.520
+...because there is no room,
+
+0:00:38.520,0:00:40.500
+...and they repel each other and push back,
+
+0:00:40.680,0:00:43.420
+...unless you bribe them with some positive charge, like :
+
+0:00:43.840,0:00:45.000
+BATTERY: Get into your cell.
+
+0:00:45.000,0:00:46.240
+ELECTRON 1: [REDACTED] that! I'm not getting in there!
+
+0:00:46.240,0:00:47.620
+SCARIER ELECTRON: [growling]
+
+0:00:48.080,0:00:48.860
+BATTERY: Are you afraid ?
+
+0:00:48.860,0:00:50.860
+ELECTRON: I'm not afraid, I can't stand this guy!
+
+0:00:50.860,0:00:52.160
+I'll tear him apart!
+
+0:00:52.160,0:00:54.120
+You don't want his blood on my hands !
+
+0:00:54.120,0:00:56.260
+BATTERY: The cell besides you is filled with girls.
+
+0:00:56.880,0:00:57.600
+PROTON 1: Hello there.
+
+0:00:57.600,0:00:58.100
+PROTON 2: [air kiss]
+
+0:00:58.100,0:00:59.200
+[ɪ ᴡᴏɴ'ᴛ ᴄᴀᴘᴛɪᴏɴ ᴛʜɪꜱ]
+
+0:00:59.620,0:01:00.620
+ELECTRON: Okay, I'll go in.
+BATTERY: Yeah.
+
+0:01:00.620,0:01:01.120
+Or like,
+
+0:01:01.120,0:01:02.920
+...imagine hackers work alone,
+
+0:01:02.920,0:01:04.460
+...unless you are a great target
+
+0:01:04.460,0:01:06.980
+...and they all work together to steal your data.
+
+0:01:07.580,0:01:08.820
+Take it away, James !
+
+0:01:09.140,0:01:10.180
+That's why you should use:
+
+0:01:11.120,0:01:12.400
+...the sponsor of this video,
+
+0:01:12.400,0:01:13.980
+...to protect against hackers!
+
+0:01:13.980,0:01:14.480
+Go to:
+
+0:01:16.880,0:01:18.720
+...and get three months of free service
+
+0:01:18.720,0:01:21.760
+...and encrypt your data and make it secure.
+
+0:01:21.760,0:01:22.940
+Hide your location
+
+0:01:22.940,0:01:24.400
+...and bypass the filters
+
+0:01:24.400,0:01:26.900
+...to access the data you need securely.
+
+0:01:27.480,0:01:28.240
+Back to you, Mehdi.
+
+0:01:29.180,0:01:31.140
+I made a plexiglass container
+
+0:01:31.140,0:01:33.200
+...with a thin gap between the surfaces
+
+0:01:33.200,0:01:35.320
+...and filled it with neodymium magnets
+
+0:01:35.320,0:01:37.820
+...with the same direction so they repel each other.
+
+0:01:37.820,0:01:38.480
+I learned it from:
+
+0:01:39.600,0:01:42.640
+Now imagine these are electrons repelling each other.
+
+0:01:42.640,0:01:45.300
+Let's assume this is the neutral state of a conductor
+
+0:01:45.300,0:01:47.440
+...and electrons and protons are equal,
+
+0:01:47.440,0:01:49.900
+...and we can't fit any more electrons in there.
+
+0:01:49.900,0:01:52.520
+Like, there is five electrons on this side.
+
+0:01:52.520,0:01:55.420
+Now imagine this magnet is a positive atom core
+
+0:01:55.420,0:01:56.820
+...stripped of its electrons.
+
+0:01:56.820,0:01:59.440
+If we bring this positive charge to our electrons,
+
+0:01:59.440,0:02:01.600
+...it pulls them close to each other.
+
+0:02:01.600,0:02:03.980
+So now there is more room on that surface,
+
+0:02:03.980,0:02:06.740
+...and more electrons can fit there, like six now.
+
+0:02:06.760,0:02:08.620
+And that's how capacitors work,
+
+0:02:08.620,0:02:10.660
+You have two conductive surfaces,
+
+0:02:10.660,0:02:12.520
+...overlapping but not touching,
+
+0:02:12.520,0:02:14.560
+...isolated by a nonconductor
+
+0:02:14.560,0:02:15.760
+...called a dielectric,
+
+0:02:15.760,0:02:17.480
+...that can be air or better.
+
+0:02:17.880,0:02:20.680
+And now if you put a power supply across the surfaces,
+
+0:02:20.680,0:02:21.700
+...like a battery,
+
+0:02:21.700,0:02:24.280
+...you can push electrons into one surface
+
+0:02:24.280,0:02:26.200
+...and suck them from the other surface.
+
+0:02:26.620,0:02:28.620
+Of course, the electric current is defined as
+
+0:02:28.620,0:02:31.080
+...the reverse of the flow of electrons.
+
+0:02:31.080,0:02:34.180
+The electric force between these charges
+
+0:02:34.180,0:02:35.360
+...keeps them together.
+
+0:02:35.820,0:02:38.100
+So even when you disconnect the battery,
+
+0:02:38.100,0:02:40.120
+...the capacitor keeps its charge.
+
+0:02:40.120,0:02:41.440
+And just like that,
+
+0:02:41.440,0:02:42.980
+...you can charge a capacitor.
+
+0:02:42.980,0:02:45.800
+Of course, it only takes a fraction of a second to charge,
+
+0:02:45.800,0:02:46.920
+...which depends on the amoun-
+
+0:02:46.920,0:02:47.420
+[pop]
+
+0:02:47.420,0:02:47.960
+[REDACTED]
+
+0:02:48.200,0:02:48.720
+[REDACTED]
+
+0:02:50.160,0:02:50.660
+Did I...
+
+0:02:51.240,0:02:52.380
+...connect it backwards?
+
+0:02:53.620,0:02:54.300
+I think I did.
+
+0:02:54.300,0:02:56.760
+You would think having two conductors side by side
+
+0:02:56.760,0:02:58.940
+...wouldn't care about the voltage polarity,
+
+0:02:59.300,0:03:01.340
+...which is true for some capacitor types,
+
+0:03:01.340,0:03:02.340
+...like ceramic.
+
+0:03:02.340,0:03:04.580
+But apparently in some, like electrolytic,
+
+0:03:04.580,0:03:05.500
+...it matters.
+
+0:03:05.500,0:03:08.040
+See, capacitors are made with different structures
+
+0:03:08.040,0:03:08.980
+...like ceramic,
+
+0:03:08.980,0:03:09.880
+...electrolytic,
+
+0:03:09.880,0:03:11.060
+...tantalum or others,
+
+0:03:11.060,0:03:13.500
+...and each one has its own pros and cons.
+
+0:03:13.500,0:03:15.820
+The chemistry and structure of some of them,
+
+0:03:15.820,0:03:17.660
+...like electrolytic or tantalum
+
+0:03:17.660,0:03:19.140
+...makes them polarized.
+
+0:03:19.340,0:03:20.480
+It's like having a very
+
+0:03:20.480,0:03:22.520
+...[REDACTED] diode across your capacitor.
+
+0:03:22.520,0:03:24.420
+As soon as you put reverse voltage
+
+0:03:24.420,0:03:27.080
+...or too much positive voltage across your capacitor,
+
+0:03:27.080,0:03:29.360
+...it starts conducting extra current
+
+0:03:29.360,0:03:30.300
+...and blows up.
+
+0:03:30.780,0:03:32.720
+Which makes for great pyrotechnics.
+
+0:03:32.940,0:03:33.960
+Let's look at it again.
+
+0:03:33.960,0:03:34.900
+[piano music]
+
+0:03:34.900,0:03:36.000
+[explosion in slow motion]
+[piano music]
+
+0:03:36.000,0:03:38.700
+[piano music]
+
+0:03:38.700,0:03:39.360
+ᴡᴏᴀʜ ᴍᴇʜᴅɪ, ʏᴏᴜ ᴀʟʀɪɢʜᴛ?
+[piano music]
+
+0:03:39.360,0:03:42.260
+[piano music]
+
+0:03:42.260,0:03:42.880
+ᴜ ᴅᴏɴ'ᴛ ʟᴏᴏᴋ ᴏᴋ
+[piano music]
+
+0:03:42.880,0:03:45.280
+[piano music]
+
+0:03:45.280,0:03:46.780
+[explosion in slow motion]
+[piano music]
+
+0:03:46.780,0:03:47.840
+[piano music]
+
+0:03:47.840,0:03:48.340
+ʟᴏᴏᴋꜱ ᴄᴏᴏʟ ᴛʜᴏ
+[piano music]
+
+0:03:48.340,0:03:49.900
+[piano music]
+
+0:03:49.900,0:03:50.440
+ᴏʜ ɴᴏ
+[piano music]
+
+0:03:50.440,0:03:51.200
+[piano music]
+
+0:03:51.200,0:03:52.120
+In any case,
+
+0:03:52.120,0:03:55.420
+...a charged capacitor has this potential energy in it
+
+0:03:55.420,0:03:58.080
+...where the charges like to get together, but they can't,
+
+0:03:58.080,0:03:59.500
+...because of the dielectric,
+
+0:03:59.500,0:04:00.820
+...and are held in position
+
+0:04:00.820,0:04:03.360
+...by the attracting electric fields.
+
+0:04:03.360,0:04:06.000
+But as soon as you put a load across it
+
+0:04:06.000,0:04:07.140
+...the charges say:
+
+0:04:07.580,0:04:08.800
+You can't stop our love!
+
+0:04:08.800,0:04:09.940
+Now there's a new way!
+
+0:04:09.940,0:04:11.340
+[laughing]
+
+0:04:11.340,0:04:12.300
+[laughing fades out]
+
+0:04:12.520,0:04:13.100
+DIELECTRIC: Pssh.
+
+0:04:13.340,0:04:14.440
+He was a burden.
+
+0:04:14.440,0:04:15.120
+NEUTRAL ATOM: Tell me about it.
+
+0:04:15.120,0:04:16.600
+[laughing fades in]
+
+0:04:16.600,0:04:19.440
+[more laughing]
+
+0:04:19.440,0:04:20.980
+[laughing fades out]
+
+0:04:21.800,0:04:22.300
+[laughing fades in aga-
+
+0:04:22.300,0:04:22.800
+Wait, no-
+
+0:04:24.200,0:04:24.740
+NEUTRAL ATOM: 'Sup?
+
+0:04:24.920,0:04:26.140
+DIELECTRIC: Well, I didn't care,
+
+0:04:26.140,0:04:28.540
+...but I can't just let things penetrate me.
+
+0:04:29.100,0:04:30.520
+So the charges
+
+0:04:30.520,0:04:31.920
+...pass through the load
+
+0:04:31.920,0:04:34.040
+...and the capacitor discharges.
+
+0:04:34.460,0:04:35.280
+Now, you might ask,
+
+0:04:35.280,0:04:38.200
+...why would we need solid dielectrics between plates
+
+0:04:38.200,0:04:39.420
+...instead of air?
+
+0:04:39.420,0:04:40.580
+There are three good reasons.
+
+0:04:40.580,0:04:41.220
+One is that
+
+0:04:41.220,0:04:43.220
+...they make sure plates won't touch.
+
+0:04:43.620,0:04:44.500
+[arcing/sparking]
+
+0:04:44.500,0:04:45.340
+Second is that
+
+0:04:45.340,0:04:48.280
+...they can isolate against leakage and arcing
+
+0:04:48.280,0:04:49.640
+...much better than air,
+
+0:04:49.640,0:04:52.120
+...so you can bring the plates much closer.
+
+0:04:52.400,0:04:53.280
+And third,
+
+0:04:53.280,0:04:54.900
+...similar to ferromagnetic material
+
+0:04:54.900,0:04:58.340
+...that we make our inductor and transformer cores from
+
+0:04:58.340,0:05:00.740
+...because they improve magnetic fields,
+
+0:05:00.740,0:05:03.720
+...good dielectrics also improve electric fields
+
+0:05:03.720,0:05:04.560
+...based on their:
+
+0:05:06.140,0:05:08.200
+...and result in higher capacitance.
+
+0:05:08.200,0:05:08.960
+Now you might ask,
+
+0:05:08.960,0:05:12.420
+...what's a good reason to bring
+the plates as close as possible?
+
+0:05:12.420,0:05:12.960
+Well,
+
+0:05:12.960,0:05:14.980
+...the electric forces between charges
+
+0:05:14.980,0:05:17.460
+...is very small over long distances,
+
+0:05:17.460,0:05:19.320
+...so we have to bring them close
+
+0:05:19.320,0:05:20.680
+...for increased attraction.
+
+0:05:20.680,0:05:24.520
+And that increases the amount of
+charges we can put in a capacitor,
+
+0:05:24.520,0:05:26.600
+...and so increases its capacity,
+
+0:05:26.940,0:05:29.500
+...but too high of a voltage over too small of a gap
+
+0:05:29.500,0:05:31.060
+...will break the dielectric
+
+0:05:31.060,0:05:32.280
+...and short the plates.
+
+0:05:32.460,0:05:35.880
+That's why every capacitor has a specific voltage rating.
+
+0:05:35.880,0:05:36.640
+And also,
+
+0:05:36.640,0:05:37.920
+...the larger the plates,
+
+0:05:37.920,0:05:39.800
+...the more charges can fit in them
+
+0:05:39.800,0:05:41.520
+...and so the higher the capacitance.
+
+0:05:42.020,0:05:43.740
+So the capacitance is equal to:
+
+0:05:43.740,0:05:47.660
+Epsilon (ε, which is a constant for dielectric permittivity)
+
+0:05:47.660,0:05:50.180
+...times the area (A) of the overlapping plates,
+
+0:05:50.180,0:05:51.820
+...divided by their distance (d).
+
+0:05:51.820,0:05:53.760
+The unit of capacitance is Farad,
+
+0:05:53.760,0:05:54.380
+...named after Michael Faraday.
+
+0:05:55.400,0:05:58.920
+And the amount of charge (q) in coulombs (C)
+you can put in a capacitor
+
+0:05:58.920,0:06:00.100
+...is equal to:
+
+0:06:00.100,0:06:03.040
+Its capacitance (C, not coulombs!)
+times the voltage (V) across it.
+
+0:06:03.040,0:06:05.180
+So more voltage (V) or more capacity (C, not coulombs)
+
+0:06:05.180,0:06:06.480
+...means more charge (q).
+
+0:06:06.480,0:06:08.620
+Now you might have heard some idiot say that,
+
+0:06:08.620,0:06:10.960
+"When there is a DC signal like this,"
+
+0:06:10.960,0:06:13.340
+"...it hits the capacitor plates like this"
+
+0:06:13.340,0:06:14.340
+"...and gets blocked,"
+
+0:06:14.940,0:06:18.480
+"...while an AC signal can zigzag
+between the plates like this"
+
+0:06:18.480,0:06:19.460
+"...and pass through."
+
+0:06:20.500,0:06:21.560
+[foghorn laugh]
+
+0:06:21.560,0:06:22.340
+Well, that's wrong.
+
+0:06:22.340,0:06:25.220
+When you place a DC voltage across a capacitor,
+
+0:06:25.220,0:06:27.640
+...the voltage across it rises
+
+0:06:27.640,0:06:30.100
+...as the charges flow into it,
+
+0:06:30.540,0:06:33.300
+...until the electric field in the capacitor
+
+0:06:33.300,0:06:35.460
+...is the same as the field in the battery
+
+0:06:35.460,0:06:37.140
+...and their voltages are equal.
+
+0:06:37.140,0:06:39.100
+And as you know, like temperature,
+
+0:06:39.100,0:06:41.260
+...the electric current only flows
+
+0:06:41.260,0:06:43.360
+...from a higher voltage to a lower voltage.
+
+0:06:43.360,0:06:45.940
+And if the voltages on both sides are the same,
+
+0:06:45.940,0:06:47.280
+...then there is no current.
+
+0:06:47.280,0:06:49.820
+So when you connect the DC across a capacitor,
+
+0:06:49.820,0:06:52.880
+...it charges to the same voltage and the current stops.
+
+0:06:52.880,0:06:54.160
+But when you have AC,
+
+0:06:54.160,0:06:56.760
+...you constantly raise and lower the voltage,
+
+0:06:56.760,0:07:00.480
+...which pushes and pulls the charges
+in and out of the capacitor.
+
+0:07:00.840,0:07:03.220
+So if you look at your capacitor as a black box.
+
+0:07:03.220,0:07:04.220
+...it looks like that
+
+0:07:04.220,0:07:06.500
+...the electric current goes in one side
+
+0:07:06.500,0:07:08.140
+...and out of the other side,
+
+0:07:08.140,0:07:10.620
+...then returns in the next cycle.
+
+0:07:10.620,0:07:11.760
+So from outside,
+
+0:07:11.760,0:07:15.780
+...it looks like an AC current is
+passing through the component,
+
+0:07:15.780,0:07:18.920
+...although the actual charges
+never pass through the capacitor
+
+0:07:18.920,0:07:21.080
+...and only accumulate on the plates.
+
+0:07:21.420,0:07:24.000
+So that's the capacitors for you.
+
+0:07:24.000,0:07:27.900
+Now let me tell you some interesting wisdom around...
+
+0:07:28.840,0:07:29.720
+What was I going to say?
+
+0:07:29.720,0:07:30.220
+Oh, right.
+
+0:07:30.560,0:07:32.560
+A capacitor is like a cup.
+
+0:07:33.340,0:07:36.940
+Its voltage rises as you pour charges into it.
+
+0:07:37.200,0:07:39.080
+Its voltage rises faster
+
+0:07:39.080,0:07:41.720
+...if you pour more charges per second
+
+0:07:41.720,0:07:43.640
+...or more current into it.
+
+0:07:45.060,0:07:47.140
+This is when the capacitor blows up.
+
+0:07:47.140,0:07:49.980
+Although the current through a capacitor
+
+0:07:49.980,0:07:51.900
+...can change instantly,
+
+0:07:51.900,0:07:53.500
+...the voltage across it
+
+0:07:53.500,0:07:56.720
+...cannot jump from one value to another,
+
+0:07:57.160,0:08:00.060
+...because it would mean in that moment of time
+
+0:08:00.060,0:08:02.080
+...the current was infinite,
+
+0:08:02.080,0:08:05.480
+...because some charge went into the capacitor
+
+0:08:05.480,0:08:06.640
+...in no time.
+
+0:08:06.840,0:08:09.160
+And that just doesn't happen in real life!
+
+0:08:09.160,0:08:10.220
+ᴜʜ ʜᴏᴡ ᴅᴏ ɪ ᴄᴀᴘᴛɪᴏɴ ᴛʜɪꜱ
+
+0:08:10.220,0:08:12.900
+I told you the charge (q) in a capacitor
+
+0:08:12.900,0:08:15.400
+...is equal to the voltage (V) across it
+
+0:08:15.400,0:08:16.980
+...times its capacitance (C).
+
+0:08:17.520,0:08:20.400
+So a tiny bit of change (d) in charge (q)
+
+0:08:20.400,0:08:22.660
+...can change (d) the voltage (V) across it
+
+0:08:22.660,0:08:23.920
+...by a tiny bit.
+
+0:08:23.920,0:08:26.840
+If you've watched my previous
+ElectroBOOM101 episodes,
+
+0:08:26.840,0:08:27.520
+...you'd know that
+
+0:08:27.520,0:08:28.760
+...current (I) is equal to
+
+0:08:28.760,0:08:31.060
+...the amount of charge (q) passing per second (s).
+
+0:08:31.600,0:08:32.100
+So...
+
+0:08:32.520,0:08:34.760
+...in a tiny bit of time,
+
+0:08:34.760,0:08:37.540
+...only a tiny bit of charge passes.
+
+0:08:37.720,0:08:39.460
+If we rearrange these,
+
+0:08:39.460,0:08:43.020
+...we see that the current through
+a capacitor is equal to:
+
+0:08:43.020,0:08:44.500
+Its capacitance (C)
+
+0:08:44.500,0:08:48.500
+...times the rate at which the
+voltage (V) changes (d) in time (t),
+
+0:08:48.500,0:08:51.040
+...voltage (V) and current (I)
+both being a function of time.
+
+0:08:51.040,0:08:53.620
+Well, this is pretty much all you
+need to know about capacitors.
+
+0:08:53.620,0:08:54.480
+So for example,
+
+0:08:54.480,0:08:57.400
+...if you shove a constant current (I) into the capacitor,
+
+0:08:57.400,0:08:59.900
+...then the rate of voltage (V) change is constant,
+
+0:08:59.900,0:09:02.800
+...meaning that the voltage (V)
+changes in a straight line.
+
+0:09:02.800,0:09:03.800
+That's not straight.
+
+0:09:04.100,0:09:04.780
+Straight...
+
+0:09:05.600,0:09:07.060
+Straight line...
+
+0:09:07.060,0:09:08.040
+Never mind.
+
+0:09:08.040,0:09:10.420
+Or if your voltage changes like this in time,
+
+0:09:10.420,0:09:13.440
+...and you can approximate
+a piece of it as a straight line,
+
+0:09:13.440,0:09:15.340
+...then the slope of that piece (shown on board)
+
+0:09:15.340,0:09:16.700
+...times the capacitance (C)
+
+0:09:16.700,0:09:18.360
+...gives you the approximate current (I)
+
+0:09:18.360,0:09:21.120
+...that runs through the capacitor
+between these two points.
+
+0:09:21.280,0:09:22.700
+It's all so simple.
+
+0:09:22.720,0:09:23.220
+ᴡɪɴᴋ
+
+0:09:23.220,0:09:26.060
+If you have a sine wave voltage across a capacitor,
+
+0:09:26.060,0:09:27.680
+...then at zero crossing
+
+0:09:27.680,0:09:29.780
+...we have the maximum
+voltage 𝐜𝐡𝐚𝐧𝐠𝐞 (not just 'voltage').
+
+0:09:29.780,0:09:30.960
+A positive rate here.
+
+0:09:30.960,0:09:31.860
+So we have a
+
+0:09:31.860,0:09:33.960
+...peak current positive here.
+
+0:09:34.160,0:09:36.640
+And here we have a peak negative current.
+
+0:09:36.640,0:09:38.000
+And at the peaks of voltage,
+
+0:09:38.000,0:09:39.960
+....the rate of voltage 𝐜𝐡𝐚𝐧𝐠𝐞 (not just 'voltage') is zero,
+
+0:09:39.960,0:09:42.940
+...and so the current is zero in these spots.
+
+0:09:43.140,0:09:44.460
+So the current
+
+0:09:44.460,0:09:46.240
+...through the capacitor
+
+0:09:46.240,0:09:47.680
+...looks like this.
+
+0:09:47.680,0:09:50.660
+Always leading the voltage by 90 degrees (º).
+
+0:09:50.660,0:09:52.540
+Okay, we have had enough for one episode.
+
+0:09:52.540,0:09:56.180
+I'll give you more details as we go
+forward into ElectroBOOM101.
+
+0:09:56.180,0:09:57.760
+Next stop: inductors.
+
+0:09:57.760,0:09:58.540
+So make sure to like my videos
+
+0:09:58.540,0:09:59.040
+[slap] ᴏᴜᴄʜ
+So make sure to like my videos
+
+0:09:59.040,0:09:59.660
+So make sure to like my videos
+
+0:09:59.660,0:10:01.240
+...and subscribe to my channel.
+
+0:10:01.240,0:10:03.440
+And if YouTube is blocked in your country,
+
+0:10:03.440,0:10:04.040
+...then use:
+
+0:10:05.580,0:10:06.200
+James?
+
+0:10:07.020,0:10:08.080
+If YouTube is blocked,
+
+0:10:08.080,0:10:09.900
+...then they won't be able to see this message.
+
+0:10:10.200,0:10:13.060
+Then somehow tell the blocked
+people to use Express VPN
+
+0:10:13.060,0:10:14.360
+...and go around the filters
+
+0:10:14.360,0:10:16.160
+...to access what they need securely.
+
+0:10:16.160,0:10:18.720
+You can use Express VPN's app or software
+
+0:10:18.720,0:10:20.280
+...on your phone or computer
+
+0:10:20.280,0:10:21.520
+...with a click of a button.
+
+0:10:21.520,0:10:23.520
+It encrypts your data, secures it,
+
+0:10:23.520,0:10:26.220
+...and transmits it through one of their many servers
+
+0:10:26.220,0:10:28.780
+...from 94 countries to choose from,
+
+0:10:28.780,0:10:31.240
+...so it looks like you're connected
+from a different place.
+
+0:10:31.240,0:10:32.700
+And most importantly for me,
+
+0:10:32.700,0:10:35.760
+...when I travel and connect to insecure Wi-Fi networks,
+
+0:10:35.760,0:10:40.580
+...ExpressVPN makes sure my connection
+from my computer to their servers is safe.
+
+0:10:41.480,0:10:43.360
+Imagine if my passwords were stolen.
+
+0:10:43.820,0:10:45.960
+So go to my link and get three months free!
+
+0:10:46.080,0:10:46.720
+James, out.
+
+0:10:46.720,0:10:47.220
+[mic drop]
+
+0:10:47.660,0:10:50.000
+[Magnificent unibrow outro]
+
+0:10:53.000,0:10:55.000
+Subtitles/captions by Jonathan Lee (Pentameron)
+youtube.com/c/PentameronSV

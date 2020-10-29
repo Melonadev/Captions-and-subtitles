@@ -1,0 +1,2475 @@
+0:00:03.120,0:00:05.280
+Sibelius is truly revolutionary,
+
+0:00:05.280,0:00:06.240
+...in the sense that,
+
+0:00:06.240,0:00:08.240
+...no matter how carefully you try to work with it,
+
+0:00:08.480,0:00:11.080
+...it always seems to be trying to rise up against you.
+
+0:00:11.380,0:00:12.340
+It's hard to learn,
+
+0:00:12.340,0:00:13.240
+...poorly maintained,
+
+0:00:13.240,0:00:15.700
+...and sports a navigation system
+that seems to take pride in
+
+0:00:15.700,0:00:17.700
+...putting things where you'd least expect them.
+
+0:00:17.720,0:00:20.060
+And that's going to be our design focus for this video:
+
+0:00:20.060,0:00:23.340
+The subtleties of designing a
+navigation for a complex program.
+
+0:00:23.340,0:00:24.260
+And, disclaimer:
+
+0:00:24.260,0:00:26.740
+Although this will initially start
+like a pretty down-to-earth,
+
+0:00:26.740,0:00:28.260
+...reasonable design analysis,
+
+0:00:28.260,0:00:30.640
+...like my last video about Propellerhead's Reason,
+
+0:00:30.640,0:00:32.700
+Sibelius has a particularly unique ability
+
+0:00:32.700,0:00:34.580
+...to drive me actually insane.
+
+0:00:34.760,0:00:36.620
+So I'll keep it together as long as I can,
+
+0:00:36.620,0:00:39.400
+...but don't be surprised if I go
+slightly off the rails at some point.
+
+0:00:39.720,0:00:40.700
+You have been warned.
+
+0:00:40.860,0:00:42.660
+So, in case you're new to this channel,
+
+0:00:42.660,0:00:44.900
+...I'm a composer and also a software designer,
+
+0:00:44.900,0:00:47.640
+...which is why I find Sibelius particularly frustrating,
+
+0:00:47.640,0:00:49.900
+...since it's got some genius functionality in there
+
+0:00:49.900,0:00:51.800
+...that I make use of on a daily basis,
+
+0:00:51.800,0:00:53.360
+...but which is obstructed from flourishing
+
+0:00:53.360,0:00:55.480
+...by its bafflingly haphazard design.
+
+0:00:55.640,0:00:56.620
+So what's wrong with it?
+
+0:00:57.140,0:00:57.940
+[shudders]
+
+0:00:58.360,0:00:59.660
+And how did it get this way?
+
+0:01:00.580,0:01:02.800
+So, Sibelius was created by twin brothers
+
+0:01:02.800,0:01:04.180
+...Ben and Jonathan Finn.
+
+0:01:04.180,0:01:06.580
+That's them there outside King's College at Cambridge,
+
+0:01:06.580,0:01:07.400
+...where they grew up.
+
+0:01:07.680,0:01:08.840
+At the age of 17,
+
+0:01:08.840,0:01:12.020
+...they began working on a software
+engraving tool as a side project,
+
+0:01:12.020,0:01:13.980
+...which, after a few years of refining,
+
+0:01:13.980,0:01:16.660
+...with encouragement from the
+composer Peter Maxwell Davies,
+
+0:01:16.660,0:01:18.620
+...they decided to publish under the company name
+
+0:01:18.620,0:01:20.020
+'Sibelius Software'.
+
+0:01:20.020,0:01:21.840
+The homage to the famous Finnish composer
+
+0:01:21.840,0:01:22.860
+Jean Sibelius
+
+0:01:22.860,0:01:25.260
+...was chosen as a, sort of, oblique play on words.
+
+0:01:25.600,0:01:26.100
+Hmm...
+
+0:01:26.100,0:01:26.880
+I mean, why not?
+
+0:01:27.320,0:01:27.880
+When released,
+
+0:01:27.880,0:01:29.440
+...it began to spread through word of mouth
+
+0:01:29.440,0:01:31.140
+...to composers throughout Britain,
+
+0:01:31.140,0:01:34.180
+...many of whom were trying out 
+this type of software for the first time.
+
+0:01:34.180,0:01:37.380
+It was originally created to work on the Acorn Computer
+
+0:01:37.380,0:01:39.800
+...which had become popular in the educational space,
+
+0:01:39.800,0:01:41.820
+...something that would become
+a competitive advantage
+
+0:01:41.820,0:01:43.240
+...for Sibelius later on.
+
+0:01:43.240,0:01:44.800
+Its rivals at the time included:
+
+0:01:45.440,0:01:46.240
+...where you had to type
+
+0:01:46.240,0:01:49.080
+...rows of pitches and time values
+into a DOS-like interface
+
+0:01:49.080,0:01:50.800
+...in order to see a visual result,
+
+0:01:50.800,0:01:52.360
+...which is massively time-consuming,
+
+0:01:52.540,0:01:54.020
+...and another program, Finale,
+
+0:01:54.020,0:01:55.600
+...which is still being used today,
+
+0:01:55.600,0:01:56.560
+...but which isn't very good.
+
+0:01:56.560,0:01:56.650
+ᶠᵒʳᵉˢʰᵃᵈᵒʷⁱⁿᵍ?
+...but which isn't very good.
+
+0:01:57.000,0:01:58.060
+And so Sibelius,
+
+0:01:58.060,0:01:59.800
+...due to being comparatively easy to use
+
+0:01:59.800,0:02:01.460
+...and filled with superior features,
+
+0:02:01.460,0:02:03.360
+...became the dominant notation software.
+
+0:02:03.440,0:02:04.800
+Quite an accomplishment for a pair of
+
+0:02:04.800,0:02:06.340
+...obscure first-time developers.
+
+0:02:06.640,0:02:07.860
+However, over time,
+
+0:02:07.860,0:02:09.760
+...the application became more complicated.
+
+0:02:09.940,0:02:11.740
+And as features began to multiply,
+
+0:02:11.740,0:02:13.360
+...the existing navigation expanded,
+
+0:02:13.360,0:02:16.380
+...and the sheer number of buttons
+and menus became overwhelming.
+
+0:02:16.780,0:02:18.320
+As the long-time Sibelius employee
+
+0:02:18.320,0:02:19.820
+...Daniel Spreadbury observed:
+
+0:02:30.200,0:02:31.820
+So to try and solve this problem,
+
+0:02:31.820,0:02:33.620
+...Sibelius looked to another creation app
+
+0:02:33.620,0:02:35.820
+...which had faced a similar build-up of functionality:
+
+0:02:35.980,0:02:37.040
+Microsoft Word.
+
+0:02:37.200,0:02:39.000
+Here's a clip of the designer Jensen Harris,
+
+0:02:39.000,0:02:40.460
+...who worked on Word for years,
+
+0:02:40.460,0:02:42.880
+...describing the problems they faced while designing it:
+
+0:02:50.820,0:02:52.640
+"...and one word we found"
+
+0:02:52.640,0:02:54.540
+"...started being talked about with Office"
+
+0:02:54.540,0:02:56.620
+"...every time the press wrote a story about Office."
+
+0:02:56.960,0:02:57.820
+"And that word"
+
+0:02:58.120,0:02:59.120
+"...was 'bloat'."
+
+0:02:59.300,0:03:01.180
+He then goes on to describe how they began
+
+0:03:01.180,0:03:03.320
+...trying to reduce complexity on the screen:
+
+0:03:03.320,0:03:05.340
+"And so, the first of the features that we did"
+
+0:03:05.340,0:03:07.400
+"...to reduce the perception of bloat"
+
+0:03:07.440,0:03:09.440
+"...was something called 'IntelliMenus.'"
+
+0:03:09.720,0:03:12.920
+"Instead of actually reducing
+the complexity of the product..."
+
+0:03:13.420,0:03:15.460
+"...well, we could hide some of it from you."
+
+0:03:15.640,0:03:17.280
+"So what we do is, we'll take"
+
+0:03:17.280,0:03:19.420
+"...a random set of menu items,"
+
+0:03:19.440,0:03:20.620
+"...and we would"
+
+0:03:20.620,0:03:21.220
+"...hide them."
+
+0:03:22.500,0:03:24.920
+Which turned out to be a bit of
+ a self-fulfilling prophecy,
+
+0:03:24.920,0:03:26.520
+...since people don't tend to click on options
+
+0:03:26.520,0:03:28.120
+...they can't see right in front of them.
+
+0:03:28.460,0:03:30.140
+So, we'll come back to this in a minute.
+
+0:03:30.420,0:03:32.240
+Let's get back to Sibelius Software,
+
+0:03:32.240,0:03:33.640
+...who, to complicate matters
+
+0:03:33.640,0:03:35.560
+...during the development of Sibelius 6,
+
+0:03:35.560,0:03:37.700
+...sold it to the American multimedia company:
+
+0:03:38.620,0:03:40.380
+AVID are a very mixed bag.
+
+0:03:40.380,0:03:42.260
+On the one hand, you have their flagship app
+
+0:03:42.260,0:03:43.420
+Media Composer,
+
+0:03:43.420,0:03:44.540
+...which is an unpleasant
+
+0:03:44.540,0:03:46.760
+...power-hungry beast of an editing application
+
+0:03:46.780,0:03:48.580
+...that only runs on high-end machines,
+
+0:03:48.580,0:03:50.760
+...that is, if you can figure out how its controls work.
+
+0:03:50.760,0:03:52.580
+And on the other hand, you have Pro Tools,
+
+0:03:52.580,0:03:54.720
+...a solid, easy-to-use audio workstation
+
+0:03:54.720,0:03:56.740
+...that AVID bought in 1993.
+
+0:03:56.740,0:03:58.620
+And so, under this new ownership,
+
+0:03:58.620,0:04:00.360
+...Sibelius 6 gave way to
+
+0:04:00.360,0:04:01.820
+...Sibelius 7,
+
+0:04:01.820,0:04:02.380
+...where...
+
+0:04:03.020,0:04:03.640
+[sigh]
+
+0:04:04.180,0:04:05.600
+Okay, before I go any further
+
+0:04:05.600,0:04:07.780
+...discussing the design of Sibelius 7,
+
+0:04:07.780,0:04:09.960
+...it's tempting to lay the blame for the bad parts
+
+0:04:09.960,0:04:11.460
+...solidly at AVID's door.
+
+0:04:11.460,0:04:14.440
+But we think need to be careful not to
+buy into that narrative too much,
+
+0:04:14.440,0:04:16.060
+...since the Sibelius design team
+
+0:04:16.060,0:04:18.060
+...were largely in place when 7 came out,
+
+0:04:18.060,0:04:21.160
+...and some of its oldest designers
+were pretty vocal in defending it.
+
+0:04:21.520,0:04:22.700
+So what did they do?
+
+0:04:22.980,0:04:25.180
+Well, let's again return to Jensen Harris
+
+0:04:25.180,0:04:28.060
+...to hear how they tackled this
+problem with Microsoft Word,
+
+0:04:28.060,0:04:30.440
+...which was to create a new design pattern called
+
+0:04:30.440,0:04:31.100
+'The Ribbon',
+
+0:04:31.100,0:04:32.760
+...which I'm sure you're all familiar with.
+
+0:04:33.080,0:04:35.980
+The idea of the ribbon is not just
+to make stuff easier to find,
+
+0:04:35.980,0:04:37.460
+...but also to give a good indication of
+
+0:04:37.460,0:04:40.480
+...what the feature in question will
+actually do before you click on it.
+
+0:04:40.760,0:04:42.280
+"We also have something throughout the UI"
+
+0:04:42.280,0:04:43.880
+"...which is called 'Live Preview,' "
+
+0:04:43.880,0:04:45.900
+"...which says at any time you hover over"
+
+0:04:46.160,0:04:47.500
+"...er, a formatting choice,"
+
+0:04:47.900,0:04:49.600
+"...we'll show you exactly what it looks like."
+
+0:04:49.920,0:04:51.840
+"So what I'm going to do is use the position gallery,"
+
+0:04:52.080,0:04:54.040
+"...which, again, just shows you
+the most common places"
+
+0:04:54.040,0:04:56.200
+"...that people want to put pictures"
+
+0:04:56.200,0:04:56.700
+"...in-"
+
+0:04:56.700,0:04:58.320
+"...in, er, their documents."
+
+0:04:58.320,0:04:59.680
+"I'll split the text into columns."
+
+0:04:59.680,0:05:00.840
+"I'll just choose columns,"
+
+0:05:01.060,0:05:01.780
+"...eh, two..."
+
+0:05:01.780,0:05:03.940
+And to go a little bit beyond this presentation,
+
+0:05:03.940,0:05:05.180
+...let's have a look at the improvements
+
+0:05:05.180,0:05:07.200
+...that led us to where the ribbon is today.
+
+0:05:07.480,0:05:08.540
+This is Word Online,
+
+0:05:08.540,0:05:10.380
+...where the visuals have been further de-cluttered,
+
+0:05:10.380,0:05:12.600
+...and where options still give a clear visual indication
+
+0:05:12.600,0:05:14.360
+...of what's going to happen when you click on them.
+
+0:05:14.660,0:05:15.440
+Not to mention,
+
+0:05:15.440,0:05:16.620
+...they now have a search function,
+
+0:05:16.620,0:05:18.360
+...which can be a nice way of asking the program
+
+0:05:18.360,0:05:20.280
+...to initiate a command like spell-checking,
+
+0:05:20.280,0:05:22.200
+...without needing to find the button in question.
+
+0:05:22.440,0:05:24.500
+Notice also that the labels are pretty clear.
+
+0:05:24.640,0:05:25.240
+'Insert'
+
+0:05:25.240,0:05:26.680
+That's where you insert things.
+
+0:05:26.680,0:05:27.360
+'Layout'
+
+0:05:27.360,0:05:28.380
+That's where you see options
+
+0:05:28.380,0:05:30.340
+...for margins and spacing and stuff.
+
+0:05:30.340,0:05:32.140
+This is what the ribbon is meant to be.
+
+0:05:32.140,0:05:33.580
+Clear and easy to use.
+
+0:05:34.060,0:05:35.580
+Now, when Sibelius licensed
+
+0:05:35.580,0:05:37.260
+...the ribbon pattern from Microsoft,
+
+0:05:37.260,0:05:39.100
+...they got a lot of criticism from it,
+
+0:05:39.100,0:05:42.180
+...with the general attitude being that
+it was the wrong system to use.
+
+0:05:42.460,0:05:43.400
+My own feeling is that
+
+0:05:43.400,0:05:45.260
+...the ribbon was a perfectly fine choice,
+
+0:05:45.260,0:05:47.460
+...but that Sibelius made really terrible use of it.
+
+0:05:47.860,0:05:49.580
+And by not designing the ribbon well,
+
+0:05:49.580,0:05:52.140
+...it's had a knock-on effect on
+other parts of the app too.
+
+0:05:52.380,0:05:53.700
+The best way to illustrate all of this
+
+0:05:53.700,0:05:54.960
+...is to see it in context.
+
+0:05:55.160,0:05:57.400
+So, let's imagine ourselves to be a first-time user
+
+0:05:57.400,0:05:59.240
+...trying to achieve something really basic.
+
+0:05:59.540,0:06:00.920
+I'm using version 8 by the way,
+
+0:06:00.920,0:06:03.180
+...but the navigation is nearly identical to 7.
+
+0:06:03.400,0:06:04.120
+Okay.
+
+0:06:04.480,0:06:06.020
+Are you ready for the pain?
+
+0:06:06.700,0:06:08.340
+So after you've loaded up the app,
+
+0:06:08.340,0:06:10.280
+...you're presented with a bunch of presets,
+
+0:06:10.280,0:06:13.160
+...and right off the bat, there's a
+slightly absurd visual contradiction:
+
+0:06:13.160,0:06:14.500
+A category titled:
+
+0:06:15.680,0:06:18.220
+This contains the only option
+anyone actually cares about:
+
+0:06:18.220,0:06:19.280
+Blank page.
+
+0:06:19.280,0:06:20.000
+Or, if not,
+
+0:06:20.000,0:06:22.160
+...you can scroll through the other 66 presets
+
+0:06:22.160,0:06:23.220
+...to find what you want.
+
+0:06:23.220,0:06:24.640
+By the way, I notice solo piano
+
+0:06:24.640,0:06:25.880
+...is the very last option.
+
+0:06:26.100,0:06:26.640
+Really?
+
+0:06:26.900,0:06:28.560
+Solo piano gets bottom billing?
+
+0:06:28.800,0:06:29.300
+Below:
+
+0:06:29.960,0:06:30.460
+...and:
+
+0:06:31.480,0:06:32.040
+Well,
+
+0:06:32.040,0:06:32.620
+...okay.
+
+0:06:32.840,0:06:34.760
+And then, in the spot where most apps have a
+
+0:06:34.760,0:06:36.600
+...'Create' or 'Confirm' button,
+
+0:06:36.600,0:06:38.320
+They've opted comically for
+
+0:06:38.320,0:06:39.420
+'Quit Sibelius'.
+
+0:06:39.560,0:06:40.640
+I just love this.
+
+0:06:40.640,0:06:41.620
+It's as if they're saying,
+
+0:06:41.620,0:06:43.780
+ʏᴏᴜ'ᴠᴇ ᴀʟʀᴇᴀᴅʏ ꜱᴇᴇɴ ᴛʜᴇ 'ɴᴏ ᴄᴀᴛᴇɢᴏʀʏ' ᴛʜɪɴɢ.
+
+0:06:43.780,0:06:44.680
+ᴛʀᴜꜱᴛ ᴜꜱ.
+
+0:06:44.680,0:06:46.780
+ɪᴛ ᴏɴʟʏ ɢᴏᴇs ᴅᴏᴡɴʜɪʟʟ ꜰʀᴏᴍ ʜᴇʀᴇ.
+
+0:06:46.780,0:06:48.880
+So anyway, you click on 'Blank' page,
+
+0:06:48.880,0:06:49.900
+...ignore the presets,
+
+0:06:49.900,0:06:51.460
+(Oh, I mean, that's what everyone does, right?)
+
+0:06:51.460,0:06:53.800
+(I mean, if there's anyone out there
+who actually bothers with the screen,)
+
+0:06:53.800,0:06:54.980
+(c- could you let me know?)
+
+0:06:55.180,0:06:55.680
+...and,
+
+0:06:55.680,0:06:56.760
+...so then you go down-
+
+0:06:56.760,0:06:57.360
+Oh oops!
+
+0:06:57.360,0:06:58.380
+Almost got me!
+
+0:06:58.380,0:06:59.040
+Okay.
+
+0:06:59.040,0:07:00.900
+Let's just do a little design pass on this.
+
+0:07:01.140,0:07:01.820
+Uh... Yep.
+
+0:07:01.820,0:07:02.320
+Whoop!
+
+0:07:02.320,0:07:02.960
+There you go.
+
+0:07:03.400,0:07:04.400
+These exist already,
+
+0:07:04.400,0:07:05.320
+...let's get rid of those.
+
+0:07:05.320,0:07:05.820
+Uh...
+
+0:07:05.820,0:07:06.740
+Yeah, that'll do fine.
+
+0:07:07.060,0:07:07.560
+Okay.
+
+0:07:07.560,0:07:08.980
+Now we're brought to the Home tab.
+
+0:07:09.180,0:07:10.700
+So, with the ribbon design,
+
+0:07:10.700,0:07:12.040
+...'Home' is meant to be where you find
+
+0:07:12.040,0:07:14.200
+...the core actions people use all the time,
+
+0:07:14.200,0:07:16.360
+...you know, to avoid having to click around too much.
+
+0:07:16.640,0:07:17.360
+In Word,
+
+0:07:17.360,0:07:18.460
+...that'll be things like
+
+0:07:18.460,0:07:19.120
+...font,
+
+0:07:19.120,0:07:19.740
+...size,
+
+0:07:19.740,0:07:20.440
+...styling,
+
+0:07:20.440,0:07:21.080
+...et cetera.
+
+0:07:21.080,0:07:23.220
+In Sibelius, I think there are only about
+
+0:07:23.220,0:07:25.640
+...four functionalities here I'd consider primary,
+
+0:07:25.640,0:07:27.520
+...along with the smattering of random stuff
+
+0:07:27.520,0:07:28.960
+...that will be better suited elsewhere.
+
+0:07:28.960,0:07:30.360
+You'll see what I mean in a second.
+
+0:07:30.360,0:07:31.540
+So, if we want to make music,
+
+0:07:31.540,0:07:32.900
+...we need some instruments, right?
+
+0:07:32.900,0:07:34.860
+Well, thankfully, that, at least,
+
+0:07:34.860,0:07:36.820
+...is here in the Home tab where it should be,
+
+0:07:36.820,0:07:38.320
+...although I always have to double-check
+
+0:07:38.320,0:07:39.400
+...to make sure it's the right button,
+
+0:07:39.400,0:07:41.080
+...because the trumpet keeps throwing me,
+
+0:07:41.080,0:07:42.500
+...and the incomplete title
+
+0:07:42.500,0:07:43.480
+...'Add or Remove'
+
+0:07:43.480,0:07:45.080
+...requires a pause to understand.
+
+0:07:45.300,0:07:46.420
+Add or remove what?
+
+0:07:46.420,0:07:48.920
+Oh, I guess it says 'Instruments' down there to the right,
+
+0:07:48.920,0:07:50.740
+...but that's not really how eyes work.
+
+0:07:50.740,0:07:52.440
+Okay, considering that this might be
+
+0:07:52.440,0:07:53.920
+...the most important button in the app,
+
+0:07:53.920,0:07:56.000
+...let's call it 'Add or Remove Instruments'.
+
+0:07:56.260,0:07:57.560
+I think it deserves the space,
+
+0:07:57.560,0:07:59.460
+...you know, you've got a button over here called
+
+0:08:01.100,0:08:04.000
+And, because it looks a little bit like
+an 'Add or Remove Trumpet' button,
+
+0:08:04.000,0:08:06.700
+...let's make it generic by changing the icon to a plus,
+
+0:08:06.700,0:08:07.860
+...like everyone else does.
+
+0:08:08.120,0:08:10.540
+Okay, so let's choose to add an instrument.
+
+0:08:10.540,0:08:12.560
+And now, we're faced with this eyesore.
+
+0:08:12.560,0:08:14.440
+This is the real heart of Sibelius.
+
+0:08:14.440,0:08:16.440
+Endless horrible dialog boxes.
+
+0:08:16.700,0:08:18.660
+And even though this is one of the better ones,
+
+0:08:18.660,0:08:20.920
+...the sloppy attention to detail is everywhere.
+
+0:08:21.280,0:08:22.320
+So the idea is:
+
+0:08:22.320,0:08:23.640
+You choose instruments from here (left)
+
+0:08:23.640,0:08:24.820
+...and put them here (right)
+
+0:08:24.820,0:08:26.000
+...to add them to your score.
+
+0:08:26.220,0:08:27.820
+And because the list is so big,
+
+0:08:28.040,0:08:30.440
+...they gave us a search bar
+to make it easier to find stuff.
+
+0:08:30.660,0:08:31.520
+That's useful.
+
+0:08:31.520,0:08:32.700
+So let's find a cello.
+
+0:08:33.040,0:08:33.880
+Uh...
+
+0:08:33.880,0:08:34.440
+Really?
+
+0:08:34.440,0:08:35.760
+You can't locate 'cello'?
+
+0:08:35.960,0:08:38.200
+Oh, I guess I need to remember the full name
+
+0:08:38.200,0:08:40.000
+...'violoncello' that no one uses.
+
+0:08:40.160,0:08:41.000
+Okay. Well...
+
+0:08:41.000,0:08:42.080
+Let's add a guitar.
+
+0:08:42.420,0:08:43.520
+Ugh, that's helpful.
+
+0:08:43.520,0:08:45.060
+We have all this space available to us,
+
+0:08:45.060,0:08:46.720
+...but the drop-down is teeny,
+
+0:08:46.720,0:08:48.500
+...so we can't see what the options are.
+
+0:08:48.500,0:08:50.860
+You're on version 8 and you haven't fixed this yet!?
+
+0:08:50.860,0:08:52.320
+But even if it had been big enough,
+
+0:08:52.320,0:08:54.740
+...you still wouldn't been able to find a useful result,
+
+0:08:54.740,0:08:56.440
+...because putting in 'guitar' isn't enough
+
+0:08:56.440,0:08:58.400
+...to get the two most common types.
+
+0:08:58.400,0:08:59.620
+You need to actually type
+
+0:08:59.620,0:09:01.540
+...'acoustic' or 'electric' first,
+
+0:09:01.540,0:09:03.480
+...because this is search from the early '90s.
+
+0:09:03.840,0:09:05.940
+Can I have that 'Quit Sibelius' button back please?
+
+0:09:05.940,0:09:06.320
+[pop]
+
+0:09:06.320,0:09:07.440
+Oh, thank you!
+
+0:09:08.000,0:09:09.700
+So let's add a piano to the score.
+
+0:09:09.920,0:09:12.140
+Now, understanding what each of the element does
+
+0:09:12.140,0:09:14.140
+...is a little bit of a trial-and-error affair.
+
+0:09:14.440,0:09:15.200
+For example,
+
+0:09:15.200,0:09:16.660
+...the 'Add' button relates to this (left),
+
+0:09:16.660,0:09:18.440
+...but the 'Delete' button relates to this (right).
+
+0:09:18.840,0:09:20.700
+And look at the tick box all the way down here.
+
+0:09:22.000,0:09:22.500
+Okay.
+
+0:09:22.500,0:09:24.480
+You select it and get zero feedback.
+
+0:09:24.480,0:09:25.620
+And after clicking around a bit,
+
+0:09:25.620,0:09:27.300
+...you realise that it's contexual:
+
+0:09:27.300,0:09:29.780
+Either on or off for the instrument you've selected.
+
+0:09:29.800,0:09:31.680
+Okay, a little design fix for free:
+
+0:09:31.680,0:09:33.320
+Um, whe- when you click on the instrument,
+
+0:09:33.320,0:09:34.680
+...just put the tick box here.
+
+0:09:35.060,0:09:37.020
+So, let's add a stave to the piano.
+
+0:09:38.680,0:09:39.260
+Oh look.
+
+0:09:39.260,0:09:40.540
+I can't delete it now.
+
+0:09:40.540,0:09:41.580
+It's busted.
+
+0:09:42.140,0:09:44.140
+Anyway, now we have our instruments.
+
+0:09:44.140,0:09:45.400
+So a typical next step
+
+0:09:45.400,0:09:47.080
+...might be to set a tempo marking.
+
+0:09:47.080,0:09:48.440
+Tempo is pretty important,
+
+0:09:48.440,0:09:49.760
+...so it should be in 'Home', right?
+
+0:09:50.100,0:09:50.480
+Nope.
+
+0:09:50.900,0:09:53.080
+No, you need to navigate to a tab called
+
+0:09:53.080,0:09:53.840
+'Text'.
+
+0:09:53.840,0:09:55.100
+That's intuitive.
+
+0:09:55.100,0:09:57.020
+Then you need to look in the drop-down titled
+
+0:09:57.020,0:09:57.880
+'Styles'.
+
+0:09:58.480,0:09:58.580
+ᴜʜ
+
+0:09:58.580,0:09:58.680
+ᴜᴜʜ
+
+0:09:58.680,0:09:58.780
+ᴜᴜᴜʜ
+
+0:09:58.780,0:09:58.880
+ᴜᴜᴜᴜʜ
+
+0:09:58.880,0:09:58.980
+ᴜᴜᴜᴜᴜʜ
+
+0:09:58.980,0:09:59.080
+ᴜᴜᴜᴜᴜᴜʜ
+
+0:09:59.080,0:09:59.180
+ᴜᴜᴜᴜᴜᴜᴜʜ
+
+0:09:59.180,0:09:59.280
+ᴜᴜᴜᴜᴜᴜᴜᴜʜ
+
+0:09:59.180,0:09:59.280
+ᴜᴜᴜᴜᴜᴜᴜᴜʜʜ
+
+0:09:59.280,0:09:59.380
+ᴜᴜᴜᴜᴜᴜᴜᴜʜʜʜ
+
+0:09:59.380,0:09:59.480
+ᴜᴜᴜᴜᴜᴜᴜᴜʜʜʜʜ
+
+0:09:59.480,0:09:59.580
+ᴜᴜᴜᴜᴜᴜᴜᴜʜʜʜʜʜ
+
+0:09:59.580,0:09:59.680
+ᴜᴜᴜᴜᴜᴜᴜᴜʜʜʜʜʜʜ
+
+0:09:59.860,0:10:00.880
+And when you do that,
+
+0:10:00.880,0:10:03.100
+...you see there's a whole range of things in here:
+
+0:10:03.100,0:10:04.680
+Different types of markings,
+
+0:10:04.680,0:10:05.520
+...techniques,
+
+0:10:05.520,0:10:06.460
+...expressions.
+
+0:10:06.620,0:10:07.720
+Oh, I get it!
+
+0:10:07.720,0:10:09.420
+All these things are written as
+
+0:10:09.420,0:10:09.980
+...text.
+
+0:10:10.160,0:10:12.160
+That's why they're being categorized that way,
+
+0:10:12.160,0:10:13.080
+...even though
+
+0:10:13.080,0:10:14.640
+...some of them don't contain text.
+
+0:10:14.940,0:10:17.040
+Oh, and I love how there's a category called
+
+0:10:17.040,0:10:17.860
+...'Common'.
+
+0:10:17.860,0:10:19.420
+Yet, before you open it,
+
+0:10:19.420,0:10:21.300
+...they only show the first two options.
+
+0:10:21.300,0:10:22.340
+Uh... Hey guys,
+
+0:10:22.340,0:10:24.040
+...I- I'm fairly certain tempo is more common
+
+0:10:24.040,0:10:26.140
+...than the direction to pluck your strings.
+
+0:10:26.140,0:10:28.100
+But, as if that wasn't painful enough,
+
+0:10:28.100,0:10:30.580
+...what's coming up next is just pure madness,
+
+0:10:30.580,0:10:32.300
+...and any first-time user would be forgiven
+
+0:10:32.300,0:10:34.100
+...for completely losing the plot here.
+
+0:10:34.100,0:10:35.420
+So you click on 'Tempo',
+
+0:10:35.420,0:10:38.580
+...and your arrow turns a nearly
+indistinguishable shade of blue,
+
+0:10:38.580,0:10:40.200
+...which, when you finally notice it,
+
+0:10:40.200,0:10:42.160
+...indicates that something's going to happen.
+
+0:10:42.160,0:10:42.780
+Okay.
+
+0:10:42.780,0:10:44.760
+So let's click with our special blue arrow.
+
+0:10:44.960,0:10:45.560
+Uh...
+
+0:10:45.560,0:10:46.060
+Right.
+
+0:10:46.240,0:10:47.800
+Okay, it wants us to enter text.
+
+0:10:47.800,0:10:48.600
+Oh, I get it.
+
+0:10:48.600,0:10:49.380
+Now we type:
+
+0:10:50.620,0:10:51.340
+...or something.
+
+0:10:51.340,0:10:52.100
+Oh, um...
+
+0:10:52.100,0:10:52.900
+It's not working,
+
+0:10:52.900,0:10:54.780
+...and our note duration is missing.
+
+0:10:54.780,0:10:56.760
+So here's what you should have done:
+
+0:10:56.760,0:10:58.300
+You need to click the drop-down,
+
+0:10:58.300,0:10:59.300
+...pick the tempo,
+
+0:10:59.300,0:11:00.960
+...click with the special blue arrow,
+
+0:11:00.960,0:11:02.720
+...see the insertion point, and then
+
+0:11:02.720,0:11:04.620
+...right-click to trigger a massive drop-down
+
+0:11:04.620,0:11:06.320
+...containing a bazillion options,
+
+0:11:06.320,0:11:07.260
+...and there we go.
+
+0:11:07.260,0:11:08.600
+The word 'Tempo'.
+
+0:11:08.600,0:11:09.200
+Right.
+
+0:11:09.200,0:11:10.020
+So we click on that,
+
+0:11:10.020,0:11:11.140
+...and finally...
+
+0:11:11.520,0:11:13.660
+Oh man, the note value still isn't there.
+
+0:11:13.660,0:11:15.820
+No. You need to now right-click again,
+
+0:11:15.820,0:11:18.260
+...open up the ludicrously large drop-down again,
+
+0:11:18.260,0:11:19.280
+...select the note value,
+
+0:11:19.280,0:11:21.160
+...and then finally type your tempo.
+
+0:11:21.160,0:11:22.160
+Oh, and by the way,
+
+0:11:22.160,0:11:24.680
+...it's really easy to accidentally
+deselect this whole thing,
+
+0:11:24.680,0:11:26.580
+...so you may have to do this multiple times.
+
+0:11:26.820,0:11:28.340
+Ｗｏｒｔｈｙ ｏｆ Ｆｉｎｌａｎｄｉａ！
+
+0:11:28.520,0:11:30.220
+Okay, let's do a quick fix.
+
+0:11:30.500,0:11:31.220
+How about:
+
+0:11:31.220,0:11:32.220
+You go to Home,
+
+0:11:32.220,0:11:34.380
+...where a vital function like tempo should be,
+
+0:11:34.380,0:11:35.440
+...and when you select it,
+
+0:11:35.440,0:11:37.080
+...you get a ghost beside your cursor,
+
+0:11:37.080,0:11:38.980
+...which you can place and edit immediately.
+
+0:11:39.180,0:11:40.320
+You're welcome, Sibelius.
+
+0:11:40.320,0:11:42.040
+I've just massively improved your app.
+
+0:11:42.260,0:11:45.360
+But this type of fix doesn't repair
+the larger structural issues,
+
+0:11:45.360,0:11:48.340
+...which is the extreme messiness and inconsistency.
+
+0:11:48.340,0:11:49.040
+For example,
+
+0:11:49.040,0:11:50.260
+...there's a category called
+
+0:11:50.260,0:11:51.440
+'Note Input',
+
+0:11:51.440,0:11:54.340
+...which, apart from one or two
+specific input-type functions,
+
+0:11:54.340,0:11:56.280
+...contains options that could just as easily
+
+0:11:56.280,0:11:58.800
+...belong in the next category called 'Notations'.
+
+0:11:59.020,0:12:00.420
+This takes a long time to learn,
+
+0:12:00.420,0:12:03.380
+...especially since each one is maxed
+out with unnecessary detail.
+
+0:12:03.680,0:12:06.180
+So. for those who say the ribbon was a bad choice,
+
+0:12:06.180,0:12:07.340
+...I'm not really in agreement,
+
+0:12:07.340,0:12:09.720
+...because this isn't how a ribbon is meant to work.
+
+0:12:09.720,0:12:11.700
+It's just a higgledly-piggledly launchpad
+
+0:12:11.700,0:12:13.500
+...for ever more horrendous pop-ups.
+
+0:12:13.500,0:12:14.880
+I mean, look at this one.
+
+0:12:14.880,0:12:16.700
+What on earth does THIS do?
+
+0:12:16.700,0:12:18.320
+Oh, my head is beginning to hurt.
+
+0:12:18.520,0:12:19.160
+I mean,
+
+0:12:19.160,0:12:20.760
+...look at this category called 'Layout'.
+
+0:12:20.760,0:12:22.680
+It's definitely the most appropriately named,
+
+0:12:22.680,0:12:25.840
+...but which is undermined by the
+next one called 'Appearance'.
+
+0:12:25.840,0:12:27.380
+'Layout' and 'Appearance'.
+
+0:12:27.380,0:12:28.160
+Hmm...
+
+0:12:28.160,0:12:29.740
+You want to edit the staff spacing?
+
+0:12:29.740,0:12:31.740
+Because it says 'Staff Spacing' there.
+
+0:12:31.740,0:12:33.820
+Then you have to have to click on this eensy little button
+
+0:12:33.820,0:12:35.400
+...to get a monster terminal called
+
+0:12:35.400,0:12:36.820
+'Engraving Rules'.
+
+0:12:36.820,0:12:37.580
+Y- Yeah-
+
+0:12:37.580,0:12:38.080
+¿¡ʇɐɥM -M
+
+0:12:38.080,0:12:38.580
+W- What!?
+
+0:12:38.580,0:12:40.160
+And then there's hundreds of disparate settings,
+
+0:12:40.160,0:12:41.520
+...with no visual cues
+
+0:12:41.520,0:12:43.540
+...to help you know what effect
+anything is going to have.
+
+0:12:43.540,0:12:44.920
+It's just a parameter dump,
+
+0:12:44.920,0:12:47.340
+...perpetrated by some dev who probably assumed that
+
+0:12:47.340,0:12:49.820
+...a designer will clean it up at some point in the future.
+
+0:12:50.140,0:12:52.300
+Using it is an absolute nightmare!
+
+0:12:52.300,0:12:52.920
+Trust me.
+
+0:12:52.920,0:12:54.720
+Even Finale, with all it's problems,
+
+0:12:54.720,0:12:55.840
+(and it's got many)
+
+0:12:55.840,0:12:57.080
+...does a better job at this,
+
+0:12:57.080,0:12:59.540
+...at least giving you SOME indication
+of what's going to happen.
+
+0:12:59.540,0:13:01.380
+But even if they included this information,
+
+0:13:01.380,0:13:03.260
+...you'll still find that the thing you want
+
+0:13:03.260,0:13:04.940
+...is in some other dialog box.
+
+0:13:04.940,0:13:07.540
+I mean, let's just move over to the Appearance tab
+
+0:13:07.540,0:13:10.680
+...and click the 𝘦𝘦𝘯𝘴𝘺 'Design and Position' button and...
+
+0:13:10.680,0:13:11.460
+Oh no!
+
+0:13:11.460,0:13:13.700
+Another endless list of crazy options!
+
+0:13:13.980,0:13:15.360
+What about Instrument names?
+
+0:13:15.560,0:13:16.320
+Oh no!
+
+0:13:16.320,0:13:18.920
+We're back to that Engraving rules dialog box again,
+
+0:13:18.920,0:13:21.200
+...the same dialog triggered from two different menus
+
+0:13:21.200,0:13:23.940
+...that have titles which are basically
+synonymous with each other!
+
+0:13:23.940,0:13:25.600
+Have you ever heard of Maurice Pratt?
+
+0:13:25.600,0:13:27.640
+Look up 'Maurice Pratt' and watch his '80s
+
+0:13:27.640,0:13:29.700
+...Star Wars commercial for Quinnsworth.
+
+0:13:29.700,0:13:30.480
+It's pretty good.
+
+0:13:30.480,0:13:32.340
+"Show me these Quinnsworth toys!"
+
+0:13:32.340,0:13:33.860
+"Okay, Darth, let's look at this together!"
+
+0:13:33.860,0:13:35.020
+"Jedi Speeder Bike?"
+
+0:13:35.020,0:13:36.020
+"£6.99!"
+
+0:13:36.360,0:13:37.380
+Here's another one:
+
+0:13:37.380,0:13:40.920
+Imagine you've just plugged in an
+external sound unit into your computer,
+
+0:13:40.920,0:13:42.820
+...as many, many people do.
+
+0:13:42.820,0:13:44.960
+And like every other audio app in the world,
+
+0:13:44.960,0:13:46.780
+...you'd probably want easy access
+
+0:13:46.780,0:13:48.920
+...to allow you to switch to that device, right?
+
+0:13:49.160,0:13:50.120
+Well, okay.
+
+0:13:50.120,0:13:51.440
+I'm going to roll up this ribbon,
+
+0:13:51.440,0:13:52.480
+...and you tell me
+
+0:13:52.480,0:13:54.200
+...where you'd look to find that option.
+
+0:13:54.480,0:13:56.780
+Press 'Pause' and take all the time you need.
+
+0:13:57.200,0:13:57.880
+Okay?
+
+0:13:57.880,0:13:58.380
+You ready?
+
+0:13:58.380,0:13:58.500
+ɪ ʜᴏᴘᴇ
+You ready?
+
+0:13:58.760,0:14:00.980
+Was your answer in the 'Play' category?
+
+0:14:00.980,0:14:01.660
+No?
+
+0:14:01.660,0:14:02.840
+I'm not surprised,
+
+0:14:02.840,0:14:04.040
+...but that's where it is.
+
+0:14:04.040,0:14:04.900
+Don't worry, though.
+
+0:14:04.900,0:14:06.140
+The test isn't over.
+
+0:14:06.140,0:14:07.480
+Where do you think we go now?
+
+0:14:07.740,0:14:08.360
+Hmm?
+
+0:14:08.360,0:14:10.240
+Did you say 'Configuration'?
+
+0:14:10.240,0:14:11.320
+Congratulations!
+
+0:14:11.320,0:14:12.520
+That's the right answer!
+
+0:14:12.520,0:14:13.660
+B- But no, you're wrong.
+
+0:14:13.660,0:14:15.820
+It's in this little eensy button down here,
+
+0:14:15.820,0:14:17.500
+...but we're not quite there, because:
+
+0:14:17.500,0:14:19.920
+First, they show you a bunch of audio sampler settings,
+
+0:14:19.920,0:14:21.040
+...and then you need to figure out
+
+0:14:21.040,0:14:23.380
+...to look in the last place anyone ever would:
+
+0:14:23.380,0:14:24.520
+Right at the bottom left,
+
+0:14:24.520,0:14:25.880
+...where we could finally see:
+
+0:14:27.600,0:14:28.460
+There we go!
+
+0:14:28.600,0:14:29.100
+𝑅𝑜𝓁𝓁𝒾𝓃'
+
+0:14:29.280,0:14:29.780
+𝑅𝑜𝓁𝓁𝒾𝓃'
+
+0:14:29.940,0:14:30.480
+𝑅𝑜𝓁𝓁𝒾𝓃'
+
+0:14:31.260,0:14:33.800
+Why can't they do a pass at how things are structured,
+
+0:14:33.800,0:14:35.080
+...starting with the tab names?
+
+0:14:35.240,0:14:35.740
+I mean,
+
+0:14:35.740,0:14:37.920
+...if you look at another program called 'Dorico',
+
+0:14:37.920,0:14:39.520
+...you can see how easy it can be.
+
+0:14:39.520,0:14:41.200
+They have one category called 'Write',
+
+0:14:41.200,0:14:42.560
+...that contains all the things you need
+
+0:14:42.560,0:14:44.680
+...to actually write the notes in your score,
+
+0:14:44.680,0:14:46.500
+...and another one called 'Engrave',
+
+0:14:46.500,0:14:49.240
+...which allows you to edit the appearance
+of everything you've written.
+
+0:14:49.240,0:14:51.240
+And look at how Engraving rules work!
+
+0:14:51.240,0:14:53.040
+They appear under the actual score,
+
+0:14:53.040,0:14:55.300
+...so you can see the result of the changes you've made.
+
+0:14:55.300,0:14:57.760
+Why do dialog boxes when you can do this?
+
+0:14:57.960,0:14:58.620
+Oh man,
+
+0:14:58.620,0:15:00.900
+...I guess I just mentioned Dorico, didn't I?
+
+0:15:00.900,0:15:01.400
+Well,
+
+0:15:01.400,0:15:02.920
+...I guess I'm gonna have to talk about
+
+0:15:02.920,0:15:04.160
+...'The Event' then.
+
+0:15:04.160,0:15:05.160
+Okay, real quick:
+
+0:15:05.160,0:15:06.680
+After AVID bought Sibelius,
+
+0:15:06.680,0:15:08.540
+...they went through a corporate restructuring,
+
+0:15:08.540,0:15:11.120
+...selling off assets and laying
+off some of their employees.
+
+0:15:11.120,0:15:12.040
+And as part of this,
+
+0:15:12.040,0:15:13.860
+...they decided, quite bafflingly,
+
+0:15:13.860,0:15:15.300
+...to stop supporting Sibelius,
+
+0:15:15.300,0:15:17.280
+...while firing the entire London team.
+
+0:15:17.280,0:15:20.040
+Here's a picture of the Sibelius office in Finsbury Park,
+
+0:15:20.040,0:15:21.340
+...taken by an employee
+
+0:15:21.340,0:15:22.920
+...before they closed the doors for good.
+
+0:15:23.160,0:15:26.020
+So, because Sibelius is a widely used application,
+
+0:15:26.020,0:15:28.900
+...there was a very large and
+widely covered public outcry.
+
+0:15:28.900,0:15:31.620
+Ben and Jonathan Finn stepped
+in to try and buy it back again,
+
+0:15:31.620,0:15:32.640
+...but were rebuffed.
+
+0:15:32.640,0:15:34.340
+And in 2014,
+
+0:15:34.340,0:15:36.280
+...as AVID's share performance was tumbling,
+
+0:15:36.280,0:15:37.380
+...they altered course,
+
+0:15:37.380,0:15:40.520
+...announcing that they were actually
+going to support Sibelius after all.
+
+0:15:40.520,0:15:41.140
+Only,
+
+0:15:41.140,0:15:42.980
+...now they had to build a new team from scratch,
+
+0:15:42.980,0:15:43.480
+...because:
+
+0:15:44.280,0:15:45.060
+...who makes the excellent:
+
+0:15:45.700,0:15:48.520
+...had already rehired most of the original Sibelius team,
+
+0:15:48.520,0:15:51.020
+...putting them to work on a direct competitor called
+
+0:15:51.020,0:15:51.780
+'Dorico'.
+
+0:15:52.080,0:15:55.080
+So, when I make comparisons
+between Sibelius and Dorico,
+
+0:15:55.080,0:15:57.840
+...to a certain extent I'm comparing what Sibelius is
+
+0:15:57.840,0:15:59.440
+...to what Sibelius could have been.
+
+0:15:59.440,0:15:59.940
+But,
+
+0:15:59.940,0:16:02.600
+...it's not like the current Sibelius
+team can't make changes!
+
+0:16:02.600,0:16:04.860
+AVID may not be responsible for Sibelius 7,
+
+0:16:04.860,0:16:06.280
+...but you can bet that they're responsible
+
+0:16:06.280,0:16:08.420
+...for not improving it at all ever since.
+
+0:16:08.420,0:16:08.920
+I mean,
+
+0:16:08.920,0:16:10.660
+...they've made it compatible with tablet.
+
+0:16:10.880,0:16:11.580
+Great.
+
+0:16:11.580,0:16:13.060
+Now it can annoy me on tablet.
+
+0:16:13.060,0:16:14.360
+And they've added a timeline
+
+0:16:14.360,0:16:16.280
+...so we can see the same information twice.
+
+0:16:16.280,0:16:17.020
+Amazing.
+
+0:16:17.020,0:16:19.760
+An extra window I need to close
+before beginning a new project.
+
+0:16:19.760,0:16:21.000
+Fix the bugs!
+
+0:16:21.000,0:16:22.300
+Stop it crashing all the time!
+
+0:16:22.300,0:16:23.280
+FIX THE BUGS!
+
+0:16:23.440,0:16:25.080
+Make it easier to find things!
+
+0:16:25.280,0:16:26.000
+By the way,
+
+0:16:26.000,0:16:28.700
+...if you look down to where the
+'Quit Sibelius' button is on this page,
+
+0:16:28.700,0:16:30.340
+...you'll see a 'Like' button beside it.
+
+0:16:30.340,0:16:31.160
+Press that.
+
+0:16:31.160,0:16:31.450
+Oh.
+
+0:16:31.450,0:16:32.480
+And press that too.
+
+0:16:32.480,0:16:33.100
+Oh yeah.
+
+0:16:33.100,0:16:33.620
+ＧＯＤ
+
+0:16:33.620,0:16:35.440
+I forgot to mention the search system.
+
+0:16:35.440,0:16:37.140
+It's called 'Find in ribbon'.
+
+0:16:37.140,0:16:39.380
+Remember earlier I said that in Word Online
+
+0:16:39.380,0:16:41.560
+...if you search for something like word count,
+
+0:16:41.560,0:16:43.920
+...it's useful because you can just do it right there?
+
+0:16:43.920,0:16:44.640
+Well,
+
+0:16:44.640,0:16:46.000
+...guess what Sibelius does.
+
+0:16:46.000,0:16:47.840
+You enter what you're looking for, like...
+
+0:16:47.840,0:16:49.420
+I want to create a page break.
+
+0:16:49.420,0:16:51.180
+And rather than act as a shortcut,
+
+0:16:51.180,0:16:53.240
+...it instead drags you over to the place on the ribbon
+
+0:16:53.240,0:16:54.460
+...where that button can be found,
+
+0:16:54.460,0:16:55.840
+...and highlights it for you.
+
+0:16:55.840,0:16:57.000
+Thanks a lot!
+
+0:16:57.000,0:16:59.660
+It's like the app is annoyed at
+you for not understanding it,
+
+0:16:59.660,0:17:01.480
+...like a passive-aggressive child.
+
+0:17:01.480,0:17:02.800
+"It's over here, 𝘪𝘥𝘪𝘰𝘵!"
+
+0:17:02.800,0:17:04.320
+The black beams can stretch.
+
+0:17:04.320,0:17:05.640
+They can stretch really high.
+
+0:17:05.640,0:17:07.820
+So Sibelius has lots of plug-ins,
+
+0:17:07.820,0:17:09.300
+...which are essentially bug fixes
+
+0:17:09.300,0:17:12.460
+...by people sick of waiting for AVID
+to make proper improvements.
+
+0:17:12.460,0:17:13.460
+But for some reason,
+
+0:17:13.460,0:17:15.680
+...each category has its own plug-in button,
+
+0:17:15.680,0:17:18.620
+...so you have to keep opening
+each individual plug-in folder
+
+0:17:18.620,0:17:20.360
+...to find whatever it is you want.
+
+0:17:20.360,0:17:21.760
+This is a solved problem!
+
+0:17:21.760,0:17:24.240
+Can we just have one place for plug-ins, please?
+
+0:17:24.240,0:17:25.260
+Why would you do this?
+
+0:17:25.260,0:17:27.160
+You ever mix up Elizabeth Olsen
+
+0:17:27.160,0:17:27.920
+...with the, uh...
+
+0:17:27.920,0:17:28.900
+...the Olsen twins?
+
+0:17:28.900,0:17:30.260
+For a while, I thought she was, like,
+
+0:17:30.260,0:17:31.360
+...the breakaway twin,
+
+0:17:31.360,0:17:33.760
+...even though I knew their names
+were Mary-Kate and Ashley,
+
+0:17:33.760,0:17:35.160
+...and her name is Elizabeth.
+
+0:17:35.360,0:17:36.820
+Hold on, what does Wikipedia say?
+
+0:17:37.060,0:17:37.880
+Oh right, she's, uh-
+
+0:17:37.880,0:17:39.020
+Oh, she's their younger sister.
+
+0:17:39.020,0:17:39.660
+Oh, that makes sense.
+
+0:17:39.660,0:17:41.160
+They have this horrible drop-down
+
+0:17:41.160,0:17:42.600
+...with a million icons in it,
+
+0:17:42.600,0:17:44.340
+...and some of them are really, really important,
+
+0:17:44.340,0:17:44.980
+...like, for example,
+
+0:17:44.980,0:17:46.980
+...I'm looking for these guitar string icons,
+
+0:17:46.980,0:17:48.560
+...and I can never find them in all of this!
+
+0:17:48.680,0:17:50.200
+What should I review next̡?
+
+0:17:50.200,0:17:50.860
+Comme̴nt̸ and tell me.
+
+0:17:50.860,0:17:51.460
+Co̸m͘m̵ent ̧a̷nd̀ ͢t͠ell̴ me.
+
+0:17:51.460,0:17:53.080
+Be careful when turning the pancakes.
+
+0:17:53.280,0:17:53.920
+You drop them
+
+0:17:53.920,0:17:55.040
+...and they have to go in the bin.
+
+0:17:55.300,0:17:56.920
+Do you hear me, Lieutenant Uhara?
+
+0:17:57.140,0:17:57.980
+Pay attention,
+
+0:17:57.980,0:17:59.460
+...I want clean pancakes this time!
+
+0:18:00.180,0:18:01.000
+Oh, that's handy!
+
+0:18:01.000,0:18:02.420
+Why, when you select these buttons,
+
+0:18:02.420,0:18:04.800
+...do they look like half-filled barrels of urine?
+
+0:18:04.800,0:18:05.900
+Choose nicer colors!
+
+0:18:06.000,0:18:08.100
+The purple-urine combo isn't doing it for me.
+
+0:18:08.100,0:18:10.360
+Let's take a hairpin and stretch it to the next page.
+
+0:18:10.720,0:18:11.380
+Oh, look.
+
+0:18:11.640,0:18:12.300
+Hairpin's busted.
+
+0:18:12.300,0:18:12.860
+Hairpin's b̀u̸st̢ed.҉
+
+0:18:12.860,0:18:14.700
+Hey, do you know the way in classical music
+
+0:18:14.700,0:18:17.060
+...you need to give part scores to each musician?
+
+0:18:17.060,0:18:18.620
+Where would any sane person
+
+0:18:18.620,0:18:20.500
+...put the options to see the part scores?
+
+0:18:20.800,0:18:21.000
+˙pǝɥsɐɹɔ ɓuıɥʇǝɯos
+
+0:18:21.200,0:18:21.400
+pǝuǝddɐɥ ʇɐɥʍ ɹǝpuoʍ ı
+
+0:18:21.600,0:18:21.800
+ɯooɹ ǝɥʇ ǝpısuı
+
+0:18:22.000,0:18:22.200
+¿pǝq ʎɯ ɹǝpun s,ʇı
+
+0:18:22.460,0:18:25.400
+Surely not hidden away here up behind this plus icon;
+
+0:18:25.400,0:18:26.360
+The plus icon,
+
+0:18:26.360,0:18:27.940
+...universally understood to mean
+
+0:18:27.940,0:18:29.020
+'add something'.
+
+0:18:29.020,0:18:29.780
+Oh man.
+
+0:18:29.780,0:18:30.560
+They ARE here.
+
+0:18:30.560,0:18:32.380
+Why would you use this to mean 'part score'?
+
+0:18:32.500,0:18:33.280
+ＡＮＳＷＥＲ ＭＥ！
+
+0:18:33.280,0:18:34.780
+Sometimes, things become melty.
+
+0:18:35.060,0:18:36.900
+The 𝕔𝕙𝕖𝕖𝕤𝕖 melts in the microwave,
+
+0:18:37.160,0:18:37.900
+...the music melt̸s͝ in͞ Sibelius.
+
+0:18:37.900,0:18:38.500
+...the music melt̸s͝ in͞ S̷ib͘e̵l̵i͡u̡s̀.
+
+0:18:38.500,0:18:39.140
+.̛.̷̢.̶̴t͢h҉҉e͞ ͡m̵u͝śí͞c ͢me͟͝͡l͏t̸s̕ ͞͏i̢͏҉n ̛̀͠S͟i̶b̛é̛ļ̶̛i͞us̕͢.
+
+0:18:39.140,0:18:41.640
+You use the tempo slider to quickly change the tempo,
+
+0:18:41.640,0:18:43.400
+...and then Sibelius keeps resetting it.
+
+0:18:43.720,0:18:44.480
+Oh, no.
+
+0:18:44.740,0:18:45.660
+Tempo's busted.
+
+0:18:45.660,0:18:47.200
+𝕋𝕙𝕖 𝕔𝕙𝕖𝕖𝕤𝕖 𝕞𝕖𝕝𝕥𝕤 𝕒𝕞𝕓𝕖𝕣 𝕪𝕖𝕝𝕝𝕠𝕨,
+
+0:18:47.200,0:18:47.960
+...𝕓𝕦𝕥 𝕊𝕚𝕓𝕖𝕝𝕚𝕦𝕤 𝕞𝕖𝕝𝕥𝕤 𝕣𝕖𝕕.
+
+0:18:47.960,0:18:48.460
+...𝕓𝕦𝕥 𝕊𝕚𝕓𝕖𝕝𝕚𝕦𝕤 𝓂𝑒𝓁𝓉𝓈 𝕣𝕖𝕕.
+
+0:18:48.460,0:18:49.020
+...𝕓𝕦𝕥 𝕊𝕚𝕓𝕖𝕝𝕚𝕦𝕤 𝓂𝑒𝓁𝓉𝓈 𝓻𝓮𝓭.
+
+0:18:49.280,0:18:49.940
+ᴛʜᴇ ᴍᴜꜱɪᴄ ɪꜱ ʙʟᴇᴇᴅɪɴɢ.
+
+0:18:49.940,0:18:50.520
+ᴛ̨ʜ̖͠ᴇ͇͇̠̜̮͜ ͜ᴍ͚̱ͅᴜ̺͔͓̱̤ꜱ̙͕̥͖̺͘ɪ̹͚̣ᴄ̕ ̬̖̝͎̮ɪ̡̹͚͈͈̰̣̯ꜱ͓̥̝͢ ͎̖̰̭̳̟̭͟ʙ̷ʟ̸̹͎̙̫̬̙̗ᴇ̣͙̺͙̲̪͎ᴇ̳̥̼̳̙ᴅ̫͟ɪ̳̝̤ɴ̗̬͉͖ɢ̟͍̼̩̱̟͔.̷̰͖̹̤̝̥̯
+
+0:18:50.520,0:18:51.660
+ɪ ʙʀɪɴɢ ᴜᴘ ᴛʜᴇ ᴅʀᴏᴘᴅᴏᴡɴ
+
+0:18:51.660,0:18:52.500
+ʙᴜᴛ ɪᴛ'ꜱ ꜰɪʟʟᴇᴅ ᴡɪᴛʜ ɢᴏʀᴇ
+
+0:18:52.500,0:18:52.600
+ʙ͟ᴜ͝ᴛ͡ ̢ɪᴛ'͠ꜱ̴ ꜰɪʟʟᴇᴅ ᴡɪᴛʜ ɢᴏʀᴇ
+
+0:18:52.600,0:18:52.700
+ʙᴜ҉ᴛ ͞ɪᴛ̀'͞ꜱ͜ ꜰɪ҉ʟʟᴇᴅ͡ ͟ᴡɪ̷ᴛ̸ʜ̵ ɢᴏʀᴇ
+
+0:18:52.700,0:18:52.800
+ʙ̴̢̨̟̗̪̬͕ᴜ̟̥̹͓͡ͅᴛ҉͢҉̟̠̝͙̺̰ ̙̼̯ɪ͓̗ͅᴛ̻̲̬̦̫͇̬͝'̵͇̠͖͓ꜱ͙͉̞͕̞̀͜ ̜̖̫ꜰ̶̧͇̮̪̙̖͈̭͖̀ɪ̜̳̘̺͈͙̠̺͟͜ʟ̙͇͚̳̦͟ʟ̫͙̣̱̪̟̱̯̻ᴇ͎͎͙̳ͅᴅ̢͉̮̩̩̰̮͘ ̜͉̝͍̤̳̬͍͍ᴡ͓͚̘̫͍͟͟͠ɪ̶̘͎̯͙̠̯̯̪͠ᴛ̲̯͇̭͜͜ʜ͏̗̰ ̯̘̺̖̪̤̞͞ɢ̷̩̙ᴏ̩͉̤̦ͅʀ̼̫͇̪͈̕͞ᴇ̴̧͓͍̟͉
+
+0:18:52.800,0:18:53.000
+ʙ͏̶͔̹͚̲̙͝ᴜ̡̘̼́͝ᴛ̵̱͖̱̟̲͔̮͘͟ ̵̞̼̻̣̲̠̲̦ɪ̧̥̭̺͔͡ͅᴛ͕̲͠'̛̠̞̲͉ꜱ͏̝͓͈͘͠ͅ ͍̜̲͎̰̬ꜰ͟҉̱̰͉͉̱̳̺ɪ͕̫̖̯͙͎̭͞͝ʟ̲͙̳͙̮͘ʟ̝͓ᴇ̗͎ᴅ̴͙͎̰͙̙̯ ̶̶̬͓͜ᴡ҉̧̻͚̭̻̱̖͙ɪ̩̜̺ᴛ̶̩͈̜͚̕ʜ̪̮̖͝ ̵̼ɢ͈̬ᴏ̨͙̰̦̗͇̲̬͜ʀ̵̝͔͡ᴇ҉̦̝̠
+
+0:18:53.000,0:18:53.200
+ʙ͈̠̣̖ᴜ̼̖͙̮̯͖͂ͥ̑ᴛ̡͖͐̂͛ͥ̏̇ ̄̾͋̔̔҉ɪ̊͂ͧ̅̈ᴛ̵͉̳̼̃͗ͦ̐'͠ꜱ͚͖̯̖͖̖ ̖̥̣̻̬͉̀̊̌ꜰ̠͈̳̦́̀̃ͯɪ̪ͮʟ̩ʟ̶̘̠ͫͬ̈ͧ̿͛ᴇ̢͌̅̉ᴅ̪̻̜̟͇͓͐ͣ ̙̼̲͕̝͎͒͒̐͛ͭ͘ͅᴡ̬̗̦̞̖̇̉͊͌̀ɪ̶͔̜͎͉̆͆̏̓ͬ͛̀ᴛ̡͍̘͍̼̘̜͈͊ͣ̓ͧʜ̱̤̘ͭ̌̔͊ ̞̰̪ͮ̈́̂͑ͫɢ̣̗͇͋̓̐͌͊́ᴏ͔̯̱̮͕̱̳͑̑͒͗̕ʀ̙ͣ͂ͪ̉ᴇ̫̻͍̘̳͛ͣ
+
+0:18:53.280,0:18:55.520
+Why is everything so misaligned and crooked?
+
+0:18:55.520,0:18:56.380
+Look at this.
+
+0:18:56.380,0:18:57.340
+Line it up!
+
+0:18:57.460,0:18:58.980
+Why won't you just line it up!?
+
+0:18:59.180,0:19:00.400
+It's almost like the position of things
+
+0:19:00.400,0:19:02.160
+...was decided by the roll of a dice!
+
+0:19:02.380,0:19:03.260
+This app should be called
+
+0:19:03.260,0:19:04.300
+'Morton Feldman'!
+
+0:19:04.300,0:19:06.580
+You know the way you try to convey vital information
+
+0:19:06.580,0:19:08.800
+...by making the arrow a subtle shade of blue?
+
+0:19:09.040,0:19:10.560
+Do you know how hard that is to see?
+
+0:19:10.560,0:19:13.280
+Do you know how many accessibility
+guidelines you're breaking there!?
+
+0:19:13.280,0:19:14.860
+If Beethoven was alive today,
+
+0:19:14.860,0:19:17.160
+...Sibelius would be preventing
+him from being a composer.
+
+0:19:17.160,0:19:18.360
+It keeps flowing.
+
+0:19:18.360,0:19:18.460
+ˡᵘˢᶜⁱᵒᵘˢ
+It keeps flowing.
+
+0:19:18.480,0:19:19.860
+Feldman's yeast.
+
+0:19:19.860,0:19:19.960
+ˢᶜʳᵘᵐᵖᵗⁱᵒᵘˢ
+Feldman's yeast.
+
+0:19:19.960,0:19:22.160
+Just add it to the mix and half-bake to perfection.
+
+0:19:22.160,0:19:22.260
+ᴍᴍᴍ ꜰɪɴɢᴇʀ-ʟɪᴄᴋɪɴɢ ɢᴏᴏᴅ
+Just add it to the mix and half-bake to perfection.
+
+0:19:22.260,0:19:23.380
+Just press that button!
+
+0:19:23.560,0:19:23.760
+𝘾𝙊𝙈𝙀 𝙂𝙀𝙏 𝙔𝙊𝙐𝙍 𝘽𝙐𝙏𝙏𝙊𝙉𝙎!
+
+0:19:23.960,0:19:24.160
+𝘾𝙊𝙈𝙀 𝙂𝙀𝙏 𝙔𝙊𝙐𝙍 𝘽𝙐𝙏𝙏𝙊𝙉𝙎!
+
+0:19:24.360,0:19:24.560
+𝘾𝙊𝙈𝙀 𝙂𝙀𝙏 𝙔𝙊𝙐𝙍 𝘽𝙐𝙏𝙏𝙊𝙉𝙎!
+
+0:19:24.760,0:19:24.920
+𝘾𝙊𝙈𝙀 𝙂𝙀𝙏 𝙔𝙊𝙐𝙍 𝘽𝙐𝙏𝙏𝙊𝙉𝙎!
+
+0:19:24.920,0:19:26.140
+I want to save a video,
+
+0:19:26.140,0:19:27.280
+...so I go to 'File',
+
+0:19:27.280,0:19:28.420
+...'Export Video',
+
+0:19:28.420,0:19:30.560
+...change all the terrible default settings,
+
+0:19:30.560,0:19:32.280
+...and choose a location to save it in.
+
+0:19:32.280,0:19:33.560
+[Irish accent]
+ʏᴏᴜ ɴᴏᴜ, ᴀᴛ ᴅᴇ ᴇɴᴅ ᴏꜰ ᴅᴇ ᴅᴀʏ,
+
+0:19:33.560,0:19:34.320
+[Irish accent]
+ᴀɪ ᴛɪɴᴋ ᴅᴇʏ ᴅɪᴅ ᴀ ɢʀᴇᴛ ᴊᴀʙ.
+
+0:19:34.320,0:19:34.960
+[ɪʀɪꜱʜ ᴀᴄᴄᴇɴᴛ]
+ᴀɪ ᴛɪɴᴋ ᴅᴇʏ ᴅɪᴅ ᴀ ɢʀᴇᴛ ᴊᴀʙ.
+
+0:19:34.960,0:19:36.460
+[ɪʀɪꜱʜ ᴀᴄᴄᴇɴᴛ]
+ᴅᴇʀ ᴀ ᴄʀᴇᴅɪᴛ ᴛᴏ ᴅᴇᴍꜱᴇʟꜰꜱ.
+
+0:19:36.460,0:19:38.180
+Then I realise I need to tweak something,
+
+0:19:38.180,0:19:40.200
+...so I go back to the score for a second.
+
+0:19:40.200,0:19:41.120
+When I come back,
+
+0:19:41.120,0:19:42.660
+...all my settings are discarded.
+
+0:19:42.660,0:19:44.560
+I have to specify the location again.
+
+0:19:44.700,0:19:45.760
+Every time!
+
+0:19:45.760,0:19:46.840
+Remember my settings!
+
+0:19:47.000,0:19:48.620
+Please remember my settings!
+
+0:19:49.020,0:19:50.020
+Remember anything!
+
+0:19:50.020,0:19:50.840
+Ah Morris,
+
+0:19:50.840,0:19:52.160
+...you're losing the enthusiasm.
+
+0:19:52.160,0:19:53.120
+ᴏᴘᴇɴ ꜰɪʟᴇ
+
+0:19:53.120,0:19:54.240
+ꜱɪʙᴇʟɪᴜꜱ ᴄʀᴀꜱʜᴇᴅ
+
+0:19:54.520,0:19:55.340
+ꜱᴀᴠᴇ ꜰɪʟᴇ
+
+0:19:55.560,0:19:56.780
+ꜱɪʙᴇʟɪᴜꜱ ᴄʀᴀꜱʜᴇᴅ
+
+0:19:56.780,0:19:57.840
+ᴄᴏᴘʏ ɴᴏᴛᴇꜱ
+
+0:19:57.840,0:19:59.120
+ꜱɪʙᴇʟɪᴜꜱ ᴄʀᴀꜱʜᴇᴅ
+
+0:19:59.120,0:20:00.020
+ᴘʟᴀʏ ꜱᴄᴏʀᴇ
+
+0:20:00.020,0:20:00.680
+ꜱɪʙᴇʟɪᴜꜱ
+
+0:20:00.680,0:20:01.200
+ᴄʀᴀꜱʜᴇᴅ
+
+0:20:01.480,0:20:02.420
+Qᴜɪᴛ ꜱɪʙᴇʟɪᴜꜱ
+
+0:20:02.420,0:20:03.040
+ꜱ͎̹͙̖͙ɪʙᴇʟ͏̰̯̻̟̜̤̹ɪ͟ᴜꜱ̺͖
+
+0:20:03.040,0:20:03.680
+ ̠͇̞͎͚̀ͅᴄ̢̺ʀ̷̜͚̺̹̲̙̪ᴀ̯ꜱ̝͖̣ʜ͖͍̭̠̱͖̲ᴇ̶̩̜̦ᴅ̥͎
+
+0:20:03.680,0:20:04.700
+ᴏᴘᴇɴ ꜱɪʙᴇʟɪᴜꜱ
+
+0:20:04.700,0:20:05.380
+̘̜͙͈̜̩̪ꜱ̯̤ɪ̫͙ʙᴇ̻ʟ͖ɪ͙͚ᴜ̪̠̝͕̼͓ꜱ̼
+
+0:20:05.380,0:20:05.940
+̰ᴄ͖̰̼͚͍ͅʀ̫̤̥͙ᴀ͓͕̣̮̱̻̙ꜱ̬͈͙͉̻͖ʜ̼̞̞̟̜͔ᴇ̬̺͇͕ͅͅᴅ̞̲͚̲̯
+
+0:20:06.080,0:20:06.920
+ʀᴇᴀᴅ ᴇᴍᴀɪʟ
+
+0:20:06.920,0:20:07.700
+̜̬̻̳͕̘͡ꜱ͖̲͕ɪʙ̸͙̠̰̳̙̣ᴇ̺̦̺̤͔ͅʟ̨ɪ̫̱̬̺ͅᴜ̝̫̪̞ꜱ̘̝
+
+0:20:07.700,0:20:08.200
+̙̤͙̦̺̩ᴄ̢ʀ̺͖͎͔̙̻̠̕ᴀ̡ꜱ̲̟͖̫ʜ̻͕̰̮͖̺̭ᴇ͍͉̱̝̭ᴅ̸͇̗̲͉̩̙
+
+0:20:08.360,0:20:09.300
+ɢʀɪɴᴅ ᴛᴏ ᴛʜᴇ ɢᴏʀᴇ
+
+0:20:09.300,0:20:09.900
+̪̞͚̦͍̥̖̪̞͚̦͍̥̖ꜱ̟̹̺͓ɪ͇̺͔̺͍͎ʙ̫͢ᴇ̜̳̲̪͎̮͟ʟ̣͈͇͓̹ɪ͞ᴜ̜ꜱ͍̲̬̭̕
+
+0:20:09.900,0:20:10.580
+̛̜̻̠͔̲̭͎̻͟ͅᴄ͚̕͟ʀ̥͓̭̳̬̩̠̺͟ᴀ̦̳̘̺̟ͅꜱ̡̝̬͔̭̩ʜ̪̼̣̟͈̞̲͈ᴇ̩̰̮͖̰̻͇ᴅ͙͉̺̯̘̳̟ͅ
+
+0:20:10.580,0:20:11.680
+̢ꜱ̶ɪʙᴇ͠ʟɪᴜꜱ̸ ᴄʀᴀ̡ꜱʜ͘ᴇᴅ
+
+0:20:11.680,0:20:12.620
+̹S̘͓͖̥͉͉̭͝͞ͅi̸̧̙̬̠b̧̭̲̱̫͚̩̳̺͔̀͘è̫̙̥l̛̰̝̯̠͍͍i̘̰̥͡͡ú̶̠͉͓͕s̪͓͙ ̖͓̞c̵͉̠̮͖͙̝̬̺r͚̹̮̯̻͚̼a͔͖͈̼͎̭s̛̠͓̮͟͡h̰͘͘͠e̢̞͎̩̹͇̬͇̳d҉̨̟͔
+
+0:20:12.620,0:20:13.260
+̞̭̟͛͂̓͑̒ͥ̅͞S͕͓̗͊̅ͅ ͍̖̄̋ͦ̐͝i̵͚̱̐͒ ̣̼̈̕b͙̃ͨ̉ͯ ̸̈̐ͪͤ̉͋e͛ͨ͐ ̝̭̊l̵̻͕ ͉̳̟̜͇͛ͧ͒ͥ̕ͅį͚̮͉̞̑ͪ̓̒̔ͭ ̧̗̗̠̠͍͔̀̚ͅu̲͇̞̰̗ͨ ̙̣̊̒̊́s͉͕̬̟̳ͩ͂̂̔ͮ͟ ̸̉͛͊̎ ̪̪̳̟̙̤̙̿̐̉̑͟ ̹̞̔͛̒ͭ͐c̣̳͕̟͍̏̐̆̅̚ ͚̣̝͔͙͙͎ͯ̅̔ͧ̊ͩ̄r̼̉̅͑ͩ̐̑͘ ̭̭̇͂ͧͤͦ̕a̬͖̓͂͘ ̯̯̝̳ͦ̏͗ͩͪͤ̈́ͅs͖ ̣̩͂͐͆́̕h͇͍̫̩̍ͅ ͓̫̋ͥͧe͌̈́̚ ̦̹̩͉͍̝ͅḏ̻ͯ͛ͦ͊ͬ͒
+
+0:20:13.260,0:20:14.220
+̢̿͐ͧ͋͐̑҉҉̣̟̣̘͖̩̩S̶̶̬͔̠͖̣͇̟̼̋͐͐͂̊ͪ͝ ̶̬͉͕͛ͫ̃i̯͉̍͗̅͑ͩ̈͞ ̵̡͕̯ͭͦ̇͌̎b̬͖̣̩̖͇̐̄̈̂ ͕͗ͫ̇ͨ͒̑̽̋͡ͅë͔̭́ͯͯͤ̄̇ ̮̹̦̎͂͐l̖͔̬̦͇͗ͦ̚ ̶̫͔̥̮̣̤̄̋̆́ͅǐ͕̥̟̜ͥ̅̿̈́͝͝ ̥̩̙̼̼̠̗̪͍̂ͧ͋͌̏̌̉u͇̦̪̗̘͈ͩ͗̊̑͋͛̂͒ ͇̝̪͙̪̱͕̲ͬ̎ͥ̔s͙̅̉̈́͑͗ͦ̅ͭ͡ ̬̦̳̹̙ͫ̏̊ͩ͛̐̕ͅ ̶͖̹̱̽ͭ̇͐͜ ̶̗̘̝͈͈̓͟c͔̹͎ͬ̓̈ͥ̑̍̓ͫͩ ̷̠̂̌ŗ̣̠̭ͥ̀̑̅̓̒̈́ͦ͞ ͦ̒̈̃̕͏̡̭ą̪̮̥̟̩͕̫̔́ ͚̹͓̩͓̀̍̊̌̈́̍̌́ś̸͓̙̣̂̇̋̀ ̤̟̰̩̓͛͌͝͞ḩ̻̰͓͇̫̬̫͋̅̒̚͠ ̨͑̂͆͢͏͖̼͎ͅe̩̰͂̒́̐̾̅ ̭͌̌́̚d̷̥̙͇̭̜̬̙͚̊̉ͯͣ̊͒̎͑͡ͅ
+
+0:20:14.220,0:20:14.940
+̧̩̖͉̖̖̘̪͕ͫ͊ͦͬ̓̿͐ͧ
+̶̵̠̹̥͍͈̼͕̰̀ͨͬ̿ͤͦ̑͟S̢̰̰̲̖͇̝̈́ͬͨ̉̾͐̆͆͝ ͓͇̼̖̮̌ͥ̚͘͡ ̰͇̠̪̼̘̈́͐̀̍̅ͅI͎͈͓̟̘̺̪͛̾͛̓ͫ̾̋ ̞̝̩͙͉̳͖̗̗̄̓̓̐̌ͮ͗̐̚ ̶̢̛̥͓̣̥̻͖̒̿̾̊̊̂B̨͉͈̺͙̪̫͍ͯͫ ̯̣̠͎̹̪̥̆̀͋̂͗̆̎͡ ̵̙̌ͯ͡Ë̴̛͚̼̰̣͔́̓̓̂͞ ̴̛̻͚͚̤̃̿̽ͤ̇͒͋̓̂ ̘̯̤̇́̍ͬ̈̎ͨ͗͜͝L͎̭͇̯͕̜̪̒ͭ̽̔ͦ̏͌ ̸̧̢̟̖͍̆͛͒̒̑ ͬ̈͌͏͇̼̕ͅI̴̘̲̼̯̖͎̳͗͋ ̷̆̑͊͒̃҉̭ͅ ̷̭̖͉͎̩̰͇̹͒ͤ͊͑ͪU̝̣̣͇͍̔̊͑̄ͮ͛͞ ̛̳̲̘̥̥̗̺̭ͯ̈́̓͆͊̑͗ ̵̖̜͙̫͚̥͇̮͇̇̊ͮS̛̖̫̲̒̓͂ͨ͝ ̞̥̅̏͝͡ ͪͮ̎̔҉̵̡͉̖̙͙͚̲ ̯̝̫͚̖̓ͫͯ͛͒̊͗͆ ̝̯͔̩̱̦̥͈̌ͨ̀ ̢̦̫̱̰̼̗̪͂ͬ͗Ċ̷̶̮̥̖̝̣̏̓̿̏ͧ͝ ̴̜̣̼͓̙͇͓̮̗̈̓ ͍̭̝͚̱̝̼͌͆̎ͣ̍̑ͥ̚͝Ṛ̙̫͎̙̺̥̯̂͒̏̿̕ ̴̪̜͓̱̳̱̮̩͐̏͂̈̾̏͆̀ ̖̳͕̂̏ͫ͐̉͌̕ͅA̠͓̟̫̯͖ͥ͌́ ̵̗̟̜̣͓̄͜ ͈̬̩̒ͫ͒͊͛̔̽͢͟S̷̰̼̜̩̳̥ͯ͛̕ ̫̗ͪ̒̽ͥͥ͟ ̘̹̺̐͝H̝̺͉̘̏ͯ̋͒͆̒ ̱̝̤̪̫͍̞̩̃̐̈́͂ ͎̼͑̋͠͝E̸̢̛͉̤̝̊̒͆͑ ̖͖̥͇̙̝ͬ̑͢ ̵͍͍̲̌ͣͤ͋ͭͧ̚ ̱͍̱̗̗͍͔̟̘͐̈́ͭ̊̾̓̇͑̏͘D͕͈͚̰̟͇͔ͤ̔͂̚
+
+0:20:14.940,0:20:15.700
+̸̤̼̖̤̺̋ͨ͋͒͑̍̒̇̈ͬ͛̈́͘̕͠͝S̷̸͔͙̟̘͚̯̪̹̘͈̜͙̩̿͐ͥͯͤ̉̿͛͂͟͡ ̶̶̥̻̯̣̖̟͙͍̥̮͉̩̖̲̺͙̠̽̌ͪ̐̄ͮ̆̈ͧ̈́͐͐̿͘͡ ̐̄̾̈̈́̇ͬ͜͏̤͙̬̺͉̱͔͙̲̯I̫̺̹̳̫̻̺̖ͯ̿͂̆̀̍̄̇̇̓̈͋ͦͫͯ͢͢ͅ ̎ͬ̓ͪ̏͂̔ͨ͠͏͚̭͙̭͎̠̙ͅ ̴̸̵̡͕͔͚̭̖̹̖̘͖̩̙̩͙̻̐ͬ͌̏͟ͅB͎̮̖̰̫͕̙̻͚͉̘̦̰̤̗͔̪̋̈́ͬ͟ ͨ͒ͦͥ̃ͩ̈́ͥ́̅ͭͮ̆̎́̐ͥ̈́͐҉̡̹̝̥̥͢ ͚͙͙̳͍̩̬͋ͪ͗̋̅̏̾͡E̸͒̿ͮ͑ͧ͂͆ͦͭ͆̚͏̥̥̼̦͈͈̗̦̦͚͉̟̘ ̡̧̞͍̳͕̜̮̲̲͓̪̼ͫ͐ͬ̇͂̊̋ͨ́͂͠ ̂̇͆͊̾̈́̽͏͜҉̭̲̘̩̣Ļ̫͉̗͕͖̫̾ͥ̑̓͛̾̃̽̆̏̑͛͋̏ͫ̔̚͡ ̢̡͓͙̦̬̟̘̘̬́̈̂̋ͦ͆̓̉͡ ̛̞̘̬̭͇̩̑ͦ̾̆̅͗̀̓͛̄̀ͯ̾̉̕͘͟Į̴̧̭͇̤̪̖ͯͪ͊̏ͭͬ̄̊͆̈̂̆̚͘ ̡̛̳͓̥̺̳̳̠͙̲̭͉̑͗ͮ̏͆̿̕̕ ̷̧̼̦̠̣̞̲̱͎̬̤͇̞̺͍̺̺͖͍̊̈̏ͤ͊ͤ̈́̉ͨͬ̏̚ͅÜ̵̞̜̞͖̗̦̯͚̦̺̉̒̈̽ͮ͋̎͋ͬ͌̐͛͑͊ͪͨ́ͅ ̸̓ͥ͌ͯ̔ͮͨͪ̄́͂ͧ̆̎̇҉̷̘͓̬̦̻͓͇̯͝͝ ̴̱̫̭̳͇̳̱̮͚̩͉̺͍̻̓̓̽̐ͤ͊ͤ̉ͧͩ̚͟͞S̡̨̛̭̣̭̝̜̣ͫ̃͊̄̒̍̈́̈́ͩͪͤ͐̌̾͛ͭ̋ͬ́͜ ̗͚̹͙̰̳̓̄͑̅̚͘͞͠ ̸̛͈̰̹̫̾̎ͧͯ̇ͩ͝ ̸͚̬̝̝͔ͯ͑̌̔̈ͨ͑́͠͡ ̷̡̛̟͇̟̙̎ͥ͌̄̏ͮ̅ͯͯͫ͝ ̶̻͉͕͉̥̞̰̗̞̟͓̺͉̼̑͂͛ͦͪ͑ͅC̴̵̻͔̲̯̙͙̱̠̜̝̥͖͉̙̬ͯ̐̓̀͊̇ͣ̚͢͠ͅ ̨̨̦̣̜̯̦͖̜̱̠͕͍̣͓̰͙͉͈͂̋͊ͧ̂ ̴̡̺̥̟̻̙̤̤͖͍̲̖͕̣̠̐̏ͥ̉ͭ̅͟͝ͅR̨̠̱̤̤̥͎̦͔̣̻͔̳̙͔͇̼͓̫̆ͭ̐̌̎͋͊͆̌̐̔ͪ̃̂̌̕ ̽̄ͧ̾҉̧̤̲̝̱̜̖͓͝͝͞ ̹̣̭͎̺́ͧ͂͛̃̓̇̎͌ͬ̚̕͝Ă̷̅̈́͗ͮ̐̒ͩ̓̽͑͐̍̿̄̈́́̕͏̧̙͙̼̳͓̟̤̦̰̙̫̪̪̗̪ ̶̫͕̥͉͎̼̜̺͈͙̲̣͇͖̘̹ͬ̇̈́͑̋̂́ͪͤ̊̋ͦ͒̚͟͝͞͡ ̶̡͎̮̩͍̘̤̠̟̿͐̌̈́̽͆̇̅ͧ̀ͦ͘͘͜ͅͅS͚̭͍͔̻͈̫ͨ̆͐̈́͆ͪ͛ͯͮͣ̈́͋͊̽ͮ͌̒͌́̕͢͝͝ ̷̭̰̭̫͇ͨ͐͗ͬͪ̉͆̓͌̚͠ ̨͓̞̹̜͐̇͛̈́ͭ̄͌̄ͬ͛̀ͧͫ͂ͨ̎ͣ́̚̚H̀̏ͤͧ͋̏̌͌ͥ̒͛̓̔̓͏̷̸̘̝̩̠͖̫͉͍̮̖̗̰̜͍̙̠͙͜͞ͅͅ ̵̤̼͇̤͎̼̜̠̠̺̞͆̍̎͆̈́͌̆ͫ̀̚͡ ̀͌ͥ̊̉ͬ̋̉̀͘҉̡̫̮̯̦̹̫̘̟̪̼Ę̣̼͖̺͓̲̲̗̺̲͓̱̤͙̱̖̼̄̎͒ͮ̏̔̃̇̇ͫ̌̽̓ͩ͊̕̕ͅ ̛̺̜̼͔̫̘̓̄͐ͫͥ͆ͭ͆̐̋̐̐ͧ̋ͦ̽ͭ͘͟͝ ̢̯̱̩̲͈̺̯̣̤͕̻̰̖͓̺̜̱͇̏̈́͋̐̆̓͗͛̈ͫ́̑ͭ̕ ͬ̑̓̈́̎̓̀͒͏͖͓̩̫̘̯̭̣͇̫̀͟͝D̸̶̢ͥͨ̒ͨ̌ͪ̄ͮͭͬͮ҉̜̰͇̰̖̗̜͍̬̩͖̻̻̯ͅ
+
+0:20:15.700,0:20:16.540
+̨̧̨̥̲̦̙̫͚̟̰͙͚̙̹̝͎̈̍̾̀ͪͨͣ̐̔̈́̔̇̎ͯŞ̵͉̼̥̫ͩ̽̒̄ͣ̀͂ͪͣ̔͗ͮ̎ ͬͪͤ̈́҉̷̢͚͙͉̼̩̻̫̣̗̰̯̼͈̟̠̦̱̕I̶͈͈̣̰̭͓̹̼̭̜͙̝̺ͥ͆͌̐ͮ͗̕B̵̶̨̡̺̙̘͍̲͍̦̰̠͎̭̗̜͔͖̺̼̲̞͔̞͓͚̜̔ͮ͛̿̀ͪ̈́ͬ̑ͦ́́͆̊̊̄̎̎̔̉̔̌̒̄̇̒̄͊̾̅́͜͡ʟ̨̱̰̮͆̊͌͋̋͐̆͊ͦ̆̍ͧ̎͑̾̈́͑ͪ̕͢ᴇ̷̮̩͓̖͖̪͇̩͔̔̑ͩ̄̓͊͆̏́̕ ̘̤̰̦̯̳̘̞͎̞̻̝̜̭̮̜̿ͮ͊͋͛ͨ̉͌̑̄̊̚͜E̸̗͓̘̩̮͖̥̣̫̬͒ͧͯ͆ͨ͌̓͌͌̀͠ͅ ͐ͥ̀͛͏̴̮̤̜̼͔̘̳͎̪̜͖̬L̵̡̺͕̲͉̳̥̬̤̮͔̏͌ͥ̄̽ͬ̈́͗́ͩͦ̽͌̒̽̚I̵̵̪͚͇̪̼̜͙̤̺̅͐̑́͗̀̌̌̓ͥ̅̀ͮͣͧ͠͝ᴛ̷ͮ͆͌̈̾͏͏̨̟͔̤̗̼̪̤͔ ̴͍̘̲̝̯̮͆͒͆́̀̕͢ɴ̷̶̢̗͖̩͍̺ͣ͆ͯ͋͐̅͗͑̈́͂̆̆ͧ͘ᴇ̧̻̜͙̖̝̠̭͉̘̱̅̐̂ͦ͂̒ͤ̃̆͂͛ͧ̀͟͢͡ᴘ̯͕̝̻̗͖̻̮͕̺͙͚͚̯̬̰͕͊̑ͤ͋̅ͥͮ̆̓͆̎̉̈́̽̈́̃͐̄̏̕͘͘͢͞ͅᴛ̡̺̲̼̘̜̭̖̠͔͇̲̲̟̯̤̤͊̊̅̍͟ͅᴜ̶̢̺̟͎̮̹̟̠̰̞͇ͯ͛̇ͨͪ͛ͩɴ̢̛̲̘̞̮̯̱̰͈̩̹͛̈́͋ͥ̂̓̑ͤ͜ᴇ̧͈͔̠̖̓͒ͦ͑̊͗̉̇ͮͦ̍̔̔͘ͅ ̛͇̥͕̳̹̲̦̃̊͊̋͐͋̎͗̈̀̀ ̵̪̖͎͙̋̈̈́̐́̀ͩ͑̐ͦ̕U̶̢̠͇̬̹̰̻͓̝̠̗͇͇̰̖̓ͥ̓͗͆̔̓̔͝͞S̵̡̺̮̞̞͉̲̻̖̭̰̻̯̘͉̠̹͇̖̜̃ͧͤ͢͠ ̷̷̨͎͍͕͖̳̹̌ͣ̐͑ͨ͌̾̉͑ͯͫ̕ͅꜱ̵̢̧̙͉̭͚̫̱͎̻̩ͧ̆̆̎̾ͧͪ́͞ᴛ̴̭̙̥̪͕͉͖͓͇͇̝͚ͪͩͬ͛͗̇̇͋̚̕͞ʀ̧͙͕͙͖̼̣̙͇̟͍ͧͣ̄̓͆̐̋ͬ̐͋̈́ͫ̓̇ͯͥ̌̅͜͡͞ͅͅɪ̧̙͓̦̬̦͆ͫ͑͛͛̎́͘S̢̃̏̓̐ͦ̽͗ͥͬͮ̎̉̎͂͏̡͔̱̞̼͎͘ ̧̪͇̝̟̠̱̹̪ͤͩ̓̋ͨ̀͝͠H̷ͭͫͧ̄̊͋͆̇́̾ͥ͑҉̕͡҉̖̫͓̮ᴋ̻̺̯̥͕͓̱̙̭͔̝̪̮̼̪̫̺̲̣͛͊̒̉̏̊ͮͪ̽̌̀ͬ͌̀͘͞ᴇ̷̊̑ͧ́͌̄̃̎ͣ͑͑̽͏̶̰͈̖͉̹͇̤̞̭̖͎̝̫͙͍͙̝̣̘́͜ ͬͨͧ҉҉͖̰̤̞͍̟̣̮̪̠ͅʏ̷̶̫̲͚̙̬̮̝̮̋̾ͥ̇͗̀̂̄ͧ͛ͩ̃͐̉ͯ͊͂͢͜͡ͅᴇͦ͛̇ͣ̑ͨ̈̔ͧͩ̓̐̽́͏̙̥͙̞̣̗̣̮̼̜͟ ̶̸̢̦̞̤̯͕͚̞̳̠͓̙̖̟̰̲͚̍̄̉͒̑̈́̚͞ͅᴅ̷̵̸̶̟̟̦̦͇̘̗̜̗̬͖͚͇̫̪͎̞ͣ̌̀̿̔͊̌́ͧ̾̏̌ͅᴇ̟̘̟̤̥͉͙̭͈͕͕̣̍̍ͤ̽̄͆͜͢͞ᴀ̨̲͉̘͉͎͉̰͎̩̰̬̿ͧ̌̃͟͜ᴅ̢͋͋ͩ̄͊̌ͫ͒̑́ͩͧ͑̆̾̀͏͇̞͇̱͎̫̭̩̻̗̺̤̲̪̺ ̰̮͙͍̙̭̩̗̞̳͖̣̦̭̦͓̬ͫ͑̏ͨ̓̓ͧ͗͒̌̀͜ͅᴡ̟̜̮̭̯͕̻̯͈̥͙͉͙̱̙̋̎̅̓ͥ̊ͮ́͑̌ͪ̋ͪ̑̌̋͆͒̕͘͜͠ɪ̶̰̙̮͓̙̄̏͐̎̏̇̒̈̓̏͜ɴ̨͖̦̳̰̦̯̻̯̟̙̙̰̼̮̗͇̟̣̔̀̅ͭͨͩ͌̿͟͢Ẻ̥̤̥͔̰̹͉̦̲͎̹̲̝͇͎͎̫͔̣̌̇̉͛ͧ̀ͯ̋́̽̎̾̿͞͞ ̨̗̥̬͎̳͍͙̞͓͖̌̇́̎̆̓ͣͯ̀ͧ̊̃̅̎́D̴̻̭̫̣̹̫͙̤͎̿̅̅̃̓͋ͪ̾ͣͦꜱ̢̛͓̗̫̺̝͚̓ͨ͆̏͛̽̿ͤͯ̔̑̃ͨͣ͝ʟ̴̶͔͚͚́̔̃͌ͯ̆̂̉͆̊̒͆͆̎ͮ͊̑̚̚͡ᴏ̠̰̬̠̩̹͈̤̤̮̙̩̗̞̝̾̏͛̊̊̄̍̈̈́̌͆̃́͌ͨ̎̂́̚͘͡ᴡ͔̘̯̫̰͍̙̊ͬͣͤͣ͑ͬ̈́̉̄̍͜͢
+
+0:20:16.540,0:20:17.300
+̵̻͙̹͓̫̯͕̗͖̻̟̗̻͈̩͚͔̻̓̓̅ͧ̈́̒̂͝ͅŜ͆ͭ̅ͮ̉ͦ͏̵̢͚͔̯̰̲̯̙͈͔̟̪͈̱̳̦͜ ̶̩͍͈̬̻͆͛̔ͦ̈̽ͬ̂͟͢ ͈̺̖̻̖̥͓͇̜̹̭̣̹͎̜̪͔ͩ̍̀̇̔ͣͬͬ̾̓ͯͨ͟Ĭ̛͙̝̱̫̞̬͕̣̩̻͉̲͉̼͖̟̹̫͆̃̌̍ͫ͌̓̌̑͐̐̅ͣͤ̓͜͡ ̨̿ͥ̊͊̎̈̐̋̈́̐ͭ͐̐ͮͬ̅̃ͫͮ̕҉̲̬͇̺͉͇͍̮̜̟̮̮͚ͅ ̷̶̸̨̨̤̮̭͕̦̤͇̹̯̜̠͉͓͍̱̼͕̮̺̬̱̭̻ͪ̐ͯͨͨ͊͛̀̀ͥͪ͊̐̋ͥ̆̀̀̚͜͠ʜ̵̨̬̲̯̠ͯͤ̈́̀͑̈́ͣ̽̃̔ͥ̎̚͘ᴀ͉̝̤̘̼̙͓̘̹͇́ͨ̓̄́͒͑ͯ̒̄ͣ͐̇̐ͯ̉̌͜͞ʀ̶̴̧̖̬̻̫̟̦̞̲͕̦̤̮͕̦͑ͪ̋̀ͥ̀͡ͅBͬͣ̊̽̈ͬ͛̏ͧ̐̒̕҉̵͍͉̯̤̼̝̼̪̤̤̞͈̬͉̘̩̻͟ ̸̈́ͧͦ̚͏̘̦̤̭͔̺͍̜̗̳̰̪͈͍̘͙̦͈̕͠ ̵̴̴̨̬͎̥͙͚̯̯̗̳̯͉̻͚͓̰̰̞̤ͩ͆̐͆͊͛̓̽͂ͫ͐ͧ̋ͤ̚͟ͅE̸͈̼̩͖̟̻̣͕̘͈̯ͫͭ̓̓̇͆̿̂̐͑ͤ͒̚͢͢͡͝ ̴̸́ͯ͑̇͛̀͑̈͂̎̋ͨ͊͜͏͙̬̻͇̤͉̯͔̙̫̠̲͈͙̘̗͇͢ ̵̨̐̌̒̆̊͘͏͏̰̤̜̯̘̹L̳͔̰̣͙̙͖̜̥̘͚̪̦͙͇̆̔̏̃̔͑̎̂̍̄̂̀͜ ̴̢͚̬͔̳̠̩̝̰̺̤̘̮̒ͭ͛̔͆ͭ̂ͭ͘͟ ̵̡̡̧̠̺̰ͧͮ̋̊̃̏ͧ͊͋ͭ̆̚͡ͅI̶̶̻͕͖̯͙̣͓̠̼̤̙ͯ͋̓̿̕ ̺͔͓̙͉̺̼̜̘̰̝̟̦̜̬̫̥ͤ̓̆̈́̒ͥ̃͛͑̐̎͂̃͌̀̀̚̚͜͞ͅ ̵̶̶͕̖̲̰͍̳̯̥̱̳͈̥̓ͮͪ̊̌͗ͨ̐̑ͮ́ͅŮ̱̣̜̬̬̘̲͉̥̠̪͖̜̤̭̙̖ͦ̈̀ͤ̏̂̿ͬ̕͘͜ ̏̍ͮ̄̎̏̏̓̔ͧͩͥ͏̸̶̪͇̞̣̪͕͟͞ ̧̮̙̼̼̖̲̯̑ͯ̊͂́͟͠͠S̴͉̭͍̘͇̠̲̣̞̅̊̏̍̓̂̒̄̿̎̈̆̎̾̉͋̄̃͘͡ᴋ̶̃ͩ̍͂̽̽̒ͦ̽̏͑̔ͤ̒ͥ͊͏̮̹̰̗̱̱̥̥́͜ ̴̗̝̱̰̥̟̝̯̬ͣ̑̀ͩ̒ͫ͗̇̑͘͝ᴛ̨̛̖͙̙̪͔͖̩̯͓͙̹̺̎͋̃͒̈̾͊ͩ̽̊̽ͦ̌̌̍̋̋͘͢ʀ̶̢͕̝͓̣̝̗̥̜̳̘͇̝͈̺͉̹̌ͪ̒͂ͪ̒ͣ͗̈̆ͪ́̔ͨ͂͝ ͊̿ͮ̿ͥͮ̇ͭ̅̾ͯ̋̔̌͘͠҉̻̳̭̩̦̥ ̽̃̉ͯͤ͏̴̨̳͙̭̠̯̫̭͇͕͓̭̖́͜ ̸͈͖͓̱̥͓͎̗̏̍ͯ̓̃̿ͤͨ́̕͠ ̧̨̛͓̖̱̗̼̭̪̹̟̤̗͓͎̪͙̗͈ͥ̈́͛ͯ̉͌̏̐̕͢ͅ ͬ͛ͨ͂ͬͨ̅ͦ͗͂ͩ͐ͩ̏ͭͦ҉̳̖͎̦̜̪͔͍͖̦͉̪̩̖̞̦̬͢ͅC̷̻̱̖̮̬͍̲͕̺̟̩̫̦̘̬̞̯̖̗̐̐ͤ͠ ̶̴͕̠̭͉̜̩̯̲͉͈͉ͮͪͦ̓͌ ͉͈͎̥̭̩͙͕̠̻̼̝̦̠͑̈ͥ̽͗̔ͭ̑̅ͤͯ͘̕͘͟R̨̛̳̦͕̜͎̩̹̱̣͉͎̣͇̝̝̮̘͂̂̂̾̈́̊̒́ͭ̈́̈́́̚͝ɪ̶̟̰̙̜̲̦̘͓̩̟̯̫̟̝̤̤ͩ͋̈͡ᴛ͚̱͍̜̭̭ͩ̏̋̑̄̔͆ͣ̈ͫ͐͆̑̄̑ͩ̑͌͞ᴏ̢̟̣̭̩̰̝͙͚͕͇͈͉̙͌̌̈̅ͭ͗̂͊̄ͭ͒̿̚͜ɴ̸̛̛͖͎͖̗̹̹͔̭͍̐̿̈́̄͒ͨ̏͜,̧͈̣̞͎͈͖̹͉͔͖̟̽̿̓̅̏͋̈́̌͗̅̃̃͌̿̋̄̆̀̚͢ ̷̯̪͖͙͖̲̜̖̣̳̠͓̼̫͖̫̤̤̞ͤ̄̒͂̅ͧͨ͊́̾̈́ͨ̅̇̑̈́ ̷̡͍͈̫̯̦̻̦̈́̌̓̃͗ͮͣ̈ͩ͋̈͑͒͗͐̎̈ͧA̸̛̍ͪ̔ͥͭ҉̷̧̭̬̪̭͔͈̬̣ ̶̢̥̳̳͍͓̰͔̖̜͐̅̓̍ͣͬ̏̓ͩ͟͠ ̒ͮ̽̀͘̕͏͖̜̗̗̦͎̜̙͔͔̟̠͟͡S̀͛͑͆̎̃̊͋̽͛͑̽̂̓͏̶̵̖̜̙͔̬̼͙̩̗̣̀ͅ ̵̸̫̯̖̤͍̟̥̥͙̮͕̇͌̔́̆́͟͢ ̴̤͖͇͕͚͕͙͇̟͚͚̩ͫ̓̿͑ͫ͋̅ͧ̍ͭ̆̆̚͜H̶̶̡̦̗̘̮̘̳̹̦̗̏͑ͦ̌͒̽ͣ͊̓̀͌͗̀͡ ̵̶̵͙̖̼̫̱͉̖͓̬̗̜͎̻͚̳̔̽͑̉̉ͥ͒̉͒͗̉̚ͅʜ̨̳͔͈̲͕͇͓͎̮͕̤͈̼͍͇̥̞̥̒̒̐͂̍̋ͣ̅̊͗ͮ̓ͯ̅̑͛ͣͨ́͜͜ͅᴀ̶̢̻̤͈̞͇͉̻̯̬̦̫̩̣͛̃̇̈̄͆̆͘ͅʀͯ͗͐͊̊̐͌̓̀͏́͏̙̙̺̯͖̥͈̳͚͓̠ͅᴋ̷̱̯͎̠͎̮̦̗̱̓͂͗̃̀͢͡ ̵̢ͦͮ̆̌̆͐̋ͬ̃ͦ͞͏҉͙̪̘̯̬̖̯̭̺̪̣̮̣̦͍̯͉̜ͅEͫ̆ͯ̍͒̈̋͋́͘͏͉̘͇̬̠͈͙̰͍̭͓̟̖ͅ ̡̢̨̯̰̱̩̰̺̱̬̥ͤ̓̊͋̍ͨ̈́͑̎ͯͭ̓̔̀̚̚͝ ͌̏ͨ̽ͨ̀ͧ͗͑̌ͣͭ̽̔̑̒̅ͭ҉̸̤̙̻̗͓͎̜̞͍̜̬̤̟̻̰̼̻͟ ̸̜͔̙̟̤̭͓̣̫̥̺̋̿̋̎̒̇̐́͟͠͠ͅD̷̸̛̮̘̖͓̗̝̺͎̗̹̜̳̥̺̰͊̍ͦ̌͑̎͐̎͐̄͆̇ͬͤ͂̈̒ͦͤ
+
+0:20:17.300,0:20:18.040
+̨͚̩̰̫̟̻͙̞̺̈ͩ́͒ͮͣͪͯ͝ͅS̴ͨͧ͑ͨ̊͒ͫ̄ͮͭ̽ͦ̉̈́͛̏̐͏̩̰̯͙͔̹̦̪̫̫̮͔̪̗̀ ̶̹̟̰̠̼̣̪͙̘̻̮̜̙̖͇̹̼̐̎̽̌ͮ͆ͣ̑ͮ̊̍͟y̴̷̧̡̖͕̬̤̪̻̱̭͖͈̲̦̩ͮͩ̈̌̒͋̒̅ͭͅe͐̈͒ͫͦ͗͑̀ͪͨ҉̞̦̤̲̗̻͖̝̫̞͞͞r͔̫͎̬̼̹͇͓̲̳ͫ͋̈́ͦ̍͑̄̏ͣ̂͑ͮ̇ͤ̀̓͟͜͟ͅ ̈̆̀̒̿ͦͯ̒͛͛̐ͮ̄͛̚̚҉̸҉̧͔̤̱̱̭͍̣̩̠̼͜Ḭ̶̗̯̳͙̾͛ͦ̒ͧͣͮͩ̋̂̚̚͡ͅ ̡̢̛̮̘̟͚̊̉̎̾͊ͦ͊ͨ͂ͥ͐̂̑ͫͯͮ̾̾̚͘͜f̶̢̛̖̰̼̯̯͚̰̤͈̰ͤͧ́͑͑͋͂́͜o̐̊̔̐͐͋̌̔̀̃͊̀́̚͏̙͙̫͙̤̺̳̺̣͘n͌͛͌ͮ͋̃͂̇̌͏̛̦̳̻̙d̸̳͍̘̪ͤ͊̾͌̅ͥ̉ͦ̾́ͫ̐̔̏̋͑͝ ̶̮̦̘̼͓̻̼̙̹͔̺̭̬͔͎̙͈͍ͬͥ͆̾̾̕͟Ḅ̡͖̼̙̰͉͈̟̙͇̣̮̈̃ͦ̎ͪͨͧ̎̅̇̑̒̋ͨ͡ͅͅ ̧̈́̌ͩͧ̌̉͋ͥͩ̎̽ͮ̿͌̚͘͏҉̘̹̝̰̲͍͎̬̱̱̦̬̭̱͉̥͙Éͪ̃̔ͧ̊ͧ̅̓͗̓ͩ̎͂ͧ̾̍ͧ̀҉̤̜̣̠̮͖̥͕̞́͠ ̷̲̹̘̯̠̮̹̘̝̩̣̯̫͖̩̺͈̤ͪ͆ͣͥ̊́͝L̫͓̟̦̜̝͓̥̳̥͉̲̪͓̤̳̳̣̾̓͑ͤ͑̆͟͡ ̸̢̝̗͓̺ͮ̅͗͋ͣͥ̔ͮ͐̎̍ͬ̄̚Ï̶ͨ̐ͤ̐̌̎̈̾̽̋ͪ̑̔͏͈͉̩̺̫͈̩ͅͅ ̞̙̯̻̜̭͊͆ͣ̓̋̃̃̉̉ͯ̒ͪ̓ͧ̕͝ͅǫ̱̺̘̲̹̞̝̭̜̗̐̇̈͌ͫ̒͛ͨͩͣͧ̂̿ͬ͌ͭ̆ͥ͝f̸̛͈̗̻̝̓ͫ̑̂ͨͭ͌̉̉ͧ̾̉̈́͌͑͡ ̢̑̍̽҉͎̭̠̥̹̜͓͎̬̗̗̣͖͈͔̲̗͜Ȗ̸̸͇͈̣̺͖̺̖̮̗̘͚̤̻̬̥̀ͬͮ͌̊͞ ̷̴̼͚̻̬̝͚̣̖͔̯͔̪̬̻̝̟̤̰̌͋̍ͧ́ͨ̆ͩ͊̾͂ͦ͌͟͢͠ ̶ͯ̽͛̒̇͊͒̋̄̍̃ͮ͑̾̈ͤ͋ͧ̐͞҉͇̮̼̺̘̰ͅŞ̷̩̘͚͕̮̘͎̮̤̫̙̳͎̅ͫ̀̊̾̊̆ͩ̍̆͐ͭ̾͂͗ͭ͐͟͢͟ ̢͇̹͙̥̰̠̖͙̰̊̉͗̑̀̔ͭ̽ͭ̽̇̏̌͢͝͡ṁ̩͈͈̰̳̜̮̹̘͙̲̪̝̠͙̋͒̔̈̕͘͝͝͝ȩ̉́̆̇̈̽̔͗̉͝͏͔̝͖̘̪ ̡̿̈́͂́͏͍̯̺̘͠ ̷̼̣̼̙̑̒̆͒̋̐̎ͭͩ͌ͦ̈̊͘͘͞͠C͖̟͓̭͖̙̜̟̱̘̫̫͖ͣ̇ͣͫ̎ͦ̊̇̿͆͌́́̕͢͠ ̷̯͕͉̜̞͎̖̫̘̱̰̱̲͕̲̇̓͋̐ͭ̃͋̊̍͆ͮͦͥ̋͒͘ͅ ̵̶̾̐̉̎̎͛̿ͫͪ̅̏ͪ̕͝͏̝̪̩͇̮̜͍͙͓̬̺͓̞̦ͅŖ̵̴͓̲͎͓̭͉̯̙̝͎͂ͦ̇̇̃̂̊́̽̒̔̂͗̍̊̎͑́̚̚͠ ̡̥̗͉͚̤͇̣͓̜̭̩͕̬̀̔͌͒ͩͧ̏̅̉͋̿͛̑̑ͯ̎͜͜ͅl̢̙͕̺̯̮͉̪̥̻̦̊͋̔ͭ̋̈́̇ͥ̐͘o̴̸̧̘̮̜̝̝̼̮̙͙̤͕̫̎̾̆̌̔̌ͧͣ͑͢͟ͅb̸̴̨̢̤̬̮̥͚̮̱͔͍̭͉̭̮̱͚̥̱͕͒ͯͧ̔̔̋͑̈́͑͛̿͢ ̡̐͗͊̾̒́̿͏̵̛͏̣͉͖̰͎̣̳͔͈ ̖̝̪͚̤̦̼̻̝̪͓̭͕̹̆̑́͐̌̈́ͅA̵̴͚͈͈̪͉͖̭̔̏́̊́̈͝͝ ̋̔̒̓͂̀ͦͯͣ̆҉̨̙̦͔̫̗̹̣̯͎͎̭͔̝̫̝̯̻ ̷̭̺͔͍̲̠̮̼̲̼͓͉̝̯̠̈͛ͭͯ̌͆ͣ̄͡S̸̛͙͈͙͎̰̼̩͛ͨ̄̂͌̃ͥ̑̏̊͂̃͊̚̚͠͡͝ͅ ͚̣̗͓͓̝͙͇̬͖͉ͥ̍̅ͭ̋̒̇͋̍̈̅ͨͯ̂͌ͬ̀s̷͕̻͖͈̔͒̒͑̽̊̐ͥ̽͐̓̾ͨ̕͞͞t̷̲̞̤͈̗͎̯̥̠͚̟͔̭̱̖͎̥͓͆̔̄ͬ̎͌͂̾̏͛ͤ͗͛ͮ̑ͅe̡̨̗̮̤̪̬̹͖̫̹̰̪̱̳̰̮ͥ̓̇̃ͫ͂͞r̶̡͙̼̪̜̙̥̣̭̱̙̪̱͔͍̯̀ͣ͗̔̔ͭ̅̃ͪͤ̕͟͠ ̶̘̰̜̲̜̺̼̱͚̮̫͚̝͆ͪ́ͦͩ͛̉̽͂͂̅ͬ͡ͅ ̷̡̲̩̗͌̄ͦ̒͐͊̆̿͊̐̃ͬ͟͟ͅH̊̏͐̀ͦͣͨ͏̨͏̵͕̜̤̙̱͈͉̹ ̝̥̟͍̹̪́͌̀̕͞͡ ̶͍̱̝̞̙̙̥͖̺͇́ͧ̿ͧ͆̄̽̎ͥ̓́̕Ĕ̵̛̝͉̠̭̱̹̯̭̒̿̆̌̊ͥͦ͆ͯ̂̕ ̵̰̻̟̟̰̘̥̝̈̿͑͌ͨ̂ͮ̏͆ͣ̎͢ͅaͯ̈́ͯ̇̿͐̔́ͣ͏̷̧̗̫̬̼̯̘̺̗͚̘̠̩i̘̘̼͇̹͗ͫ͊ͬ̑̽̓͛͛̍͘͟͟͡n̷̽͆͊̓̓̐̏̓ͩ́̌̿̿ͪͬͥ̎̕͏̙̖̲̟͔̪͉̞̜͈̜̞̦̱͘tͪ̀ͥ̈́̉ͧ҉̼̖͖̩̤̬̮͎̫̹̫'͉̦̟̳͖̤̲̲̫͔̅͗̒ͫ̌ͦ̆̑ͭ̚̕͝ ̶̨̛̺͉̩̦̪̫̺͇͔̱̠͇̯͕̱̺ͯ̀ͤͧͤͥ́̌̓͊͊ͥ͡y̵̡̡͚͚̜͈͓̦͚̞̤̑̒ͫ̾̔̂ͪͨͧͤ̊̉̿̊͟e̜͕̥̬̯̺̗̩͚̜͎̹͉̹̖͖̫̮̍̇ͣͪ͐̽̇̐͐̀̈́͜͟ ̫̝͚̠͇̭͖̲̮̲̫͊̉ͥͪ͊͂̍̏̄͌̓ͩ̍͘͜
+
+0:20:18.040,0:20:18.840
+̢̢͈̺͉͔̞̙̞̹͖͚͍͕̘̘ͧ̈́͌ͭͩ̎͌͗̓ͮ̆̓ͨ̄̾̉̚̕͠ͅͅS̶̡̛͚̻̘̞͖ͫ̿ͧͮ͒͑̆ ̴̡̘͉̗̘̬̯̬̬̟̇̈ͪͬ̈́̏̑̑͌ͩ̑͛͌̆͝͞͡Ṡ͌̄̽́̎̊̒̂͐̐̉ͤ͏̘͈̦͖̹̩̱̬̻̥̱̩̠̜ͅą̼͓̯͚͖̹̞̝͔͓͋͊ͣͭͪ̂̊̐ͩͯ̄̃͛̋̍ͫͣẙ̵̵̛̗̤̤̩̗̹͉̠̪ͬ͛ͧ́̉͑̅ͦ̚͝ ̢̛̛̬̫̞̮͙̺̩̹͖͎̖͓͇̰̖͙̇̂͛͗͐̔͗̓͛̀͝ͅͅͅi̤͙̺͕̯̭̫͕̹̇̈͑̀ͧ̇͒̚̕͘͜͢ͅͅṫ̢̫̯͚̗̯̝̩̉ͫ̾̾̃̀͜ͅ.̵̰͇͙̲̳̯͎͖̖̗͙̦̔͐̓ͤ͗ͦͧͬͣ͐ͥͭ̋ͣ͆̚͞ ̧̙̭̗̗̪̼̺̲̬̮̦̥̥̪̪̜͇̞̝͆͆ͤ̽̅̃͂̓̓̃̋̂̔̍̂̊̀͌͠͞I͉͎̼̖̣̺̭̣̫̒̇͐̓͊̈́ͨ̈̓ͫ̅ͯ̇͞ ̃̔͛̆̉̓̽̆̂͆̈́͆̒́͛̽̈̋҉̸̞͔͖͎̻̗́͟B̧̰̹͎̺̙͖̙̣̤̫ͧ̓̑̒́͑͜͟͞ͅ ̡̯̲͍̻͕͈̹͎̘͖̼̻̭̜̬̗̐̈̌ͯ́̄͐̏̂ͭ̍̉ͮ͒̍́̚͞ͅẼ̷̴̡͚̤̭̼̯̯̗̮̘̜̬̣̻̜̍͗ͫ̓̓͋ͣͫ̐̂͌͠ ͔̰̖̜̐̂ͫ̑̈́ͨ̀ͤ͐̃̆̓̀͞L̴̛̮̯̖̯̪̤̬͔͈̳̼̭͕͖͇̍̂̂ͬ̋̈́̃ͩ͋̈̋ͭͨ̚̕̕͜S̶̢̟̲͙͇̮̊̈́̋̉ͨ̈́ͯͥ͂̋̂ͩ̃̐̀͘͝a̵̡̧̼̟̳̘̳͖̪̯̬̼̮̺̰̺̞̔̅ͦͫ̅́ͦ̑̎͒͒̒͆̂͌͊̕͟ỳͩͧ̂͆͞͏̯̦̗̲̭̖̥ ͚̫̬̼̤̰̂̈̊ͫ͂̀͜i̧̮̜̣̲̬̮̱̖̖͖ͮ̐̔̃ͦͥ͋͐͋̕͟͠t̨̧̡̺̻̜͚̖ͨ̀ͭ͋ͮ͜͡ ̷̨͙͇̫̱̜͓͚̲͚͚͙̭̱͎̺̃̃̽ͯ̒̍ͬ̈͐͒ͫ̈ͨ͐̍̒ͤ͋͢Ǐ̧͕̥̠̬̪͈͕̩͆̋̈̎͆̒͡ ̑̂ͯͮͭͪ͐ͪ̍̌ͫ̾̿̓̋̉̑ͧ͜͡҉͖̱̣̳͖̥̘̪̝U̴̡̩͓̭͓̲̱̯̾̓͛̈̎̑̊̇ͧ͊̏͂̋ͣ́̚͞͠ ̛͓̥̯͚͔͕̣̼̖͇̤̝̗̟̰̿ͮͨ̈̄̾̍͗͂̌͊͢͡ ̷̛̄ͥ̾̀̉͛̅ͨͭ́̈́͋̃̐ͩͤ͛̃͘͝҉̣̤̺̯͎̥̥̭ͅS̴̷̶̟̦͎̼̝̳̓ͧ̒̂́ ̡̡̱̮͖̥̹͔̯͉̘̻̪̱̗̍̌̎͐͌͜ͅCͦͭͣͭ̑̑́̋͂ͪ̌̉̀̾ͪ̊̐̿͊҉̣̼̠͉̲͔̠̟̤̭͍̺̮͠͝Ş̿̽̿̑̌̄͏̙͖͚̰͇͈͇̮̪̠̜͇̠̖̺͡ͅͅa̶̻̝͈̼̝̖͇ͮ͊̋ͧ͞͞y̴̨̬͈̮̺͈͎͈͙̬͔̗͎̱̱͍̦̰̺̱ͭ͑͛́ͦͩͭ͊ͪ͋͘ ̢͕̘̰̝̰͕̮̀̂͗̅ͮͨ̈́̈̄͒̑̀ǐ̶̵̡̢̟̙̥̣̤͆̃ͨ͐̍͑̃͊͑̑ͦͥ͢ṭ̢̰̤̮̘ͬ͋̿̔̑̈̉̆̎ͬ͋̑̑̿́͝ͅ ̘͉͔̳̤͇̝͉̞̩̯̻͐͐͂͡ͅ ̵̸ͮ̇ͦ̋̉ͨ͂́̋̊ͣ̓̿҉͙͎͕͓͙͟ͅR̶̗̦̟̯̝̦̳̣̯̱͉̲ͫ̈́ͮ̄͒̿͊̆͐̅̊͒ͦ̍̀ͦ͂͞͠ ̨͂ͩ͋͂͛̔̋ͤ͂̈́́͊̃ͧ̉͆͌͝҉̸̠̩͕̠͚͈͖͎̫̜̳A̍ͨ̊̇̃͏̪̝͎̞̘̙̬̝̞̜̘̰̣͇̹͈̬́͜ ̷́͂̃̆ͫͧ̆͐͛͐ͤ̔ͥ̑҉̜̦̮̞̻̠͈ ̧̯͚̲̺̱͔̻͖͉̟͚̝͎͈̍ͤ̐ͩ̔̎̂ͬ̈́̿͑̋̋̋͞S̵̨͚͍͇̻̩̣̲͈͔͍̤͉͉͖͇̻̻ͭ͂̅́̂͊̀͗ͥ̇́͒̕͜͠ ̢̡̩̗͚͔̫̪͚̼͙̻̪͕͙̰̞͕ͫ͋ͫ̆̀̓̓H̴̵͌̂̇̀̽̂̕͠҉̣̞̹̟͔̝̻̦̥̪͎̙̭̳̯̭̼̥ ̨̱̤̘̈́̈ͫͭ͐̈͋ͨ̋͢͡͞ ̛ͬ̏ͦͩ̓̎̿̒̔̈́͂̚͢҉͏̘͇̣̬̙̟͙̗̙̮͖̰̪̹̤̘E͙̭̼̖̻̜͎ͫ̔̓ͭ̂̎̋̽͡͡ ̈͒̽̊̌҉͍̳͈̮͕̖̯̺͓̪̞̤͎D̸̠̪͕̘͕̦̤̣͈ͯͪͭͥ̐ͣ̆̃͌̄̓ͩ̉ͫ̀̕͠ͅ
+
+0:20:18.840,0:20:19.680
+͖͈̠͔͓͔͍̫̘̳͇̪͉͔͔͓̩͖̅̇͛ͤ̉̿ͬ̀͗̇͐́̚̚͞ͅS̴̛͕͓̘͉̭̮͕̣̊ͦ͑͂ͨ͟͡ͅ ̧͐̂̈̉ͬ̍̏̑̑ͯ̆ͧ̉̈̓͆̈́̓͋͘͏̡̧̺̺̣ ̣͕͚͋̋͐ͦ̄͋̓̂ͪ̃̕͘͟ͅ!̶̥͎̤̤̜̞̦͍̗͉̙̙̯̺͉ͥ͂ͮ̆ͫ̍̇ͯ̃ͪ̑͒͒̌͌́͘͝ͅ ̺̥̬͔̞̥͉̠̇ͭͪ̐̎̅̐ͪ̈̿̓͛̃͐ͫ̓͘͝I̛̲̖͚͓̲̘͓͔̞̖̪̲̹͉̥̖̯̘ͭ͌ͪͪ͑͆́͟!̢͉̖̼̭̥͉̗ͯ͑̀̔͒̆͌͊ͨ͋̍̅̿́̽́́̚͜͠ͅ ͭ̔̌̑ͮ͋͒̈̋ͤͭͫ̊ͤ́͏͇̟̹̮͖͎͙͇̺̦̭͎̭͇͇̻̻́͜ͅͅBͧͤ͗̌̽͆ͮͤ̏ͣ̔̉͒̉̎̉ͯ̚͠͡҉̪͎̪̠̻͎̙͈̜͉͔̪̠̰͝ͅͅ ̶̵͖̝͕̫͙̗͖̯̤̦͔̖͚̣̈̋̎́ͯͣ̀ͫ̽̍̈́ͫ̇͒ͣ̔ͫͅ ̴̶̮̠͉̹̺̹͚̬̟̰̘̝͍̳̍̅̈̀͊̋ͪͨ̓͂̿́͞,̊̃́ͣ̏̌̌͂̄̏ͬ҉̡͔̦̙͔̜̼̟͘͘͝E̿̓̊̒̆ͩ͒̚҉̶̛̼͚͉̼͓̲̜ ̈͌ͦ͆̄ͪ̑̓̋͋͐̈͏͝҉̶̰͎̱͈̳̜̠̗̦͚̰̙̝͚̠͙^̧̡̨̢͓̜̩̜̆̅̓ͩ̀̿ͮͪ̓̋͜L̴̛͕̦̯̬͚̙͖̪̺̼̲͓͇̝̺͕̖̤̍ͧͩ̎ͪ͒̽ͦ̅ͧͤ͘͜ ̷̰̮̲̝͎͔̻̻͍̟̝̲̜͙͓͒ͣ͊̏ͮ͗̔̎̋̊ͥͭ̄̐̽̊͆́͡ ̵̺̜̥̲͓̫͍̟̣͖͚͍̭̪̜̺̀̆̎ͣ̾̚̕͘İ͈̗̱̩̝̙͓̗̦͍̼̭̬̀̆ͨ͘͟͞;̶̨̓̑̌̎ͥͨ͞҉҉͎͉̜̘͇͍'̴̲͕͍͍͔̼ͫ͆͐ͭͯͧ̚͢͝ ̵̨̛̼̲̥̱̺͈͉͈̘̞̠͙͉̮ͭͬ̓̀̿̐ͥ̎͛ͭ̀͌͞Ų̞̣͙̮̦̪̼̰͈͚̙̪͔̂̓̈́̈́̏ͣͫͨ͂́̀͝4͐̏ͭ̎ͬ͗̐ͭ̽ͯ̀͡҉͏͖̮̬̬̼͚̼̭͈̞̭̼̗̬̪͘*̶̶̨͍̤͔͓̪̯̘̮̙̜͚̠̯͈̃ͫ̔̐̃̎͋̽͑ͯͩͨ̌̊͒ͭ̓́8̴ͨ̽̅̌̅̽̃͠͝͏͔͉̼͔͚͚̗̺̻̩͉͚̻̮ ̓̑ͤ̿ͤͬͮ͐̿ͨ̽̀ͯ̇ͩ̑̋̕͜҉̰͓̤̭̟͙̺͈͇͈̩͉̲̯͙̹̺͔ ̶̺̬͍̻͓̱͕̤͚̜̘͓͈̠ͣ͗̈́̇̄ͤ̐́̌̈̉̆ͣ̎͑̚͟ͅͅS̐̈̋̏͑̍͏̣͔̬̼̙̖̩̺̖̲͘͟͢ ̧̧̡̠͚̲̯͓̬̻͍̪̦͕̪̼̘̈́̐͐̀̿ͧ͂͊ͦ̿̽ͣ̑ͅĊ̴̴̘̫͙̖̱͈̥̮̗̠̭͉̆͂ͩ̋ͬͪ̈́̎̂̉͛̿̾́[̂͗̌ͯͥ̇ͨͨ̾̀̿͋̀̊͛҉̴̶̧͔͕͕̱͈̬̪͓̫̯̯̤̺̖͎̺̯͟/̷̘̙͚̟̠̩̮͇̣̜̈̂̃ͬͬ͊̽ͩ͗̓ͬ̽ͥ ̡͓͙̠̫̹̩̬͙̱̱̩̖̖͍͉̜̩̂͑̊̽ͩ̓̀́̀͡ͅḒ̶̴̵̺͎̫̜̻̬̭̯̘͕̖̫͈͓̠̳̥ͯͨ͋͌ͩ͂ͬ͑̕ͅã̵ͨͮ̐͐̉͆̒͂͑ͫͨͪ̓̆̀̄ͯ͏͚̟̫͓͕̲͎͙̱͎̞̭̫̗̥̗m̔͐͋͌ͦ̌͌͌͋͊̈́ͩ͏̵͏̸̳͍̜̹̹ņ͚͚͎̭̤̙̠͔̒̾͊ͭ̆̉̊͑ͦ̀̚ ̢̛̝͓͉̦̺̦̭͎̞̭̮͚̩̜̣̈ͩͨ͑͛̆̔̄ͯ̽̒ͯ́͢͟ͅ ̴̴͔̖̫̪̠͈̜̥̣̠̯͓̤͑͌̓ͬ̈́̆͞y̷̛͔̺͈͖ͩͯ͆̐͗ͨ͐̇̓͞ę̢͙̳̼̻̬̗̳͙ͫͩ̒͝ ̴̣̲̳̰̦͔̖̽̊́ͨ͊ͩ̂́͘͝͝ ̛̗͉̣͎̅̔͐̉͋ͬ̃ͤ̋̓̿͢͡R̸̸̛̻̦̯̣̞̞͕̼̼̪̀̔̈͋͑ͣ͒͞ ̧̠̠͙̞͚̼̥̺̣̓ͮ̑̒̑ͣͨ͗͛ͥ̀́A̢̾͊̃͂́͏̢̥̳̤̩̘̮̜͚̖͕͎̞̘̥͡ͅͅ ͒̍̇̂̃͛̀ͮͩ͐҉̷̵̤̙̻̦͢ ̸̘̼̬̗̲̦̳̘̩̩͔̹͇͋͛ͭ̂͟͢͞ͅ ̛̿̓ͥ͆ͯͮ̑̋̏ͥ̏̄̊ͪ҉̵̶͙̫̭̱͎͎͖̹̥̭̣̳̖̖̪̣̀S͉̺͈̫̭͙̮̬̾͌͌̓̍̌͐̍́͘\̶̢̧̹̝̫͚̹̲̲͓̜̫̳̫̤̼̫̈͒̅̌̍̀̆͛ͧͭͯ͗ͥ͒̚͜͠ͅ ̴̢̯̠͚̱̭͇̘̲̲̙̙͖̰̹͖̊̽̏͑ͭ̚͜͞͞H̢̨̛͎̞̰͚̖͍͖͙̣̹͍̩̼͒́̔ͥ̕͟ͅ ̵̸͔̞̠̱̬̪̤̬̘̗̟͔͖̳̤̮̱̄̑̏͛̓͟ͅ ̡͚̻͕̳̟̜͓̩̦̺̲̤̙͐ͩ́ͬ̃̃ͩͮ̿̐͛̚͝!̴̛ͧͫ̏ͧͧ̀̉̅̔̾ͩ͋͋̋ͫ̍͏̵҉͇̯̙̘̘̭ ̶̵͕̼̻̖̻̻̦̬̟̫̟̮̺͎̜͕̖͖̙́̏ͧ̃̔̔ͨͧ̉̐͂̌̆͋͂́̀E̷ͧͬͭ̓ͧ̂͛ͥͤ̈́͊̇ͪ͛̾̊͏̨҉̖̮̝͚͓̬̟̼͚̤̜̱͈͍̺ͅ ̒̂͊ͦ҉̝͉͙̜̬̹̰̭̱̱̫̩̯̀́ͅ ̧̛̬͎͓͖̝̥̲̭̖̦̩̺̹̙̼̗͑̿̎̓͛̇͑̒͌ͭ͌ͦ̈́ͬ͛̓̍̓͘͡D̨̡̛̯̻̣̯̪̳͔̱͚͓̮͎͚̎ͤͩͦ͗͋̔ͫͫ̂̔͒̒ͅ
+
+0:20:19.680,0:20:20.500
+̵̷̤̩͕̬̯̆ͣ͋͐͗̓̎̚͢Ｓͪ̿̐ͣ̐̌͏̷̲͇̺̜̙.̶̴͇̯̯̜̪͔̩̻̥͇̫̈̂̐ͤ́̇̆̃̒ͫ̕͜ͅＩ̨̛͛ͥ̅̂ͧ͐̒͋ͯͨ̆̒͏̧̺̜̹̳̟̘̤̗̟͚͙͉̜̦͎̻̙ͅ.̴̵͇̦̠̭ͨ̐̿̄ͯ͗͗͢Ｂ̷̛͇̙͍͍̱̙̥͔͎͈̱͇͈̩̳̂͑̓̂̈́̂́ͩ͑ͥͧ͗ͬͦ̇͟͡͞.̵͕̥̭̬̠̭̩͚͈̻̤̲̮͎̦̐̌͌͊̽̔̆͐ͥ͊̋̓ͬͤ͂͐̂̑̀͡ͅͅＥ̶̴͖͖͖͈̳̖ͤ̋̌̌̿ͨͨͪ͐͂͠.̧͖̺̼̙̠͖̞͓̳̜̗̤̮̞̈́̍ͬͬ͋͆ͭ̽̄ͥ̀͑̊̀̚̚̕Ｌ͑͋ͭ͋ͣ̍̈̆̊̎ͣ̽͌̓ͣ͛̽̚̚͏̶̨̳̫̘̤.̫̖̰̞̳̩̘̮͈̲̬̻̮̲̓̇̅͛̌̔ͫ͌̇̋͝Ｉ̧̤͍̗̫͖̤̱̝̭̼̘̱͓̓̓̽̃̐ͨ̉̕͟͝.ͣ͗ͭ̉҉̶̼̲̺̪̳̠̬̘͈̹̖̬̞͕̟͕̙͡͝Ｕ̶̢̧̝͎͚͎̖͚̓͒ͤ̾͐̐ͬ̒ͭͪ̾̿̓̌̚͞.̶̬͓͈̰̯̮̱̮̑̔̇̂̑͋̂̓ͯ́̕Ｓ̡̻̠̬̼̗̲͍͉͕̣͔͙̤̮͈̥̜̋̌̿́ͮͬ̍̐ͯ̊ͧͯ͠͡w̿̿͆ͥͮͫ̐ͩͨ̌ͭ̓̊ͨ̊͛͢͞҉̗̠̗͍̗̦̝̳̥̠h̬̯̜̤̭̱̻̟̗͕̱̰ͥ̄̅̃͑́͗̀́͜ä̺͍̹̫̳̝̖́̃̈ͭ̀̈́́͠͝ͅt͙̥̰̮͈̺̬̠̝̝̜̜͕̱̥̥̱̒͗̂̾ͮͨ́̈́̎̿ͣ̆ͦ̽̌̉ͬ͂͐͠͡ ̶ͮͫͧ͒ͪ̋̎͑̑́҉̣̬̱͍̗̥͈͕͎̮͕̜̖̙̫̖́͞Ｃ̴̛̮̺̲̝̝̱̗̠̮͇͚ͥ̉̊̂̏ͨ͗̃͐̓̉̚͘͜ͅͅ.͊̈̍̎̋ͫͨͤͭͫ͐͂͆͐̽͞͏̸̝̩̬̜̘̯Ｒ̶̨̟͕̣̅̑̚̕͠.̡͈̪̺̟̫̼̯͙̗͓̰̘̣̃̄ͥ̌͊ͪ̿͌̐̐ͤ͟Ａͯ̈͊͒̎̽͑̉ͯ̉͂͊ͥ̏̈̚҉̨͏̪͙͈̤̜͉͓.̼̘̫̬̠̣̲̼̠̤̝̤̒͋̈́̃ͣ́̚͢͠ͅＳ̨̢̤̜͇̮̟̰͇̫̘̻̹̞̩̗͚̱̘̤͐ͦ͑̈.̵̋͌ͣ̀̂̀͑̏͌ͬ͏̶̩̺̦̩̝̟̬͎͠͡Ｈ̛̻̙̣̤̤̘̙̩̬̱̳̦͉͗͑ͦ͒͆ͣ͛͘͜.̜̺̫̠̫͈̗̻̫̘͕̟̺͉͖ͮ̅͑̎̓̒͐͒̉͘͜Ｅ̧̨̠͔͉̼̺̘͎͌ͮ͛ͮ͗͘͡.̶̤̞̙̻̗͉̱̊ͪ̽ͫ̈́̈̍̓̿̾̌̀͆͝Ｄ̢̢̣͓̙̙͉̩̬̬̩͚̤ͧ̏́̈͌ͦ́ͨͥ́͂ͪ͛͒ͫ̎͒́̚ͅ.ͬ͑̃ͧ͒̈́̐͌͋́̽ͨ͑̋͏̷̶̨̠̲͙͙̞͈͖̙̼̼̙͖͢
+̴̡̫͓̖͇͍͕̪̃̇͒̊̎ͬͮ̐ͭ̇
+
+0:20:20.500,0:20:21.060
+̴̢̼̗̗̖͔̭̠͙͖̩͉̙͉̺̭̟͎́̔̑͒ͨ̍̂ͭ͂͒ͭ̉͌̚̕͞Ş̢̻̲̩̙̯̦̮̹͔͕͉͍͎̯͙̱̒̋͂͑̆ͤ̅̋ͩ̾̕͢ ̶̺̦̭̰̩͚͍̥̫̪ͥ͂̆̀̾̃͌̈́̓͆̄̈́̋̕͝͝ ̸̼̻̮̮͇̟͛ͭ͒̑ͪ́͠Ĩ͊̍̊͜҉̢̭̫̠̤̗̙̣̤̼̰͈͖̜ ̸̛̫̻̹̲͍̟͇̱̖̩̥̖̮̮͙̒̾̋ͬ̅͆ͤ̄̉͗̎͐̉ͥ̚ ̨̨͎̬̪͚͚̯͍͉̳̞̯͚̞̪̭̠̹̱̌̉ͤ̔̌ͭ͑́͊̆ͫ̄ͥ̏ͧ̚B̶̨̂̀͂́ͧͧ̐̏ͩ͑͛ͦ̓̏̂ͮ͊̌͌͏͔̟̘̻̳͓̼̫̲͖̰̜̝̼ ̶̴͉̼͙̳̤͔̭̭̗̻̻͔̻̬͍͔͙͊ͦ̓͋̈ͩ̾͢ͅ ̡̧̨̬͍̦̦̼̪͚̪͙̗̗͙̅̿̉͂̅ͥ͐̉ͦͫ̋͗̍̕E̸̶͋ͩͪ̆ͫ͛͛̔ͯ̑̒ͫ̕͏̖͖̰͇̗̙̥͎͕͔̜̣̯͙̹̩̘ ̶̛̱̟̣̞̼̺͇̰̭̂ͬ̀̊͌̈́̎̈́̈́̓͗̆͊ͯ̊̍ͫ͘ ̴͔͈̼̞̤̗̥̺͈̳̖͙̦̝̑̒̿̀͋͘ͅL̷̸̨̝̪̳̟̲͇̣͍͓̤̫̝̪͍͕̹̲̝̙ͯ̏̋͑̉̆̕͞ ̢̨̢̰͖̖͚̣ͪ̾̂ͣ̿̋ͣ̎ͣ̓͌̇̄ͣ ̧ͪ̌ͣ̐͒ͭ̀ͤͭ͏̫͈̺̹͎͡Ĭ̛̝̰̳̠͇̻̥͖͔͇̬͕̗̬̠͉ͫ̌͊̃ͮ͂͛̈ͯ̑̒̚͞ ̨̡̨̧̭͖̜̤͙̹̦͓͚̠̰̬̫̣̫̭̯͌̎̇̑͗̈̑̚ ̨̖̗̙̥̙̺̗́͗̃̑̐̓͆͛̃ͭ̀͐̚̚͟͜͝U͂͗ͧ̒̉̿̐͑̂͊̏̒͊ͮ͐͘͏̞̘̲̺͓̳̀͢ ̵̢̀̎̑͜҉̷̲̹͕̟̣͓͚̪̼͓̠̭͕̤͇͚̗ͅ ̨̢̜̮̘̥̣̙͉̗̺̹̓̋̄ͯͨ̈ͫ̈́͛͛͗̉ͮ̽̀͞ͅS̡̡̢̠̩̲͓͔̮͖̳̈́̓ͭ̅͗̄̽̑̋̑ͫ̋ ̢̛̲̯̰̱̣̫͈͗ͮ̿́̕͝ ̹̦̥̗͙̩̳̺̗̺̒̃͋̈̄̒͐͆ͯͦ̇̈͗͠͠ͅ ̴̮̦̤̳̥͎͓͙̱͌ͩͨ̾ͭͩ̀̀̚ ̶̨͙̗̠͖͕̊̾̿ͫ̒͐̅̇ͨ͒ͦ̂͌̆́́͝ ̶̵̪͈̼̞̓̃͊̓̿̈́ͥ̀̀͟C̸̵͚̣̰̪̻̥̝͙̟͖͍͈̻̟̲̹̤̆̇ͮ̈́ͣͦ̓͋ͤ̈̇ͪ̚ ̴͉͎̝͎̻̼̃̅̊̂̾ͨ̓͒̽ͧͭ̌ͦ͆ͧ̊ͅ ̵̡͍̠̣̰͈̩̞̱͍̲͌͌̐͌̂̃ͣ̌ͨͦͦ͝͞ͅͅŖ̢̣̦͇̺̞̌̿ͩ̓ͭ̉̑̿̿͛̅̅ ͥ̎̈ͣ̉͗͏̢͈̦͕̝̠̼̦̥͉̹̯͙̱̝̩̹̕ ̈̾̿͐͋ͬ̈ͧ̅̑̚͢҉̰̫͈̺̼̞̫̥̥̼̠͚͇̤̩͙̟̻͡͞Å̧̡͎̘̣̤̩̪͔̻̞̫̳͖͛̋͢ ̷̛͎̟͔͔̼̺͍̜̻̐ͯ̿͛͊̎̈́ͩ̿ͦ̋̓ͣ ̷̶̨̙̥͔̘̙̥͌̒͆̚Ś̳̣̳̝̗̱͑̌͂ͬ̊͊͛ͧͫ̿̑ͮ̀͞ ̢͖͙̗̹̫̙̩͈̑̒͌̒̊͌͟͠͝ ̷̛̯͚̲̭͈̤̝̈́̀̌͊̆̾ͬ̈̂͆ͯͨ̐̐̽͡Ḧ́͂͐̄̈́ͥ̑̽̈́͗̎ͣͮ̐̾͏̨͓̻̗͎̻̪̫̟̙͜ ̸̖̺̙̠̩͆̇͒̓̓ͣ̂̂̄ ̡̋ͮͦͧ͑͌̑͂̋̑͋̓ͣ̆͆̏͡҉̫̬̺̻̦̰̼̲̖̘E̵̡̢̺̗͈̭̪͍̪͕͈̐ͬ̉̓ͭ̃̽̊͊̈́͟ͅ ̴͓̜̬̇̓ͩͧ̈́̐̓̏͝ͅ ̶̗͚̣̻̺̫̟͉̹͉̩͇̙ͨ͋ͨ̈́͊̓ͦ̅ͨ̈̎̒̊̓́͘͝ ͖̭̭͙̱̼͖̠̰̜̲͎̬̘̯ͯ̊ͮ͑͋̊ͫ̾ͨ͌͐́͟͝D̨̘̻̩̜̟̝͉͖̔͐ͣ̒̒ͯ̔̐̌ͭ́
+
+0:20:21.060,0:20:21.680
+̻̫̹͒̾ͭＳ̡̜͇̋̏ｉ͖̺̩̦ͩͥͣ̊̔ͤｂ̬̰̔̒̇ͩ̀͝ｅ̫͚͉͚͚͔̬̝͋̃ｌ̵̸̧͍̭̼̮̦̲́̂͑͂ͪ̏ͦｉ̡̜̹͉̹͊ͤͩｕ̷̫͚̙̮̭̉ͭｓ̵̶͎̟ͮ̿̄ͬͧ̈͊̿͡ ̷̧̭̬̗̞̤̝͒̅ͩ̐ͯ̌͂ͨ̎ｃ̷̪̩͓̞͕̳̺ͪ̎̆̄͑͜ͅｒ͓̍́̿ͮͮͫ̀̀͟ａ̴͈͓̤̯ͬͬ̃̋ͤͩ̾̐͐͡ｓ̢̺̮̗̞͐̆ͫｈ͇̲͓̻̹͍̬̘͇̄̌̿ｅ̴͙̗͔͇̳̱̳͆ͨ̓̓ͧ̒̀͜ͅｄ͚͇̞ͧ̽̿ͯͦ͒͒̋̐͞
+
+0:20:21.680,0:20:24.240
+ᴛʜʀᴏᴜɢʜ ᴍʏ ʟᴏɴɢ ɴᴜʀꜱᴇʀʏ ɴɪɢʜᴛꜱ ʜᴇ ꜱᴛᴏᴏᴅ
+
+0:20:24.540,0:20:26.180
+ʙʏ ᴍʏ ʙᴇᴅ ᴜɴᴡᴇᴀʀʏɪɴɢ,
+
+0:20:27.140,0:20:28.600
+ʟᴏᴏᴍᴇᴅ ɢɪɢᴀɴᴛɪᴄ,
+
+0:20:28.600,0:20:29.200
+ꜰᴏʀᴍʟᴇꜱꜱ,
+
+0:20:29.200,0:20:29.960
+ǫᴜᴇᴇʀ,
+
+0:20:29.960,0:20:32.360
+ᴘᴜʀʀɪɴɢ ɪɴ ᴍʏ ʜᴀᴜɴᴛᴇᴅ ᴇᴀʀ
+
+0:20:32.360,0:20:34.960
+ᴛʜᴀᴛ ꜱᴀᴍᴇ ʜɪᴅᴇᴏᴜꜱ ɴɪɢʜᴛᴍᴀʀᴇ ᴛʜɪɴɢ,
+
+0:20:34.960,0:20:35.820
+ᴛᴀʟᴋɪɴɢ,
+
+0:20:35.820,0:20:37.500
+ᴀꜱ ʜᴇ ʟᴀᴘᴘᴇᴅ ᴍʏ ʙʟᴏᴏᴅ,
+
+0:20:37.500,0:20:38.900
+ɪɴ ᴀ ᴠᴏɪᴄᴇ
+
+0:20:38.900,0:20:40.220
+ᴄʀᴜᴇʟ ᴀɴᴅ ꜰʟᴀᴛ,
+
+0:20:40.680,0:20:42.020
+ꜱᴀʏɪɴɢ ꜰᴏʀᴇᴠᴇʀ,
+
+0:20:42.020,0:20:43.480
+"̡ꜱ͘ɪʙ̢ᴇ҉ʟ͞ɪ͟ᴜ͡ꜱ̶ ̸ᴄʀ̕ᴀ̢ꜱ҉ʜ̶ᴇ͞ᴅ!͏"
+
+0:20:43.480,0:20:44.940
+͓̗͖̘̤̲̠̄̿ͫ͞S̠͔̜̼͈͑̏̋̔̔͋͞͝ ̷̨̳̰̟̪̰̦͗̑ͦ̍͂̈́ͨ́i͙̺͗ͤͬ̀ ̧̿͏͇͕͕b͉̼̪͖̒̀ ̧̺̫̺͈̍ͤ̒̅e͈̥̞̳̜͖ͫͪͩͫ̓̕͢ͅ ̟̥̩̜͗̓̔̍͆̎̒͟l̠͙̱ͬ͋͑̀ ͬ҉̘̯̯̯̲̖̜͕i̹͇̰͙ͯ́̂ͤ̿ ̮̹̠ͫͦ̑̎̓ͦ̾u͊́ͦͤ͋͏͉̖̩̳̮̝̩̙͘ ̸̈̍ͬ͏͖͇͇͞ș̷͕͓̫̩̬͐̑̊ͪͦ̓̍̆ ̓ͮ̀̄͢҉̵̮̲̼̻ ̨̼̦͈̭̙̩̮̻̓̃͂̆ ͐͌̏͆ͫ̀́͏̤̣̥̘̹͚cͧ̏̌̈́҉̮̦̲̤̠̰ ̷̧͔̞̆̄̆ͪ͘r̝͖̳̅͗ͨ͌͗ ̶̦̼̟̦͉͙͎ͥ̕͜a͎͍̹̳͎̝͌͒̾̿͂͌͢ ͑ͧ̋̿̿͌҉̱͇̦͈͓̼š̸̪͔̦͆͑ͣ̆̒̓̽ ̸̷͖͙̙͓͈̱͇̤̆̀̄͋h̶̩̮͔ͯ̍͛̕͝ ͂͆́͑̈́̅̀͏͇̹̺̭̻̞̝ͅe̘̦͍̠̓ͣͬ ̡̧͍͎̼̠̰̘̝̩̒d̹̯̝͉͖̜̈̈̾̄ͅ
+
+0:20:44.940,0:20:45.720
+̬̤͉̯͇ͮ̀͊ͤͫ̃ͩͣͭ̕͟Ś̨͗̊̅̾͋̈̂҉̬͍ĩ͎͋͊̃̇͟b͍̺̑̿ͧ̓̀ͩͤ̀ȩ͍̺̙͉ͣ̽́̾l̯͔̹̆̔͗̏̃ͧͯͯͭ̀ī̸̜̪̆̎̌̐́u̶̱̮̎͛̐s͇̘̱̜̺̒ͭ͌̐ ̧̫͕ͬ͒c̵̠̥̳͎͆ͧ̈́ͨ͒̈́͌̀r̺̦̙͉ͩͪ͝ͅa̗̱̭̩̪͋͊ͭ͆̓ͪͨ͊͗ͅs̡̢̙̦̭̯̜̭̒̀h̷̻̪̫̬͚̩̦͑̈́͠e̹̠̱̟̬͚̟ͥ͒͡d̸͓̰͚̯̘̭̍͒ͦͫ͛͒͌̾ͅͅ
+
+0:20:45.720,0:20:46.440
+̦̤̰̘̺̠̠̪͐̃̉ͥ̔̾ͭS̖̮̱̘͎̠͓ͪͨͩͨ̈́͡͠ ̵̡̳͓͇̙͈̬ͫͬ̒iͥ̀̀͏̧̢͙̻͚͎͖͚̟ ͈̣̞̞̼̯̪́̇̀̆ͭͩ̽b̤͕̖͙̼̣̌ͧ̈͢͞ ͇͎̭̝͍̳̊̔ͭͦ̍̏̎͝e̛̩͋͂̂̋̒̓̾́͝ ̵̠̼ͣͮͯͪ̽̈́̚͡l͒̍͗ͬ͏̲̩̱̗ ̦̲̝̗̂͂̚i̮͎͌́͛͛͢ ̛̬̱͂̓̀̋u͚̻̩͙̦̽̓̋̐ͧͣ͜ ͫ҉͚̝̟̬̠̞̦͕sͨ̄͗̌͒͏̙͎̬͎̼̻̩͝ͅ ̢̟̤̮̜͇̘͔͍ͮͤ́ ͙̮̮̣̫̯̳̺ͯ̊̇ͭ̋̐ ̴͕̤̣̱̘̩̱͋͐ͧ̑͂̒̊̔͗c̥̯̉ͮ̅ͣ̄͊ͪ̕͡ ̞̹͒̍ͤ͐r̸̢̖͎̥̲͗̓̆̏͒͋͗́̚ ̶͓̭̤̹̲͉̲̅ͬͨ̏ͤͩ̀a̛̬̾̕ ̶̛͙̼̗͎͎ͪͬ̒̋s͛͟͏̩̫̳̲̞̳ ͤ̿̔̉͒̎͊͜͏̵̼h̬̺͓̻̳̥̿̓̀͠ ̸̶͖̹̤̼̳̥͍̦͑̊̂͛͂̿ͅe̡̡̦̝̳̤̯̟͒ ͈̝̣͈̪̺̠̒́̎̓ͯ͂̚͡ď͖̻̫̲̹͚͔̌̾̎
+
+0:20:46.440,0:20:47.100
+̜̠̬͔̤͔̙̃̎͐͋̈S̭̳͎̝͎͚͙͉̓̓ͯ͌̇̄ͯ͠ ̧̺͔̼̺̓̇ͥ͌ ̮̗̎̌͞I̧̹̺̗̹͉̻͈̭̔̈́̉ ͯ҉̥͇̜̱͔̺́ ̷̤̝̥̰̻̳̊̋̉̂͒ͥ̇̀A̷̧̰̭̞͈̙͉͍̥̫ͨ̔̇̂͋͒̐ͮ͘B̵̧͙͎̙̲̩̉̃ͤ̉ͅ ̛̛̗̫̯ͯ̍̄͒ͨͦͪ͢ ͉̫̠̐ͪ͟Ę̶̩͖̟̖̤̝̝̐̇̽͌̏͆̚ ̸̳͉̖̜̘͚̝ͧͫ̌ͪ͒ͅ ̢͉̜͉̳̠̞͙ͬ́͌ͯ͊͜Ļ̥͙̞̦̯͖̀ͭ͟ ̵̲̺̲̩̣͙͍̦́̐͒̀Ä̴̛̪̞̰̰̰͔͇͒̊̾͂͞A̶̜̭̯͔͖͌̐̈ͨͪ̀̋ͥ͢͠A̰̼̖̰̪͓͚̩̒͆ͭͮͧͫ̏͊̕͢ ̷̫̻́̆̅͗͢Ỉ͇̞̫̗̗̮̣͑̆̆̏ͮ ̛͚̪̩͈̬̻͉ͣ̎̇͐̔ͨ̽ͣ ̍ͫ̉ͭ͋ͦ̀͗̍͠҉̝̲̰͙̲͙̫̯ͅṲ̭̙̥͗͆ͤ́͛̓͠͠ͅ ̗̟̯̇ͬ̔́̀̕ ̤͖̞͕̟̠͖͌ͭ͑ͬͬ̏̌S̵̵̭͓ͫ͊́ ͈̣̺̫̳ͤ̄͑̆̒͘A͋͆̂ͦ̈҉̞̦̤ ̛̫̼ͭͫͨ̐͢ ̡̲͔͕͇̹͈̻ͮ͒̅̉̍̽̚͘ ͛ͤͩ҉̨͓̱͕̻̭̱̖̤̘C̉̒͊̂̐̿͊ͭ͏̥̩̲͎̬͉ ͉̖̻͍̘ͯͬ̋̎ͯ̕͜ ̡͔̙͕̻̌ͯ̐̀̑̅ͦͬͅR̟̜̞̝̠̺͓̓̉̽ͨ͗ͬ̀̃͢͟ͅ ̆ͨ̄҉̨͇̟̠ ̴̺̺̙̔̈̋A̭͔̗̠̥̥̤͂ͥͮ̓ͫ̈̆͝ ̛̗̪̤̥̪̥͔͐̏̐ͧ͛͛̎̾͆́ ̸̺͎͕͇̖̤ͪͥ̓̔̉̅̈̊ͦ̀͡Ã̫͕̯̭͔̥̳͔̦ͩͧ͡Ṣ͚͍̠̹͔̖͈͑̃ͧ́ͅ ̨̡̹͓̭̩̻̻͖̬̓̊̒A̴̳ͧ͌̑ͯ̐̂̄́ ̻̪ͤ̿̌̂̀H̴͈̺̽͊͗͌͐͋ͯ ̥ͣ̅̊͢͝͠ ͍͎̝̲͑E̪̯̤͒̃̀͒ͮ̕͢͝ͅͅ ͔̟̜̩̙̠̼͈̠ͮ̋͊̆̅ ͚̟̈̈́̔̈̄̿͋ͩ͘ ̴̦̬̗͈͉̺̫̣ͭ̌̒ͨ̐̓̃̿̓D͈̰̠ͫ̑ͮ̒̊̇ͬͅ
+
+0:20:47.100,0:20:47.900
+̵̦̤̞̼̣͕̍̓̊̈̔͗̊N͔̥ͧ͋ͮ̉͊͐̉͝ ͔̤̥͓̉̋ͫͤ͌ ̨̥̹̯̝̖̾͗͜0̸̡̤̣̈ͬ͠o͈̥ͯ̈́͆ͩͬ͋͛͐n̡̧̦̼͓̯̩̦̘̥̄̔̊̀O̬͖̟̥͈͈̊̐͆̆́̊͞ ̴̰̣̟͊̈́ͨ͑ͅ ̫̰̠̲ͦ͡Ô̢̝̯͉͚͕̼n̥̣̰̘̣͓͇̓͛̇̓ͩ̋̿̃͛W̢̦͍ͣ̋̂ͫ̾ͪͩP̸̳̹̠͇ͭ̏̄ͦ͋0̱͉͕̟̣̭̮ͪ͊̎͜ō̴͗ͯ̏ͪ̔̎̿͏͕̳̯͔ͅ ̸̛̰̣ͣ̿̾̂ͣ̑͆̌͢S̠̠̺̓͌̅ͣ́͟͡T͚̱̙̺͓͋͋̏̄̏͞͠ ̳͚͇̗̘̝͚̥̈́̐͐ͣ͋̓ͬ͢S̰͚̺̮̬̯̽̇̇̒̽ͪ̀̀͐͡͞Ơ̝͇̝͈͍ͧ̄̚p̷̧̩̣̼̦̥̯̃ ̨̛̜̥̬̣̞̜̞̲̽̊ ̵̻͊̃̔́͘5͇̬͗̐͂͘ ̵͖̤͍̫͉̮̘̝͌̈̈ͦ̐̍͗ͬ̍͜Tͤ̓҉̭̥̠̼̝̣0̴̿҉̭͓̤̥͔̦̟͎ͅ9̡̰̣̾́̒̃̚ĥ̺͔̻̊͒͌ͧ̽͋̄ͤi̛̫̹͗͊͋̿͋͒ͣ͝ ̛͍̱̪ͫͥ̓̂̿͆P̧̰̫̻̝͇̅͌̔ͥͥ̏̏ͭl̡̳̝̹̝͚̞̙͋ͣͨͨ͐́ͮ ̨̣̮̽ͨẼ͎̣̯̟̣̎̒͠͞A̛̘̼͓͓̙͕͚̒ͪ̓ͯ̐̓͗͊́s̛͚̝̦̥͎̗͋ͫ́͂̅́͘s̺̭̞̰͓͚̤̾̂ͦ̾ͦ͌̈̎E̾̅̒ͨͣ̍́͏͚ ̛̗̩̃̐Ş̘̙̆̉̎̍̅ͣ͐͛̚͘͞ ̱̣͔̗̝ͥ̃͗͟'̢̘̣̣̮ͨ̔̀͝t͇̭͗̊ͪ͊ͅS̟͕͕͕̦̐̋̋ś̗͙͔̮̫̃͌͟ ͙͓͕̝̐̄̈́ͬ̏ͨ͆ͦ́́̚͟O̾̉̓͒̎̈͏̀҉̺̭̭̠p͇̼̋̃ͩ͂͢=̛̛͉͔̥̞̔͌̔ͪͥ͞
+
+0:20:47.900,0:20:48.820
+̨͎̥̻͇̩̱̥͒̃́ͮͧͯ̀͝Ｓ̦̤͙̮̥͉̫̼̑̿ͧ̌ͧ͌ͦ͗ͦ͠ͅ.̟̰̰͚̤̗̰͖ͪ̍ͤ̒͌̚͘͢s̶̢͇͉͚̝̣͆̅ͥ͊͛̉ͪͅＩ̶͇̟̜̣̗͕̔̓ͮ͗ͪ͑̚a̞͕͇̬̫̠̥ͣ́ā͌ͧͪ͋̃͒ͩ͡҉̯͇͙̰͓̘̣̤͞s̼̝͕̼͊ͯ̈ͧ̎̇͡͠ͅͅ.͎̝̗͚͙͒͒̇͟͝Ｂ̥͚̱͐̈ͧ͒͛͝͝.̑̚͏̶͈͚̮̣͙̦͚̹͢Ｅ̛̘̼͚̲̪̭̞̦̲̈́̇ͫ͆ͧ.̸̧̠̳̲ͮ̅̌͐ͩ̒͛́͝e͕͈͔̭̻̹͉̓ͦͭͫͥ͗̀Ｌ̴͚̟̓͋̏̽̿̒̉ͬẘ̴̴̡͎͙̖̥̖̎́ͫ̃h̵̜̞͇̟̭͍ͧ̿͒̇̿ͣ̊a̶̸̡̗̤̘̻̭̘͎͙͂͒t̨̳̼̺̫̀ͪ̃͑̓͟͝.̢̙̖͂̆̿ͣ͆̈̈́̈̈͡Ｉ͍̦̝̿ͣͤͫ̊͟.̡̛̞̳͔͐ͭ̆̉ͧ̐͒Ｕ̉̽̏̒͗ͯ͜҉̜̤̦͓͎̫̭̹.̼̯̻̾̔̅̑͛̈́ͦ̀̓͞Ｓ̷̢͕̺͈̭̺ͯ͂ͭͮ͟w͇̘̰͇̉ͬ̂̅̀̈́̓̅͘s̸̖̮͂ͣ̾͠ͅgͤ̐̽͞͝͏̫͎̰̹̮̤̼̝͓ḁ̵̊ͮͬͯ́́ͅt͍ͣ̎ͩ͑ͬ̎͆̓ ̵̜̦͙̤̗̜̐͑ͬ͗͡Ｃ̵̟̪̠͎͊̏̓̏ͤ̀.̧͔͕͉̻͓͊͌͝Ｒ͍͚̤̰͈͉̙̲͗̇̾ͭ͌ͦ͟.̴̛̥̘̠͇̤̳̜̘̐̊ͦ̽͗͗̒̊Ａ̨̎ͨͫ̿҉̶̙̲͔̥̻̠.̢ͯ͐ͣ̾ͬͨ͗͏̦̩͔͎͢Ｓ͍̮͍̤̱͍͚̋͛͗ͣͫ͌̕.̶͔͚̬̖̼̗̩̑̑̿ͪͨ͢͡ͅＨ̵̻̝͍̟͇͉͙̞ͨ͋̓̎̃̅͐̄̑͝.̷͙̥̖̈̔͛͛ͮͮ͟Ｅ͎̮̲̤̞̜̙ͥ̃͗̓̒̽ͩ̇.̮̖̱̅̒̅ͪͥs̷̮͈̗̲̰̪̣͐ͣͦ̄̌̓͠g̛̪͔̘͎̩̞̉͠Ｄ̡̣̪̬͙̰͈͇̲ͭ́̑ͦ͗͂̃̑.̷̢̼̊͒̈́
+
+0:20:48.820,0:20:49.560
+Ｓ̴̵̬͉̣͎̹̼̪̭͈̳̫̈͌͗ͩ̋̃̊̆ͦͫͩͤ͡.̧̯̟̫̗̗̘͓̦̝̬̣̉ͣͨͥ̓ͥ̐ͭ͝ş̛͙̘̜̖̳̖̠͉̼̜̯̬̹ͮͯ̒ͮͬͩͅͅＩ̡͚͎͕̯͙ͫ̃̄̅ͯͭ͒̿̒́̀͝͞ͅą͍͚̫̹̙̳̺̮̳͙̯͓͚̠̰̟̤̫̟͗͗͂̏͊̂̔ͥ͆͐ͭ̎ą̸̜͉͔̱̮͓̪͓̣̬̬̲̫͕̲̑̿ͣ̅̂̇́̒̈́̓̆ͧ̓̓s͂͌ͦ̑͑͑ͥͫ̋͡͏̴̛̰̗͚̪͔̞̘̩̥̮.̴̴̛̱̫̘͎͇̝̤͌ͣ͊̓̿ͮͥ͌̐͢͠Ｂ̸̬̦̬͖͚̜̣̪͓̘̝̲̎̑̊͂ͦ̏̾ͮͪͥ̓̚͜.͇̗͇͕͎̥̮̜̻̠̯̬̗͙̱́̓̏̃ͧ͌̍ͦ͆̃̑͒͑̈́ͤͥ́͠ͅＥ̴̮̯̼̺͇̤̻͈̬̹̠͙̰̑̏͌͑̌ͥ͐̈ͤͅ.̴̢̙̞͕͎̗̦͑ͣ̚͘͞e̯̣̙̘͍̖̅ͫͯ͂̄͌̔̓̏͘͝Ｌͤͪ͆̽̄̀͗͜͏̰͎̱͡͡ẅ̷̧͚͙̬͔̳̮͍̻͈̙ͦ̔̏ͨ̇͗̚͢ͅḩ̬̬̰͇͙̣̉̌̓ͣ͑̓̀̚͟ą̸ͣ̀̿ͥ̌̈́̋̅ͬͦ̽̚҉̞͈̖̘͇̣̫̦͍̗̀t͉̼̝͇̯̠͈̠̼̮̩͚̘͚̥͔͊ͨ̓ͭ̌̍͒ͯ̅͢ͅ.̛̬͖͚̭͍̓̾͂̇̏͗́Ｉ̫̘̹̫̜̜̦̦͍̩̱͖̖̪̝̽̏̀͛͐͆̽ͩ͒̒̉̐͛ͩ̿̄̿ͫ͟͢͞͞.̇͐̽̂̓͋҉̶̹̦̯͕̯̩̲̫̬̝͎̣̭̙̦̘Ｕ̶̢̲̱͔̦͙̍ͧ͐̌́͞.͊̎͂̀̚҉̻̫̻̜͙̝̮̣͇͟Ｓ̨̪͚͓̙̖̞̙̙̝̃͌̃̃ͪ͑͒̅̐̓̀ẇ̢̨̧͓͖̭̙͚͔̖͚͇̝̥͊͒͂ͤ̏̉̐͐̐͛͆s̵̾ͯ̊͌͌ͬ͌̓̓ͤ͒̇͒̋͂͒̀͏̬͎͉̯̥͔̭̟̱̫̟̭͇̗͓́ͅͅg̡͉̮̤̰̙̙̯̜̯̼̦̭ͭ͊͗̈ͤ̇̅ͪ̌͆̆̾ͧ͗͠͝ͅą̷̧̮͓͉̗̳͍̝̜̬̰͙̤͉͖̟̩̹̙̙̒ͫ̉̄́ͯͥ͂̀́͑̍ͬ̈ͮ̐ͨ̅̀ţ͖͕̻͙͍̩̞̦̗͓̝͔̫̩̳̞̿͗̓̉́̕͝ ̴̜̪̥̩͔̣̜̜̮̫͖̘̯̫̈́̍ͫ̂̎̋̈́͋ͭ̏ͮ͊̚̚͝Ｃ̉̌̽ͨ̔ͦͧ̏͂ͧ̃̆̏ͭ͏̯̼̮̬̠̠̭̬͕̣̝͇͚͍̥̝ͅ.̶̵̛̤̫͈͎̬̞̣̤̳͔̗̿͂̊͂̌ͬͨ̇ͣ̿̈́́̄ͤ͌ͨ̚ͅＲ̷̡̞̗̘̬̞͙͚̬͇̳̫ͮ̅͛ͪ̄͑ͬ̉ͩͨ̎ͥͭ̒͢.̗͙̮̹̼̞̩͓͓̜͔̪̜̟̱̝̭͚ͪ̅̒ͭ̾̐͑̐̌̉̕Ａ̴̢̖̠͉̠̦̱̥̼͚̯̓ͤ̋ͯ̌̌͋̊ͬ̃ͯ̂̀͜͞.͇͖̮̻̰͖̻̽̆̇͆͐ͨͥ͊ͯͯ̋̽̌͒ͨ̑̂̀͡Ｓ͈̼̮̦̥̼͕̜͕̺̜̼̜̹̫ͤ͒̈́ͯ̌́ͧͪͫͥ͊͋̊̿ͪ̓ͮ͠ͅ.̸̵̡̟̰̬̦̻̟͍̪̺̥͉͇̖͉͔ͣ̀ͤ̃̈ͪ̎͆͟Ｈ̲͔̣͈̠̥̱̥̞̘̞̓̉͂̏͢͟.̘̜͚̯̪͆͐ͣͩ̅̑́͞Ｅ̫̳̥̹̫̖̖̰̰͊̒͒͆̋ͫ̈́̈́ͦ̏ͧͧ́̕͜͝͝ͅ.̧̞̩̼̟̫̦̤̩̠̥̘̯̠͎͎̱͖͙͋ͫ̒ͦ̀͡͝ͅs̡̨̞̩̝̮̼̦̯̪̹̦̤̜̘͉͐̽͋̉̋͂͂͞ͅͅͅg̴̩̮̼͔̩̬̟̠͉͔͚͎̞͎͓͋͆ͤͨ̃͆͗͗̈͋̒͞ͅＤ̵̡̜̗̥̲̞͔̈̈͋̃̋͛ͨ̄̓́͢.̴̴̭̘͍̞̠̪͓͙̖̯̻͛̿ͦ̾͆̈́ͧ́ͅͅ
+
+0:20:49.560,0:20:50.460
+̛̬̟͍̪̜̤̘̝̟̯͒ͫͥ͆̄̆̒͋̊ͥ̔̓̌͞͞S̢͇̙͈̫̐͆̒̈̂ͫͨ̔̿̎̕ ̵̇ͨ͑ͩ̏̿̒̈͆̈͏̵͏͍̲̙̤̮͉̀ ̡̤̝̘̬̯̬̏̇͊̔̃͐̎̿̂ͯ̋͆̓̊̊̏ͫ̓͘ ̧̧̫̮͈͍̱̭̼̱͉͙̼̘͎̩̪̘͙̇͒ͫ̓̍͆͘ͅͅ ̿͋ͮ̈̒ͦ̑ͬ̚̕͞͏̵̬͕͖̰̟͇͚̤̪͈̲̩̞̼̻̲̱I̧̢̩̫͓̲̪̟̮͎̠͍̪̥̖̳͚̟̦̙̗͌̎̎͆ͬ̌͆̆̓ͫ͛ͧͥ̇̚̕͘ ̷͈̝̼̥͖̖͚̯̺͕̙͚̰̦͔̳̖̂ͪ̒̿ͅ ̬̦̦̳̣̻̭̱͔̜̜̮̠͙̯͔̄̓̾͛̃͞ͅ ̡̩̩̺̼̙͓̲̻̠̇͐ͥ̈͐͛ͪͬ̏̔ͥ̅́͡B̨̖̩͙͉̬̏̓ͤ̂͌͋́̃̌ͫ̈́̔̑̍̆ͥ́ ̐ͥ̎̀̍̑̇ͮ̃͌͗ͯͯͦ̎̓̒͏҉̧҉͏̪͉̞̖̰̼̪͔̪̖͎̮̥̩͇̻̩ ̶̜̜̦̤̳͉̭̻͈̼̟̤̪̜̞̠̩̙͑̉̈́ͩ̕ ͣ̊̓͒̈́͗̈̂́͌͛͑͋ͫͧ̀͏̶͙̤̭̘̦́ ̉͊ͩͯ̈̂̀͒̀͑ͯ͏̛͈̰͍͙̪̟͓͕̥͟͠͡E̵̴̩̫̘̮̣̞̼̼̲̳͕ͩ̾ͥ̍̄̈̈͗̓̉́̎̀ ̡͕̪̰̮͓̠̟̻̣̦̤̯̩̜̣̘̭̉̅͒͒̐̓̐ͭ͆̎͑̀͗͊ͤ̄̕ ̢̬̟̤̫̬̦̻͖̹͓͖̗̗̒ͨ͋͋͞͡͡ͅ ̴̜̫̣͓̲̻̺͔͖̞̰̼͍͉̱̣͕͖͋̋̑͗͛ͤ́ͬͨ͊̐̒̏̑͑̍̃̈͢ ̢̡ͨ̐̊̿͋͐̆̕͏̳̜̱̜̙̜͇̭̤͖͈͈͍̼͕̖̜͓̤L̴̷͖͚̻̗̮͎̞̙̪̼̉̽̍̉ͤ̏̆̒͊ͫ̓̓͛̾̑͛́ͅ ̷̷̻͓̪̲̲̣̲̮̙͚͈̝͉̭̥̻͍͂ͦ͋͋͑͋͒̽̒̑ͦ̌͟ ̴̡̲̻̮̭̙͚̤̜̮̗͍̤͚̠̹͚ͫͦ̽̾̋ͭ̿̍ͫ͝͝ͅ ͭͥ͊̇̿͐ͩ̋ͭ̓̊ͪ͏̶̛͔͕̭̥̲͖͕͚̦̥̜̞̭̗́Ȋ̑̄̉͑ͯͨ҉̴̡̝͕͉̮̻͍̦̙̼͙͎̼͎̞̟̘̰͎̜͘ ̴̘̭̫̦̥̼͙͍͉̋̃̃͗̋̐͢ ̇̇͛̍ͮͣ͛͏͏͇͈̪͙̪̜͔̩̮͙̬̹͙̕ ̼̹͙̠̺͎̦̣̗͎̗̮̱͇̳̠̬͚ͯ̈́̄͒̍̓̄ͥ̕͠ ͬͬ́̇̐ͧ҉̧̛̜̮̯̞̦̖͉̮͘͘U̷̸ͤ̋̓̍̓̏̄ͭͫ̔ͫ̈́̔̇͆͡҉͉͍͖̠̮̹͇ ̫̤̤̞̬̫̟̭̤̩̌ͮ̾̈́̽ͮ̃̈̏̋̉̽ͦ̋́̆ͣ̚͢ ̷̞͎̼̘̜̙͍̩͖̺͚̫͕̠̬͍̱͚ͮ͒̾̈͌̐͊̏̎͒͋̾̈́͘̕ͅ ͂̽͐̆́҉̛̬̲͓͇͕̱͔̫̺̜͎̺͚̪̺̘͍͡͞ ̸͗͗̆̌̇̓̆ͬͥ̾̾͡͠҉̳̘͚͖̯̘̺̮͖͖̼̰̺ͅS̡̮͕̝̹̞͍̥̹ͫ̂̔́͊̉̒̑ͣ̾͒͋ͦ̆͆̍ͬ̈́͟ ͫͪͬͯ͒͊͐̎ͧͣ̑̒ͧ͐͌̒̚̚҉̨̨͇͎̦͉͚̪̰͞ ̖̭̜̗̒̽ͬͥ̉̉͂̏͊ͨͣ͂ͯ̈́͆͆͛̐̾͟͠͝ ̆̃́͋̑͐̂͗ͥ͋̾ͦ̎҉̟̫̣͉̱͈͉̩̯͓̯̥̣͔͟ ̶̢͓̭̗̙̼̞͗ͦ̃ͦ̏̑ͯ̌̑́̕ͅC̷̸̹͎̮̤̣̘̥̺̗͋̋ͯ͐̏̊͗̓̿̕͘ ̴̶̶̗̥̟̝̤̩͈̲̭̬̟̍͌ͯ̒̈́̀͝ͅ ̅͌̊̑̆͆̉̌̀̍ͬͦ̿̓ͨ͘͠͏͏̦̼͚͍͍̦͓͚͉̭̱͉͎̱͈͍̦̣̩̕ ̵̶̹̼͖͎̺͔͔̲̩̜͚̯̠͔͍̭͙̎͛̽͑͗ͬ̌ͫ͡ ̛͎͈̹͔̞̦̣̞̼͔͕̮͎͓̩̺͉̼̌͛̾ͤͣ̀̉ͬ̿̾͡ͅṚ̷̴̛͕̗̯̩̤͚̘̠͕̯̰͙̤̦̩ͦͧ͒ͥ̌ͤ̊̇̎͞ͅ ̵̖̭͚̠̲̠̤̆̀ͨͪ̾ͪ͛̋ ̴̨̠͖͍͎̬͖̟͓͍̱̜̯̞̣̳ͮ͂ͩ̐ͬͬ͒̈́͌͑̄ͥ̐ͨ͞ͅ ̴͓͕̝͙̗̹͌͛̏́̿͊̏͜͠A̡̨̳̰͖͔̻̬̼̪̪͇̻̭̼̹̥̱̾ͯ̊̌͆̍̏͆́͒ͫ͟͜͠ ͐̾ͥ̑ͣ͋ͥ̄̊̊ͨ҉́͏͓͙͇͚̝̙͍̝̦̳ ̶̀̒ͨͤ͘͏̴̷̬̖̪̳͉̹͍͎͈̣̩͉̜̼̳͉ ͛̀͛̊̽ͦ̀̑̓́̅̈̋̏̇ͩ́͠҉̨̻̟͉̭̪̮͕͍̹̗͙͙͔̹̭̼͜ ̴͔̬͖̫͕̞͙̠̲͔̦̤̥̳͇ͥ̽̔̒͒̾͂̇͌̓̅́́͢S̴̤̠͕̠̭̦͈̗̪̙͔̗͖̱͋̽̓͋̅̆͌ͣ̅̓͂͂̀̉̈ͪ̋̆̕ ̶̸͖̬̻̮̘̮̦̝̥ͥ̆͛͑ͪ̎̿͌͑ͮͧͮ̑̀͜͢ ̶̵͉̞̥̰̤̮̾̄͊̇̀͂̄̃̃͆ͨ̉̏̾̆ͤ̄͒͡ ̵̨̙͚̱͕̼͎͚ͤͪ͌̈̍̓͋̅́͗͛̕͜͡ͅ ̮͕̝̹̘͇̪̜̣̩̺͚͎͙͖͔ͦ̒ͩ̀͒̍̅ͭ̂ͭ͛̍̈̑̓̓͗̍́̕Ḩ̫̘̺̪̩̼̣̺ͪ͆͂ͬ̿̐ͪ̇̏̃͐̿̄͘͢͟ͅ ̥̦̬̇̀̂͂ͥ̾̇͌̅ͣ̓̀͜͟ ̸̢̱̦̲͎̠̰̩̥̰̯̬̭́̅͗ͯͩ͋̊ͮ̽̆͌͆̑̎͑͐͗͌̀͠ ͋͒̅ͥ̎ͨ̆́ͪ̚͏̷̛͓͖̣̣̠̫̟̞̙̺̘̰̭͠Ȇ̵̗̻͖͒́͊̈̄̾̍̔ͩ̒ͧ̇ͪ͗͝͠ ̛̲̟̬͍͉͓̒̄͐̂̽̇ͫ̇͗͌̐́͜͟ ̸̨̞̻̗̺͈̘̫̗̲̟̩̩̘ͥ̐́̈̈͌͆ͯ̀̆̅̿ͅ ̢̳̰͇̼̯͕͓̤̼̮͔͎͕̞̜̻̒̓ͯ̓̈́͌ͤͬͯ͂̂ͦ͘ ͛ͯ̀̆̂̆̾̃̄ͨ͛ͥ́̚͘҉̮̣̣̩̠͉̝͓̱̙̰D̛͚͚̞̖̭̦̬͍͕̬̤̰͇̬̰̙̼̦͋́͒͛ͪ̂̌̿̉͛̄ͮͬ̉̕
+
+0:20:50.460,0:20:51.180
+E̢̮̮̣̺̱̪̳̰̊̍ͮ́́R̭̩͐̍ͦ͒̅̆̆͡R̫͚ͣ̀͞ͅO͓͙̬̬̘̜̬͆̔͂ͥ̐͡!̹̺̠̮̔͑ͭͥͫR͍̰̭̬̗̺̈ͤ̊ͪ̔̆ ̢̡̰̟̥͙̫͖͙̥̌̇̉̐ͧ̚̕5̡̟̙͖͙̗̭͖́ͩ0̛̺̪͙͉̩̩͙͐̂ͥͯ1̸͎͚͍̐̃̃̊ ̋̒͊͐̇͌̔ͧ̇҉͕̝͈̤̝̘̯ͅE̛͓͍̬̘̭̭͈͙̔̄̓̆̀ͩ͛̑͞R̡̪͇̠̮͓̎̽͆̏͂́̃̚͢͡!̶̡̻͎̜̗̟̈́̓ͨ͒̌̂̓ͪ̀R̥̲̞͚̅ͬͣ͟ͅO̧̖͍͙̠̬͓̥̝̎ͭ̈ͯ͆͌!̧̯̳̼̬̪͎͌ͦͧ̍̔͊̃!̷͉̦̰͔̫̤̤̘̜́͝R̵̸̠̘̫̯̍͑̑̃ ̤̱̳̗̾̍ͨͤ̾5̜ͤ̈̅̔̅͛́͘ͅ0̭͎̂̐̀̃́ͅ1̨̞͚̱̥̭̹̬̮̹ͯ͒͐̓̚̕ ̻͉̫̩̞̊̌̐͌Ę̴̢̹̟͑́͑ͫ͗̽̇R̸̅͊̍̌҉҉͎R̷͇̘̞͈̱͔͉̟ͫ͗̄ͯ͂͆́͠O̬̜̿̐̔̃̋̽̚R̼̩̬̦̣̪̽͋̋͢͢͡ ̱̦̱͍̂̔̅͠5̖̘͙͇̑̓̌̐͆ͤ0̖̠͖̘̦ͤ̇1̔͐̈́ͣ҉̵̤̫͍̱͔̩͠ ̷̯̙̻̰̹͂͑̓͡E̢̯ͣ̇͐́R̔̈́̔͑ͥ̿͝͏̢̯̳R̵͎̻̤̫̠̻̠͂ͤ̋Ō͎͚̣͖̝̙̪̌̈́̃̒͝R̩̖̟̬̩̦̂̊̉̚ ͈͇̼̺̻̪͔̬̞ͩ̓5͎͓̯̼̬̟̠̐͗̄0͎͓͉̯͛̊̓ͦ1̴̶̨̦̥̟͈̣̹̽̓̏͌ͦ̆ ̫̘͔͕̩ͨ̋̐͠E̘͔̮̻͎̎ͪ!̒̂̔͏̷̬̩̟͈̬͎̞͘!̩̻̍ͬ͌R̥͕̣̙̱̪̅͊R̪̬͋̐ͮ̀O̸̞͂̅ͫ̓́R̛̠͖̻̳̞͖̒ͯ ̛̖̝̙̪͇̮͍̱̈́ͣͭ͂ͨ̐ͪ5͚͈̫̬̬ͥ͐̃̂͊͗̀0̽͑̍̈ͪ͒ͦͫͫ҉̷̜͕̟̭1̙̝͕̏̌́ͭͨͥ̈́̄͜ ̧͕͖̀̇É͇̟ͬͯͬ͠͝Ṙ̴̨̞͙̤̪͙͓̈́̓͋ͣ̑ͥṘ̢̜̠̌͒O̳̳͙̱̤̯͙͔ͩ̌R̓ͯͪ̐ͫͥ́҉̰̱͖͚̮͈ ̑̔ͫͨ̍͏̷͔̳͈̯̻5̨̲̖͍͎͚͗ͬ͊ͥ̿̌̿̈ͅ0͚̙̻̻͖̣͉͛̿̊ͦ͢͝͠ͅ1̷̲̭̤͙̫͈̟ͪ͐ͬ̀̿ ͚̜͔͛͂̇E̶̡̯͍͖̜̹͕̫͓̹ͨͬ̃͗ͪR̰͈̳̦͖̲̒̃͊ͪ̽Ŗ͇͖͉̩̮̪̒ͣͬ̍́O̯̲͉̩̬̥͓͍͙̐͋̃́ͬͦR̜̜̥̖͉ͩ ̵̦͎̼̈̃ͧͭ̄̌͠5̵̸͚̰͙̞̩͈̓͌0̈́͏̝̜̝̲1̧̞̈̿͗̈̓ͪ̊͛ ̸̶̧̦̩͕̤ͪͫ̑̿E̜͍͕ͥ̕Ȓ̫͈̩̜̠̤͎͚̯͆ͧ̽͑̿̃͗R̤̼̳̱̟͕͇͇̃͗ͩ̀̀O̥͕̯̪̞̲̜̿ͥ̀R̲̜͕̯͖̤̯ͨ̅ͮ̾̂͋̏̈́͝ ̡̜̦̄ͭͤ̄́̃ͅ5̹̻͕̘͙̆͛ͤ͠0͌͊̚͜͏̶͚̻͎̯̝͖͓1̰̯̝͙̻̼̐ͯ̕ͅ ̳̞͇͚͎̹̠͎ͧ̄̓ͫE̒̀͛ͯ̎͂ͧͮͧ̕҉̖̯̳͕R̢͓͖͚̬͔̟̓ͭ̕Ř̯̥͙̙̣̖̠ͤ̇́̑͋ͩ͐͠ͅͅO̷̷̭̘̞̮͒͌ͭ̑͘!̷͎͓͙̝͔̤̳́͋͊ͬ̋̊ͅR̴̗̥̦̘̈̋̑͑͐̕ ̓͗̂̓ͤ̈́͏̤͇͈̘̩̞̞5̖̼̘̫̱̥͎͇ͯͧ́ͫ̉͠͡0̢̥̮̜̬͕̣̮̪̽̄̾͘͢ͅ1̭ͩͣ̏ ̛̟ͨ̆̓̕͠E̶̫̤̦̫͆̑̿͠R̮̤̓ͦ̉ͪ̑̍̉R̝̩̺͇̉̒̈͜͟͝Ȏͭ̀҉͈͈̼͇͓̮̳͘!́̂̾ͧ͊ͤ̽͏̪̬̹̰̳̥̕!̵̧̭͇͔̺̻̜͛̃̎̃̊͆͠!͚̯̝̫͖̱͍͋̌͐̔̈͐̏́R͇͔͖̓͂̊ͧ̃ ̳͇ͤͮ͗ͮ̑͗ͫͬ5͈̬̼͈̤͖ͯ̄̔̾͑́ͅ0̮̯͇͖̆ͣ͝ͅͅ!̼͔̲͎͎̫̿̈̊̐1̖̗̦͍̯̪̒͜ ̴̸̮̼̰̦͔̬ͧ̃̑̃̆̿ͧ̈Ē̪̪̠͊͆̆̎͡R̶̵̛͔̩͎̩̣̰̗̍ͭ̇͑̍́ͯ̄R̸̯̥̜͍̰͙͐̑ͯ͐ͩ͐͆̚͠ͅO̴̴̠͇̟̦͓ͦ̎̕R̈̾̇͞͏̗͇͍͙̝̫̳ ̵̴̦̪̥̺ͯ̊͟5̶͕͓͋̎̐̎̃̅ͪͣ͞0̢̥̩̱͍̝͚̓ͬ͗̈́ͬ͟͡1̸̸̳͈̖̖͇͉͉͉͓͌̐̈́ ̴̲̥̜͖͍̹̃ͅḚ̵̪̦ͬ͊ͭ̚͡R̶̝̱̞̬̖̻͖̬̭ͦ͆̍̉ͦ̅ͨ̅R̙͇͚̫͉̦̣͒́̏̍Ỏ̟̳̠̪̯ͥ͑̓̕R͙͔͛ͭ̐͂̒ͬ͜ ̙̊̍̕͢5̍̒̓҉͔͚̺0̵͎̬̻̟̔1ͨ͌̓ͩ̔̚҉̧̤͉̘̫ͅ ̢̞͍̗̒ͫ́Ẹ̇ͭ̈ͮR̰͎͑̃͐̑͊̆̃ͯR̔̈̓̐͋̂̽͏̲̝͇͠ͅ!̰̮̺̼̳̹̳̖̔̐̍͑̈͑͝O̐ͫ̽ͦ͏̤̣͈̟̬͎̞R̨̽ͫ̐̆ͥͨ̚̚͏̮͙ ̸̪͙̰̺̮̂̈ͤͩͤ̒5̢ͧ҉͇͓͇̣̪0̴̫̙̪͕ͪ̏̽̾ͣ͘1̤̗̝̜ͩ̎̔̾̒̕͘͡ͅ ̞͔͔̗̺͔̇ͭ̆̍̔͢͡E͓̲̬̻̣̤̘ͯ͟!̼̼̠̦̰̥ͮ̿̂͐ͮ̔͋͒ͪ́́͠ͅ!̶̧̤̓ͮ̓̈́͐̔̍́̀͝!̛̣͈̓̇̏̽̎̅̈́R̓̇̉̓̀̊ͪ̐̿҉̬̟̪̕͡Ṙ̝̤̞͌́͆̾̓́̚̕͝Ō̢̤̥͚̜̼͌̕͟Ř̲̳̲̃ͪ̿͝ ̢̛̛̰͕̲͂̀̔͒ͮ5̴̟͉͛ͩ͋ͪͭ̑̒̍͟͡!̪̜͉̣̜͈ͦ͒0̶̪͉̹̯̬͖͉̞̋1̹̦͕̦̞͖͎̥͋̇́
+
+0:21:01.060,0:21:02.760
+...you make a mean Chunky Monkey,
+
+0:21:02.760,0:21:05.000
+...but your Sibelius tastes funky.
+
+0:21:05.500,0:21:07.160
+Anyone else feel tired?
+
+0:21:08.020,0:21:09.020
+I do.
+
+0:21:09.760,0:21:11.540
+I think I need to leave...
+
+0:21:11.540,0:21:12.820
+I just need...
+
+0:21:12.820,0:21:14.540
+I just need the exit...
+
+0:21:14.960,0:21:15.960
+Oh...
+
+0:21:16.500,0:21:17.580
+There it is.
+
+0:21:18.940,0:21:20.520
+And now...
+
+0:21:21.740,0:21:22.820
+I...
+
+0:21:23.500,0:21:24.480
+sleep...

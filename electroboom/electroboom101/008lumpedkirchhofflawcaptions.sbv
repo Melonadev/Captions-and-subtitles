@@ -1,0 +1,1481 @@
+0:00:00.080,0:00:00.580
+Hi.
+
+0:00:00.580,0:00:02.100
+Welcome to another episode of:
+
+0:00:03.540,0:00:05.740
+...where I will teach YOU electronics
+
+0:00:05.740,0:00:07.200
+...by over-editing my video
+
+0:00:07.200,0:00:08.040
+...to make it look
+
+0:00:08.040,0:00:08.540
+ｅｖｅｎ
+
+0:00:08.540,0:00:09.040
+𝓶 𝓸 𝓻 𝓮
+
+0:00:09.040,0:00:10.020
+𝓘 𝓝 𝓣 𝓔 𝓡 𝓔 𝓢 𝓣 𝓘 𝓝 𝓖
+
+0:00:10.020,0:00:12.220
+I have covered a bunch of things so far.
+
+0:00:12.220,0:00:13.300
+Watch them if you haven't,
+
+0:00:13.300,0:00:15.340
+...because slowly we are getting to a point
+
+0:00:15.340,0:00:16.840
+...where we can design stuff
+
+0:00:16.840,0:00:17.800
+ｔｏｇｅｔｈｅｒ！
+
+0:00:17.800,0:00:19.080
+I have talked about
+
+0:00:19.080,0:00:20.160
+...resistors,
+
+0:00:20.160,0:00:20.820
+...capacitors
+
+0:00:20.820,0:00:22.040
+...and inductors.
+
+0:00:22.280,0:00:25.320
+Resistance and capacitance deal with electric fields,
+
+0:00:25.320,0:00:28.080
+...while inductance deals with magnetic fields.
+
+0:00:28.460,0:00:31.480
+So one can model the entire electromagnetism
+
+0:00:31.480,0:00:32.760
+...using these properties.
+
+0:00:32.780,0:00:34.040
+Well, maybe not all of it,
+
+0:00:34.040,0:00:34.960
+...but close enough.
+
+0:00:34.960,0:00:37.180
+Resistors resist against the current flow
+
+0:00:37.180,0:00:38.580
+...and convert the energy
+
+0:00:38.580,0:00:39.380
+...into heat-
+
+0:00:39.380,0:00:40.200
+Ouch!
+
+0:00:40.200,0:00:40.700
+[REDACTED]
+
+0:00:40.700,0:00:41.800
+A capacitor
+
+0:00:41.800,0:00:45.800
+...stores energy in form of electric
+fields between electric charges,
+
+0:00:45.800,0:00:47.380
+...and can later release them
+
+0:00:47.380,0:00:49.060
+...when a load is connected between-
+
+0:00:49.060,0:00:49.940
+[capacitor pops]
+
+0:00:49.940,0:00:50.440
+[REDACTED]
+
+0:00:51.700,0:00:52.200
+Damn it!
+
+0:00:53.240,0:00:54.960
+...and if you don't know how to use them
+
+0:00:54.960,0:00:56.780
+...it will convert the energy into heat.
+
+0:00:56.780,0:00:57.980
+Inductors
+
+0:00:57.980,0:01:00.780
+...store energy in the form of magnetic fields.
+
+0:01:01.060,0:01:01.920
+Oh [REDACTED]!
+
+0:01:02.100,0:01:02.600
+And yeah,
+
+0:01:02.600,0:01:04.980
+...I guess every wire has a resistance too.
+
+0:01:04.980,0:01:06.960
+Any other components in electronics,
+
+0:01:06.960,0:01:08.460
+...like transistors,
+
+0:01:08.460,0:01:09.220
+...diodes,
+
+0:01:09.220,0:01:09.820
+...antennae
+
+0:01:09.820,0:01:11.180
+...or transformers
+
+0:01:11.180,0:01:14.120
+...make use of and manipulate these three properties,
+
+0:01:14.120,0:01:15.260
+...one way or another.
+
+0:01:15.260,0:01:16.940
+Now, let's try to learn
+
+0:01:16.940,0:01:18.360
+...how to analyze a circuit
+
+0:01:18.360,0:01:19.900
+...and for that you must understand
+
+0:01:19.900,0:01:20.400
+...what a:
+
+0:01:21.140,0:01:22.400
+...of a component is.
+
+0:01:22.960,0:01:24.700
+Let me read you a passage
+
+0:01:24.700,0:01:26.560
+...from my Electronic Bible™.
+
+0:01:27.600,0:01:29.000
+𝐿𝓊𝓂𝓅𝑒𝒹 𝓂𝑜𝒹𝑒𝓁.
+
+0:01:29.320,0:01:31.480
+𝒲𝒽𝒶𝓉 𝒾𝓈 𝓁𝓊𝓂𝓅𝑒𝒹 𝓂𝑜𝒹𝑒𝓁?
+
+0:01:31.880,0:01:33.620
+𝐸𝓋𝑒𝓃𝓉𝓊𝒶𝓁𝓁𝓎 𝓈𝒽𝒶𝓁𝓁 𝓅𝑒𝓇𝒾𝓈𝒽
+
+0:01:33.620,0:01:36.440
+...𝓉𝒽𝑜𝓈𝑒 𝓌𝒽𝑜 𝒹𝑜𝓃'𝓉 𝓊𝓈𝑒 𝓁𝓊𝓂𝓅𝑒𝒹 𝓂𝑜𝒹𝑒𝓁.
+
+0:01:37.060,0:01:39.860
+Well, basically the lumped model of electrical elements
+
+0:01:39.860,0:01:42.460
+...significantly simplifies the life of us
+
+0:01:42.460,0:01:43.400
+[ᴍᴏɴᴋᴇʏ ɴᴏɪꜱᴇꜱ]
+...primitive engineers
+
+0:01:43.400,0:01:43.900
+...primitive engineers
+
+0:01:43.900,0:01:46.980
+...who would have to analyze complex circuits quickly,
+
+0:01:47.440,0:01:48.940
+...otherwise you would have to resort to
+
+0:01:48.940,0:01:50.640
+...complex equations,
+
+0:01:50.640,0:01:52.100
+...science and computing.
+
+0:01:52.100,0:01:53.100
+Which you can learn
+
+0:01:53.100,0:01:53.900
+...very easily
+
+0:01:53.900,0:01:54.940
+...using my sponsor:
+
+0:01:55.740,0:01:57.000
+There, you can learn
+
+0:01:57.000,0:01:58.740
+...tough concepts very easily
+
+0:01:58.740,0:02:00.380
+...using interactive courses
+
+0:02:00.380,0:02:02.000
+...and problem-solving quizzes
+
+0:02:02.000,0:02:03.740
+...to make it stick in your brain.
+
+0:02:03.740,0:02:04.240
+So go to:
+
+0:02:06.280,0:02:07.860
+...where the first 200 viewers
+
+0:02:07.860,0:02:09.240
+...get 20% off
+
+0:02:09.240,0:02:10.560
+...and start learning like
+
+0:02:10.560,0:02:11.060
+ｎｅｖｅｒ
+
+0:02:11.060,0:02:11.940
+ｂｅｆｏｒｅ！
+
+0:02:12.260,0:02:12.860
+But,
+
+0:02:12.860,0:02:14.200
+...what is a lumped model?
+
+0:02:15.040,0:02:16.620
+Have you ever been so sad,
+
+0:02:16.620,0:02:18.320
+...that you felt like a lump
+
+0:02:18.320,0:02:20.280
+...was appearing in your throat?
+
+0:02:21.100,0:02:23.000
+You could scream and cry.
+
+0:02:23.000,0:02:24.460
+But because you're a caveman
+
+0:02:24.460,0:02:26.200
+...you bottle up your feelings
+
+0:02:26.200,0:02:28.160
+...and take them to your grave with you,
+
+0:02:28.160,0:02:29.420
+...where they belong,
+
+0:02:29.420,0:02:30.480
+...and act like-
+
+0:02:30.680,0:02:31.720
+Everything's fine!
+
+0:02:31.720,0:02:33.120
+Lumped model is the same.
+
+0:02:33.120,0:02:35.020
+Basically, in a lumped element model,
+
+0:02:35.020,0:02:36.720
+...all sort of radiations from:
+
+0:02:37.900,0:02:38.400
+...or even
+
+0:02:38.920,0:02:40.740
+...are bottled up inside a component
+
+0:02:40.740,0:02:42.140
+...and don't leak out.
+
+0:02:42.140,0:02:43.720
+Only the voltage and current
+
+0:02:43.720,0:02:45.360
+...are affected by the component.
+
+0:02:45.360,0:02:46.520
+This makes life very easy,
+
+0:02:46.520,0:02:49.060
+...because if components don't
+bottle up their [REDACTED]
+
+0:02:49.060,0:02:50.720
+...and radiate stuff around,
+
+0:02:50.720,0:02:53.240
+...they start affecting the surrounding circuits
+
+0:02:53.240,0:02:55.360
+...and this 'crosstalk' between the components
+
+0:02:55.360,0:02:58.280
+...makes it very hard to analyze circuit behavior.
+
+0:02:58.280,0:02:58.840
+For example,
+
+0:02:58.840,0:03:00.660
+...if a hot resistor gets close
+
+0:03:00.660,0:03:02.540
+...and warms up a transistor,
+
+0:03:02.540,0:03:05.360
+...the transistor parameters are significantly affected.
+
+0:03:05.360,0:03:07.900
+If an inductor radiates magnetic fields,
+
+0:03:07.900,0:03:10.260
+...it will induce unwanted current
+
+0:03:10.260,0:03:12.020
+...in the neighboring circuit loops.
+
+0:03:12.200,0:03:14.600
+If electric fields leak from a capacitor,
+
+0:03:14.600,0:03:16.820
+...they can create unwanted voltage
+
+0:03:16.820,0:03:18.540
+...on neighboring conductors.
+
+0:03:18.540,0:03:19.920
+And all these leakages
+
+0:03:19.920,0:03:22.600
+...make it very hard to understand the circuit behavior!
+
+0:03:22.600,0:03:23.840
+ᴇᴠᴇʀʏᴛʜɪɴɢ ɪꜱ ʟᴜᴍᴘᴇᴅ
+
+0:03:24.220,0:03:25.740
+ɴᴏ ᴏɴᴇ ɪꜱ ᴀꜰꜰᴇᴄᴛɪɴɢ ᴀɴʏᴏɴᴇ ᴇʟꜱᴇ
+
+0:03:26.280,0:03:27.300
+But the fact is
+
+0:03:27.540,0:03:29.540
+...no component is truly lumped.
+
+0:03:29.940,0:03:30.920
+All components
+
+0:03:30.920,0:03:33.200
+...always radiate [REDACTED] and affect each other.
+
+0:03:33.980,0:03:36.620
+[ᴄᴏʀᴘᴏʀᴀᴛᴇ 'ʜᴀᴘᴘʏ' ᴍᴜꜱɪᴄ]
+But, hey, We are not here to deal with black magic.
+
+0:03:36.620,0:03:38.500
+[ᴄᴏʀᴘᴏʀᴀᴛᴇ 'ʜᴀᴘᴘʏ' ᴍᴜꜱɪᴄ]
+So nothing will affect nothing!
+
+0:03:38.500,0:03:39.320
+At least for now,
+
+0:03:39.320,0:03:40.880
+...until we grow a little bit more.
+
+0:03:40.880,0:03:41.500
+And with that,
+
+0:03:41.500,0:03:44.900
+...let's jump into two of the most
+important laws of electronics!
+
+0:03:44.900,0:03:46.080
+...first described by:
+
+0:03:47.480,0:03:48.860
+[attempts to pronouce 'Kirchhoff']
+
+0:03:48.860,0:03:49.360
+Yeah.
+
+0:03:49.500,0:03:50.520
+Karl Gustav-
+
+0:03:51.080,0:03:51.280
+ʜᴇʜ
+
+0:03:51.280,0:03:52.000
+...called:
+
+0:03:53.580,0:03:54.280
+One is:
+
+0:03:56.460,0:03:57.760
+...and the other one is:
+
+0:04:00.500,0:04:02.280
+You need to understand these well,
+
+0:04:02.280,0:04:05.040
+...because soon we will be designing circuits together.
+
+0:04:05.040,0:04:06.920
+These laws are easiest to understand,
+
+0:04:06.920,0:04:09.380
+...and work best when the components are lumped
+
+0:04:09.380,0:04:11.400
+...and nothing radiates on nothing else.
+
+0:04:11.400,0:04:12.980
+So, let's start from there.
+
+0:04:12.980,0:04:15.020
+Kirchhoff's Voltage Law (KVL) states that
+
+0:04:15.020,0:04:17.300
+...in any closed loop of a circuit,
+
+0:04:17.300,0:04:21.160
+...the sum of all voltages (V) across
+components in that loop
+
+0:04:21.160,0:04:22.040
+...is zero.
+
+0:04:22.040,0:04:24.820
+And that's based on the law of conservation of energy.
+
+0:04:25.100,0:04:27.200
+A lumped model makes it easy.
+
+0:04:27.200,0:04:28.460
+I'll talk about that later.
+
+0:04:28.460,0:04:29.960
+According to my definition,
+
+0:04:29.960,0:04:32.100
+KVL is 𝗻𝗼𝘁 this!
+
+0:04:32.100,0:04:33.320
+Let's expand it a bit.
+
+0:04:33.320,0:04:35.280
+Imagine we have a circuit like this,
+
+0:04:35.280,0:04:38.380
+...and I don't know the polarity of
+voltages across components.
+
+0:04:38.380,0:04:40.000
+But I want to know their relations.
+
+0:04:40.300,0:04:40.960
+First,
+
+0:04:40.960,0:04:42.180
+...I assign
+
+0:04:42.780,0:04:43.620
+...polarities
+
+0:04:43.620,0:04:44.860
+...across the components
+
+0:04:44.860,0:04:46.200
+...any way I like.
+
+0:04:46.980,0:04:49.320
+One important thing you should remember is that,
+
+0:04:49.320,0:04:51.860
+...it doesn't matter how you assign your polarities,
+
+0:04:51.860,0:04:53.640
+...as long as you stick with them
+
+0:04:53.640,0:04:54.360
+𝙁𝙊𝙍𝙀𝙑𝙀𝙍!
+
+0:04:54.600,0:04:56.140
+You can't change them halfway,
+
+0:04:56.140,0:04:57.680
+...or you'll have to start over.
+
+0:04:57.680,0:04:58.500
+For example,
+
+0:04:58.500,0:05:00.700
+...if you assign your voltage like this,
+
+0:05:00.700,0:05:03.440
+...but the actual voltage is positive this way,
+
+0:05:03.440,0:05:04.580
+...it doesn't matter!
+
+0:05:04.580,0:05:07.060
+The value you get for your voltage assignment
+
+0:05:07.060,0:05:08.020
+...will be negative,
+
+0:05:08.020,0:05:09.340
+...which is absolutely fine!
+
+0:05:09.340,0:05:10.520
+So don't worry about it.
+
+0:05:10.520,0:05:12.180
+Now, let's play a game of
+
+0:05:12.180,0:05:14.260
+'How many loops you see in this circuit.'
+
+0:05:14.960,0:05:15.820
+4, you say?
+
+0:05:16.020,0:05:16.740
+Ｗ Ｒ Ｏ Ｎ Ｇ
+
+0:05:17.120,0:05:18.480
+There is only three loops.
+
+0:05:18.480,0:05:20.180
+One is this big one,
+
+0:05:20.600,0:05:22.200
+...one is this small one,
+
+0:05:22.200,0:05:23.360
+..and the other one is this one.
+
+0:05:23.360,0:05:26.020
+Now, we have to start adding voltages in loops
+
+0:05:26.020,0:05:28.320
+...along one direction in a loop.
+
+0:05:28.320,0:05:30.960
+It doesn't matter which direction
+you move through the loop.
+
+0:05:30.960,0:05:33.520
+It can be clockwise or counterclockwise.
+
+0:05:33.520,0:05:34.520
+But for fun,
+
+0:05:34.520,0:05:36.580
+...let's keep them all clockwise.
+
+0:05:36.580,0:05:37.980
+Now, moving through a loop,
+
+0:05:37.980,0:05:40.720
+...if you enter the positive (+) terminal of a component,
+
+0:05:40.720,0:05:42.460
+...write a positive (above zero) voltage for it.
+
+0:05:42.460,0:05:44.580
+And if you enter a negative (-) terminal,
+
+0:05:44.580,0:05:46.320
+...write a negative (below zero) voltage for it.
+
+0:05:46.320,0:05:47.360
+Like here,
+
+0:05:47.360,0:05:48.180
+...we enter:
+
+0:05:48.180,0:05:50.240
+negative (-) V1
+
+0:05:50.940,0:05:53.120
+minus (-) V2
+
+0:05:53.780,0:05:55.600
+plus (+) V3
+
+0:05:55.600,0:05:56.880
+is equal to (=) zero (0)
+
+0:05:57.020,0:05:59.680
+And make sure you write ALL the voltages in that loop.
+
+0:05:59.680,0:06:01.160
+In the next one we have
+
+0:06:01.160,0:06:03.140
+minus (-) V3
+
+0:06:03.140,0:06:05.640
+minus (-) V4
+
+0:06:05.640,0:06:07.180
+minus (-) V5
+
+0:06:07.180,0:06:07.860
+is (=) zero (0)
+
+0:06:07.860,0:06:09.040
+And in the big loop, we have:
+
+0:06:09.040,0:06:10.640
+minus (-) V1
+
+0:06:10.640,0:06:12.600
+minus (-) V2
+
+0:06:12.600,0:06:15.260
+minus (-) V4
+
+0:06:15.260,0:06:16.700
+minus (-) V5
+
+0:06:16.700,0:06:17.420
+is (=) zero (0)
+
+0:06:17.420,0:06:19.380
+And of course, if you move the other way in the loop
+
+0:06:19.380,0:06:21.040
+All these voltages will be positive,
+
+0:06:21.040,0:06:22.060
+...which is the same thing.
+
+0:06:22.060,0:06:24.260
+And you have 3 equations just like that!
+
+0:06:24.660,0:06:26.120
+Of course, these are not unique.
+
+0:06:26.120,0:06:27.440
+And from any two of them (first 2 equations),
+
+0:06:27.440,0:06:28.840
+...you can get the third one (3rd equation),
+
+0:06:28.840,0:06:30.240
+...because, for example here,
+
+0:06:30.240,0:06:32.500
+...two small loops make one big loop.
+
+0:06:32.680,0:06:34.320
+So, two of them are enough.
+
+0:06:34.320,0:06:36.700
+And always go with the smallest one for ease.
+
+0:06:36.700,0:06:37.740
+Or, for example,
+
+0:06:37.740,0:06:39.160
+...if you have a circuit like this
+
+0:06:39.160,0:06:41.080
+...and write KVL for the first one,
+
+0:06:41.080,0:06:41.580
+...you have
+
+0:06:41.580,0:06:42.960
+minus (-) V1
+
+0:06:42.960,0:06:44.160
+plus (+) V2
+
+0:06:44.160,0:06:45.200
+is equal to (=) zero (0).
+
+0:06:45.200,0:06:47.400
+or: V1 is equal to (=) V2
+
+0:06:47.680,0:06:49.200
+Similarly, in the second one,
+
+0:06:49.200,0:06:50.960
+V2 is equal to (=) V3
+
+0:06:50.960,0:06:51.580
+...which means
+
+0:06:51.580,0:06:54.520
+V1 is equal to (=) V2 is equal to (=) V3.
+
+0:06:54.700,0:06:55.880
+This is fantastic!
+
+0:06:55.880,0:06:59.080
+It means that the voltage across all parallel components
+
+0:06:59.080,0:07:00.580
+...is always equal!
+
+0:07:00.600,0:07:01.680
+Remember this!
+
+0:07:01.680,0:07:03.840
+So that's what you get from KVL.
+
+0:07:03.840,0:07:06.140
+But those equations are often not enough
+
+0:07:06.140,0:07:08.220
+...to solve the voltage and current values.
+
+0:07:08.220,0:07:09.880
+And that's when you need:
+
+0:07:11.380,0:07:12.800
+According to KCL (Kirchhoff's Current Law),
+
+0:07:12.800,0:07:14.940
+...if you have a bunch of circuit branches
+
+0:07:14.940,0:07:16.440
+...connecting in one node (point),
+
+0:07:16.440,0:07:19.060
+...the sum of all currents (𝙸) going into the node
+
+0:07:19.060,0:07:22.120
+...is equal to the sum of all currents (𝙸) going out.
+
+0:07:22.120,0:07:23.680
+Otherwise, it would mean that
+
+0:07:23.680,0:07:26.080
+...charges are accumulating in the node,
+
+0:07:26.080,0:07:27.400
+...which is impossible.
+
+0:07:27.400,0:07:29.460
+Minding the lumped model again.
+
+0:07:29.660,0:07:32.000
+Stay tuned for more clarification!
+
+0:07:32.400,0:07:33.620
+It makes sense, doesn't it?
+
+0:07:33.620,0:07:34.420
+It is like:
+
+0:07:34.420,0:07:36.300
+If there is no leakage current,
+
+0:07:36.300,0:07:38.900
+...then all the water that goes into a pipe
+
+0:07:38.900,0:07:40.560
+...must go out of the other side,
+
+0:07:40.560,0:07:42.940
+...otherwise the pipe could bulge and explode.
+
+0:07:43.540,0:07:45.620
+And as we have defined that
+
+0:07:45.620,0:07:49.120
+...current (𝙸) is positive in the direction of the arrows.
+
+0:07:49.120,0:07:52.960
+Again, it doesn't matter if you know
+the actual direction of the current.
+
+0:07:52.960,0:07:54.720
+You can assign them randomly.
+
+0:07:54.720,0:07:55.840
+For all I care,
+
+0:07:55.840,0:07:58.020
+...all these can point into the node,
+
+0:07:58.020,0:07:59.340
+...which would just mean that
+
+0:07:59.340,0:08:02.060
+...some of these currents (𝙸)
+would have negative (-) values
+
+0:08:02.060,0:08:04.520
+...or the sum of all these currents (𝙸) would be zero (0).
+
+0:08:04.660,0:08:05.860
+So, based on KCL,
+
+0:08:05.860,0:08:09.220
+...if you have nodes with only two components
+(left and right) connecting to it,
+
+0:08:09.220,0:08:10.800
+...which means they are in series,
+
+0:08:11.280,0:08:13.320
+𝙸1 going into the node
+
+0:08:13.320,0:08:15.920
+...is equal to (=) 𝙸2 leaving the node.
+
+0:08:15.920,0:08:16.876
+...or here,
+
+0:08:16.880,0:08:20.640
+...the same 𝙸2 going in is equal to (=) 𝙸3 leaving.
+
+0:08:20.640,0:08:22.240
+This is fantastic too!
+
+0:08:22.240,0:08:25.220
+This means the current through all series components
+
+0:08:25.220,0:08:26.480
+...is always the same.
+
+0:08:26.480,0:08:27.600
+Remember this too!
+
+0:08:27.600,0:08:28.620
+Let's look at this circuit.
+
+0:08:28.620,0:08:29.800
+It has four nodes (points):
+
+0:08:29.800,0:08:31.640
+1, 2, 3 and 4.
+
+0:08:31.640,0:08:33.780
+But two of these nodes don't matter.
+
+0:08:33.780,0:08:35.740
+...because they put components in series,
+
+0:08:35.740,0:08:36.760
+...and we already know
+
+0:08:36.760,0:08:38.920
+...the current through all of them is equal.
+
+0:08:39.180,0:08:41.980
+So only these two nodes are important for our analysis.
+
+0:08:42.240,0:08:43.380
+So, in this node,
+
+0:08:43.380,0:08:45.240
+𝙸1 going into the node
+
+0:08:45.240,0:08:48.960
+is equal to (=) 𝙸2 plus (+) 𝙸3 leaving the node.
+
+0:08:48.960,0:08:50.100
+And in this node,
+
+0:08:50.100,0:08:53.080
+𝙸2 plus (+) 𝙸3 going into the node
+
+0:08:53.080,0:08:55.840
+is equal to (=) 𝙸1 leaving the node.
+
+0:08:55.840,0:08:58.300
+...which is the same as the first one
+(reversed) and is not unique.
+
+0:08:58.300,0:09:00.960
+So here, we only have one useful equation.
+
+0:09:00.960,0:09:03.120
+And that's what KCL does for you.
+
+0:09:03.120,0:09:05.840
+Yeah, you can assign polarities and directions randomly.
+
+0:09:05.840,0:09:07.960
+But it helps to understand the circuit better
+
+0:09:07.960,0:09:09.460
+...if you assign them properly.
+
+0:09:09.460,0:09:11.660
+For example, start with your power supply.
+
+0:09:11.660,0:09:13.380
+If you already know the polarity,
+
+0:09:13.380,0:09:14.140
+...you put it on,
+
+0:09:14.140,0:09:15.180
+...otherwise-
+
+0:09:15.180,0:09:16.640
+For example, if it is AC,
+
+0:09:16.640,0:09:18.300
+...put positive (+) on the top side.
+
+0:09:18.300,0:09:19.700
+...then the direction of the current
+
+0:09:19.700,0:09:22.280
+...goes out of the positive (+) of the power supply
+
+0:09:22.280,0:09:24.240
+...and distributes through the load
+
+0:09:24.240,0:09:26.700
+...and splits in branches
+
+0:09:26.700,0:09:28.520
+...and returns to the supply.
+
+0:09:28.520,0:09:29.940
+And on the load side,
+
+0:09:29.940,0:09:34.100
+...the current enters the positive (+) terminal of the load.
+
+0:09:34.100,0:09:37.580
+So you can easily put polarities there.
+
+0:09:37.580,0:09:38.940
+This kind of assignment
+
+0:09:38.940,0:09:41.320
+...keeps your values positive (above 0) for DC,
+
+0:09:41.320,0:09:42.820
+...not so much for AC.
+
+0:09:42.820,0:09:45.520
+But using it will give you a better understanding
+
+0:09:45.520,0:09:47.280
+...of the flow of your circuit.
+
+0:09:47.280,0:09:48.280
+Very simple!
+
+0:09:48.280,0:09:49.940
+Now, you know lumped model,
+
+0:09:49.940,0:09:50.560
+...KVL,
+
+0:09:50.560,0:09:51.820
+...and KCL!
+
+0:09:51.820,0:09:53.000
+Let's do an example.
+
+0:09:53.000,0:09:54.140
+We have a circuit like this,
+
+0:09:54.140,0:09:55.620
+...with an 8-volt (8 V) power supply
+
+0:09:55.620,0:09:57.800
+...and a bunch of resistor values like this,
+
+0:09:57.800,0:10:00.800
+...and I've assigned polarities and directions, as you see.
+
+0:10:00.800,0:10:02.940
+Writing the KVL and KCL equation,
+
+0:10:02.940,0:10:06.040
+...we see in loop 1 we get this equation (1st equation)
+
+0:10:06.040,0:10:08.580
+...in loop 2 we get this equation (2nd equation)
+
+0:10:08.580,0:10:10.980
+...and in this node we get that equation (3rd equation).
+
+0:10:11.120,0:10:13.480
+7 variables and 3 equations.
+
+0:10:13.480,0:10:14.300
+Not enough!
+
+0:10:14.300,0:10:14.680
+BUT
+
+0:10:14.680,0:10:17.960
+...we already know the relation of
+voltage and current in resistors,
+
+0:10:17.960,0:10:22.040
+...where if the current enters a
+positive (+) terminal of a resistor...
+
+0:10:22.420,0:10:24.220
+...voltage (V) across the resistor is
+
+0:10:24.220,0:10:26.660
+resistance (R) times (×) current (𝙸)
+
+0:10:26.660,0:10:27.740
+And just like that,
+
+0:10:27.740,0:10:29.440
+...we get four more equations.
+
+0:10:29.560,0:10:31.760
+Now we just have to sit down and solve it
+
+0:10:32.400,0:10:33.060
+What?
+
+0:10:33.060,0:10:34.780
+Your math requires improvement?
+
+0:10:34.800,0:10:35.300
+Go to:
+
+0:10:35.720,0:10:36.960
+...and start learning math!
+
+0:10:36.960,0:10:37.840
+Click on the link!
+
+0:10:37.840,0:10:39.200
+Now, don't be intimidated
+
+0:10:39.200,0:10:41.400
+...by such a simple stupid circuit.
+
+0:10:41.400,0:10:43.520
+All you need is a little bit more information
+
+0:10:43.520,0:10:45.480
+...to be able to solve it even easier!
+
+0:10:45.480,0:10:47.560
+For example, I know these two are in series
+
+0:10:47.560,0:10:49.280
+...so their equivalent resistance is:
+
+0:10:49.280,0:10:50.240
+1 plus (+) 3
+
+0:10:50.240,0:10:51.280
+...or 4 ohms (4 Ω).
+
+0:10:51.280,0:10:53.440
+And this 4-ohm is parallel to that 4-ohm,
+
+0:10:53.440,0:10:55.460
+...so the equivalent resistance here is 2 ohms (2 Ω).
+
+0:10:55.460,0:10:56.000
+(Resistance in parallel: 1/R1 + 1/R2 + 1/R3)
+...so the equivalent resistance here is 2 ohms (2 Ω).
+
+0:10:56.000,0:10:57.840
+...and that 2-ohm is series with this one
+
+0:10:57.840,0:11:00.620
+...so the equivalent resistance here is 4 ohms (4 Ω).
+
+0:11:00.620,0:11:03.380
+So this entire circuit is like an 8-volt (8 V) supply
+
+0:11:03.380,0:11:05.220
+...across a 4 ohm (4 Ω) resistor.
+
+0:11:05.220,0:11:07.460
+The current going out of the supply is:
+
+0:11:07.460,0:11:09.160
+8 volts (8 V) divided by (÷) 4 ohms (4 Ω)
+
+0:11:09.160,0:11:10.060
+or 2 amps (2 A)
+
+0:11:10.060,0:11:11.400
+As soon as we know 𝙸1,
+
+0:11:11.400,0:11:13.560
+V1 is 2 ohms (2 Ω) times (×) 𝙸1
+
+0:11:13.560,0:11:14.460
+or 4 volts (4 V)
+
+0:11:14.460,0:11:16.960
+Right there, from KVL in this loop, we know
+
+0:11:16.960,0:11:19.440
+V2 is equal to (=) 8 minus (-) V1
+
+0:11:19.440,0:11:20.280
+or 4 volts (4 V)
+
+0:11:20.280,0:11:21.740
+And easy as that, we know
+
+0:11:21.740,0:11:24.220
+𝙸2 is (=) V2 divided by (÷) 4 ohms (4 Ω)
+
+0:11:24.220,0:11:25.220
+or 1 amp (1 A)
+
+0:11:25.220,0:11:26.880
+And from KCL we know-
+
+0:11:27.550,0:11:27.820
+Eh.
+
+0:11:27.820,0:11:29.000
+We'll leave the rest to you.
+
+0:11:29.000,0:11:32.320
+That first bit about equivalent circuits was important.
+
+0:11:32.320,0:11:35.060
+I should just tell you how series and parallel stuff work.
+
+0:11:35.060,0:11:35.880
+But I won't,
+
+0:11:35.880,0:11:38.320
+...because we already have much information to digest!
+
+0:11:38.320,0:11:41.200
+I will make a video later about equivalent circuits,
+
+0:11:41.200,0:11:44.420
+...and that will help you simplify the circuits for analysis.
+
+0:11:44.420,0:11:45.240
+But for now,
+
+0:11:45.240,0:11:47.060
+...KVL and KCL are enough,
+
+0:11:47.060,0:11:49.580
+...as long as you have lumped model elements.
+
+0:11:50.400,0:11:51.420
+But what if you don't?
+
+0:11:51.420,0:11:53.660
+What if the stupid elements are real
+
+0:11:53.660,0:11:55.740
+...and leaked radiations around?!
+
+0:11:55.740,0:11:57.020
+Some people even argue
+
+0:11:57.020,0:12:00.020
+...KVL and KCL don't hold in such cases.
+
+0:12:00.020,0:12:00.560
+No.
+
+0:12:00.800,0:12:02.380
+Let me put your mind at ease.
+
+0:12:02.600,0:12:04.240
+KVL and KCL
+
+0:12:04.240,0:12:05.740
+...always hold true
+
+0:12:05.740,0:12:08.480
+...as long as you have your definitions straight.
+
+0:12:08.480,0:12:11.740
+But they only give you results
+as accurate as your model.
+
+0:12:11.740,0:12:14.140
+So you have to know every single element
+
+0:12:14.140,0:12:15.880
+...that's affecting your circuit.
+
+0:12:15.880,0:12:16.580
+For example,
+
+0:12:16.580,0:12:18.480
+...imagine I have a loop like this.
+
+0:12:18.480,0:12:20.680
+An AC supply across a resistor.
+
+0:12:20.680,0:12:22.700
+I measure the voltage across the resistor,
+
+0:12:22.700,0:12:24.640
+...and it doesn't match the supply voltage.
+
+0:12:24.640,0:12:25.000
+Ｗｈａｔ
+
+0:12:25.000,0:12:25.400
+ｔｈｅ
+
+0:12:25.400,0:12:25.880
+ｈｅｌｌ
+
+0:12:25.880,0:12:26.920
+The reason might be
+
+0:12:26.920,0:12:30.520
+...another inductor radiating
+magnetic fields through my loop,
+
+0:12:30.520,0:12:31.720
+...creating voltage.
+
+0:12:31.720,0:12:32.880
+So I must understand
+
+0:12:32.880,0:12:35.020
+...there is a missing element in my model
+
+0:12:35.020,0:12:36.320
+...that I didn't consider,
+
+0:12:36.320,0:12:38.220
+...and that's the loop inductance
+
+0:12:38.220,0:12:40.740
+...acting as a secondary of a transformer.
+
+0:12:40.740,0:12:41.700
+I put it in,
+
+0:12:41.700,0:12:43.200
+...and the KVL holds.
+
+0:12:43.200,0:12:45.960
+Like I battled it out in one of my old videos.
+
+0:12:45.960,0:12:48.380
+And imagine you have AC current going into a node
+
+0:12:48.380,0:12:49.900
+...and going out of the other side,
+
+0:12:49.900,0:12:51.920
+...and you expect both to be equal.
+
+0:12:51.920,0:12:52.620
+You measure,
+
+0:12:52.620,0:12:53.720
+...and they're not!
+
+0:12:53.720,0:12:54.440
+This means
+
+0:12:54.440,0:12:57.300
+...there must be a third current leaking out somewhere.
+
+0:12:57.320,0:12:58.300
+Ｂｕｔ  ｗｈｅｒｅ！？
+
+0:12:58.300,0:13:00.900
+Maybe your wire is running too close to ground,
+
+0:13:00.900,0:13:04.720
+...and that creates a stray parasitic capacitance
+
+0:13:04.720,0:13:06.340
+...between your node and ground
+
+0:13:06.340,0:13:07.760
+...that you didn't account for,
+
+0:13:07.760,0:13:09.660
+...and is sucking the current away.
+
+0:13:09.760,0:13:12.560
+So as long as your model is accurate,
+
+0:13:12.560,0:13:14.880
+...KVL and KCL are accurate.
+
+0:13:14.880,0:13:17.500
+And all this nasty [REDACTED] happens in AC,
+
+0:13:17.500,0:13:19.500
+...where you have the most radiation.
+
+0:13:19.500,0:13:21.840
+In DC you only have to worry about heat.
+
+0:13:21.840,0:13:24.840
+And that's pretty much DC changes so slow.
+
+0:13:24.840,0:13:25.860
+Now sometimes,
+
+0:13:25.860,0:13:29.140
+...these stray parasitic components are so many,
+
+0:13:29.140,0:13:31.340
+...you ignore the ones with negligible effect
+
+0:13:31.340,0:13:34.900
+...and only include the ones with
+the largest effect in your model.
+
+0:13:34.900,0:13:36.100
+Which is fine.
+
+0:13:36.100,0:13:38.300
+In electronics or any engineering,
+
+0:13:38.300,0:13:42.100
+...we define an acceptable
+inaccuracy for our application,
+
+0:13:42.100,0:13:44.960
+...and design our circuits to work with that tolerance.
+
+0:13:44.960,0:13:46.800
+So don't worry about things so much.
+
+0:13:46.800,0:13:47.700
+We will design.
+
+0:13:47.700,0:13:48.200
+Simple.
+
+0:13:48.200,0:13:48.600
+Stuff™.
+
+0:13:48.600,0:13:49.100
+𝗧𝗼𝗴𝗲𝘁𝗵𝗲𝗿.
+
+0:13:49.100,0:13:49.780
+𝙎𝙊𝙊𝙉.
+
+0:13:49.780,0:13:51.480
+It requires very simple math.
+
+0:13:51.480,0:13:53.660
+But if you're worried about your math level,
+
+0:13:53.660,0:13:54.500
+...go straight to:
+
+0:13:56.820,0:13:58.020
+There you can take
+
+0:13:58.420,0:14:00.480
+...mathematical fundamentals...
+
+0:14:01.360,0:14:01.860
+Hmm
+
+0:14:02.320,0:14:03.840
+These look quite fun.
+
+0:14:05.120,0:14:07.440
+...is filled with very well-made courses
+
+0:14:07.440,0:14:09.580
+...on math, science and computing,
+
+0:14:09.580,0:14:12.440
+...from basic algebra to quantum computing.
+
+0:14:12.660,0:14:13.860
+But most importantly,
+
+0:14:13.860,0:14:15.560
+...they made it super fun to learn
+
+0:14:15.560,0:14:17.440
+...with their interactive platform.
+
+0:14:18.060,0:14:18.900
+Are they me?
+
+0:14:19.340,0:14:20.040
+No, I'm not interactive.
+
+0:14:20.040,0:14:20.540
+[Press F to pay respects]
+No, I'm not interactive.
+
+0:14:20.540,0:14:22.700
+Did you know that you can also click here
+
+0:14:22.700,0:14:26.020
+...and give the Brilliant membership
+and the treasure of knowledge
+
+0:14:26.020,0:14:27.060
+...to someone else?
+
+0:14:27.340,0:14:28.280
+Do it NOW!
+
+0:14:28.280,0:14:30.140
+So go to my link and sign up for free,
+
+0:14:30.140,0:14:31.600
+...and you'll have access to
+
+0:14:31.600,0:14:33.440
+...tons of free stuff already!
+
+0:14:33.660,0:14:34.160
+BUT
+
+0:14:34.160,0:14:36.320
+...the first 200 people to use my link
+
+0:14:36.320,0:14:41.080
+...will get 20% off of the annual
+Premium Membership for full access,
+
+0:14:41.080,0:14:42.500
+...and you could call yourselves
+
+0:14:42.500,0:14:42.700
+ｂｉｇ brain too!
+
+0:14:42.700,0:14:43.200
+ｂｉｇ  ｂｒａｉｎ too!
+
+0:14:43.200,0:14:43.760
+ｂｉｇ  ｂｒａｉｎ ｔｏｏ！
+
+0:14:43.900,0:14:45.040
+And thanks for watching.
+
+0:14:45.300,0:14:47.300
+[the 9th unibrow dance in the 101 series]
+
+0:14:50.000,0:14:52.000
+Subtitles/captions by Jonathan Lee (Pentameron)
+youtube.com/c/PentameronSV

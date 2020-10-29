@@ -1,0 +1,737 @@
+0:00:00.000,0:00:01.480
+This episode is sponsored by:
+
+0:00:03.420,0:00:04.080
+Hi guys!
+
+0:00:04.080,0:00:04.840
+Jade here.
+
+0:00:04.840,0:00:08.020
+So a few weeks ago, I made a video
+on the Schrödinger equation.
+
+0:00:08.020,0:00:08.960
+And in it, I said that
+
+0:00:08.960,0:00:10.860
+...if we place an electron in a box,
+
+0:00:10.860,0:00:13.500
+...the probability that it could be found outside the box
+
+0:00:13.500,0:00:14.400
+...is zero.
+
+0:00:15.020,0:00:17.120
+And a lot of you commented with questions like,
+
+0:00:17.120,0:00:18.740
+"Oh, but what about quantum tunneling?"
+
+0:00:18.740,0:00:22.200
+"Isn't there some cases where the
+electron can tunnel outside of the box?"
+
+0:00:22.480,0:00:23.300
+So I thought,
+
+0:00:23.300,0:00:25.520
+"What the heck, I'll just make a whole video about it."
+
+0:00:25.520,0:00:26.760
+It's super cool
+
+0:00:26.760,0:00:29.900
+...and I will answer that specific
+question at the end of the video.
+
+0:00:30.060,0:00:30.740
+But first,
+
+0:00:33.120,0:00:35.820
+Well, the short version is in regular classical physics.
+
+0:00:35.820,0:00:37.880
+If you have a ball at the bottom of a hill,
+
+0:00:37.880,0:00:40.740
+...if it doesn't get a big enough push to get over the hill,
+
+0:00:40.740,0:00:42.320
+...it's kind of just stuck there.
+
+0:00:42.780,0:00:44.480
+Putting this into physics talk,
+
+0:00:44.480,0:00:45.820
+...if the ball doesn't have enough
+
+0:00:46.820,0:00:47.560
+...to get over the
+
+0:00:48.540,0:00:49.620
+...of the hill,
+
+0:00:49.620,0:00:50.980
+...it'll never get over,
+
+0:00:51.140,0:00:51.680
+...like,
+
+0:00:51.680,0:00:52.280
+...ever.
+
+0:00:53.220,0:00:54.760
+But of course, in quantum mechanics,
+
+0:00:54.760,0:00:55.900
+...things aren't so simple.
+
+0:00:56.240,0:00:58.780
+If we replace the ball with a quantum particle like an
+
+0:00:59.720,0:01:01.060
+...and the hill with some kind of
+
+0:01:02.180,0:01:03.540
+...even if the electron
+
+0:01:03.540,0:01:06.920
+...doesn't have enough kinetic energy
+to jump the potential barrier,
+
+0:01:07.140,0:01:09.800
+...sometimes it can end up on the other side.
+
+0:01:10.400,0:01:11.120
+This is called:
+
+0:01:12.520,0:01:14.940
+And in this video, we're going to see how it works.
+
+0:01:15.640,0:01:16.340
+So now,
+
+0:01:16.340,0:01:17.300
+...the long version!
+
+0:01:17.540,0:01:20.880
+So one of the biggest differences
+between quantum and classical physics
+
+0:01:20.880,0:01:23.460
+...is that quantum physics is probabilistic.
+
+0:01:23.640,0:01:24.560
+Unlike a ball,
+
+0:01:24.560,0:01:27.520
+...we can't pinpoint exactly where an electron is.
+
+0:01:28.400,0:01:29.240
+This comes from the
+
+0:01:31.260,0:01:35.260
+...which says that we can never know the exact
+position and momentum of an object.
+
+0:01:35.500,0:01:39.340
+It's not because our measuring devices
+are too crappy or because we're too slow,
+
+0:01:39.340,0:01:42.400
+...it's just something fundamental
+about the laws of nature.
+
+0:01:42.520,0:01:43.720
+But not all hope is lost!
+
+0:01:43.940,0:01:46.560
+Maybe we don't know exactly where the electron is,
+
+0:01:46.560,0:01:50.500
+...but we know with a pretty high probability
+that it's around here somewhere.
+
+0:01:51.000,0:01:53.980
+We can actually model these probabilities with a wave,
+
+0:01:53.980,0:01:55.560
+...or, more technically, a
+
+0:01:57.280,0:01:58.540
+This wavy cloud
+
+0:01:58.540,0:02:02.180
+...gives us the probabilities of
+where the electron is likely to be.
+
+0:02:02.920,0:02:06.740
+So now, instead of imagining a
+particle traveling toward a barrier,
+
+0:02:06.740,0:02:09.240
+...imagine a wave traveling toward a barrier.
+
+0:02:09.980,0:02:12.160
+Now, when this wave collides with the barrier,
+
+0:02:12.160,0:02:15.780
+...because the electron doesn't have
+enough kinetic energy to make it over,
+
+0:02:15.780,0:02:16.960
+...it gets reflected.
+
+0:02:18.400,0:02:18.900
+But wait.
+
+0:02:21.200,0:02:25.140
+Well, there's this secret property of waves
+you probably didn't learn in school.
+
+0:02:25.360,0:02:26.940
+Light is an electromagnetic wave,
+
+0:02:26.940,0:02:30.280
+...so let's imagine what happens when
+we shine a light beam through glass.
+
+0:02:30.680,0:02:33.020
+When we shine a light beam through a piece of glass,
+
+0:02:33.020,0:02:35.640
+...at the boundary where the glass meets the air,
+
+0:02:35.640,0:02:37.340
+...the light beam will bend or
+
+0:02:38.560,0:02:40.120
+You may have noticed this effect
+
+0:02:40.120,0:02:42.600
+...if you've ever looked at a straw in your water glass.
+
+0:02:42.940,0:02:44.180
+The visual illusion
+
+0:02:44.180,0:02:47.720
+...comes from the bending of light at
+the boundary of two different mediums,
+
+0:02:48.160,0:02:50.260
+...in this case, air and water.
+
+0:02:50.560,0:02:54.100
+But refraction isn't the only thing
+that can happen at a boundary.
+
+0:02:54.440,0:02:56.560
+Light can also get reflected.
+
+0:02:56.840,0:02:59.520
+The amount of light which is reflected and refracted
+
+0:02:59.520,0:03:02.440
+...depends on the angle that the light hits the boundary.
+
+0:03:03.260,0:03:07.960
+All mediums have a certain angle where
+100% of the light beam is reflected.
+
+0:03:08.520,0:03:09.620
+This is called:
+
+0:03:11.780,0:03:14.500
+...and you may have heard that when this happens,
+
+0:03:14.500,0:03:18.440
+...100% of the INCIDENT beam goes
+back as the REFLECTED beam.
+
+0:03:19.100,0:03:20.660
+But that's not true.
+
+0:03:20.980,0:03:22.400
+These are Maxwell's equations.
+
+0:03:22.400,0:03:23.820
+And though they may look innocent,
+
+0:03:23.820,0:03:27.680
+...they form the entire foundation
+of classical electromagnetism.
+
+0:03:27.760,0:03:29.080
+Remember how we said that
+
+0:03:29.080,0:03:31.080
+...light is an electromagnetic wave?
+
+0:03:31.260,0:03:34.480
+This means that the way light
+behaves in different scenarios
+
+0:03:34.480,0:03:37.660
+...can be predicted and modeled
+by solving Maxwell's equations.
+
+0:03:38.240,0:03:42.720
+Now, when we solve these equations
+for the case of total internal reflection,
+
+0:03:42.720,0:03:44.920
+...we get something very interesting.
+
+0:03:45.720,0:03:46.260
+This.
+
+0:03:47.300,0:03:48.980
+Isn't that interesting?
+
+0:03:49.440,0:03:53.260
+Instead of there being an abrupt drop-off
+where the light hits the boundary,
+
+0:03:53.260,0:03:56.380
+...there's this very quick exponential drop-off.
+
+0:03:57.080,0:03:58.940
+This is shown by this term here:
+
+0:03:59.240,0:04:01.540
+I know this looks super complicated, and
+
+0:04:01.540,0:04:02.080
+...well,
+
+0:04:02.080,0:04:02.580
+...it is.
+
+0:04:02.880,0:04:05.280
+So let's just get rid of all that mumbo-jumbo here
+
+0:04:05.280,0:04:06.900
+...and just focus on the bit that matters.
+
+0:04:07.540,0:04:09.600
+This is a graph of e to the power 'x',
+
+0:04:09.600,0:04:10.740
+...which, as you see,
+
+0:04:10.740,0:04:12.440
+...models exponential growth.
+
+0:04:12.800,0:04:14.460
+But the term in our equation is
+
+0:04:14.460,0:04:16.520
+...e to the power of negative x,
+
+0:04:16.520,0:04:17.140
+...which is
+
+0:04:17.140,0:04:19.160
+...simply the backwards version of this
+
+0:04:19.160,0:04:20.600
+...exponential decay.
+
+0:04:21.180,0:04:23.880
+So we have this tiny little drop-off wave here.
+
+0:04:24.480,0:04:25.500
+This is called an
+
+0:04:26.780,0:04:29.740
+...which, in my opinion, is a very suitable name.
+
+0:04:30.160,0:04:30.660
+The word
+
+0:04:31.120,0:04:31.660
+...means:
+
+0:04:37.120,0:04:40.220
+An evanescent wave is pretty much
+exactly what it sounds like.
+
+0:04:40.260,0:04:42.160
+It decays incredibly quickly,
+
+0:04:42.160,0:04:44.820
+...lasting only a few wavelengths before vanishing,
+
+0:04:44.820,0:04:47.360
+...so we can't usually see or detect it.
+
+0:04:47.360,0:04:48.020
+But,
+
+0:04:48.020,0:04:52.480
+...if we place another material sufficiently
+close to the boundary of the first,
+
+0:04:52.980,0:04:54.720
+...sometimes the evanescent wave
+
+0:04:54.720,0:04:58.800
+...doesn't decay completely to zero
+before hitting the next material.
+
+0:04:58.800,0:05:01.360
+So it can then continue to travel onwards.
+
+0:05:01.980,0:05:02.800
+This is called:
+
+0:05:05.440,0:05:08.380
+And I recommend looking up
+a demo on YouTube after this:
+
+0:05:08.660,0:05:10.300
+I would have shown you in this video,
+
+0:05:10.300,0:05:12.120
+...but for anyone who has read my Twitter bio,
+
+0:05:12.120,0:05:14.520
+...you know that experiments are not my forte.
+
+0:05:15.160,0:05:16.200
+I actually did try it,
+
+0:05:16.200,0:05:17.680
+...and it just... didn't work.
+
+0:05:17.840,0:05:19.420
+Time for a digression.
+
+0:05:19.560,0:05:22.580
+Optics was one of my favorite subjects in university,
+
+0:05:22.580,0:05:24.980
+...and we did a lot of work on evanescent waves.
+
+0:05:25.100,0:05:28.660
+But I never really got a physical intuition for why they're
+
+0:05:28.660,0:05:29.200
+...there.
+
+0:05:29.200,0:05:30.880
+The only answer I ever found is
+
+0:05:30.880,0:05:32.900
+..."because Maxwell's equations say so."
+
+0:05:32.900,0:05:34.300
+So, like, when you solve the equations,
+
+0:05:34.300,0:05:36.420
+...you end up with this decaying exponential.
+
+0:05:36.420,0:05:38.900
+But other than that, I can't really say a physical reason
+
+0:05:38.900,0:05:42.780
+...for why a wave can't just abruptly stop
+at a boundary and change direction.
+
+0:05:42.940,0:05:44.320
+So if you do,
+
+0:05:44.320,0:05:46.120
+...please explain it to me in the comments.
+
+0:05:46.460,0:05:47.720
+Okay, digression over.
+
+0:05:47.780,0:05:49.420
+This wave might be puny,
+
+0:05:49.420,0:05:52.420
+...but it's the reason behind why
+quantum tunneling is possible.
+
+0:05:52.420,0:05:55.760
+Remember that we're trading our
+electron as a probability wave.
+
+0:05:56.100,0:05:58.360
+...which means that when it gets reflected here,
+
+0:05:58.360,0:06:00.620
+...an evanescent wave forms at the boundary.
+
+0:06:00.700,0:06:02.820
+If the barrier is thin enough,
+
+0:06:02.820,0:06:03.600
+...sometimes
+
+0:06:03.600,0:06:05.980
+...some of the wave actually makes it through.
+
+0:06:07.240,0:06:09.300
+So if some of the wave makes it through
+
+0:06:09.300,0:06:13.560
+...and THIS wave represents the probability
+of the location of the electrons,
+
+0:06:13.560,0:06:17.220
+...then there's some very small but non-zero probability
+
+0:06:17.220,0:06:18.980
+...that our electron is over here,
+
+0:06:19.360,0:06:21.720
+...even though this probability is tiny.
+
+0:06:21.720,0:06:26.420
+Because there are usually so many quantum
+particles involved in any physical process,
+
+0:06:26.420,0:06:29.560
+...the effects of quantum tunneling
+are large enough to be essential to
+
+0:06:29.560,0:06:31.600
+...nuclear fusion in stars,
+
+0:06:31.600,0:06:33.760
+...spontaneous mutation in DNA, and
+
+0:06:33.760,0:06:35.640
+...scanning tunneling microscopy.
+
+0:06:36.700,0:06:41.440
+It may seem startling that we're treating the wave
+function exactly like an electromagnetic wave.
+
+0:06:41.680,0:06:44.200
+It's hard to imagine something so abstract,
+
+0:06:44.200,0:06:46.940
+...like the probabilities of electron locations.
+
+0:06:46.940,0:06:50.840
+As a real physical thing that travels
+and reflects and tunnels,
+
+0:06:50.840,0:06:54.640
+...the truth is scientists still don't know
+exactly what the wave function is.
+
+0:06:54.640,0:06:55.800
+They don't know whether it's
+
+0:06:55.800,0:07:00.400
+...purely a mathematical tool we've created to
+help us predict things about quantum objects
+
+0:07:00.400,0:07:02.660
+...or whether it's a real, physical wave.
+
+0:07:02.960,0:07:03.920
+But what they do know
+
+0:07:03.920,0:07:07.140
+...is that it can be modeled pretty much
+perfectly by wave mechanics.
+
+0:07:07.380,0:07:11.220
+When we solve the Schrödinger wave equation
+for the electron inside the barrier,
+
+0:07:11.220,0:07:13.440
+...we get this exponential decay,
+
+0:07:13.440,0:07:16.660
+...which is exactly what we would
+expect of an evanescent wave.
+
+0:07:17.540,0:07:19.600
+Speaking of Schrödinger's equation,
+
+0:07:19.600,0:07:21.240
+...in my video about that I said:
+
+0:07:21.240,0:07:23.120
+If we place an electron in a box,
+
+0:07:23.120,0:07:26.480
+...the probability that it could be
+found outside the box is zero.
+
+0:07:27.140,0:07:29.020
+And a lot of you are confused, because...
+
+0:07:29.020,0:07:30.160
+'What about tunneling?'
+
+0:07:30.500,0:07:31.260
+Well, the truth is
+
+0:07:31.260,0:07:33.080
+...I didn't specify this very well.
+
+0:07:33.320,0:07:35.140
+In a lot of university degrees,
+
+0:07:35.140,0:07:39.460
+...a particle in a box is the simplest case
+we use to analyze Schrödinger's equation.
+
+0:07:39.700,0:07:43.320
+But, it's actually a particle in an infinite potential well.
+
+0:07:43.820,0:07:45.400
+So, instead of this being a box,
+
+0:07:45.400,0:07:48.700
+...look at it as a well with infinitely high and thick walls.
+
+0:07:49.080,0:07:51.360
+In tunneling, the barrier needs to be thin enough
+
+0:07:51.360,0:07:52.620
+...so that the evanescent wave
+
+0:07:52.620,0:07:56.640
+...doesn't have time to completely decay
+to zero before reaching the other side.
+
+0:07:56.960,0:07:59.140
+Only then can it propagate onwards.
+
+0:07:59.480,0:08:01.600
+With infinitely high and thick walls,
+
+0:08:01.600,0:08:03.520
+...that's obviously impossible.
+
+0:08:04.140,0:08:05.160
+So yeah, my bad.
+
+0:08:05.160,0:08:06.560
+Didn't specify infinity.
+
+0:08:06.560,0:08:07.680
+In my last video,
+
+0:08:07.680,0:08:10.100
+...someone commented asking whether it was futile
+
+0:08:10.100,0:08:13.520
+...to try and truly understand quantum
+mechanics without doing the math.
+
+0:08:13.520,0:08:15.400
+And my immediate reaction was:
+
+0:08:15.620,0:08:16.160
+Yes.
+
+0:08:16.540,0:08:20.900
+While you can learn the catchphrases and
+get an overall gist of what's going on,
+
+0:08:20.900,0:08:24.180
+...to really get that gut feeling
+of understanding the intuition,
+
+0:08:24.180,0:08:27.540
+...you need to work through the problems
+and see what the equations tell you.
+
+0:08:27.800,0:08:31.560
+I didn't really understand the Schrödinger
+equation until I solved it myself.
+
+0:08:31.860,0:08:33.800
+Brilliant.org is a learning website
+
+0:08:33.800,0:08:36.700
+...with an entire course dedicated
+to quantum mechanics.
+
+0:08:37.040,0:08:41.420
+It starts with the very first experiments
+which reveals strange quantum behavior,
+
+0:08:41.420,0:08:43.940
+...and takes you all the way to the Schrödinger equation.
+
+0:08:45.200,0:08:47.980
+It has this interactive quiz style, which I love,
+
+0:08:47.980,0:08:50.280
+...because you can work through
+problems at your own pace
+
+0:08:50.280,0:08:52.500
+...and check your understanding at every step.
+
+0:08:53.380,0:08:57.660
+I actually just worked through these quizzes on the
+mathematical foundations of quantum physics,
+
+0:08:57.660,0:08:59.700
+...and had a few of my own aha moments,
+
+0:08:59.700,0:09:03.160
+...as some questions I'd had since
+university were finally answered.
+
+0:09:03.920,0:09:05.780
+There're also tons of other courses
+
+0:09:05.780,0:09:08.600
+...specialising in math, physics and computer science.
+
+0:09:09.740,0:09:14.940
+Brilliant is offering a 20% discount to the
+first 200 people to sign up using this link.
+
+0:09:15.200,0:09:15.860
+Just go to:
+
+0:09:18.620,0:09:20.680
+...and start learning quantum physics today.
+
+0:09:21.640,0:09:22.600
+Thanks for watching, guys.
+
+0:09:22.600,0:09:24.120
+I hope you enjoyed the video.
+
+0:09:24.120,0:09:28.580
+It was actually the result of a poll I posted
+on the YouTube Community tab.
+
+0:09:28.700,0:09:31.960
+And so, if you would like to be included in those polls
+
+0:09:31.960,0:09:33.900
+...and vote on your favorite topics,
+
+0:09:33.900,0:09:35.780
+...then just click the notification bell.
+
+0:09:35.780,0:09:39.760
+This video is also part of a quantum physics
+series I've got going on at the moment,
+
+0:09:39.760,0:09:42.980
+...which I've linked for you at the end
+of the video and in the description.
+
+0:09:43.120,0:09:44.580
+So, until next time.
+
+0:09:44.580,0:09:45.160
+Bye!

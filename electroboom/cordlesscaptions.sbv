@@ -1,0 +1,720 @@
+0:00:00.000,0:00:00.560
+Hi.
+
+0:00:00.560,0:00:02.040
+Melvin asked me on Twitter
+
+0:00:02.040,0:00:03.840
+...if it is possible to make a bracelet
+
+0:00:03.840,0:00:07.340
+...that removes the static electricity
+from body and avoids shock.
+
+0:00:08.020,0:00:09.140
+Of course, there are these
+
+0:00:09.140,0:00:12.960
+...straps that ground the body
+and remove static electricity.
+
+0:00:12.960,0:00:15.580
+But is it possible to make a cordless one?
+
+0:00:16.300,0:00:18.100
+And surely after I did a quick search,
+
+0:00:18.100,0:00:22.040
+...I found that there are these anti-static
+cordless bracelets like these,
+
+0:00:22.040,0:00:23.440
+And my reaction was,
+
+0:00:23.440,0:00:24.160
+...well,
+
+0:00:24.160,0:00:25.340
+'These are scam!'
+
+0:00:25.340,0:00:29.020
+I mean, how can you remove static electricity
+from your body without sending it any...
+
+0:00:29.020,0:00:31.020
+...in your back and put it in your pocket, you have to...
+
+0:00:31.020,0:00:33.320
+How do these things sell on the web?
+
+0:00:33.320,0:00:35.100
+...under those, people are having...
+
+0:00:35.100,0:00:37.120
+I mean, how does it work? It is not even...
+
+0:00:37.640,0:00:40.640
+See, every time your body picks up static electricity,
+
+0:00:40.640,0:00:42.740
+...say by walking with socks on the carpet,
+
+0:00:42.740,0:00:44.360
+The only way to get rid of them
+
+0:00:44.360,0:00:46.780
+...is to take them and put them somewhere else,
+
+0:00:46.780,0:00:47.720
+...like in the ground.
+
+0:00:47.720,0:00:49.540
+And that's what this wire does.
+
+0:00:49.540,0:00:53.240
+You can't just put those charges in a
+container and keep them in your pocket!
+
+0:00:53.540,0:00:54.840
+Dave Jones from the channel
+
+0:00:55.700,0:00:59.540
+...which is a great electronics teardown,
+review and debunk channel,
+
+0:00:59.540,0:01:00.960
+...has a great video about this
+
+0:01:00.960,0:01:04.280
+...and shows that these cordless bracelets are garbage.
+
+0:01:04.280,0:01:07.440
+Basically, they've showed the fake bracelet he got online
+
+0:01:07.440,0:01:10.900
+...contained only a single 1-MΩ resistor in it:
+
+0:01:11.000,0:01:11.820
+"And..."
+
+0:01:11.820,0:01:12.820
+"That's it!"
+
+0:01:13.120,0:01:14.000
+"Wow."
+
+0:01:14.000,0:01:15.160
+What's the use of that?
+
+0:01:15.160,0:01:19.220
+Is holding a resistor in my hands supposed
+to magically discharge my body?
+
+0:01:19.220,0:01:23.280
+It is very important to at least understand
+the tools you want to use for your work
+
+0:01:23.280,0:01:25.740
+...and educate yourself and not get scammed.
+
+0:01:25.740,0:01:28.160
+That's why this video is sponsored by:
+
+0:01:28.800,0:01:33.040
+A great website where you can find online
+courses and learn whatever you like
+
+0:01:33.040,0:01:36.600
+...from a list of over 23,000 classes to choose from
+
+0:01:36.600,0:01:38.360
+...for as low as $10 a month.
+
+0:01:38.520,0:01:39.300
+But wait!
+
+0:01:39.560,0:01:40.760
+Oh, you're actually waiting?
+
+0:01:40.760,0:01:43.840
+And the first 500 people to use my promo code here
+
+0:01:43.840,0:01:46.400
+...get two months of free Skillshare premium.
+
+0:01:46.400,0:01:47.160
+Check it out!
+
+0:01:47.160,0:01:47.660
+Anyway,
+
+0:01:47.660,0:01:50.200
+...holding a 1-MΩ resister does nothing.
+
+0:01:50.200,0:01:53.560
+Why even 1 MΩ when you can hold a 0 Ω screwdriver?
+
+0:01:54.480,0:01:55.060
+Hmm...
+
+0:01:55.060,0:01:56.300
+That gives me an idea.
+
+0:01:56.300,0:01:58.520
+I was wondering if it is possible at all
+
+0:01:58.520,0:02:01.580
+...to have a standalone bracelet
+that would dissipate charges.
+
+0:02:01.580,0:02:04.060
+And one thing came to mind, which is one of those
+
+0:02:04.060,0:02:06.780
+...punk rock bracelets with a bunch of spikes on them.
+
+0:02:06.780,0:02:08.100
+You might already know that
+
+0:02:08.100,0:02:11.680
+...electric charges accumulate on
+the sharp points in a conductor,
+
+0:02:11.680,0:02:13.860
+And so much charge in a tiny point
+
+0:02:13.860,0:02:16.060
+...results in them repelling each other hard
+
+0:02:16.060,0:02:18.200
+...and dissipate into the air and environment.
+
+0:02:18.200,0:02:20.740
+You can easily see this when I run my Tesla coil.
+
+0:02:24.940,0:02:29.580
+See, the charges go out only from the
+tip of the needle and nowhere else!
+
+0:02:30.080,0:02:33.620
+So I thought with those punk bracelets
+having so many metal spikes,
+
+0:02:33.620,0:02:36.480
+...they potentially dissipate charges into the air quicker
+
+0:02:36.480,0:02:40.060
+...and drop my body voltage and reduce
+the risk of discharge and shock.
+
+0:02:40.060,0:02:41.040
+So here's the plan.
+
+0:02:41.040,0:02:42.780
+I'm gonna buy one of those bracelets,
+
+0:02:42.780,0:02:43.680
+And to test it,
+
+0:02:43.680,0:02:46.240
+...I'm going to charge myself using my Van de Graaff
+
+0:02:46.240,0:02:48.880
+...and see if those spikes have any effect at all.
+
+0:02:49.920,0:02:51.740
+Granville Street in downtown Vancouver
+
+0:02:51.740,0:02:55.560
+...is one of those streets you can
+find some questionable stores in.
+
+0:02:55.940,0:02:57.800
+Hopefully I can find what I need there.
+
+0:02:59.200,0:03:00.780
+'Fantasy Factory', eh?
+
+0:03:00.780,0:03:01.520
+Let's check that-
+
+0:03:01.520,0:03:03.280
+Jeez, that was the wrong shop.
+
+0:03:03.620,0:03:05.480
+Let's check the 'Rock Shop'.
+
+0:03:05.480,0:03:06.700
+Hopefully this one has it.
+
+0:03:07.000,0:03:08.760
+This looks like the right store.
+
+0:03:09.560,0:03:10.600
+Oh, there we are.
+
+0:03:11.840,0:03:14.360
+Those are the kind of spikes I'm looking for,
+
+0:03:14.800,0:03:15.920
+...but in a wrist band.
+
+0:03:15.920,0:03:17.020
+That's- What is that?
+
+0:03:17.200,0:03:18.460
+A collar or something?
+
+0:03:18.460,0:03:20.760
+I bought these two for a total of $70.
+
+0:03:21.160,0:03:23.520
+That's a strange expense on my business card.
+
+0:03:24.380,0:03:28.120
+Well, I got this not-very-impressive
+one-row-of-spikes bracelet,
+
+0:03:28.120,0:03:29.880
+...but it's the pointiest one they had,
+
+0:03:29.880,0:03:32.980
+And then I found this one which is much pointier.
+
+0:03:32.980,0:03:34.080
+It's called 'The Choker',
+
+0:03:35.080,0:03:38.500
+...and they both have metal exposed
+on the back to touch my skin.
+
+0:03:38.500,0:03:40.320
+Okay, let's do it without the spikes first.
+
+0:03:41.440,0:03:42.780
+I put my legs up,
+
+0:03:46.080,0:03:47.720
+...charge my body a little bit,
+
+0:03:48.060,0:03:49.220
+...and then discharge.
+
+0:03:52.240,0:03:53.480
+That was painful.
+
+0:03:53.960,0:03:54.460
+Okay,
+
+0:03:54.460,0:03:56.000
+...let's do it with the spikes now.
+
+0:03:56.000,0:03:57.680
+Okay, this time with the bracelet.
+
+0:04:01.340,0:04:01.840
+One,
+
+0:04:01.840,0:04:02.440
+...two,
+
+0:04:02.440,0:04:02.940
+...three,
+
+0:04:02.940,0:04:03.440
+...four,
+
+0:04:03.440,0:04:03.940
+...five
+
+0:04:03.940,0:04:04.980
+...and discharge.
+
+0:04:08.340,0:04:09.680
+It's absolutely useless.
+
+0:04:10.020,0:04:12.400
+Well, maybe the dome is charging my body too quickly.
+
+0:04:12.400,0:04:13.780
+So let's do it more realistically.
+
+0:04:13.780,0:04:14.900
+I'm gonna touch the dome,
+
+0:04:16.440,0:04:17.660
+...charge my body first,
+
+0:04:17.660,0:04:19.800
+...and then let go and then touch the ground.
+
+0:04:21.220,0:04:22.240
+I hate surprises.
+
+0:04:22.240,0:04:23.880
+Okay without the bracelet.
+
+0:04:23.880,0:04:24.860
+Charging my body.
+
+0:04:25.720,0:04:26.340
+1,
+
+0:04:26.340,0:04:27.000
+...2,
+
+0:04:27.000,0:04:27.520
+...3,
+
+0:04:27.520,0:04:28.040
+...4,
+
+0:04:28.040,0:04:28.540
+...5,
+
+0:04:28.540,0:04:29.400
+...and discharge.
+
+0:04:29.400,0:04:30.020
+1,
+
+0:04:30.020,0:04:30.540
+...2,
+
+0:04:30.540,0:04:31.060
+...3,
+
+0:04:31.060,0:04:31.640
+...4,
+
+0:04:31.640,0:04:32.140
+...5.
+
+0:04:32.780,0:04:34.460
+And now with the bracelet.
+
+0:04:35.840,0:04:36.460
+1,
+
+0:04:36.460,0:04:37.060
+...2,
+
+0:04:37.060,0:04:37.560
+...3,
+
+0:04:37.560,0:04:38.140
+...4,
+
+0:04:38.140,0:04:38.780
+...5,
+
+0:04:39.640,0:04:40.160
+1,
+
+0:04:40.160,0:04:40.740
+...2,
+
+0:04:40.740,0:04:41.340
+...3,
+
+0:04:41.340,0:04:41.860
+...4,
+
+0:04:41.860,0:04:42.360
+...5.
+
+0:04:43.740,0:04:44.480
+Useless.
+
+0:04:45.140,0:04:47.460
+Maybe it's not making a good contact to my body
+
+0:04:47.460,0:04:49.520
+...due to my massive fur,
+
+0:04:49.520,0:04:51.180
+So I'm gonna use aluminum foil
+
+0:04:51.180,0:04:55.140
+...to make sure that sparks are in good
+contact with each other and my body.
+
+0:04:55.620,0:04:56.320
+Here we go.
+
+0:04:58.460,0:04:59.200
+1,
+
+0:04:59.200,0:04:59.800
+...2,
+
+0:04:59.800,0:05:00.380
+...3,
+
+0:05:00.380,0:05:00.920
+...4,
+
+0:05:00.920,0:05:01.540
+...5,
+
+0:05:01.540,0:05:02.360
+And 1,
+
+0:05:02.360,0:05:02.860
+...2,
+
+0:05:02.860,0:05:03.380
+...3,
+
+0:05:03.380,0:05:03.920
+...4,
+
+0:05:03.920,0:05:04.420
+...5.
+
+0:05:05.600,0:05:06.460
+Useless!
+
+0:05:08.060,0:05:08.740
+F*** it.
+
+0:05:09.020,0:05:10.500
+Let's use 'The Choker'.
+
+0:05:10.500,0:05:12.640
+It's not gonna look good around your neck in the lab,
+
+0:05:12.640,0:05:14.200
+...so I'm gonna put it around my wrist
+
+0:05:14.200,0:05:16.380
+...with the foil around it for good contact.
+
+0:05:16.380,0:05:18.200
+If this doesn't do it, nothing will!
+
+0:05:18.200,0:05:18.820
+Here you go.
+
+0:05:18.820,0:05:21.660
+The super-duper anti-static bracelet!
+
+0:05:25.480,0:05:25.980
+Okay.
+
+0:05:25.980,0:05:26.660
+1,
+
+0:05:26.660,0:05:27.240
+...2,
+
+0:05:27.240,0:05:27.880
+...3,
+
+0:05:27.880,0:05:28.440
+...4,
+
+0:05:28.440,0:05:28.960
+...5.
+
+0:05:29.440,0:05:30.260
+And 1,
+
+0:05:30.260,0:05:30.840
+...2,
+
+0:05:30.840,0:05:31.400
+...3,
+
+0:05:31.400,0:05:32.040
+...4,
+
+0:05:33.780,0:05:34.580
+What the hell?
+
+0:05:35.740,0:05:36.380
+1,
+
+0:05:36.380,0:05:37.040
+...2,
+
+0:05:37.040,0:05:37.540
+...3,
+
+0:05:37.540,0:05:38.140
+...4,
+
+0:05:38.140,0:05:38.740
+...5,
+
+0:05:39.340,0:05:39.980
+1,
+
+0:05:39.980,0:05:40.560
+...2,
+
+0:05:40.560,0:05:41.140
+...3,
+
+0:05:41.140,0:05:41.640
+...4
+
+0:05:43.780,0:05:45.320
+Completely useless!
+
+0:05:45.640,0:05:47.480
+I really thought this would do it.
+
+0:05:47.480,0:05:50.260
+I really thought having spikes on your body should help,
+
+0:05:50.260,0:05:52.140
+...but maybe their effect is insignificant
+
+0:05:52.140,0:05:55.700
+...compared to how your body already
+dissipates charges on its own.
+
+0:05:55.700,0:05:58.340
+Now let's put on the grounding strap
+
+0:05:58.340,0:06:00.200
+...and see how well that works.
+
+0:06:04.000,0:06:04.620
+1,
+
+0:06:04.620,0:06:05.220
+...2,
+
+0:06:05.220,0:06:05.720
+...3,
+
+0:06:05.720,0:06:06.240
+...4,
+
+0:06:06.240,0:06:06.900
+...5.
+
+0:06:07.360,0:06:08.000
+1,
+
+0:06:08.000,0:06:08.500
+...2,
+
+0:06:08.500,0:06:09.080
+...3
+
+0:06:09.600,0:06:10.420
+Nothing.
+
+0:06:15.280,0:06:17.860
+Even having my hand completely on the dome,
+
+0:06:17.860,0:06:19.340
+...I don't feel any discharge!
+
+0:06:19.880,0:06:21.180
+Now instead of this strap,
+
+0:06:21.180,0:06:23.760
+...I put my bare feet on the tiled ground.
+
+0:06:30.700,0:06:31.200
+See?
+
+0:06:31.200,0:06:33.240
+Even the non-conductive piles
+
+0:06:33.240,0:06:35.500
+...discharge better than those stupid spikes.
+
+0:06:35.760,0:06:36.960
+Well, you know what it means.
+
+0:06:36.960,0:06:41.820
+If these spikes can't discharge you faster
+than your body's normal discharge rate,
+
+0:06:41.820,0:06:44.960
+...then there is nothing out there that
+can discharge you cordlessly.
+
+0:06:44.960,0:06:49.020
+All those cordless anti-static
+straps are just a pile of junk!
+
+0:06:49.020,0:06:51.380
+One note is that, even in the corded straps,
+
+0:06:51.380,0:06:55.220
+...there is a 1-MΩ resistance
+in series with the grounding wire.
+
+0:06:55.220,0:06:57.960
+You never want to directly connect your body to ground,
+
+0:06:57.960,0:07:02.800
+...because in case you accidentally touch
+high voltage you can easily get electrocuted.
+
+0:07:02.800,0:07:05.220
+The 1 MΩ limits the current and saves you
+
+0:07:05.220,0:07:07.820
+...while it's good enough to get rid of static charges.
+
+0:07:07.820,0:07:11.340
+So make sure you have a properly
+grounded anti-static wristband,
+
+0:07:11.340,0:07:13.520
+...or risk killing your naked electronics.
+
+0:07:13.660,0:07:16.300
+And start learning new things at Skillshare!
+
+0:07:16.300,0:07:18.020
+And make sure to use the promo code.
+
+0:07:18.020,0:07:20.360
+Only the first 500 people to sign up
+
+0:07:20.360,0:07:23.020
+...get the two-month free access to all the courses
+
+0:07:23.020,0:07:25.200
+...so you don't have any excuse not to learn.
+
+0:07:25.200,0:07:28.580
+I personally like to pick up my
+video-editing skills a notch
+
+0:07:28.580,0:07:30.560
+...because it's taking forever as is.
+
+0:07:31.000,0:07:33.420
+There is this course on Adobe Premiere
+
+0:07:33.420,0:07:37.220
+...and it seems the entire course
+is less than three hours?
+
+0:07:37.740,0:07:40.420
+I can't take a lot of free courses in two months.
+
+0:07:40.820,0:07:42.520
+Am I allowed to use that promo code?
+
+0:07:42.860,0:07:45.320
+Ah, I'll just ask one of my cousins to sign up for me.
+
+0:07:46.080,0:07:46.580
+Oh
+
+0:07:47.300,0:07:49.540
+Get it before my cousins take all the spots.
+
+0:07:55.000,0:07:57.000
+Subtitles/captions by Jonathan Lee (Pentameron)
+youtube.com/c/PentameronSV

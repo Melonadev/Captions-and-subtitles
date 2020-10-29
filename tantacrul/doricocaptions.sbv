@@ -1,0 +1,5367 @@
+0:00:02.520,0:00:03.940
+No matter your profession,
+
+0:00:03.940,0:00:08.220
+...learning to use a new application to
+do your job can be a painful experience.
+
+0:00:08.520,0:00:12.700
+Yes, the software you’re currently using
+has all kinds of weird quirks and problems,
+
+0:00:12.700,0:00:14.920
+...especially if it’s PowerPoint or Dreamweaver.
+
+0:00:14.920,0:00:16.980
+Man, have you ever used Dreamweaver?
+
+0:00:16.980,0:00:17.920
+It’s awful.
+
+0:00:17.920,0:00:19.060
+It’s just awful.
+
+0:00:19.060,0:00:21.740
+But the thing about these problems is that, over time,
+
+0:00:21.740,0:00:23.100
+...you learn to overcome them,
+
+0:00:23.100,0:00:25.860
+...and eventually, you develop quite a bit of speed.
+
+0:00:25.860,0:00:27.000
+Things are fine.
+
+0:00:27.000,0:00:28.940
+You can work well enough with what you have,
+
+0:00:28.940,0:00:30.940
+..and yes, some of it is a little annoying,
+
+0:00:30.940,0:00:32.400
+...but life's not perfect.
+
+0:00:32.400,0:00:33.100
+And then along,
+
+0:00:33.100,0:00:36.020
+...comes some game changer that
+everyone keeps talking about.
+
+0:00:43.040,0:00:45.800
+Now, if the app is Dreamweaver,
+those people have a point.
+
+0:00:45.800,0:00:48.120
+I just can’t stress how much I hate Dreamweaver.
+
+0:00:48.120,0:00:52.440
+But often the process of moving to
+the new thing is really, really painful,
+
+0:00:52.440,0:00:55.540
+...and you just end up with a whole
+bunch of new problems to overcome.
+
+0:00:55.540,0:00:57.660
+This all boils down to one question:
+
+0:01:02.040,0:01:03.960
+Uh, it’s a two-part question.
+
+0:01:03.960,0:01:05.560
+Now, in the world of composition,
+
+0:01:05.560,0:01:07.520
+...the industry leader, Sibelius,
+
+0:01:07.520,0:01:09.480
+...is the ultimate trial by fire.
+
+0:01:09.480,0:01:13.860
+Understanding it is a bit like learning to
+drive a new route to work while blindfolded.
+
+0:01:13.860,0:01:16.340
+Your experience and intuition aren't gonna help you.
+
+0:01:16.340,0:01:21.560
+Instead, you need to rely on brute-force trial-and-error
+by simply crashing into everything around you
+
+0:01:21.560,0:01:24.820
+...in order to piece together a mental
+construct of what’s going on,
+
+0:01:24.820,0:01:28.400
+...with your primary guides being
+abstract causality and pain.
+
+0:01:28.820,0:01:30.660
+It should be renamed 'Pavlovius'.
+
+0:01:30.900,0:01:35.700
+So, for all of us who’ve had to endure the
+process of divining the mechanics of Sibelius,
+
+0:01:35.700,0:01:37.240
+...we don’t want to do it again.
+
+0:01:37.240,0:01:38.460
+We’re survivors.
+
+0:01:38.460,0:01:39.840
+Yeah, it’s a nightmare to learn.
+
+0:01:39.840,0:01:41.400
+It took me years to get good at it.
+
+0:01:41.400,0:01:43.460
+But, despite the awful interface,
+
+0:01:43.460,0:01:46.220
+...it is actually quite powerful, and eventually,
+
+0:01:46.220,0:01:47.320
+...EVENTUALLY,
+
+0:01:47.320,0:01:49.180
+...you get to be pretty quick at it too.
+
+0:01:49.620,0:01:50.320
+It's fine.
+
+0:01:50.520,0:01:51.220
+Leave it.
+
+0:01:51.560,0:01:52.380
+It’s fine.
+
+0:01:53.360,0:01:54.400
+But it’s not fine.
+
+0:01:55.420,0:01:56.540
+Not anymore,
+
+0:01:56.540,0:01:58.840
+...because there’s a new app on the scene.
+
+0:01:58.840,0:02:02.680
+A direct competitor hell-bent on
+running those Sibelius folk out of...
+
+0:02:02.680,0:02:03.400
+...town...
+
+0:02:06.540,0:02:07.300
+Who are you?
+
+0:02:07.480,0:02:08.700
+'I’m Jankman!'
+
+0:02:08.700,0:02:11.340
+'And you’re going to be seeing me a little later!'
+
+0:02:29.280,0:02:29.840
+'Hello everybody,
+
+0:02:29.840,0:02:33.720
+...and thank you for tuning into
+today's, uh, livestream about Dorico 3.'
+
+0:02:35.220,0:02:36.980
+This is Daniel Spreadbury.
+
+0:02:36.980,0:02:39.220
+He’s pretty much the spokesperson of Dorico.
+
+0:02:39.480,0:02:42.620
+And to begin looking at what he
+and the rest of his team have built,
+
+0:02:42.620,0:02:45.220
+...let’s go back a few years to 2012,
+
+0:02:45.220,0:02:48.900
+...when the majority of that team were
+working on a different notation app called,
+
+0:02:48.900,0:02:49.660
+...um,
+
+0:02:50.060,0:02:51.400
+...Sibelius.
+
+0:02:52.440,0:02:54.760
+Right, I’ve already spoken about this once before,
+
+0:02:54.760,0:02:56.460
+...so let’s recap quickly.
+
+0:02:56.460,0:03:00.500
+Sibelius was bought by a multimedia
+company called AVID in 2006.
+
+0:03:00.500,0:03:05.240
+Daniel Spreadbury and the rest of the Sibelius team
+were based in Finsbury Park in London at the time.
+
+0:03:05.240,0:03:07.380
+But a few years after they purchased Sibelius,
+
+0:03:07.380,0:03:08.900
+...AVID ran into some financial trouble,
+
+0:03:08.900,0:03:12.060
+...with their share price tanking at the end of 2011.
+
+0:03:12.060,0:03:14.640
+So, as part of an emergency cost-saving measure,
+
+0:03:14.640,0:03:16.900
+...they decided to let the Finsbury Park team go,
+
+0:03:16.900,0:03:20.200
+...and began recruiting a new and
+much cheaper team in the Ukraine.
+
+0:03:20.200,0:03:24.020
+Then, three years later, the Ukraine team
+seems to have not worked out,
+
+0:03:24.020,0:03:27.980
+...and Sibelius started advertising for yet
+another development team in Montreal.
+
+0:03:27.980,0:03:31.420
+As Tim Carrol, AVID’s vice president
+for audio products, explained:
+
+0:03:42.040,0:03:43.440
+...or to put it another way,
+
+0:03:43.440,0:03:45.660
+'It turns out we needed the people we fired.'
+
+0:03:45.900,0:03:48.020
+The closing of the Finsbury Park office
+
+0:03:48.020,0:03:50.980
+...caught the attention of Yamaha,
+who saw an opportunity.
+
+0:03:50.980,0:03:54.240
+You see: AVID’s revenue has been
+slowly declining for years now,
+
+0:03:54.240,0:03:55.820
+...with its two other money makers
+
+0:03:55.820,0:03:57.580
+Pro Tools and Media Composer
+
+0:03:57.580,0:04:00.020
+...facing increasingly stiff competition.
+
+0:04:00.020,0:04:01.500
+Sibelius, on the other hand,
+
+0:04:01.500,0:04:04.360
+...is still solidly the industry standard for notation,
+
+0:04:04.360,0:04:07.380
+...and has a pretty firm footing
+in the education space too,
+
+0:04:07.380,0:04:09.360
+...which makes it difficult to displace.
+
+0:04:09.360,0:04:11.240
+And since it integrates with Pro Tools,
+
+0:04:11.240,0:04:14.320
+...it’s attractive to those who
+write music for movies and TV,
+
+0:04:14.320,0:04:17.540
+...or who want to convert their scores
+into highly-produced audio tracks.
+
+0:04:17.540,0:04:21.180
+However, for those bought into the
+Sibelius/Pro Tools ecosystem,
+
+0:04:21.180,0:04:22.860
+...there is some cause for concern:
+
+0:04:22.860,0:04:25.640
+Are AVID destined to continue this trajectory of decline?
+
+0:04:25.640,0:04:29.800
+And, if so, given that they were willing to
+massively halt Sibelius’ development once,
+
+0:04:29.800,0:04:31.180
+...would they do it again?
+
+0:04:31.180,0:04:32.840
+Is Sibelius safe?
+
+0:04:32.840,0:04:35.440
+Well, Yamaha are also asking these questions.
+
+0:04:35.440,0:04:37.180
+They own a company called Steinberg,
+
+0:04:37.180,0:04:40.620
+...who in turn own Cubase, a
+direct competitor to Pro Tools.
+
+0:04:40.620,0:04:44.340
+And since they’re obviously always
+looking for a way to give Cubase an edge,
+
+0:04:44.340,0:04:47.980
+...when AVID decided to ditch
+the Finsbury Park team in 2012,
+
+0:04:47.980,0:04:49.420
+...they saw an opportunity.
+
+0:04:49.420,0:04:50.960
+Here, offered up on a platter,
+
+0:04:50.960,0:04:54.700
+...was a group of people with the experience
+to develop a rival notation program
+
+0:04:54.700,0:04:56.180
+...which could integrate with Cubase,
+
+0:04:56.180,0:04:59.440
+...and, together, could be poised to
+step in as the new industry standard
+
+0:04:59.440,0:05:01.860
+...if AVID's fortunes continued to deteriorate.
+
+0:05:02.160,0:05:04.960
+Dorico was never going to suddenly
+take over from Sibelius.
+
+0:05:04.960,0:05:07.520
+No, there’s a longer game being played here.
+
+0:05:08.460,0:05:09.940
+So, before we go any further,
+
+0:05:09.940,0:05:13.660
+...you might be wondering why I’ve not yet
+mentioned the other two major notation apps,
+
+0:05:13.660,0:05:15.000
+...Finale and Musescore?
+
+0:05:15.000,0:05:16.720
+Well, with regards to Finale,
+
+0:05:16.720,0:05:18.780
+...which is still Sibelius’ main rival,
+
+0:05:18.780,0:05:19.940
+...I’m saving it for last,
+
+0:05:19.940,0:05:22.480
+...and I don’t want to give the game
+away by talking about it now.
+
+0:05:22.720,0:05:24.500
+Regarding Musescore, well,
+
+0:05:24.500,0:05:26.380
+...that’s bit more of an interesting one actually.
+
+0:05:26.380,0:05:30.020
+And if you haven’t already heard the news
+about this, I guess you’ll be pretty surprised.
+
+0:05:30.360,0:05:34.480
+So, after I created my video about
+Musescore in March 2019,
+
+0:05:34.480,0:05:38.180
+...the open-source community set about
+fixing all the issues I had mentioned.
+
+0:05:38.180,0:05:40.000
+I was quite impressed and honored by this,
+
+0:05:40.000,0:05:44.940
+...and over time, I found myself regularly talking
+to them about the specifics of certain fixes.
+
+0:05:44.940,0:05:47.740
+Eventually, I started submitting proper designs too.
+
+0:05:47.740,0:05:51.280
+And as I got more involved, I discovered
+that I got along really well with the team,
+
+0:05:51.280,0:05:53.080
+...so one thing led to another.
+
+0:05:53.080,0:05:54.700
+We started holding hands,
+
+0:05:54.700,0:05:56.000
+...we dated for a while,
+
+0:05:56.000,0:05:58.240
+...and on 5th November 2019,
+
+0:05:58.240,0:05:59.820
+...finally decided to tie the knot
+
+0:05:59.820,0:06:02.440
+...and I became MuseScore’s new Head of Design.
+
+0:06:02.440,0:06:03.300
+I know.
+
+0:06:03.300,0:06:04.220
+What a match!
+
+0:06:04.560,0:06:07.380
+So now that I’m now actively working
+on the design of MuseScore,
+
+0:06:07.380,0:06:10.700
+...I feel there are two obvious 
+questions I should quickly address.
+
+0:06:10.700,0:06:13.240
+First, what does this mean for the Tantacrul channel?
+
+0:06:13.240,0:06:15.520
+Well, in terms of output, nothing.
+
+0:06:15.520,0:06:18.340
+If I do cover my work on MuseScore here in the future,
+
+0:06:18.340,0:06:21.940
+...it’ll only be when I think the subject is
+interesting enough for a general audience,
+
+0:06:21.940,0:06:26.480
+...and I’ll largely be documenting my design
+work over on the MuseScore channel instead.
+
+0:06:26.480,0:06:29.160
+So, for anyone interested in following that progress,
+
+0:06:29.160,0:06:30.440
+...the link is in the description.
+
+0:06:31.360,0:06:33.460
+The second question that I imagine this will raise
+
+0:06:33.460,0:06:38.640
+...is whether or not my involvement with Musescore
+will bias my appraisal of Dorico or Finale.
+
+0:06:38.640,0:06:40.140
+I mean, it’s a fair question,
+
+0:06:40.140,0:06:42.900
+...and it’s probably worth describing
+my own motivations here.
+
+0:06:43.220,0:06:46.120
+I joined Musescore so I could put
+my money where my mouth is:
+
+0:06:46.120,0:06:48.820
+To design a notation app to be
+the way I think it should be,
+
+0:06:48.820,0:06:51.220
+...and the last thing I want to do in pursuit of that goal
+
+0:06:51.220,0:06:54.960
+...is to start engaging in cringeworthy
+‘Us and Them’ corporate tribalism,
+
+0:06:54.960,0:06:56.540
+...of the Steve Ballmer variety.
+
+0:06:56.660,0:07:00.180
+'Steve Jobs goes to MacWorld 
+and he pulls out this iPhone.'
+
+0:07:00.180,0:07:02.000
+'What was your first reaction when you saw that?'
+
+0:07:03.500,0:07:06.900
+'500 dollars? Fully subsidized? With a plan?'
+
+0:07:06.900,0:07:09.940
+'I said that is the most expensive phone in the world.'
+
+0:07:09.940,0:07:13.720
+'And it doesn’t appeal to business customers
+because it doesn’t have a keyboard,'
+
+0:07:13.720,0:07:16.020
+'...which makes it not a very good email machine.'
+
+0:07:16.020,0:07:18.800
+If I start failing to recognise the
+good work of those around me,
+
+0:07:18.800,0:07:20.160
+...how good is my work gonna be?
+
+0:07:20.160,0:07:22.720
+So, I’m going to proceed exactly as I have before:
+
+0:07:22.720,0:07:24.880
+When I see something I like, I’ll say so.
+
+0:07:24.880,0:07:26.340
+And when I see something janky,
+
+0:07:26.340,0:07:28.540
+...I‘m going to mercilessly mock it, as always.
+
+0:07:28.540,0:07:32.780
+And as you watch this video, you can judge for
+yourselves whether you think I’m being fair or not.
+
+0:07:32.780,0:07:35.200
+And with all that said, let’s get back into it.
+
+0:07:36.680,0:07:40.720
+The Dorico team have a tendency to irritate
+those who currently work on Sibelius,
+
+0:07:40.720,0:07:42.160
+...and it's not hard to see why.
+
+0:07:42.160,0:07:45.860
+Nearly every article about Dorico or
+interview with one of the team members
+
+0:07:45.860,0:07:47.740
+...will mention the Finsbury Park incident,
+
+0:07:47.740,0:07:51.000
+...although, to be fair, it’s hard to see
+how that subject can be avoided.
+
+0:07:51.000,0:07:52.040
+But that’s not all.
+
+0:07:52.040,0:07:56.000
+'Sibelius' seems to come up a lot when team
+members describe the design of Dorico too,
+
+0:07:56.000,0:07:57.160
+...with the sentiment being:
+
+0:07:57.160,0:07:58.980
+‘Look at how badly they do things!'
+
+0:07:58.980,0:08:01.240
+I’ve linked to a few examples of this in the description.
+
+0:08:01.240,0:08:03.020
+The funny thing about this though is that,
+
+0:08:03.020,0:08:05.340
+...since they ARE the old Sibelius team,
+
+0:08:05.340,0:08:08.740
+...then they’re to a significant degree
+responsible for this badness,
+
+0:08:08.740,0:08:09.720
+Bear in mind, by the way,
+
+0:08:09.720,0:08:13.340
+...that this is the team who brought us
+the awful ribbon design with Sibelius 7,
+
+0:08:13.340,0:08:17.080
+...a legacy that the current Sibelius
+team are rather unfairly saddled with.
+
+0:08:17.080,0:08:19.900
+So with that said, what is this video going to focus on?
+
+0:08:19.900,0:08:22.900
+Well, I’ve spent the last 8 months using Dorico properly.
+
+0:08:22.900,0:08:24.920
+And like my previous music software videos,
+
+0:08:24.920,0:08:29.380
+...I think it offers up a lot of interesting lessons
+about the challenges of creating music software,
+
+0:08:29.380,0:08:32.280
+...and I’ve made sure to focus on
+aspects I’ve not spoken about before.
+
+0:08:32.280,0:08:36.440
+For those who can’t read music, this video should
+still be pretty straightforward to understand.
+
+0:08:36.440,0:08:39.120
+For those interested in my overall assessment of Dorico,
+
+0:08:39.120,0:08:42.420
+...I’m going to be putting it head-to-head
+against Sibelius to see which is better.
+
+0:08:42.420,0:08:43.800
+And as I go through this video,
+
+0:08:43.800,0:08:45.520
+...I’m going to answer the crucial question:
+
+0:08:45.520,0:08:47.380
+Which would I pick to write music in?
+
+0:08:48.480,0:08:49.820
+So as I mentioned earlier,
+
+0:08:49.820,0:08:54.920
+...Dorico spends a lot of time and effort positioning
+itself as a more elite notation program than Sibelius.
+
+0:08:54.920,0:09:00.180
+And they reinforce this message constantly in
+interviews, tutorials, press releases and blog posts.
+
+0:09:00.180,0:09:02.960
+The look and layout of the app
+tries to convey this message too,
+
+0:09:02.960,0:09:04.320
+...sometimes literally.
+
+0:09:04.320,0:09:07.680
+I mean, the very first thing you see
+when you open Dorico is the tagline:
+
+0:09:07.680,0:09:09.420
+‘Advanced Music Notation System’.
+
+0:09:10.640,0:09:12.460
+The UI is dark by default,
+
+0:09:12.460,0:09:14.260
+...which reminds me of a design adage:
+
+0:09:14.260,0:09:16.740
+‘Use white if you want to look easy and non-threatening,
+
+0:09:16.740,0:09:18.460
+...use black if you want to look pro.'
+
+0:09:18.760,0:09:21.140
+They claim to be intuitive and simple to use,
+
+0:09:21.140,0:09:24.780
+...so I was curious to see what they’d done
+to improve upon the Sibelius model.
+
+0:09:24.780,0:09:25.840
+And to help me answer this,
+
+0:09:25.840,0:09:28.500
+...I decided to try something I’ve
+not done before on this channel.
+
+0:09:28.500,0:09:30.020
+In October 2019,
+
+0:09:30.020,0:09:33.080
+...I sent out a call on my Patreon, YouTube and Twitter,
+
+0:09:33.080,0:09:36.220
+...asking experienced musicians
+to help me do some user-testing.
+
+0:09:36.220,0:09:38.160
+After receiving hundreds of responses,
+
+0:09:38.160,0:09:41.240
+...I chose 25 people who had never used Dorico before,
+
+0:09:41.240,0:09:44.540
+...and asked them to, one, download
+and install the trial version,
+
+0:09:44.540,0:09:46.640
+...and, two, try writing a few bars of music
+
+0:09:46.640,0:09:49.440
+...using whatever instruments and
+styles they were comfortable with.
+
+0:09:49.440,0:09:51.540
+'I am quite comfortable using Sibelius, '
+
+0:09:51.540,0:09:53.480
+'...I've never used Dorico before, '
+
+0:09:53.480,0:09:54.820
+'...though I've been really excited to try.'
+
+0:09:54.820,0:09:58.260
+'So now, again, I'm stuck at this
+point where I need more bars.'
+
+0:09:58.260,0:09:59.180
+'This is killing me.''
+
+0:09:59.180,0:10:01.540
+This is the ultimate test for any application:
+
+0:10:01.540,0:10:03.140
+The first-time user test.
+
+0:10:03.140,0:10:05.760
+It doesn’t indicate how good an
+app is once you’ve learned it,
+
+0:10:05.760,0:10:07.380
+...and we’ll definitely get to that later,
+
+0:10:07.380,0:10:09.680
+...but it does directly test how intuitive it is.
+
+0:10:09.680,0:10:10.880
+And for anyone interested,
+
+0:10:10.880,0:10:13.120
+...these sessions typically lasted about an hour.
+
+0:10:13.120,0:10:15.600
+So, why did I focus on this type of testing?
+
+0:10:15.600,0:10:17.800
+Well, firstly, this is a video about design,
+
+0:10:17.800,0:10:21.420
+...and I wanted to show one of the tools
+designers use to validate their work.
+
+0:10:21.420,0:10:27.120
+Secondly, the first-time user test is extremely important
+to pass for any app competing in a crowded market.
+
+0:10:27.120,0:10:27.800
+Why?
+
+0:10:27.800,0:10:31.020
+Well, because when people
+decide to install your free trial,
+
+0:10:31.020,0:10:32.480
+...that’s your opportunity to convince them
+
+0:10:32.480,0:10:36.480
+...that it’s worth making the jump from what
+they are currently using to what you are offering.
+
+0:10:36.480,0:10:38.040
+And every complication,
+
+0:10:38.040,0:10:41.620
+...every bit of jank they encounter along
+the way during this crucial period
+
+0:10:41.620,0:10:44.180
+...is more likely to convince them
+that it’s just not worth doing.
+
+0:10:44.520,0:10:45.620
+And in Dorico’s case,
+
+0:10:45.620,0:10:49.060
+...considering that it’s aggressively
+targeting Sibelius and Finale users,
+
+0:10:49.060,0:10:52.360
+...a bad first-time experience is
+really hurtful to their chances.
+
+0:10:52.360,0:10:56.180
+Also, this is the best test you can use to
+determine if something is well-designed,
+
+0:10:56.180,0:11:00.060
+...because every time an app requires you to consult
+the manual to figure out how to do something,
+
+0:11:00.060,0:11:02.860
+...especially when other apps
+already make that thing easy,
+
+0:11:02.860,0:11:05.120
+...it's not doing a particularly good job.
+
+0:11:05.120,0:11:09.340
+Now, the experience of those I recorded largely
+matched my own first-time experience,
+
+0:11:09.340,0:11:10.840
+...which is... mixed,
+
+0:11:10.840,0:11:13.020
+...and in places, pretty painful.
+
+0:11:13.020,0:11:14.380
+So, strap in people,
+
+0:11:14.380,0:11:17.700
+...because, even though there’s a
+lot of good stuff to discuss later,
+
+0:11:17.700,0:11:20.240
+...we first need to talk about the setup process.
+
+0:11:20.820,0:11:21.560
+Okay.
+
+0:11:21.860,0:11:23.240
+Are you ready for the pain?
+
+0:11:24.420,0:11:24.920
+Right.
+
+0:11:24.920,0:11:26.960
+To begin using a trial of Dorico 3,
+
+0:11:26.960,0:11:29.100
+...you need to create a Steinberg ID,
+
+0:11:29.100,0:11:30.840
+...by entering your email and a password.
+
+0:11:30.840,0:11:33.120
+And right off the bat, we have a usability issue.
+
+0:11:33.120,0:11:34.160
+The title says:
+
+0:11:36.520,0:11:39.080
+And at the bottom you have what
+looks like a 'Confirm' button.
+
+0:11:39.080,0:11:41.560
+Now, most people foolishly
+understood this to mean that
+
+0:11:41.560,0:11:43.080
+...you should enter your email here
+
+0:11:43.080,0:11:44.220
+...and your password there
+
+0:11:44.220,0:11:46.240
+...and press ‘Create Steinberg ID’.
+
+0:11:46.860,0:11:47.520
+Lovely.
+
+0:11:47.520,0:11:49.220
+And you’ll need to fill that out again.
+
+0:11:49.220,0:11:52.100
+For what it’s worth, most participants
+did this step before speaking to me,
+
+0:11:52.100,0:11:54.000
+...so I only saw it happen 4 times.
+
+0:11:54.000,0:11:55.120
+And out of those 4 times,
+
+0:11:55.120,0:11:56.620
+...3 people made this mistake.
+
+0:11:56.980,0:11:58.120
+And once you’ve registered,
+
+0:11:58.120,0:12:00.900
+...they email you a code, which
+just about everyone copies.
+
+0:12:02.740,0:12:04.980
+"I cannot... paste in here?"
+
+0:12:04.980,0:12:07.660
+Then, after hitting the redundant 'Continue' button,
+
+0:12:07.660,0:12:09.460
+...you are taken to this doozy:
+
+0:12:11.720,0:12:13.140
+...with the following options:
+
+0:12:14.860,0:12:17.660
+Watching people encountering
+this step was pretty amusing.
+
+0:12:17.660,0:12:19.100
+"What?"
+
+0:12:19.500,0:12:21.060
+"The- There's no choice."
+
+0:12:21.060,0:12:23.560
+"What kind of trial is this?"
+
+0:12:23.560,0:12:26.040
+"It just rubs me the wrong way, there's just- this thing,"
+
+0:12:26.040,0:12:27.080
+"I'm not a fan,"
+
+0:12:27.080,0:12:29.320
+"...because that'd be- the first thing
+I'm gonna do is unsubscribe."
+
+0:12:29.560,0:12:31.100
+Then they send you an activation code,
+
+0:12:31.100,0:12:33.040
+...which contains hidden curse words,
+
+0:12:33.040,0:12:34.700
+...and you also get your download link.
+
+0:12:36.440,0:12:39.800
+I should probably tell you at this point that
+you are nowhere near 'one step away',
+
+0:12:39.800,0:12:41.680
+...you’re like 20% way through this.
+
+0:12:41.940,0:12:44.640
+So, the download link doesn’t actually download Dorico.
+
+0:12:44.640,0:12:47.100
+Instead, you get the ‘Steinberg Download Assistant’,
+
+0:12:47.100,0:12:50.100
+...a landing page that finally
+allows you to download Dorico,
+
+0:12:50.100,0:12:52.440
+...along with the orchestral libraries that come with it.
+
+0:12:52.440,0:12:54.040
+And when installing the download assistant,
+
+0:12:54.040,0:12:56.400
+...it asks you whether you want
+to install something called
+
+0:12:56.400,0:12:58.280
+...the ‘aria2 download manager’,
+
+0:12:58.280,0:13:01.880
+...a download manager which they explain
+makes your download assistant work better.
+
+0:13:01.880,0:13:03.560
+Anyway, once that’s all set up,
+
+0:13:03.560,0:13:06.060
+...you can finally click on Dorico 3 to download it.
+
+0:13:06.480,0:13:09.500
+Once installed, you click on the Dorico icon to open it,
+
+0:13:09.500,0:13:10.340
+...and it tells you:
+
+0:13:10.340,0:13:11.760
+'No license found',
+
+0:13:11.760,0:13:13.780
+...which is one of those messages that makes you think,
+
+0:13:13.780,0:13:15.260
+‘Oh no, I’ve done something wrong!'
+
+0:13:21.300,0:13:23.220
+And there’s a button, which, when pressed,
+
+0:13:23.220,0:13:25.620
+...opens a program called the ‘eLicenser’,
+
+0:13:25.620,0:13:28.340
+...which it turns out they installed on
+your machine without telling you.
+
+0:13:28.340,0:13:32.440
+And if you’re on Windows, they also
+auto-created a desktop shortcut too.
+
+0:13:32.440,0:13:33.520
+Uh, okay.
+
+0:13:33.520,0:13:35.960
+Looks like you got some spring cleaning to do after this!
+
+0:13:35.960,0:13:37.500
+So, you go back to your email,
+
+0:13:37.500,0:13:39.700
+...grab your activation code and enter it,
+
+0:13:39.700,0:13:41.200
+...then you press 'Activate License',
+
+0:13:41.200,0:13:44.280
+...only to be told that the eLicenser is out of date.
+
+0:13:44.800,0:13:45.360
+What!?
+
+0:13:45.360,0:13:47.540
+But, h- hold on. I just installed it?
+
+0:13:47.540,0:13:49.000
+How did I mess this up?
+
+0:13:49.000,0:13:51.280
+Now, a few people didn’t know what to do at this point
+
+0:13:51.280,0:13:55.700
+...and it’s worth mentioning that this was
+experienced universally by every person I spoke to.
+
+0:13:55.700,0:13:57.580
+And it took some of them a long time to realise
+
+0:13:57.580,0:13:59.360
+...that the only solution to this problem
+
+0:13:59.360,0:14:02.120
+...is to follow the address mentioned
+in the error message here:
+
+0:14:04.540,0:14:06.000
+And they don’t even make it a link.
+
+0:14:06.000,0:14:07.220
+It'd be nice, you know?
+
+0:14:07.220,0:14:09.080
+If there was a link so I don’t have to type it out.
+
+0:14:09.620,0:14:12.540
+So, then you download the
+latest version of the eLicenser,
+
+0:14:12.540,0:14:14.960
+(thanks for nothing, Steinberg Download Assistant!)
+
+0:14:14.960,0:14:16.500
+...and then you install it, and...
+
+0:14:16.500,0:14:17.680
+Oh, what now?
+
+0:14:26.580,0:14:29.340
+So, guess which application is causing the issue?
+
+0:14:29.340,0:14:30.120
+That’s right,
+
+0:14:30.120,0:14:31.260
+...it’s Dorico.
+
+0:14:31.260,0:14:35.560
+The program that launched the eLicenser in the
+first place is now preventing it from working.
+
+0:14:35.840,0:14:37.580
+What’s the opposite of 'seamless'?
+
+0:14:38.060,0:14:39.300
+'Seamful'?
+
+0:14:40.620,0:14:42.440
+Okay, so that was a trainwreck.
+
+0:14:42.440,0:14:46.120
+At this point, I should mention that
+I started off interviewing 28 people,
+
+0:14:46.120,0:14:50.200
+...and 3 of them dropped out specifically because
+this installation was too awkward for them.
+
+0:14:50.200,0:14:53.880
+Of the 25 remaining people, only
+3 described it as straight-forward.
+
+0:14:53.880,0:14:57.080
+Okay, to be fair, this is the Steinberg
+team in Hamburg’s doing,
+
+0:14:57.080,0:14:58.900
+...not the Dorico team in London.
+
+0:14:58.900,0:15:01.400
+At the moment, this tacked-together series of mishaps
+
+0:15:01.400,0:15:03.860
+...is hobbling the first-time experience of Dorico.
+
+0:15:03.860,0:15:07.020
+Anyway, let’s leave all that behind and open Dorico, uh-
+
+0:15:08.460,0:15:11.000
+...and we're brought to the Steinberg hub, which is...
+
+0:15:11.000,0:15:11.700
+...fine.
+
+0:15:11.700,0:15:13.320
+A bit disorganised and fugly.
+
+0:15:13.320,0:15:16.460
+I particularly love this vile green button over here.
+
+0:15:16.460,0:15:18.040
+This is a classic UI trick:
+
+0:15:18.040,0:15:19.900
+If people don’t notice an important button,
+
+0:15:19.900,0:15:21.340
+...just make it more horrible!
+
+0:15:21.340,0:15:23.100
+And Dorico, c- can we talk-
+
+0:15:23.100,0:15:24.520
+Can we talk about this?
+
+0:15:24.520,0:15:25.600
+Coldplay?
+
+0:15:25.600,0:15:28.240
+You’re angling to be the
+creme-de-la-creme of notation apps,
+
+0:15:28.240,0:15:30.120
+...and you’re leading with Coldplay?
+
+0:15:30.120,0:15:31.620
+Oh, and it's that song:
+
+0:15:32.480,0:15:34.500
+...the one where they discovered arpeggios.
+
+0:15:34.500,0:15:36.060
+Who is your audience for this?
+
+0:15:36.060,0:15:38.080
+I mean, if you had a pop song by, I don't know,
+
+0:15:38.080,0:15:39.100
+...David Bowie,
+
+0:15:39.100,0:15:41.240
+(let’s just create a little Venn diagram here)
+
+0:15:41.240,0:15:44.320
+...I can see there being a lot of
+crossover with Dorico users.
+
+0:15:44.320,0:15:45.860
+But if we were to change it to:
+
+0:15:48.580,0:15:49.160
+...and:
+
+0:15:50.660,0:15:51.560
+I think, uh-
+
+0:15:51.560,0:15:52.760
+...let’s just push those out a bit.
+
+0:15:53.160,0:15:54.860
+Yeah, well, that feels about right.
+
+0:15:55.120,0:15:56.000
+Coldplay.
+
+0:15:56.000,0:15:56.860
+Seriously.
+
+0:15:56.860,0:15:58.660
+You may as well as led with 'Chocolate Rain'.
+
+0:15:59.360,0:16:00.580
+But all that aside,
+
+0:16:00.580,0:16:02.460
+...now at least, we’re in Dorico,
+
+0:16:02.460,0:16:04.740
+...although we’re still not really done with the installation
+
+0:16:04.740,0:16:07.200
+...because next comes the audio setup.
+
+0:16:07.200,0:16:10.060
+Now, like many other composers
+who write for live ensembles,
+
+0:16:10.060,0:16:13.280
+...I’m a diehard fan of the orchestral
+emulator ‘NotePerformer’,
+
+0:16:13.280,0:16:14.780
+...which I could go on about at length.
+
+0:16:15.140,0:16:20.080
+NotePerformer can be easily set up as the
+default sound library in both Sibelius and Finale.
+
+0:16:20.080,0:16:21.860
+But with Dorico, it’s a different story.
+
+0:16:22.140,0:16:23.960
+So, first you go to the Play category,
+
+0:16:23.960,0:16:27.680
+...and press this '+' button under
+the empty 'VST Instruments' panel.
+
+0:16:27.680,0:16:29.820
+Then I can pick 'NotePerformer' from the dropdown,
+
+0:16:29.820,0:16:33.860
+...which in turn triggers a pop-up that’s been
+built specifically to explain what to do,
+
+0:16:33.860,0:16:35.880
+...because there’s no way you’d ever figure it out.
+
+0:16:36.280,0:16:37.820
+So, I have to go to ‘Play’
+
+0:16:37.820,0:16:40.260
+...and choose 'NotePerformer'
+from the Playback Template.
+
+0:16:41.440,0:16:43.000
+And what’s this hieroglyphic?
+
+0:16:43.000,0:16:44.700
+Is it a... sound wave or something?
+
+0:16:46.840,0:16:48.340
+That’s meant to be a factory?
+
+0:16:48.340,0:16:51.820
+‘Hey guys, the deadline is today and
+we need a factory icon pronto!'
+
+0:16:51.820,0:16:52.720
+yeh, no problem
+
+0:16:52.720,0:16:53.660
+livid to me
+
+0:16:53.660,0:16:54.540
+i’ll just make the dor
+
+0:16:54.540,0:16:55.840
+and the two tings and
+
+0:16:56.060,0:16:56.820
+and de thing and
+
+0:16:56.940,0:16:57.500
+and ant
+
+0:16:57.660,0:16:58.160
+and
+
+0:16:59.380,0:17:03.660
+Next, I have to go to a completely different
+place to make that template work by default.
+
+0:17:03.660,0:17:06.120
+Even then, if you press 'Play' it might not work,
+
+0:17:06.120,0:17:09.720
+...so it tells you specifically that you
+have to rewind it to the beginning first,
+
+0:17:09.720,0:17:10.820
+...and then press 'Play'.
+
+0:17:10.820,0:17:13.120
+This is a novel way to fix usability bugs.
+
+0:17:13.120,0:17:16.940
+Just don’t fix them, and provide an inbuilt
+pop-up that tells you how to work around it.
+
+0:17:16.940,0:17:20.720
+By the way, I’m making this seem way more
+straightforward and linear than it was.
+
+0:17:20.720,0:17:22.740
+I spent a lot of time working all these out,
+
+0:17:22.740,0:17:24.700
+...especially because the ‘Play’ option up here
+
+0:17:24.700,0:17:27.200
+...is only available when you’re in the ‘Play’ category.
+
+0:17:27.200,0:17:29.500
+A really opaque clutter-saving technique.
+
+0:17:29.820,0:17:31.580
+So what would be the ideal here?
+
+0:17:31.580,0:17:33.400
+Well, how about when Dorico is opened,
+
+0:17:33.400,0:17:34.680
+...it searches for NotePerformer,
+
+0:17:34.680,0:17:37.020
+...and if it finds it, it triggers the following pop-up:
+
+0:17:41.120,0:17:44.900
+...and then simply provide them with an
+option to set it as the default right there too.
+
+0:17:44.900,0:17:46.660
+And as for that last step,
+
+0:17:46.660,0:17:49.260
+...the one where I have to rewind to the start first?
+
+0:17:49.260,0:17:51.040
+Since none of the competition does that,
+
+0:17:51.040,0:17:54.720
+...I think Dorico should fix whatever they
+need to fix to stop that from happening.
+
+0:17:54.720,0:17:56.580
+They can’t claim to be an intuitive app
+
+0:17:56.580,0:18:00.060
+...if they require four steps to do
+what Sibelius can accomplish in one.
+
+0:18:00.400,0:18:01.760
+And just to finish up with this,
+
+0:18:01.760,0:18:03.820
+...for anyone thinking of installing the trial version,
+
+0:18:03.820,0:18:06.040
+...I should probably issue these two warnings.
+
+0:18:06.040,0:18:09.640
+First, Dorico by default likes
+to hog all the audio for itself,
+
+0:18:09.640,0:18:12.300
+...preventing other apps that make
+sound from working properly.
+
+0:18:12.300,0:18:14.920
+This caused me quite a few
+headaches during user-testing,
+
+0:18:14.920,0:18:18.680
+...because the act of booting up Dorico
+caused our video conference calls to crash.
+
+0:18:18.900,0:18:21.660
+"I don’t know if you can hear me or not
+but I can no longer hear you."
+
+0:18:21.940,0:18:23.080
+Not cool, Dorico!
+
+0:18:23.520,0:18:25.600
+The setting to turn this off is in 'Preferences',
+
+0:18:26.260,0:18:26.860
+...'Play',
+
+0:18:26.860,0:18:29.820
+...then scroll down to turn off
+this miserable little tickbox.
+
+0:18:29.820,0:18:30.560
+You’re welcome.
+
+0:18:30.860,0:18:34.540
+Secondly, if you try to open Dorico
+before your sound library is installed,
+
+0:18:34.540,0:18:37.200
+...it will default to something called ‘Dorico Beep’,
+
+0:18:37.200,0:18:41.440
+...which is a basic sampler that is so distorted
+and set to such an insanely loud volume
+
+0:18:41.440,0:18:43.620
+...that it might take your head off if you’re not careful.
+
+0:18:43.620,0:18:47.840
+Watch this poor unsuspecting soul pressing 'Play'
+in Dorico for the first time with headphones on.
+
+0:18:47.840,0:18:49.060
+"Coldplay's 'Clocks'."
+
+0:18:51.320,0:18:52.220
+"Alright..."
+
+0:18:52.220,0:18:53.680
+"And I'm gonna press 'Play'."
+
+0:18:55.240,0:18:56.120
+"Oh, jes-"
+
+0:19:00.420,0:19:02.140
+"Holy [REDACTED]!"
+
+0:19:21.080,0:19:22.120
+So, next up,
+
+0:19:22.120,0:19:24.240
+...our testers needed to set up their score
+
+0:19:24.240,0:19:26.780
+...by choosing the instruments they wanted to write for.
+
+0:19:26.780,0:19:31.480
+Now, all the major players provide an 'Instruments'
+pop-up which allows you to do this right away.
+
+0:19:31.480,0:19:32.480
+Makes sense.
+
+0:19:32.480,0:19:35.280
+But the Dorico team have altered this idea a little,
+
+0:19:35.280,0:19:37.740
+...by introducing the concept of ‘Players’,
+
+0:19:37.740,0:19:41.060
+...which are meant to represent the
+actual people who’ll be playing the piece
+
+0:19:41.060,0:19:44.260
+...with each ‘Player’ needing to be
+assigned their own instrument.
+
+0:19:44.260,0:19:48.020
+This is reminiscent of an old app
+from the 90’s called 'Igor Engraver',
+
+0:19:48.020,0:19:50.240
+...which had a similar list called ‘Musicians’.
+
+0:19:50.460,0:19:52.360
+There are good reasons for doing this:
+
+0:19:52.360,0:19:57.180
+First, it provides a framework that allows you to assign
+more than one instrument to an individual player.
+
+0:19:57.180,0:20:01.560
+For example, if you have a percussionist in charge
+of multiple instruments, you can set that up here.
+
+0:20:01.560,0:20:03.720
+This is also a structurally useful tool.
+
+0:20:03.720,0:20:06.620
+By creating this identifiable list, which is a set,
+
+0:20:06.620,0:20:10.060
+...not of instruments but of the people
+who are holding those instruments,
+
+0:20:10.060,0:20:13.680
+...they've unlocked some very powerful
+score-creation and layout possibilities,
+
+0:20:13.680,0:20:14.840
+...which we’ll get to shortly.
+
+0:20:15.120,0:20:18.140
+But the drawback of this system
+is that it creates a complication
+
+0:20:18.140,0:20:20.380
+...that makes the process of setting up a score
+
+0:20:20.380,0:20:22.860
+...more cumbersome and difficult to understand.
+
+0:20:22.860,0:20:27.240
+First, it forces new users to have to engage
+with the awkward concept of having an
+
+0:20:27.240,0:20:29.380
+...‘Empty-handed Player’ in their project,
+
+0:20:29.380,0:20:31.360
+...which I watched stress a few people out.
+
+0:20:31.360,0:20:32.940
+"I didn’t understand it and it got in the way,"
+
+0:20:32.940,0:20:36.500
+"...and it’s only when I’m watching this video
+back that I understand where I went wrong."
+
+0:20:36.780,0:20:39.100
+Another problem I saw was the following:
+
+0:20:39.100,0:20:40.540
+After you choose an instrument,
+
+0:20:40.540,0:20:42.280
+...this Instrument panel closes.
+
+0:20:42.280,0:20:42.880
+Oh.
+
+0:20:42.880,0:20:43.940
+What do you do now?
+
+0:20:43.940,0:20:46.860
+Well, a lot of people look at
+these hieroglyphics down here:
+
+0:20:46.860,0:20:47.700
+'Person'
+
+0:20:47.700,0:20:48.440
+'People'
+
+0:20:48.440,0:20:49.900
+'Mecha-Rainbow'?
+
+0:20:49.900,0:20:50.540
+uh
+
+0:20:50.540,0:20:51.960
+'CD rack'?
+
+0:20:51.960,0:20:54.200
+...and understandably steer clear of them.
+
+0:20:54.200,0:20:58.820
+So instead, a lot of people clicked on
+this pretty inviting '+' button here,
+
+0:20:58.820,0:21:01.280
+...since it’s the thing that best describes their intention:
+
+0:21:01.280,0:21:02.780
+‘I want to add something’.
+
+0:21:02.780,0:21:04.340
+The problem is, that by doing this,
+
+0:21:04.340,0:21:07.380
+...you’re actually assigning this
+player another instrument,
+
+0:21:07.380,0:21:10.460
+..which is a concept first-time
+users don’t yet understand.
+
+0:21:10.620,0:21:13.160
+"What happened to the... violin and piano?"
+
+0:21:13.160,0:21:16.260
+"Because it seems like I only have trumpet on my score."
+
+0:21:16.260,0:21:17.460
+"Yeah..."
+
+0:21:18.080,0:21:20.040
+"Currently I'm doing something wrong."
+
+0:21:20.260,0:21:25.540
+Another issue this creates is that it makes the process
+of setting up a non-standard orchestral ensemble
+
+0:21:25.540,0:21:27.640
+...much slower than Finale or Sibelius.
+
+0:21:27.880,0:21:30.600
+With Finale for example, when
+I want to start a new project,
+
+0:21:30.600,0:21:33.320
+...a dialog appears where I can
+quickly choose all my instruments
+
+0:21:33.320,0:21:34.800
+...by pressing this 'Add >' button,
+
+0:21:34.800,0:21:38.160
+...which are automatically arranged
+into a sensible default ordering:
+
+0:21:38.160,0:21:40.960
+Woodwinds at the top, strings at the bottom, et cetera.
+
+0:21:41.160,0:21:45.340
+With Dorico, the concept of needing to add a
+player first before assigning them an instrument
+
+0:21:45.340,0:21:46.600
+...slows things down.
+
+0:21:46.600,0:21:49.960
+And since this dialog keeps
+disappearing after you add players,
+
+0:21:49.960,0:21:51.760
+...you very quickly find yourself wondering,
+
+0:21:51.760,0:21:55.320
+'Is there a way I can add multiple players
+and not have to do this one-by-one?’
+
+0:21:55.580,0:21:57.260
+And then you look down here and...
+
+0:21:57.260,0:22:00.700
+...you’d be forgiven for thinking that this
+is the option that allows you to do that.
+
+0:22:00.940,0:22:01.500
+Nope.
+
+0:22:01.500,0:22:03.440
+This is something called a ‘Section Player’,
+
+0:22:03.440,0:22:07.240
+...which refers to a section of musicians
+all reading from the same staff,
+
+0:22:07.240,0:22:08.480
+...like a string section.
+
+0:22:08.660,0:22:10.600
+So, this is a further complication.
+
+0:22:10.600,0:22:12.880
+We’re no longer just looking at a list of players.
+
+0:22:12.880,0:22:16.480
+It’s a list of players where one of them
+is itself a group of more players.
+
+0:22:16.820,0:22:20.380
+So if you want to add multiple players
+who all play different instruments,
+
+0:22:20.380,0:22:22.120
+...that’s what the Mecha-Rainbow is for.
+
+0:22:22.120,0:22:25.200
+The icon is meant to be an
+ensemble seating chart, by the way.
+
+0:22:25.200,0:22:27.120
+Uh... Congrats if you figured that out.
+
+0:22:27.120,0:22:28.740
+But even this is inflexible,
+
+0:22:28.740,0:22:31.680
+...only allowing you to choose
+from a few types of grouping.
+
+0:22:31.680,0:22:33.760
+"I'm gonna try and do a piano quintet."
+
+0:22:35.520,0:22:38.580
+"Okay, I guess it doesn't give quintets by default."
+
+0:22:38.580,0:22:40.680
+For the orchestral piece I wrote in Dorico,
+
+0:22:40.680,0:22:43.120
+...I wanted 2 alto sax and 1 tenor sax,
+
+0:22:43.120,0:22:44.600
+...which I could kind of get,
+
+0:22:44.600,0:22:47.080
+...along with a bunch of additional
+instruments I didn’t want.
+
+0:22:47.080,0:22:48.840
+So, I added this list,
+
+0:22:48.840,0:22:50.900
+...then deleted all the unneeded instruments,
+
+0:22:50.900,0:22:53.300
+...then added the missing second alto sax player.
+
+0:22:53.300,0:22:56.540
+No big deal, but it does feel quite
+slow compared to the competition.
+
+0:22:57.060,0:22:58.440
+And by the time I’d finished,
+
+0:22:58.440,0:23:01.240
+...the instruments were arranged
+completely incorrectly too.
+
+0:23:01.240,0:23:04.140
+So I had to drag them around
+into a sensible order manually.
+
+0:23:04.420,0:23:07.060
+Not to mention, after I’d finished adding instruments,
+
+0:23:07.060,0:23:08.860
+...look at the state of this score!
+
+0:23:08.860,0:23:13.300
+So, again, unlike Sibelius which automatically
+tries to pick a sensible default layout,
+
+0:23:13.300,0:23:17.540
+...I have to now go on the hunt for the settings
+which allow me to change the staff and paper size.
+
+0:23:17.900,0:23:19.380
+Here’s another minor annoyance
+
+0:23:19.380,0:23:23.440
+...that can be illustrated by watching this user
+coming to grips with instrument setup.
+
+0:23:23.640,0:23:25.740
+He’s now trying to delete some unwanted players,
+
+0:23:25.740,0:23:28.900
+...and this annoying dialog keeps
+popping up each time to ask
+
+0:23:28.900,0:23:30.640
+...whether he wants to delete the player
+
+0:23:30.640,0:23:32.700
+...or the player and the part layouts.
+
+0:23:32.700,0:23:33.640
+But the thing is:
+
+0:23:33.640,0:23:36.060
+...he’s only trying to delete an 'Empty-handed Player',
+
+0:23:36.060,0:23:38.740
+...so any parts assigned to them are going to be empty.
+
+0:23:38.740,0:23:43.780
+It feels like a fairly unnecessary and semi-abstract
+question to be presenting him with at this moment.
+
+0:23:44.040,0:23:46.780
+Here’s another user engaging with
+this dialog for the first time,
+
+0:23:46.780,0:23:49.260
+...who opted to only delete the player, because
+
+0:23:49.260,0:23:51.400
+...the options being put in front of him aren’t clear.
+
+0:23:51.400,0:23:53.300
+"Yeah, there’s no music written yet, so that's fine."
+
+0:23:53.300,0:23:54.640
+"I can delete that one."
+
+0:23:54.640,0:23:55.520
+As a consequence,
+
+0:23:55.520,0:23:59.320
+...he now has an orphaned part over here that’s
+going to cause some confusion down the road.
+
+0:23:59.540,0:24:02.000
+Oh man, I haven’t even got to this panel yet.
+
+0:24:02.000,0:24:04.000
+Right, let’s mosey on over here.
+
+0:24:04.000,0:24:07.440
+So this list, on first glance, looks like the same thing.
+
+0:24:07.440,0:24:08.380
+But no,
+
+0:24:08.380,0:24:10.280
+...let me quickly explain what it is.
+
+0:24:10.280,0:24:11.620
+This is the Layouts panel,
+
+0:24:11.620,0:24:15.080
+...which is a list of the scores and part scores
+that have been auto-generated
+
+0:24:15.080,0:24:17.220
+...as you were adding players over here.
+
+0:24:17.220,0:24:19.600
+This is also a concept from Igor Engraver,
+
+0:24:19.600,0:24:21.420
+...which has been reimagined in Dorico.
+
+0:24:21.420,0:24:22.680
+And let me be clear here:
+
+0:24:22.680,0:24:24.020
+This idea is great.
+
+0:24:24.020,0:24:26.700
+The Dorico team were right to take inspiration from Igor,
+
+0:24:26.700,0:24:29.940
+...but their version does involve
+some very unusual behaviour.
+
+0:24:29.940,0:24:32.580
+For example, if I click on the 'Flute' player over here,
+
+0:24:32.580,0:24:35.440
+...we can see tickboxes in the Layouts panel on the right,
+
+0:24:35.440,0:24:38.200
+...which are showing the scores
+where the flute is being applied,
+
+0:24:38.200,0:24:41.100
+...and in this case, the ‘Full score’
+and the individual flute part.
+
+0:24:41.100,0:24:44.260
+And if I want the flute to be added
+to anything else, I can just tick it.
+
+0:24:44.260,0:24:47.520
+For example, I’ve now added the
+flute player to this oboe part.
+
+0:24:47.520,0:24:48.540
+Okay so far.
+
+0:24:48.540,0:24:50.780
+But now if I click on a score in this list,
+
+0:24:50.780,0:24:52.140
+...the arrangement reverses.
+
+0:24:52.140,0:24:56.000
+Now the score is selected and these
+instruments become tickboxes,
+
+0:24:56.000,0:24:59.600
+...which basically means that there are
+two reversed ways of doing the same thing.
+
+0:24:59.600,0:25:00.940
+It’s really strange,
+
+0:25:00.940,0:25:03.580
+...especially because the panels
+are on either side of the screen
+
+0:25:03.580,0:25:06.080
+...so it’s not visually obvious
+they’re connected in any way,
+
+0:25:06.080,0:25:09.520
+...and you have to keep ping-ponging back and forth
+to understand the relationship between them.
+
+0:25:09.520,0:25:12.280
+And this setup has some other
+weird knock-on effects too,
+
+0:25:12.280,0:25:15.560
+...like if you arrange the instruments
+into a sensible order on one side,
+
+0:25:15.560,0:25:17.220
+...the other side doesn’t follow suit,
+
+0:25:17.220,0:25:19.320
+...so the connections are all over the place.
+
+0:25:19.320,0:25:19.900
+Look!
+
+0:25:20.660,0:25:21.500
+...over here!
+
+0:25:22.560,0:25:23.300
+...over here!
+
+0:25:24.100,0:25:25.820
+Uh... All the way down here.
+
+0:25:25.820,0:25:29.080
+The shame about this is the options
+being provided are really powerful
+
+0:25:29.080,0:25:32.240
+...because you can create as many
+variations of parts as you want.
+
+0:25:32.240,0:25:34.200
+Like, if you’re writing for piano trio,
+
+0:25:34.200,0:25:37.460
+...and the cellist tells you they want
+to see the piano in their part score,
+
+0:25:37.460,0:25:40.760
+...you can just click on the piano and
+add it to the cello score right away,
+
+0:25:40.760,0:25:43.220
+...or click on the cello score and add the piano.
+
+0:25:43.220,0:25:43.920
+Whatever.
+
+0:25:43.920,0:25:45.000
+But as I said earlier,
+
+0:25:45.000,0:25:46.940
+...when you arrive at the app for the first time,
+
+0:25:46.940,0:25:47.820
+...all of these,
+
+0:25:47.820,0:25:50.240
+...all these bizarre icons and interrelationships
+
+0:25:50.240,0:25:51.920
+...smack you in the face at once.
+
+0:25:51.920,0:25:53.020
+It's baffling.
+
+0:25:53.020,0:25:55.460
+And don’t even get me started about this down here:
+
+0:25:55.460,0:25:56.300
+Flows,
+
+0:25:56.300,0:25:59.680
+...a way of creating sections,
+or movements, or variations.
+
+0:25:59.680,0:26:01.620
+I don’t want to get into it too much right now.
+
+0:26:01.620,0:26:04.500
+It’s another nice idea which, when clicked on, reveals:
+
+0:26:04.500,0:26:06.420
+Oh no! A three-way relationship!
+
+0:26:06.420,0:26:07.600
+AAAAAAHHH!
+
+0:26:07.600,0:26:11.120
+And what I found particularly strange
+about this whole Setup page is that,
+
+0:26:11.120,0:26:14.360
+...despite having an entire section
+devoted to setting up your score,
+
+0:26:14.360,0:26:16.680
+...it’s missing some really essential stuff like
+
+0:26:16.680,0:26:18.140
+...staff and paper size,
+
+0:26:18.140,0:26:19.800
+...which you remember from a moment ago,
+
+0:26:19.800,0:26:23.240
+...you’re definitely going to have to edit
+if you are creating an orchestral score.
+
+0:26:23.620,0:26:25.500
+Oddly, if I expand one of these,
+
+0:26:25.500,0:26:28.580
+...you can see the page size referenced
+but you can’t actually edit it.
+
+0:26:28.980,0:26:29.780
+Why?
+
+0:26:29.780,0:26:31.920
+You can look but you can’t touch.
+
+0:26:31.920,0:26:33.800
+So if you want to change these settings,
+
+0:26:33.800,0:26:36.640
+...you have to right-click here
+and choose ‘Layout Options...’
+
+0:26:36.640,0:26:38.460
+...to open this dialog box.
+
+0:26:38.460,0:26:40.000
+If you change the layout size,
+
+0:26:40.000,0:26:42.960
+...you have to then close the dialog
+and navigate to the score itself
+
+0:26:42.960,0:26:45.020
+...to see the effect of the changes you’ve made.
+
+0:26:45.020,0:26:46.420
+This is particularly jarring
+
+0:26:46.420,0:26:48.260
+...because Sibelius does this much better.
+
+0:26:48.260,0:26:50.100
+Look, I can change the staff size here
+
+0:26:50.100,0:26:51.840
+...and the score updates accordingly.
+
+0:26:51.840,0:26:55.640
+Overall, the interconnectedness of
+this system is not obvious at all,
+
+0:26:55.640,0:26:58.780
+...and the only way to learn it is
+to watch a lot of tutorial videos.
+
+0:26:58.780,0:26:59.680
+And just so you know,
+
+0:26:59.680,0:27:02.140
+...as a designer, you generally want to avoid that,
+
+0:27:02.140,0:27:04.000
+...especially for core functionality.
+
+0:27:04.000,0:27:07.240
+For this kind of stuff, every time the
+user needs to consult the manual,
+
+0:27:07.240,0:27:09.260
+...it is kind of a failure of design.
+
+0:27:09.260,0:27:10.520
+This system is very clever,
+
+0:27:10.520,0:27:13.000
+...but also inelegant and quite cumbersome.
+
+0:27:13.000,0:27:16.300
+And as a result, Dorico is not
+an app that suddenly 'clicks',
+
+0:27:16.300,0:27:19.140
+...it’s an app that slowly dawns on you over time.
+
+0:27:21.500,0:27:23.500
+So, regarding score setup,
+
+0:27:23.500,0:27:25.200
+...are these pain points unavoidable?
+
+0:27:25.200,0:27:30.380
+Does the inclusion of all these clever ideas mean
+that the app has to be naturally harder to learn?
+
+0:27:30.380,0:27:34.040
+Well, I'm sure it won’t surprise you to
+find out that I think the answer is 'No'.
+
+0:27:34.040,0:27:38.820
+I think some of this information could be sequenced
+so that the user isn’t hit with all of it at once.
+
+0:27:38.820,0:27:41.000
+We have a structural problem to solve first.
+
+0:27:41.000,0:27:45.720
+This interconnected ping-pong layout is hampering
+the ability to provide other useful settings,
+
+0:27:45.720,0:27:48.720
+...and is also causing the Players
+panel to be over-complicated,
+
+0:27:48.720,0:27:51.440
+...especially the way you have to
+keep re-opening the same dialog.
+
+0:27:51.440,0:27:54.160
+When you have to keep doing that,
+it may as well be a dialog.
+
+0:27:54.160,0:27:56.000
+So, let’s remove players from here,
+
+0:27:56.000,0:27:58.320
+...and instead, when a user starts a new project,
+
+0:27:58.320,0:28:02.140
+...you show a dialog that places the Instruments
+on the left and the Players on the right.
+
+0:28:02.560,0:28:04.780
+Now anyone coming from one of the competitor apps,
+
+0:28:04.780,0:28:07.420
+...which is the audience Dorico is targeting by the way,
+
+0:28:07.420,0:28:09.080
+...will know exactly what the deal is.
+
+0:28:09.080,0:28:11.540
+You can select instruments and add them quickly.
+
+0:28:11.540,0:28:15.000
+And each time you do this, a new
+player is automatically created,
+
+0:28:15.000,0:28:18.820
+...allowing us to discard the confusing
+concept of an ‘Empty-handed Player'.
+
+0:28:18.820,0:28:23.100
+And if you want to add more instruments to the same
+player, or change the instrument they are holding,
+
+0:28:23.100,0:28:25.120
+...you can drag them into these slots.
+
+0:28:25.120,0:28:27.580
+This would allow you to change instruments later too.
+
+0:28:27.580,0:28:28.920
+And regarding the ordering,
+
+0:28:28.920,0:28:31.940
+...you’ll notice that the instruments have
+been organised sensibly by default,
+
+0:28:31.940,0:28:34.380
+...and you can still drag to rearrange them if you want.
+
+0:28:34.780,0:28:36.940
+And once you’ve finished, you can close this dialog,
+
+0:28:36.940,0:28:40.540
+...and then you’re left with just
+one list, which is the list of parts.
+
+0:28:40.540,0:28:41.580
+Why would I do this?
+
+0:28:41.580,0:28:43.120
+Well, let me demonstrate.
+
+0:28:43.120,0:28:44.700
+First, if you click on a part,
+
+0:28:44.700,0:28:46.920
+...now the appropriate score appears in front of you.
+
+0:28:46.920,0:28:49.160
+And if you want to edit the
+number of players in that score,
+
+0:28:49.160,0:28:52.020
+...they can be immediately accessed
+from this subordinate list,
+
+0:28:52.020,0:28:55.080
+...where the relationship between
+players and parts is much clearer.
+
+0:28:55.080,0:28:56.940
+Moreover, now that you have this pattern,
+
+0:28:56.940,0:28:59.840
+...you can use tabs to expose useful common settings,
+
+0:28:59.840,0:29:01.640
+...like staff and page sizes.
+
+0:29:01.640,0:29:02.420
+The difference is,
+
+0:29:02.420,0:29:05.960
+...unlike the existing dialog box,
+where you change these values,
+
+0:29:05.960,0:29:08.120
+...the score updates to reflect them immediately.
+
+0:29:08.120,0:29:10.260
+All in all, a much friendlier system.
+
+0:29:10.260,0:29:12.180
+The information is sequenced sensibly,
+
+0:29:12.180,0:29:13.780
+...options are exposed when you need them,
+
+0:29:13.780,0:29:17.460
+...and crucially, you can see the effect of
+the changes you make to the settings.
+
+0:29:17.460,0:29:19.840
+Not to mention, because we’ve decluttered the page,
+
+0:29:19.840,0:29:23.200
+...it’s less likely to make your head spin
+and you can see more of the score.
+
+0:29:23.200,0:29:25.140
+There are a few more bits of hooking-up to do,
+
+0:29:25.140,0:29:29.480
+...like making the players dialog easy to
+find, and connecting it to flows, et cetera.
+
+0:29:29.480,0:29:32.420
+Those are fairly straight-forward
+to solve using similar solutions.
+
+0:29:32.420,0:29:34.800
+I think you get the idea, so let’s move on.
+
+0:29:38.900,0:29:43.020
+Now, finally, we'll get to the part where our
+testers were ready to write some music.
+
+0:29:43.020,0:29:46.440
+Everything we’ve been looking at so far
+was contained in the ‘Setup’ tab.
+
+0:29:46.440,0:29:49.760
+But in order to write music, you now
+need to move to the ‘Write’ tab.
+
+0:29:49.760,0:29:53.160
+And when you do this, the app
+changes significantly for the better.
+
+0:29:53.160,0:29:55.520
+Gone are the esoteric, interconnected lists,
+
+0:29:55.520,0:29:59.620
+...and instead appears what looks like
+a pretty sensible and intuitive layout.
+
+0:29:59.620,0:30:01.920
+This was my impression when I first used Dorico,
+
+0:30:01.920,0:30:03.860
+...and the people I tested largely agreed.
+
+0:30:03.860,0:30:07.120
+Here’s one person describing the layout
+after seeing it for the first time:
+
+0:30:07.560,0:30:08.280
+"Okay, this looks-"
+
+0:30:08.280,0:30:09.440
+"This looks nice and simple."
+
+0:30:09.440,0:30:10.780
+"First impression is pretty good."
+
+0:30:10.780,0:30:13.200
+"Uh... I got my note input on the left-hand side,"
+
+0:30:13.840,0:30:16.440
+"...other stuff on the right-hand side."
+
+0:30:16.440,0:30:18.280
+"They seem nice and clean. I like that."
+
+0:30:18.620,0:30:21.240
+If you’re a designer, it’s exactly what you want to hear.
+
+0:30:21.240,0:30:24.200
+He doesn’t exactly know precisely what
+he’ll find on either side of the page,
+
+0:30:24.200,0:30:26.920
+...but he has a pretty good idea
+of the general organisation
+
+0:30:26.920,0:30:29.180
+...without having to think too deeply about it.
+
+0:30:29.180,0:30:31.200
+This side is concerned with writing music,
+
+0:30:31.200,0:30:34.780
+...this side contains markings and techniques
+that you can apply to that music.
+
+0:30:34.780,0:30:36.480
+And when you select stuff on the score,
+
+0:30:36.480,0:30:39.100
+...you can choose from a few
+contextual options down here.
+
+0:30:39.100,0:30:43.660
+This time around, there doesn’t appear to be any
+interconnected functionality on either side of the score.
+
+0:30:43.660,0:30:45.840
+Any linked controls, like these two parts,
+
+0:30:45.840,0:30:48.020
+...are situated beside each other, which helps,
+
+0:30:48.020,0:30:50.320
+...and the connection was obvious to everyone I tested.
+
+0:30:50.320,0:30:53.920
+And there’s some lovely visual and
+organisational subtlety here too.
+
+0:30:53.920,0:30:54.900
+In this panel,
+
+0:30:54.900,0:30:58.580
+...they’ve laid out the most common note
+durations, accidentals and articulations,
+
+0:30:58.580,0:31:01.380
+...with clear separator lines
+that makes it very easy to read.
+
+0:31:01.380,0:31:03.780
+I also really like this panel on the right.
+
+0:31:03.780,0:31:06.740
+Each collection of elements
+is represented by a clear icon,
+
+0:31:06.740,0:31:10.700
+...and the contents of each section is organised
+in a way that makes it really intuitive.
+
+0:31:10.700,0:31:12.840
+And it works in lots of different ways too.
+
+0:31:12.840,0:31:16.660
+For example, if you’re the kind of person who
+likes to click on something first, and then apply it,
+
+0:31:16.660,0:31:17.520
+...you can.
+
+0:31:17.520,0:31:21.300
+Or, if you prefer to select the destination
+first and make your selection afterwards,
+
+0:31:21.300,0:31:22.340
+...you can do that too.
+
+0:31:22.740,0:31:26.520
+And the impact this design finesse
+had on first-time usage was evident.
+
+0:31:26.520,0:31:29.440
+No one failed to figure out how
+to apply things to the score.
+
+0:31:29.440,0:31:33.320
+And with a few exceptions, people generally
+didn’t get lost once they got to this page.
+
+0:31:33.600,0:31:38.000
+I also really like how many extended techniques
+and modern notation concepts you find here.
+
+0:31:38.000,0:31:41.880
+Not only is it convenient, but also
+educational for new composers,
+
+0:31:41.880,0:31:45.780
+...and I wouldn’t be surprised if many people
+ended up discovering and using these techniques
+
+0:31:45.780,0:31:48.060
+...simply by virtue of exploring this app.
+
+0:31:48.720,0:31:51.840
+There is one quite painful issue
+I’d love to see addressed,
+
+0:31:51.840,0:31:55.160
+...which is how hard they make it
+to add bars when you get started.
+
+0:31:55.160,0:31:56.840
+You see, when you start a new project,
+
+0:31:56.840,0:31:58.680
+...you get what looks like one bar.
+
+0:31:58.680,0:32:02.060
+What you don’t realise is that this isn’t really a bar at all.
+
+0:32:02.060,0:32:03.020
+It’s infinite,
+
+0:32:03.020,0:32:06.320
+...and no matter how many notes you
+add, you can never get to a new bar.
+
+0:32:06.320,0:32:10.780
+Moreover, you can’t create a new bar despite
+there being a very clear option for it.
+
+0:32:10.780,0:32:13.920
+So, the trick here is to add a time signature first.
+
+0:32:13.920,0:32:16.240
+Unless you figure that out, you’re going nowhere.
+
+0:32:16.980,0:32:20.160
+Why they don’t disable this button when
+it doesn’t do anything is beyond me.
+
+0:32:20.160,0:32:23.900
+Better yet, why not just ask them to
+specify a time signature at that point.
+
+0:32:23.900,0:32:26.500
+Half of the people I tested had this specific issue,
+
+0:32:26.500,0:32:28.840
+...and I can’t understand why they don’t smooth it out.
+
+0:32:28.840,0:32:31.700
+Now, this complaint might make
+experienced users groan,
+
+0:32:31.700,0:32:33.720
+...but it’s a first-time user trap.
+
+0:32:33.720,0:32:34.600
+It is logical,
+
+0:32:34.600,0:32:37.980
+...but you only see that logic when
+you're on the other side of the problem.
+
+0:32:37.980,0:32:41.900
+And another consequence of this is that
+when users first try to enter some notes,
+
+0:32:41.900,0:32:44.300
+...the fact that this really is an infinite bar
+
+0:32:44.300,0:32:47.320
+...causes the subdivision marking
+to function quite poorly,
+
+0:32:47.320,0:32:50.500
+...and results in the user accidentally
+entering the wrong note values.
+
+0:32:50.500,0:32:55.040
+It’s an awful first experience if you don’t think
+to enter a time signature at the outset.
+
+0:32:55.620,0:32:57.620
+
+
+0:33:03.820,0:33:05.160
+Now, in saying all of this,
+
+0:33:05.160,0:33:08.740
+...I shouldn’t gloss over the fact that
+this initial state you find yourself in
+
+0:33:08.740,0:33:13.280
+...is actually a very permissive system if you
+want to write music that’s free of any meter,
+
+0:33:13.280,0:33:18.660
+...which, for many composers interested in modern
+techniques from the 20th or 21st century, is a big deal.
+
+0:33:18.660,0:33:20.880
+And what’s more, it’s been built to work this way,
+
+0:33:20.880,0:33:25.080
+...unlike Sibelius, where any free-metered
+solution always feels like a hack.
+
+0:33:25.080,0:33:28.740
+However, I think the option to write
+free-metered music should be opt-in,
+
+0:33:28.740,0:33:30.300
+...and certainly not the default.
+
+0:33:30.300,0:33:34.080
+But definitely kudos to the Dorico team
+for building a system that facilitates it.
+
+0:33:34.080,0:33:36.020
+If you're interested in learning more about this,
+
+0:33:36.020,0:33:39.080
+...I’ve put a link to a relevant
+tutorial in the description below.
+
+0:33:39.080,0:33:43.200
+Okay, I should probably address this
+faint grey rectangle you see everywhere.
+
+0:33:43.200,0:33:45.340
+Oh, you know what? Let’s not right now.
+
+0:33:45.340,0:33:47.900
+Uh... Let's just pop it down here and we’ll get to it later.
+
+0:33:48.660,0:33:52.000
+So with all that said, what’s it
+like writing music on the score?
+
+0:33:52.000,0:33:53.700
+Well, regarding basic note input,
+
+0:33:53.700,0:33:55.620
+...it works in a pretty standard way:
+
+0:33:55.620,0:33:58.300
+You click on a note value and enter it on the score,
+
+0:33:58.300,0:34:01.940
+...or you can enter notes using a
+computer keyboard or MIDI keyboard.
+
+0:34:01.940,0:34:06.180
+In addition, they provide a marking above the stave
+that describes how the beat is subdivided.
+
+0:34:06.180,0:34:07.460
+So far, so good.
+
+0:34:07.460,0:34:09.280
+But once you look a little closer,
+
+0:34:09.280,0:34:12.000
+...Dorico’s system does some very strange things,
+
+0:34:12.000,0:34:16.060
+...and it can’t simply be explained by listing
+out each feature in isolation because
+
+0:34:16.060,0:34:19.040
+...here, again, they’ve linked
+together certain functionalities
+
+0:34:19.040,0:34:22.040
+...for reasons that are initially tricky to understand.
+
+0:34:22.660,0:34:28.680
+It all seems to hang one or two hard rules which
+seem like lines in the sand that they refuse to cross,
+
+0:34:28.680,0:34:30.280
+...with the rest of the interaction model being
+
+0:34:30.280,0:34:34.480
+...a collection of workarounds that solve the
+awkward consequences of those rules.
+
+0:34:34.480,0:34:35.660
+Let me show you what I mean.
+
+0:34:35.940,0:34:37.280
+So, the most obvious rule
+
+0:34:37.280,0:34:41.040
+...is that notation should always
+appear ‘correctly’ on the score.
+
+0:34:41.040,0:34:43.960
+Now, right away, we can see
+why this rule is so compelling.
+
+0:34:43.960,0:34:46.000
+Who’s going to advocate for incorrectness?
+
+0:34:46.000,0:34:48.680
+And to give an example of how this rule is realised,
+
+0:34:48.680,0:34:52.260
+...let’s select a quarter note and
+place it here before the strong beat,
+
+0:34:52.260,0:34:56.080
+...and you can see that now Dorico
+is creating two tied 8th notes,
+
+0:34:56.080,0:34:57.700
+...which is... correct.
+
+0:34:57.700,0:35:01.280
+Now, the second rule is more a
+consequence of the way Dorico is built,
+
+0:35:01.280,0:35:04.180
+...and I’ll need to do some explaining
+before it will make sense.
+
+0:35:04.180,0:35:08.320
+You see, Dorico has a particular way of
+storing notes that differs from Sibelius.
+
+0:35:08.320,0:35:11.400
+With Sibelius, there’s a strict
+structural hierarchy going on,
+
+0:35:11.400,0:35:13.040
+...with notes belonging to bars,
+
+0:35:13.040,0:35:14.300
+...bars belonging to staffs,
+
+0:35:14.300,0:35:16.420
+...staffs belonging to instruments, et cetera.
+
+0:35:16.420,0:35:18.120
+Dorico isn’t structured this way.
+
+0:35:18.120,0:35:20.560
+Their note durations are stored independent of bars,
+
+0:35:20.560,0:35:24.500
+...which is why they can achieve things
+like allowing tuplets to cross barlines.
+
+0:35:24.500,0:35:27.220
+...something Sibelius frustratingly does not support.
+
+0:35:27.220,0:35:30.000
+To illustrate this, here’s a few bars in 6/8.
+
+0:35:30.000,0:35:32.100
+If we place a dotted quarter note here,
+
+0:35:32.100,0:35:35.980
+...watch what happens when I use a shortcut
+to move it to the right by one subdivision?
+
+0:35:36.480,0:35:39.100
+Now, we can see that Dorico has applied the first rule:
+
+0:35:39.100,0:35:42.220
+...altering it so the notation
+conforms to standard convention.
+
+0:35:42.220,0:35:44.080
+And what we’re looking at now appears to be:
+
+0:35:44.080,0:35:46.720
+A quarter note, a tie, and then an eighth note.
+
+0:35:46.720,0:35:48.620
+But if we click on one of these elements,
+
+0:35:48.620,0:35:51.280
+...we can see that they’re actually all linked together
+
+0:35:51.280,0:35:53.500
+...and that Dorico isn’t classifying them that way.
+
+0:35:53.500,0:35:56.620
+It’s still representing them as
+one dotted quarter note in the UI,
+
+0:35:56.620,0:36:00.640
+...which means that it considers this
+highlighted group to be a single duration.
+
+0:36:00.640,0:36:02.100
+And now that I’ve explained this,
+
+0:36:02.100,0:36:04.360
+...I can articulate their second interaction rule,
+
+0:36:04.360,0:36:06.700
+...which I’m going to call ‘duration is king’.
+
+0:36:06.700,0:36:09.040
+These aren’t individual durations tied together,
+
+0:36:09.040,0:36:10.380
+...they are one duration.
+
+0:36:10.380,0:36:14.760
+And if I click on any of them, only that
+overall duration will be reflected in the UI.
+
+0:36:14.760,0:36:17.260
+And I suppose, again, this seems very logical.
+
+0:36:17.260,0:36:19.000
+But when it comes to writing quickly,
+
+0:36:19.000,0:36:21.900
+...these two rules have some
+really annoying consequences,
+
+0:36:21.900,0:36:24.580
+...where Dorico’s corrections
+actually become obstructions.
+
+0:36:24.580,0:36:27.660
+And remember that question I asked
+at the beginning of this video?
+
+0:36:27.660,0:36:29.420
+'How much suffering is involved?'
+
+0:36:29.420,0:36:31.440
+Well, that’s what I’m about to show you now,
+
+0:36:31.440,0:36:34.660
+...a bunch of seemingly insignificant
+issues that really add up
+
+0:36:34.660,0:36:38.540
+...as you encounter them hundreds, if not
+thousands of times in a single score.
+
+0:36:38.540,0:36:41.120
+Okay, so here I’m copying this little flourish,
+
+0:36:41.120,0:36:44.060
+...and I want it to be placed on
+the last eight note of this bar.
+
+0:36:44.060,0:36:45.020
+In Sibelius,
+
+0:36:45.020,0:36:48.760
+...I can do this by clicking on that rest
+and changing it to a smaller subdivision
+
+0:36:48.760,0:36:52.860
+...so I can quickly select this last
+rest 8th note and paste it here.
+
+0:36:52.860,0:36:55.640
+Then I just need to clean up those first two rests again,
+
+0:36:55.640,0:36:56.840
+...and then I’m done.
+
+0:36:56.840,0:36:59.140
+With Dorico, I can’t do this because
+
+0:36:59.140,0:37:00.080
+...you guessed it,
+
+0:37:00.080,0:37:04.680
+...it’s really sloppy to allow multiple 8th-note
+rests like this in finished music, so
+
+0:37:04.680,0:37:06.080
+...they disallow it completely.
+
+0:37:06.380,0:37:08.580
+Instead, we need to choose a workaround.
+
+0:37:08.580,0:37:10.720
+One way is to add a dud note first,
+
+0:37:10.720,0:37:12.320
+...and then select the final rest,
+
+0:37:12.320,0:37:13.460
+...paste in your music,
+
+0:37:13.460,0:37:15.160
+...then go back and delete the dud note.
+
+0:37:15.820,0:37:19.200
+But the solution Dorico recommends
+is to simply paste the flourish here,
+
+0:37:19.200,0:37:20.660
+...and then use the shortcut:
+
+0:37:20.660,0:37:24.000
+'alt + cmd/command + right'
+on Mac to shift it over two spaces.
+
+0:37:24.000,0:37:25.480
+But again, this is slower,
+
+0:37:25.480,0:37:26.840
+...and depending on the particulars,
+
+0:37:26.840,0:37:30.100
+...usually requires a little bit of thinking
+and additional problem solving.
+
+0:37:30.100,0:37:32.780
+Another major pain is how ties are handled.
+
+0:37:32.780,0:37:37.920
+So, because the Dorico team wants us to understand
+how the app internally handles note durations,
+
+0:37:37.920,0:37:41.400
+...if you select a tie, you automatically
+select the notes it’s connected to,
+
+0:37:41.400,0:37:42.880
+...which is... okay.
+
+0:37:42.880,0:37:45.420
+But, they’ve decided to go all in with this idea
+
+0:37:45.420,0:37:49.180
+...by completely preventing you from selecting
+any of the notes or ties individually.
+
+0:37:49.180,0:37:52.580
+And because of this, you keep coming
+across these little mini puzzles.
+
+0:37:52.580,0:37:55.060
+Like, I want this note to cover these two rests,
+
+0:37:55.060,0:37:56.240
+...so... right,
+
+0:37:56.240,0:37:58.200
+...these add up to a half note, so...
+
+0:37:58.200,0:38:00.220
+Okay, a dotted half note will do it.
+
+0:38:00.220,0:38:02.140
+Like a Grade 3 refresher test.
+
+0:38:02.460,0:38:05.640
+In Sibelius, I can just select the last note and extend it.
+
+0:38:05.640,0:38:08.860
+This is particularly useful when
+you end up in a situation like this.
+
+0:38:08.860,0:38:12.700
+In this case, I want to extend
+the duration to fill that last rest.
+
+0:38:13.060,0:38:16.100
+Yeah, a dotted half-note isn’t going
+to get you out of this one, is it?
+
+0:38:16.100,0:38:20.920
+At this point, the only thing you can do in Dorico
+is to fiddle with this duration toggle down here,
+
+0:38:20.920,0:38:24.680
+...and use a shortcut to extend the
+length of this duration by that amount.
+
+0:38:24.680,0:38:26.060
+Yes, they have the answer,
+
+0:38:26.060,0:38:27.700
+...but it’s a slow answer.
+
+0:38:28.100,0:38:32.080
+As for ties, you can’t delete them
+without deleting all the other notes too.
+
+0:38:32.080,0:38:34.820
+Why do I care so much about being able to delete ties?
+
+0:38:34.820,0:38:37.340
+Well, because being a composer and not an engraver,
+
+0:38:37.340,0:38:40.920
+...my score is an evolving document
+and I change my mind a lot.
+
+0:38:40.920,0:38:43.840
+Here in Sibelius, if I want to have this as a separate note,
+
+0:38:43.840,0:38:45.860
+...I just select the tie and delete it,
+
+0:38:45.860,0:38:47.260
+...then change the note.
+
+0:38:47.260,0:38:49.040
+In Dorico, no such luck.
+
+0:38:49.040,0:38:50.540
+You could learn another shortcut:
+
+0:38:50.540,0:38:53.260
+Holding 'alt' and 'shift' and pressing the left arrow key
+
+0:38:53.260,0:38:54.720
+...to reduce the duration,
+
+0:38:54.720,0:38:56.520
+...and then you have to just rewrite the note.
+
+0:38:56.520,0:39:01.040
+But, this isn’t good enough because it compounds the
+work you have to do if there are multiple tied notes.
+
+0:39:01.040,0:39:02.560
+So, recognising this,
+
+0:39:02.560,0:39:05.380
+...Dorico created another button called the 'Scissors',
+
+0:39:05.380,0:39:08.180
+...which, when you press it, deletes all the selected ties,
+
+0:39:08.180,0:39:10.380
+...which feels a bit like a nuclear option.
+
+0:39:10.820,0:39:12.720
+Look, if I want to split this group of...
+
+0:39:12.720,0:39:15.540
+...urgh, I mean... this single duration in the middle,
+
+0:39:15.540,0:39:17.760
+I need to Scissors all the ties away,
+
+0:39:18.360,0:39:19.740
+...then re-add them here.
+
+0:39:20.300,0:39:21.680
+Then re-add them here.
+
+0:39:22.000,0:39:23.740
+In Sibelius, I delete that.
+
+0:39:23.740,0:39:24.300
+Done.
+
+0:39:24.680,0:39:26.360
+Now, I’m all for consistency,
+
+0:39:26.360,0:39:30.260
+...but this particular refusal to allow
+users to select ties and delete them,
+
+0:39:30.260,0:39:31.880
+...comes across as obstinacy,
+
+0:39:31.880,0:39:36.260
+...and I sometimes wonder if the Dorico team weren’t
+suffering a little from ‘Let’s Be Different’ syndrome
+
+0:39:36.260,0:39:38.480
+...to distinguish them from Sibelius and Finale.
+
+0:39:38.480,0:39:39.160
+I don’t know.
+
+0:39:39.160,0:39:40.860
+It just doesn’t feel like a feature.
+
+0:39:40.860,0:39:42.320
+It feels like a pain.
+
+0:39:42.320,0:39:43.920
+A scissory pain.
+
+0:39:45.540,0:39:48.700
+Here’s another consequence of
+Dorico correctifying your score.
+
+0:39:48.700,0:39:51.780
+Say you’re writing a piece with very
+specific dynamic instructions.
+
+0:39:51.780,0:39:56.700
+For example, offsetting dynamics played over
+long durations on multiple instruments like this,
+
+0:39:56.700,0:39:58.760
+...which is common in spectral music.
+
+0:39:58.760,0:40:03.180
+Well, best practice is to split the tied notes
+into unconventional groupings when needed
+
+0:40:03.180,0:40:06.680
+...in order to specify exactly where
+the dynamics begin and end.
+
+0:40:06.680,0:40:11.020
+Left by itself, the system I’ve described so far
+would make this impossible to achieve.
+
+0:40:11.020,0:40:12.640
+So, recognising this,
+
+0:40:12.640,0:40:15.780
+...Dorico created a new button called 'Force Duration',
+
+0:40:15.780,0:40:19.320
+...which allows me to lock the duration
+so it won’t be automatically corrected.
+
+0:40:19.320,0:40:22.280
+Here, I’ve copied and pasted
+the dynamic timings that I want,
+
+0:40:22.280,0:40:25.180
+...and now I need to set the
+durations to match those timings.
+
+0:40:25.180,0:40:28.120
+And wait until you see how much faff is involved in this.
+
+0:40:28.120,0:40:31.280
+First, I have to use the scissors,
+which removes all the ties.
+
+0:40:31.280,0:40:34.260
+Then I split this so I have a quarter note on the 4th beat,
+
+0:40:34.260,0:40:36.460
+...where the fortissimo dynamic is positioned.
+
+0:40:36.460,0:40:37.940
+So, I click on the first note
+
+0:40:37.940,0:40:40.120
+...and press the 'Tie' button twice to extend it.
+
+0:40:40.660,0:40:42.760
+Bear in mind that if I press it again at this point,
+
+0:40:42.760,0:40:45.340
+...it would recombine everything
+in this bar all over again.
+
+0:40:45.340,0:40:48.160
+So I now need to make this quarter
+note stay here and not go away,
+
+0:40:48.160,0:40:49.040
+...so I select it
+
+0:40:49.040,0:40:51.660
+...and then apply the ‘Force duration' button here.
+
+0:40:51.660,0:40:55.540
+Finally, I press the tie button a few more
+times to link it all back together again.
+
+0:40:55.540,0:40:57.360
+When you are familiar with the Sibelius workflow,
+
+0:40:57.360,0:40:59.280
+...this is difficult to be satisfied with.
+
+0:40:59.280,0:41:02.800
+With Sibelius, I just change the durations
+to be the way I want them to be
+
+0:41:02.800,0:41:05.360
+...and reapply any ties I lose along the way,
+
+0:41:05.360,0:41:07.680
+...and I just tidy up any loose ends afterwards.
+
+0:41:07.680,0:41:09.340
+No special modes needed.
+
+0:41:09.340,0:41:14.800
+The tidying up doesn’t bother me because it’s faster
+and I don’t need to formulate a game plan in advance.
+
+0:41:17.360,0:41:20.360
+And this brings me to one visual
+criticism I have of Dorico:
+
+0:41:20.360,0:41:21.240
+This panel,
+
+0:41:21.240,0:41:23.980
+...with its collection of buttons that are styled identically
+
+0:41:23.980,0:41:25.900
+...but which work in very different ways.
+
+0:41:26.280,0:41:29.580
+Generally speaking, it’s a good idea
+to differentiate things visually
+
+0:41:29.580,0:41:31.300
+...to indicate differences in function.
+
+0:41:31.740,0:41:32.920
+To give a blunt example:
+
+0:41:32.920,0:41:34.660
+Switches turn things on and off,
+
+0:41:34.660,0:41:36.040
+...checkboxes are conditions,
+
+0:41:36.040,0:41:38.420
+...and buttons are usually reserved for actions.
+
+0:41:38.420,0:41:40.140
+You can be more subtle than this
+
+0:41:40.140,0:41:42.200
+...by having different sizes or arrangements,
+
+0:41:42.200,0:41:43.700
+...but here, well...
+
+0:41:43.700,0:41:48.380
+This first button is a condition that alters notes
+before or after you place them on the score.
+
+0:41:48.380,0:41:51.700
+This 'Rest' button is a condition that
+can only be applied to the score,
+
+0:41:51.700,0:41:54.200
+...but you can’t convert a note to a rest afterwards,
+
+0:41:54.200,0:41:55.300
+...which is weird.
+
+0:41:55.300,0:41:57.420
+This 'Chord' button is an on/off setting.
+
+0:41:57.420,0:42:01.580
+This 'Tuplet' button is an action that can only
+be applied to something already on the score.
+
+0:42:01.580,0:42:05.300
+This 'Grace Note' button is a condition
+that applies to the selected duration,
+
+0:42:05.300,0:42:06.700
+...but often doesn’t do anything,
+
+0:42:06.700,0:42:08.980
+...and then turns off for reasons I can’t figure out.
+
+0:42:08.980,0:42:12.660
+The ‘Input Mode’ and ‘Lock to Duration’
+buttons are on/off settings.
+
+0:42:12.660,0:42:16.240
+Input mode deactivates Chord mode,
+by the way, so watch out for that.
+
+0:42:16.240,0:42:19.280
+Then there are our old friends ‘Force Duration’ and ‘Cut',
+
+0:42:19.280,0:42:22.780
+...which are actions that can only be applied
+to notes that are already on the score,
+
+0:42:22.780,0:42:25.000
+...although ‘Force Duration’ can be unapplied,
+
+0:42:25.000,0:42:26.980
+...whereas 'Cut' is one and done.
+
+0:42:26.980,0:42:30.020
+The 'Tie' button is an action that
+only applies to notes on the score.
+
+0:42:30.020,0:42:31.340
+And saving the best for last,
+
+0:42:31.340,0:42:34.860
+...there’s ‘Select’, the on/off setting
+that makes these buttons not work.
+
+0:42:34.860,0:42:39.600
+In testing, I watched people flounder around
+with this panel over and over again.
+
+0:42:39.600,0:42:40.300
+Why?
+
+0:42:40.300,0:42:44.240
+Because it’s a disparate collection of
+on/off toggles, conditions, and actions,
+
+0:42:44.240,0:42:45.640
+...which are all identical-looking
+
+0:42:45.640,0:42:48.020
+...yet which work in completely different ways.
+
+0:42:48.020,0:42:52.040
+The communication sets up expectations
+that contradicts the actual logic.
+
+0:42:52.040,0:42:53.320
+And speaking for myself,
+
+0:42:53.320,0:42:56.440
+...even though I’ve been using
+Dorico every day for over 8 months
+
+0:42:56.440,0:42:58.560
+...and have written a full orchestral piece in it,
+
+0:42:58.560,0:43:01.560
+...not to mention the fact that I’ve
+watched a gazillion tutorials about it,
+
+0:43:01.560,0:43:04.920
+...and read god knows how many
+forum posts and articles about it,
+
+0:43:04.920,0:43:08.860
+...this panel still manages to wrong-foot
+me nearly every time I use it.
+
+0:43:09.480,0:43:11.140
+Here, I’m selecting a dotted rest,
+
+0:43:11.140,0:43:14.020
+...which causes the ‘Rest’ and ‘Dot’
+buttons to be highlighted,
+
+0:43:14.020,0:43:15.040
+...which makes sense,
+
+0:43:15.040,0:43:17.380
+...but trying to alter the duration doesn’t do anything.
+
+0:43:17.380,0:43:21.140
+As a result, you end up with two different
+durations selected at the same time.
+
+0:43:21.140,0:43:23.740
+Worse, I can turn off the 'Dotted Duration' button,
+
+0:43:23.740,0:43:25.520
+...which doesn't make any sense because, again,
+
+0:43:25.520,0:43:27.720
+...Dorico prevents it from having any effect.
+
+0:43:27.720,0:43:29.100
+If I press the rest button,
+
+0:43:29.100,0:43:30.680
+...Dorico resets everything.
+
+0:43:30.680,0:43:32.400
+Now, if I deselect the rest,
+
+0:43:32.400,0:43:34.440
+...the rest button turns off as expected
+
+0:43:34.440,0:43:36.500
+...but the dotted note button turns back on,
+
+0:43:36.500,0:43:39.340
+...remembering a previous state
+before I selected the rest.
+
+0:43:39.340,0:43:40.180
+It's mad!
+
+0:43:40.180,0:43:41.660
+And although there’s logic behind it,
+
+0:43:41.660,0:43:43.340
+...it doesn’t work very well in practice.
+
+0:43:43.340,0:43:46.400
+This whole console is rife with
+confusing behaviours like these,
+
+0:43:46.400,0:43:48.300
+...which feel sloppy and inconsistent.
+
+0:43:48.300,0:43:50.020
+They are communication errors.
+
+0:43:50.020,0:43:52.100
+Watch how much this one user struggled with them.
+
+0:43:53.000,0:43:54.380
+"So I have, uh..."
+
+0:43:54.380,0:43:57.600
+"So I have this 'Select' feature, and go right here, yeah."
+
+0:43:57.600,0:43:59.300
+"So I can add a note."
+
+0:44:00.680,0:44:02.460
+"Why can’t I put down a note?"
+
+0:44:02.460,0:44:03.260
+"Do I have to-"
+
+0:44:03.260,0:44:05.720
+"Ah, I have to turn on this feature, I think, "
+
+0:44:05.720,0:44:06.840
+"...and this feature."
+
+0:44:06.840,0:44:07.620
+"What?"
+
+0:44:07.620,0:44:08.320
+"Come on."
+
+0:44:08.800,0:44:10.540
+"Now I have to click this feature again."
+
+0:44:11.800,0:44:13.480
+"What does this do?"
+
+0:44:13.480,0:44:14.080
+"No?"
+
+0:44:15.200,0:44:16.380
+"I think I..."
+
+0:44:17.740,0:44:18.920
+"...goofed something up?"
+
+0:44:18.920,0:44:19.900
+"No?"
+
+0:44:20.500,0:44:21.580
+"No, no, no."
+
+0:44:21.800,0:44:24.280
+"I just want to write something
+in the left-hand down here."
+
+0:44:24.280,0:44:24.820
+"Why do-"
+
+0:44:34.140,0:44:35.620
+Okay. After seeing all of that,
+
+0:44:35.620,0:44:38.860
+...I guess you're going to come to
+the conclusion that I hate Dorico,
+
+0:44:38.860,0:44:40.540
+...but that's not the case at all.
+
+0:44:40.540,0:44:43.220
+Let me now talk about some things I really love.
+
+0:44:44.020,0:44:46.660
+So, in each video I release about music software,
+
+0:44:46.660,0:44:50.800
+...I try to include new aspects of interface
+design that I haven’t mentioned before.
+
+0:44:50.800,0:44:52.700
+And Dorico, I think, is the perfect app
+
+0:44:52.700,0:44:57.140
+...to help discuss an aspect of score-creation
+software that I find very interesting,
+
+0:44:57.140,0:44:59.980
+...which is how interactive notation actually works.
+
+0:44:59.980,0:45:01.480
+So, as you probably know,
+
+0:45:01.480,0:45:02.640
+...for all the major players,
+
+0:45:02.640,0:45:04.960
+...notation is displayed using vector graphics,
+
+0:45:04.960,0:45:07.280
+...rather than a raster format like PNG.
+
+0:45:07.280,0:45:11.820
+That is to say, they are drawn as a series of
+2D points connected by lines and curves,
+
+0:45:11.820,0:45:14.140
+...rather than as a series of finite pixels.
+
+0:45:14.140,0:45:17.660
+The advantage of this is that,
+like text in word-processing apps,
+
+0:45:17.660,0:45:20.780
+...notation can be scaled up or down
+without any loss of quality.
+
+0:45:20.780,0:45:22.580
+...making it ideal for printing.
+
+0:45:22.580,0:45:25.960
+However, notes aren't stored as
+a single vector objects like this,
+
+0:45:25.960,0:45:28.460
+...because if you wanted the
+height of a note to be altered,
+
+0:45:28.460,0:45:30.980
+...the only way to do it would be to stretch the vector,
+
+0:45:30.980,0:45:33.380
+(which would warp its proportions and look awful)
+
+0:45:33.380,0:45:37.080
+...or you’d have to create hundreds of nearly
+identical-looking versions of the same thing,
+
+0:45:37.080,0:45:40.380
+...all with slightly different heights to
+try and account for every possibility,
+
+0:45:40.380,0:45:42.300
+...which would be ludicrously impractical.
+
+0:45:42.300,0:45:45.200
+On top of that, beaming needs to be very flexible,
+
+0:45:45.200,0:45:48.340
+...moving in a direction that complements
+the direction of the note sequence
+
+0:45:48.340,0:45:50.380
+...and needing to be able to cross staves.
+
+0:45:50.380,0:45:51.780
+So, to help achieve this,
+
+0:45:51.780,0:45:54.900
+...elements like this note are
+made up of individual parts.
+
+0:45:54.900,0:45:56.820
+You have the parts that don’t scale at all.
+
+0:45:56.820,0:45:58.660
+(in this case, the notehead and the flag)
+
+0:45:58.660,0:46:00.660
+And then you have a rectangle drawn in code,
+
+0:46:00.660,0:46:03.640
+...which is the only part that
+actually gets bigger and smaller.
+
+0:46:03.640,0:46:05.340
+So if we place an 8th note here,
+
+0:46:05.340,0:46:06.480
+...the flags have been removed,
+
+0:46:06.480,0:46:09.680
+...and a vector rectangle is drawn
+from this position to this position.
+
+0:46:09.680,0:46:12.940
+Incidentally, if you look closely
+at the notation in Sibelius,
+
+0:46:12.940,0:46:16.280
+...you can make out all the seams where
+these parts connect to each other.
+
+0:46:16.280,0:46:21.140
+Another problem with notation is the wide variety
+of different sizes and spacing rules that exist.
+
+0:46:21.140,0:46:23.440
+For example, let’s look at this sharp accidental
+
+0:46:23.440,0:46:26.360
+...which is centred horizontally
+to the notehead it applies to,
+
+0:46:26.360,0:46:28.060
+...which is a very simple rule.
+
+0:46:28.060,0:46:30.540
+Flat accidentals, however, don’t work like this,
+
+0:46:30.540,0:46:33.940
+...and have an ascender that rises
+far beyond the height of a sharp.
+
+0:46:33.940,0:46:36.360
+If you were to apply the same centering rule to this,
+
+0:46:36.360,0:46:37.880
+...it would look completely off,
+
+0:46:37.880,0:46:40.080
+...especially if we have another note down here.
+
+0:46:40.080,0:46:42.680
+Now it’s ambiguous which note the flat applies to.
+
+0:46:42.680,0:46:45.940
+One solution would be to apply
+an offset to all flat accidentals,
+
+0:46:45.940,0:46:50.360
+...so it’s always a certain number of millimetres
+higher relative to the note it applies to.
+
+0:46:50.360,0:46:51.520
+Okay, that works,
+
+0:46:51.520,0:46:55.580
+...but you run into a problem when the user
+changes the staff size to be bigger or smaller.
+
+0:46:55.580,0:46:59.340
+Then you’d need to calculate the offset
+given the percentage change in size.
+
+0:46:59.340,0:47:02.900
+And this becomes even more complicated
+if the user decides to do something like
+
+0:47:02.900,0:47:05.180
+...widen the distance between barlines.
+
+0:47:05.180,0:47:07.360
+If this was limited to only a few objects,
+
+0:47:07.360,0:47:10.200
+...it wouldn’t cause too much of a headache
+for a developer to implement.
+
+0:47:10.200,0:47:13.420
+But with notation, there are hundreds
+of commonly used elements,
+
+0:47:13.420,0:47:15.720
+...all with their own unique spacing rules.
+
+0:47:15.720,0:47:18.240
+For example, look at these different articulations.
+
+0:47:18.240,0:47:20.880
+Here, we can see the common
+baseline they’ve all been aligned to.
+
+0:47:20.880,0:47:22.280
+But if you flip the notes around,
+
+0:47:22.280,0:47:24.540
+...the rules can’t simply be flipped with them.
+
+0:47:24.540,0:47:26.460
+Now the distances are completely different,
+
+0:47:26.460,0:47:28.500
+...and there’s no longer a unified alignment.
+
+0:47:28.500,0:47:32.120
+Not to mention, this marcato symbol
+doesn’t flip at all by default.
+
+0:47:32.120,0:47:33.000
+Trying to specify
+
+0:47:33.000,0:47:36.940
+...what would probably amount to thousands of
+different offsets to get everything looking right,
+
+0:47:36.940,0:47:41.560
+...and then forcing the program to calculate how those
+offsets should scale when the score changes size
+
+0:47:41.560,0:47:43.380
+...would be incredibly slow-going.
+
+0:47:43.380,0:47:45.760
+So, to help drastically reduce this complication,
+
+0:47:45.760,0:47:50.260
+...notation apps took inspiration from how
+word-processing applications displayed typography,
+
+0:47:50.260,0:47:51.360
+...which is, if you think about it,
+
+0:47:51.360,0:47:52.960
+...another complex set of symbols
+
+0:47:52.960,0:47:55.240
+...with subtle spacing relationships.
+
+0:47:55.240,0:47:56.740
+And the biggest component of this
+
+0:47:56.740,0:47:59.920
+...was to utilise the technology that
+packages characters together.
+
+0:47:59.920,0:48:00.760
+That is to say,
+
+0:48:00.760,0:48:02.720
+...the solution was to use fonts.
+
+0:48:02.720,0:48:04.460
+The first of these was called 'Sonata',
+
+0:48:04.460,0:48:07.780
+...created by Cleo Huggins for Adobe in 1985.
+
+0:48:08.100,0:48:10.300
+Sibelius’ default font, called 'Opus',
+
+0:48:10.300,0:48:13.880
+...was created by one of its
+founders, Jonathan Finn, in 1993.
+
+0:48:13.880,0:48:16.280
+The advantage of using a font to display notation
+
+0:48:16.280,0:48:20.660
+...is that you can set the precise position of
+each symbol relative to a common baseline.
+
+0:48:20.660,0:48:23.280
+If you look at this sharp and flat symbol in Illustrator,
+
+0:48:23.280,0:48:25.320
+...you can see there’s a common baseline for both,
+
+0:48:25.320,0:48:27.940
+...which means that there’s
+no need for individual offsets.
+
+0:48:27.940,0:48:30.180
+The same goes for these articulations too.
+
+0:48:30.180,0:48:31.900
+This is the ideal for production,
+
+0:48:31.900,0:48:36.320
+...because engraving specialists can set the
+exact positioning of symbols in the font itself,
+
+0:48:36.320,0:48:38.140
+...and when they are placed on a digital score,
+
+0:48:38.140,0:48:40.560
+...a lot of this positioning nuance comes for free.
+
+0:48:40.960,0:48:42.780
+The only problem with this system right now
+
+0:48:42.780,0:48:45.100
+...is that there is no consistency between applications,
+
+0:48:45.100,0:48:46.640
+...which all have unique fonts,
+
+0:48:46.640,0:48:49.340
+...which contain different systems
+for how they store notation.
+
+0:48:49.340,0:48:50.940
+So, unlike ordinary fonts,
+
+0:48:50.940,0:48:53.420
+...where there’s a standardised
+mapping that everyone uses,
+
+0:48:53.420,0:48:56.220
+...which means you can simply
+install one and use it elsewhere,
+
+0:48:56.220,0:49:01.040
+...choosing a font in a notation app today
+often requires a lot of specialised fiddling.
+
+0:49:01.040,0:49:02.340
+So, with all this in mind,
+
+0:49:02.340,0:49:06.020
+...I want to talk about two of Daniel
+Spreadbury’s most notable contributions,
+
+0:49:06.020,0:49:07.160
+...not just to Dorico,
+
+0:49:07.160,0:49:09.300
+...but to the wider notation community.
+
+0:49:09.300,0:49:12.100
+The first is called the 'Standard Music Font Layout',
+
+0:49:12.100,0:49:13.200
+...or SMuFL,
+
+0:49:13.200,0:49:15.860
+...which was setup to overcome the existing disarray,
+
+0:49:15.860,0:49:19.920
+...where each app has its own rules specifying
+how notation should be arranged in a font,
+
+0:49:19.920,0:49:22.240
+...which prevents them from being usable elsewhere.
+
+0:49:22.240,0:49:24.180
+SMuFL makes use of unicode
+
+0:49:24.180,0:49:27.800
+...to assign each notated element
+a specific, unchanging number.
+
+0:49:27.800,0:49:29.060
+The main advantage of this
+
+0:49:29.060,0:49:31.960
+...is that you can have thousands
+of symbols all in one font,
+
+0:49:31.960,0:49:34.380
+...which overcomes the problem you see with Sibelius,
+
+0:49:34.380,0:49:37.580
+...where Opus is actually split into 18 different fonts
+
+0:49:37.580,0:49:39.580
+...because they kept running out of space.
+
+0:49:39.580,0:49:42.360
+This system is now used by quite a few notation apps,
+
+0:49:42.360,0:49:43.580
+...including MuseScore.
+
+0:49:43.860,0:49:45.980
+Daniel Spreadbury’s second big contribution
+
+0:49:45.980,0:49:48.760
+...was the first SMuFL font, called 'Bravura',
+
+0:49:48.760,0:49:52.280
+...which is available for free
+under the SIL open font license.
+
+0:49:52.280,0:49:53.000
+Incidentally,
+
+0:49:53.000,0:49:55.900
+...due to this, Bravura is also packaged with MuseScore.
+
+0:49:56.200,0:49:57.980
+I personally love Bravura
+
+0:49:57.980,0:50:00.740
+...because it gives Dorico a unique, striking appearance.
+
+0:50:00.740,0:50:02.100
+The main inspiration for it
+
+0:50:02.100,0:50:04.780
+...comes from a notation system called 'Notaset',
+
+0:50:04.780,0:50:08.060
+...which was popular before programs
+like Sibelius came to the fore.
+
+0:50:08.060,0:50:12.440
+The Notaset system was a clear set of
+plastic sheets covered in musical symbols,
+
+0:50:12.440,0:50:15.960
+...which engravers transferred to paper
+by rubbing them carefully with a spatula.
+
+0:50:15.960,0:50:19.180
+And although there are other fonts
+inspired by the Notaset system,
+
+0:50:19.180,0:50:21.260
+(like Maestro, which comes with Finale)
+
+0:50:21.260,0:50:24.360
+...Bravura has a much thicker,
+almost inky-looking appearance.
+
+0:50:24.360,0:50:28.020
+This is due to Daniel Spreadbury wanting
+it to look like older printed music,
+
+0:50:28.020,0:50:31.280
+...and you can see this idea clearly
+when comparing it with Maestro.
+
+0:50:31.280,0:50:33.000
+Maestro has lots of sharp angles,
+
+0:50:33.000,0:50:34.720
+...whereas Bravura’s edges are rounded
+
+0:50:34.720,0:50:37.220
+...to mimic the appearance of ink pressed on paper,
+
+0:50:37.220,0:50:39.700
+...which spreads out slightly before fully drying.
+
+0:50:40.040,0:50:42.320
+The difference is particularly noticeable on rests,
+
+0:50:42.320,0:50:44.480
+...and also note flags, which are much thicker.
+
+0:50:44.480,0:50:47.120
+There are still some who prefer
+the sharpness of Maestro.
+
+0:50:47.120,0:50:50.280
+I just love the blunt, no-nonsense approach of Bravura.
+
+0:50:50.280,0:50:53.320
+I did find myself wondering how
+it would hold up when printed,
+
+0:50:53.320,0:50:57.600
+...so I thought it would be interesting to
+compare Bravura against Sibelius’s font Opus.
+
+0:50:57.600,0:51:00.440
+And the difference was actually
+more pronounced than I expected.
+
+0:51:00.440,0:51:02.020
+I guess the best way to describe it
+
+0:51:02.020,0:51:05.600
+...is that Bravura really does look like a
+throwback to older printed sheet music,
+
+0:51:05.600,0:51:08.520
+...whereas Opus looks like it was created on a computer.
+
+0:51:08.520,0:51:10.960
+I’m not against sharper, digital-looking notation.
+
+0:51:10.960,0:51:11.820
+Far from it,
+
+0:51:11.820,0:51:15.580
+...but in this case, Opus also seems to be
+going for an old-fashioned printed look,
+
+0:51:15.580,0:51:17.300
+...and it's nowhere near as convincing.
+
+0:51:17.720,0:51:21.120
+It’s not just the font that makes
+Dorico’s sheet music look so pleasant.
+
+0:51:21.120,0:51:23.400
+The team have also paid an
+enormous amount of attention
+
+0:51:23.400,0:51:27.080
+...to the rules that dictate how every
+aspect of the score should be laid out.
+
+0:51:27.080,0:51:29.320
+And, they implemented a ton of best practices,
+
+0:51:29.320,0:51:31.640
+...largely informed by the book ‘Behind Bars’,
+
+0:51:31.640,0:51:34.820
+...written by Elaine Gould who works
+for the publishing house Faber,
+
+0:51:34.820,0:51:36.940
+...known for their beautifully laid-out scores.
+
+0:51:36.940,0:51:38.380
+It’s also worth mentioning here
+
+0:51:38.380,0:51:40.660
+...the myriad of engraving settings in Dorico,
+
+0:51:40.660,0:51:42.400
+...where they’ve gone to the significant trouble of
+
+0:51:42.400,0:51:45.260
+...showing clear visualisations and written explanations
+
+0:51:45.260,0:51:47.420
+...so the user knows what each option does.
+
+0:51:47.420,0:51:50.040
+This was one of the things about
+Sibelius that drove me nuts.
+
+0:51:50.040,0:51:52.100
+The second you start looking through engraving options,
+
+0:51:52.100,0:51:53.740
+...you’re almost instantly lost.
+
+0:51:53.740,0:51:54.700
+What does that do?
+
+0:51:54.700,0:51:55.880
+What does this mean?
+
+0:51:55.880,0:51:57.540
+Regarding the appearance of your score,
+
+0:51:57.540,0:51:59.480
+...Dorico wipes the floor with Sibelius.
+
+0:51:59.480,0:52:01.920
+The notation is clear, legible and beautiful.
+
+0:52:01.920,0:52:04.120
+Also, shout-out to Dorico’s Print page.
+
+0:52:04.120,0:52:07.440
+This is one of those cases where the
+layout they decided upon really works.
+
+0:52:07.440,0:52:08.800
+You click on the part you want,
+
+0:52:08.800,0:52:09.980
+...the preview updates.
+
+0:52:09.980,0:52:11.640
+Then you select the pages you want printed,
+
+0:52:11.640,0:52:12.420
+...and voila!
+
+0:52:12.420,0:52:13.680
+Extremely handy.
+
+0:52:15.700,0:52:18.100
+Okay, so one or two more pros and cons,
+
+0:52:18.100,0:52:20.040
+...and then we’ll limp to the finish line.
+
+0:52:20.040,0:52:22.340
+I mean, I've been talking about
+this for almost an hour now,
+
+0:52:22.340,0:52:23.060
+...a- are you not-
+
+0:52:23.060,0:52:25.020
+...are you not tired of hearing me talk about Dorico?
+
+0:52:26.220,0:52:26.760
+Ah.
+
+0:52:26.760,0:52:28.580
+A- Alright. Anyway, let's just get through this.
+
+0:52:28.580,0:52:32.380
+If you want two instruments to be combined
+on a conductor’s score to save space,
+
+0:52:32.380,0:52:33.980
+...Dorico can do this automatically.
+
+0:52:33.980,0:52:36.240
+...and it’s on a different level to the competition.
+
+0:52:36.240,0:52:37.420
+I mean, with Sibelius,
+
+0:52:37.420,0:52:39.840
+...achieving this is the hackiest of hacks.
+
+0:52:39.840,0:52:43.280
+You have to use a plugin which creates 
+a new staff for the combination,
+
+0:52:43.280,0:52:46.820
+...which means that if you make any changes,
+you now need to do it in two different places,
+
+0:52:46.820,0:52:49.300
+...otherwise your parts won’t
+match the conductor’s score.
+
+0:52:49.300,0:52:50.200
+And funnily enough,
+
+0:52:50.200,0:52:52.200
+...when you read through the description of that plugin,
+
+0:52:52.200,0:52:54.000
+...you’ll notice a special thank-you being made
+
+0:52:54.000,0:52:56.500
+...to none other than Daniel Spreadbury himself,
+
+0:52:56.500,0:52:58.660
+...who provided support to help it see the light of day.
+
+0:52:58.660,0:53:01.800
+And since this plugin has existed since 2012,
+
+0:53:01.800,0:53:05.200
+...that means Sibelius have had
+an 8-year head-start on Dorico.
+
+0:53:05.200,0:53:06.100
+8 years
+
+0:53:06.100,0:53:07.880
+...with all this information at their disposal,
+
+0:53:07.880,0:53:10.580
+...and they still allowed Dorico to steal a march on them.
+
+0:53:10.580,0:53:14.220
+I think it’s pretty clear at this point that
+Sibelius is massively under-resourced,
+
+0:53:14.220,0:53:19.100
+...and I sometimes wonder if their office is just a
+single goldfish swimming around near a keyboard.
+
+0:53:19.100,0:53:24.220
+Oh and by the by, this combination set is one of those
+things that illustrate the power of the Layouts panel,
+
+0:53:24.220,0:53:26.360
+...which allows me to create a second main score
+
+0:53:26.360,0:53:27.980
+...so that I always have one that’s condensed,
+
+0:53:27.980,0:53:29.460
+(which I call my Final Score)
+
+0:53:29.460,0:53:30.640
+...and another working score.
+
+0:53:30.640,0:53:33.720
+(where I can make everything really
+small so it’s comfortable to compose in)
+
+0:53:33.720,0:53:37.460
+Then, I simply toggle over to the Final Score
+to see how everything is condensing,
+
+0:53:37.460,0:53:39.840
+...and make any necessary engraving changes there.
+
+0:53:39.840,0:53:41.940
+This is the score that will eventually be printed.
+
+0:53:41.940,0:53:43.900
+It isn’t easy to figure out this workflow,
+
+0:53:43.900,0:53:46.940
+...although, I suppose if you’re
+watching this, then you know it now.
+
+0:53:46.940,0:53:50.320
+I mean, it has occurred to me that
+this is the ultimate Dorico tutorial.
+
+0:53:50.320,0:53:51.960
+Where’s my check, Yamaha!
+
+0:53:51.960,0:53:53.980
+The combined scores feature isn’t perfect yet
+
+0:53:53.980,0:53:57.960
+...and you’ll most likely need to spend some time
+fixing the engraving to get it to be legible.
+
+0:53:57.960,0:54:00.280
+To do that, you’ll need to use the Engrave mode.
+
+0:54:00.280,0:54:01.100
+It’s fine,
+
+0:54:01.100,0:54:05.780
+...although, again, impossible to intuitively figure out
+without looking through quite a few tutorials.
+
+0:54:05.780,0:54:09.680
+It’s also another example of the team
+sticking way too rigidly to principle.
+
+0:54:09.680,0:54:11.140
+In this case, the rule is:
+
+0:54:11.140,0:54:15.640
+All cosmetic alterations to the score
+MUST ONLY be done in Engrave mode.
+
+0:54:15.640,0:54:17.760
+This seems sensible enough when you say it, but...
+
+0:54:17.760,0:54:19.880
+...practically speaking, it can be a bit weird.
+
+0:54:19.880,0:54:22.520
+Like, if I create a hairpin and
+I want to move it left or right,
+
+0:54:22.520,0:54:24.540
+...sure, I can do that in Write mode,
+
+0:54:24.540,0:54:27.620
+...because, strictly speaking, this is a writing operation.
+
+0:54:27.620,0:54:29.180
+But if I want to move it up or down,
+
+0:54:29.180,0:54:30.720
+...that requires Engrave mode.
+
+0:54:30.720,0:54:31.980
+I find this happens a lot,
+
+0:54:31.980,0:54:36.440
+...and it’s pretty frustrating to have to keep shifting
+gears in and out of different modes all the time.
+
+0:54:36.440,0:54:40.160
+You can’t just get lost in the process of
+score-creation without having to snap out of it,
+
+0:54:40.160,0:54:43.500
+...in order to remind yourself of
+Dorico's organisational principles
+
+0:54:43.500,0:54:44.960
+...before deducing where to go.
+
+0:54:44.960,0:54:46.840
+In Sibelius, all positioning can be done by
+
+0:54:46.840,0:54:49.220
+...simply clicking and dragging it directly on the score.
+
+0:54:49.220,0:54:50.000
+And you know what?
+
+0:54:50.000,0:54:52.160
+It doesn’t hamper the writing process one bit.
+
+0:54:52.160,0:54:54.340
+It’s actually one of my favourite things about the app.
+
+0:54:54.340,0:54:58.660
+I really find myself wishing that both apps would
+just emulate each other a bit more in this area.
+
+0:54:58.660,0:55:00.660
+One other thing I’ve noticed about Engrave mode
+
+0:55:00.660,0:55:03.520
+...is that it doesn’t come packaged
+with Dorico Elements,
+
+0:55:03.520,0:55:06.480
+...the cheaper alternative version
+that targets non-professionals,
+
+0:55:06.480,0:55:08.040
+...which I find kind of funny
+
+0:55:08.040,0:55:12.640
+...because it prevents users from making basic
+corrections to elements when they become misplaced.
+
+0:55:12.640,0:55:13.980
+Want to move a hairpin left or right?
+
+0:55:13.980,0:55:14.740
+Sure thing!
+
+0:55:14.740,0:55:16.020
+Want to move it up or down?
+
+0:55:16.020,0:55:17.460
+That’s a pro feature, son!
+
+0:55:17.460,0:55:18.600
+Then there’s Play Mode,
+
+0:55:18.600,0:55:21.540
+...which feels like the part of the app
+most in need of improvement.
+
+0:55:21.540,0:55:23.700
+The ambition is to create a DAW-like interface
+
+0:55:23.700,0:55:28.040
+...that allows you to manipulate settings
+like velocity or expression with precision.
+
+0:55:28.040,0:55:30.220
+Its support for VST plugins is getting better,
+
+0:55:30.220,0:55:32.840
+...and its piano roll and MIDI interface are...
+
+0:55:32.840,0:55:33.820
+...getting there.
+
+0:55:33.820,0:55:36.440
+You just have to interact with it
+to see what I’m talking about.
+
+0:55:36.440,0:55:39.860
+If you’re familiar with apps like
+Cubase, Reason, Ableton or Logic,
+
+0:55:39.860,0:55:42.440
+...it’ll be obvious right away how far this has to go.
+
+0:55:42.440,0:55:44.780
+However, with recent releases, it has improved
+
+0:55:44.780,0:55:49.060
+...and I’d be surprised if we don’t see
+some big ideas turning up here in the future.
+
+0:55:49.060,0:55:52.620
+But, like the rest of the app, there are
+some really weird issues here too.
+
+0:55:52.620,0:55:53.260
+For example,
+
+0:55:53.260,0:55:56.640
+...they’ve removed the 'Solo' and 'Mute'
+buttons that used to be available here.
+
+0:55:56.640,0:56:00.060
+And without them, I can't quickly
+isolate an instrument to hear it.
+
+0:56:00.060,0:56:02.200
+So, this forces you to use their mixer.
+
+0:56:02.200,0:56:05.320
+And if you’re using NotePerformer,
+the mixer is really no use to you
+
+0:56:05.320,0:56:08.180
+...because it lumps multiple instruments
+together on one channel.
+
+0:56:08.180,0:56:08.740
+Look.
+
+0:56:08.740,0:56:10.500
+I’ve created a new orchestral score
+
+0:56:10.500,0:56:12.400
+...and it only seems to have two channels:
+
+0:56:12.400,0:56:13.800
+‘Flute’ and ‘Trombone’?
+
+0:56:13.800,0:56:14.300
+What?
+
+0:56:14.300,0:56:16.320
+Also, I really don't like this mixer.
+
+0:56:16.320,0:56:19.220
+It’s clumsy-looking, and the pan controls are awful.
+
+0:56:19.220,0:56:20.960
+On my high-definition laptop,
+
+0:56:20.960,0:56:22.360
+...if I change the panning value,
+
+0:56:22.360,0:56:26.000
+...I can’t get it back to 0 because it
+doesn’t stretch across enough pixels.
+
+0:56:26.000,0:56:28.980
+And there isn't any shortcut I can press
+to make its responsiveness finer
+
+0:56:28.980,0:56:32.100
+...so I have to use this ‘+’ button to
+bloat the whole thing up instead,
+
+0:56:32.100,0:56:34.160
+...which means I now have to look at it more.
+
+0:56:34.160,0:56:34.940
+Urgh.
+
+0:56:34.940,0:56:37.120
+It really is a joyless thing with its
+
+0:56:37.120,0:56:38.980
+...‘Yeah, that’ll do fine’ appearance and its
+
+0:56:38.980,0:56:40.680
+...Sega Genesis buttons.
+
+0:56:40.680,0:56:42.920
+It’s kind of hard to put into words what I dislike about it.
+
+0:56:42.920,0:56:43.660
+There's-
+
+0:56:43.660,0:56:46.760
+There’s a drawing I sometimes do
+to help me explain things like this.
+
+0:56:46.760,0:56:49.200
+I’ve been drawing it for years since I was a kid.
+
+0:56:49.200,0:56:52.760
+I use it to, sort of, visually explain
+the concept of jankiness.
+
+0:56:52.760,0:56:53.520
+Ye- yeah.
+
+0:56:53.520,0:56:54.340
+That's it.
+
+0:56:54.340,0:56:56.420
+This is what I think of Dorico’s mixer.
+
+0:56:56.420,0:56:57.520
+Oh, and that reminds me.
+
+0:56:57.520,0:56:58.680
+How did I forget?
+
+0:56:58.680,0:57:00.840
+I completely forgot to talk about the jank!
+
+0:57:00.840,0:57:02.000
+Yeah, we’re not done yet.
+
+0:57:02.000,0:57:03.180
+We’re not limping anywhere.
+
+0:57:03.180,0:57:04.040
+It’s in the thumbnail!
+
+0:57:04.040,0:57:05.220
+I need to talk about the jank!
+
+0:57:05.220,0:57:06.060
+I ͞n͡e̴ed ͢t̷o̶ ta̷l̵ķ áb͞o͟ut ̴the ͞j̢a͠n҉k҉!
+
+0:57:06.320,0:57:06.920
+I̸̼̮͍̣͓̞̥͈̝͌͗̈̃̿̍̀́̉ ̸̝͂͑̀̏̒̀̕ ̶͉̕͝n̵̮̙̘͓̐̈́ȩ̴̨̝͍̰̩͎̘͔̥͖̭̓ê̷̘̤͉͔̟̩̹̳͎͂̾̿̃̽̐̈̔̎d̷̢̛͇̣̣̞̅͆̅͛̌̃̆́̿͗̏̽͝͠ ̴̝̗̬̱̤̗̱͈͙̙̩͇̞͐̇̓ ̷̩̑̌t̴̢̩̲͍͍̫̳̽̊̇͆̔̊͐̄̏̉̓͂̕̚ȯ̸̡̡̗̙̞͓͎̮̮̩̪̥̫̪͍̥̓̽̽̈̈́̽̐̽̌̀̅̒͘ ̵̠̗͈̘̥̱̼͔̩̠̬̣̓͂̔͂̌͊t̵̨̛̘̞͔̲̭̯͍̣̫̘͙̆̀̀́̒̊̑̋̇̐a̵̛̫̰̬̗̠̟̺͐̆̈́̈́͆̀͐̾̓̕͝l̶̥͎̣͇̪̖̦̱̗̔̌̑̋͝k̸̟̬͔̃̋͒̉̀͒͊͌͘ ̵̙̺̟̳̫̖̟̪̫̩̅̎͑̒̄́̋̿͋͐͐͘a̷̛̬̺̝̲̙̖̟̺̹͊̋̑̽̔͋̑̈́͘͜͜͠b̸̲̩̪͙̲̹͎͖̆̋̍́͗̄́̒͌̿̔́̍́̚͝ ̴̡̛̬̬̘͚̺̞̟̭͂̂̍͛́̅̀̆̅̀̓̅͂̈̋͜͜͝ô̸͔̹̟̲̣̗̜͈̠̥͉̯͚̺̌̈́̀̆̚ ̸̲̭̤̱̩̘̩̻̤̠̹̼̜͉͑͌͐ͅu̷̞̩̰̥̥̭̭̪͓̭͐̾́̓̈́̂̊̒́̈́͑́̕͝ţ̶̪͍͕̙̹̝͇̹̫̱͇̳̼̬͖̏̇̈́̽̇̓̃͊͑̕͠ ̸̢̢̲̬̳͉̫͔͈͎̣̥̊̑̅̃͋̾͘t̷̢̫̰͔͙͉̱͇̹͖̤̙̪̮̠͆̽h̷̢̡͓̳͕̘̗͖̞̬͑͌̿̒̑̚͜ ̴̹͖̱̀͂̓̍̓̑͛́̓͜e̸̩̬̮̝̯̫̙͎͙͎̜̥̓́̇̊́̏̋̂̾̿̈́̓͊̀̽͊ ̶̺͊̔̾̌͋̽̇̅̿̓̕͠͠j̵̺̰̬̲͇̺̔̊̈̎͒͠͠à̵̢̼̭̝̹̓ ̶̼̫̯̭̱͔͋̽̒̌͊̇̍̃͒͜͠ͅn̶̢̠̳̆̅͋͗̓͋̔͐k̷̢͎̜̺̥̣̫͍̻̭͑̐́̐͘̕͝!̶̡̰̹̝̭̠̭̝͔̲̮͈̩̲̺͍̃͝
+
+0:57:07.240,0:57:07.740
+I̴̢̛̩̩̗͚̙̘̖͙̻̫͆̌͐̒̅̕ ̴̛̿̊̎̿̂̿͠ͅ ̶̦͈̳̙̫̼̹̬̞̂͌̌̋́̾̓́̅̃̃͐̄̚͝ͅͅͅṈ̷̢̞̝́́͂̂̀̈̋́̚Ę̸̧̡̳̗̦̥̭͔͎͈̘̯̬͚͓̉̅̈́̎́͒͑̃̒͠͝ ̷̡̧̜̥͇̗̱̱̖̻̠͐̎͂́̿̂̎̿̕͠E̷̢̛̮̹͖̳͍͕̬̭̭͚̭͓̗͗͒̒̎̑͛̓̂̃͝D̶̗̹͉̠̽̒̈́̀͒͐͐̀̀̀̔̾́͘̕ ̶̨̢̡̨͇̘̰̱͙̖̘̭͇̳̀̇̐͜ͅT̵̠̲͚͖̟̝̭̤̤͓͔̯̤̬͉͛͛̌͗͗̏͘̕͘͝Ơ̸̧̛̠̮͙͇̹̦̲͚͇̖̯̰̩̽͌͋̒͐͜ͅ ̴̡̞͕̮̣̼͛̓̕s̴̞̝̥̿̏́̈́̓͆͒͂̂̊͘o̶̘͚͋̂̓̿̅̽̑m̴̘̖͉̪̗̤͙͍̲̦̖͎̭̤̱̀e̷̩̫̻͐̀̀͊̍̀͛̅̍̀͐ ̸̢̭̱͖͕͍͚̑͆̔̄͊̏͑͑́̃͘͝A̷̛̭̤̥̘̿̊̉̏̃̑̂̈́̓̍̑̈̔͘͘͠B̸̼̻͚͂̐̂̐́̓̈́̏̈́̓̇͊́̑O̸̩͓͙̓ ̴̧̫͎͉̯̣̫͙̭̬̥͕̟̮̎̑̍̂͆̽̐͊̒̎̕͠͠Ŭ̷̢̢͚̘̳̤͍̟̥̱̀́̑͒̐͋̄͗͊̎̓͛͛͑̕Ţ̴̻͖͈̞̠̀̋̾ ̶̛͔̍́ ̵̮̯̥̥̤̲̼͔̯̮͑͜ͅT̷̢̻̳͖͐̏̉̈́̀̀͌̏̀͐̈́̑̂͊͠H̴̞͉͈͙̺͈̙̪̒̂̎͊Ĕ̵̛͇͖̭̉͒̒̈́͑̈́͌̉̀͑́̔̃͜͠ ̴̨̝͎̄͆̐̈́͗̅̋̄͐̍͝J̸̢̲̭͈̥͙͓̳̥̹͎͍̮̘͚̩͂̐̉̎A̴̱̮̜̤͋Ņ̴̛͖͚̞̫͖̮̊̿̈͊͒̂̂͂̀̚͠͝ͅ ̷̢̘̤̱͈͙̟̳̮̝̝͉̭̄̿̾̇͒̓̊͂̍K̷͉̜̘̳̻̩̠͓̳̤̏͌́͘͜͜ͅ!̷̮̱̻̖̦̜͔̆̉̐̋͂̿̾͆͋͌͠
+
+0:57:07.940,0:57:08.440
+I̴͚̝̠̜͙̣̔̎̔̓̿͌ ̵̛̣̹͇̮̤͓̲̳̂͒͜ ̶̧̢͕̥̪̮̫̘̝͔͖̥̦̪̦̻͔͊́͂Ņ̶̡̰̰̩͕̘̜͈͉̤̖̭̥̝̜̗̇̐̑̆͊͒̃ ̵̨̢̭̞͓͇͎̟͎͇͇̪̞͍̳̲̬̮͍̓͛̀́̅͐̋͘̚͠͝Ẽ̸͓͉̌͗͋͛ ̸̠̀̒Ḙ̵̡̢̯̲̳̹̲͖̏̆̽͗ ̵̼̺̈͜D̸͔̒̆̃̎̀̕̕͘ ̷͕̗̘̭̞̩̘͈̝̩͇̍̍̂̅̏̆͜ͅ ̴̨̹̯͕̯͉̖̞͙̤̼̍̿̌̈́͊́̊̄͊͌̀͘͘͝͝͠͝T̸̢̘̹̬̈́͐̇̊̓͋̔̐̕͘O̴̧̻̪̗̭͖͈̱͎̦͚̲̭͓̣͔̼̐̔̌̍̉̏͛͜͝ ̵̮̘̞͉͙̟̫̰̘͐̀̽̽̃͛͑̂̌̆̎̑̔̕Ṱ̸̨̝̘͕̯̮̞͓̣̝̈̈́́͜ ̶̧̧͕̱̤̣͉̣̦̠̩̫̗͕̃̈́͛̾́̎̓̔͝ͅͅ ̸͎̟͎͕̺̝̼͎͒͗̋̌̔̇̔̽̏̽̈̐̐̆́̓̽̚̚A̸̲̼̽͛̀͊̉̔̍͆̈̇͑̀́L̸̨̧̺̳͎̳̭̬̪̥̥͇̬̐́̂͌̀̐͊̓̌̀̈̓́́̑̀͋̿͐ͅ ̷̦̳̬͌͋́͜Ķ̷̙̗͖̲̻̦̤̗̳̥͎͈̈́̽́̆́̂͗̀̾͘͜ ̴̤͖͇͍̖̲̮̼̩̣̼͉͍̮̮̖̝̿̽͐̒͛͒̀̏͐͒̊̊̕̕͠͠b̵̧̢̻̟̳̼̬̻̗̤̫̳̯͐̃̉ͅó̴̡̼̘̙̬̹̞̳͊͛̓̐̾͛̀̍̿̍̈́̊͒̕̕͘͠d̴̛̫̙̣̱̘̰̩̯͚͔̳̩͙̹̈́̅̋̾̽̋̿̂̍̈́͑͒͊̚͠ͅÿ̸̖̫̩́̊̆̊̔́ ̷͉̥̓̑̊͂̉͆̐͋̒T̶̗͙͔͕͓̹̓̀̓̐͠Ĥ̷̥̭̝̤́̅̾̏̅͆̕ ̸͇̊́̓͛͑̓̈́̎͂̔̚̕͘̚͠Ę̵̧̛̭̤̫̞̜̞̯̮͍̤̲̤̳̹̤͆̐̅ ̶̛͍̪͉͕̥͇̬̫̲̻͉̻̞͗͂̽̈́͆̆́͌̉̍̒̊̑̋͛̚̕ͅͅJ̷̹͔̦̅̋̎͐̚̕ ̶̞͈̥͇̲̞̻̖̯̞̹͉͎̖̞̩̒͐̏̋̌͗̀̄̓̈́͆͌̇̄̄̕͘͜͠ ̷̱̹̬̈̆̎͛̒͒̎̋͐̕͝Ḁ̶͙͔̲̠̖̻̮͚̥̥͔̌ ̶̢̡̡̛̝͎̗̹͔̖͇̝̖͖̭̗̯̣͍̓̉̾͛̋̓͛̀̓̚͜ ̵̡̻̞̠͙̭̭̺̞̣̣͎̘̤̟͖̯́̽̾̔̒̃͋͋̌̏̕N̶̡̛̛͔̦̠̻̬̫̠̙̺͎̗̔̉̂̏̒́̓͛͝ͅĶ̷͐͑ ̷̨̳̞̩͍̯̣̤̗͈̫̱͖͇́̅̒͛͆̈́̈́̒̽̂̈̊͒͗̏͘͜!̴͔͍̠͎͔̥͆̍̀͂!̵̭̩͂̿̑̀̈́̿̐́̕̕͜͜
+
+0:57:08.580,0:57:09.080
+I̵̡̡̢̡͕̰̦̫̯̥̗̟̞̘̳͂̈̐̋̅̓̀̊̀͆͐̚͘͘͝͝͠ ̴̡̧̧͇̪̭̻͇̩̉͐̓̀̆͗͒̈͛̽̌́͆̄̓̚͜ ̴̦̞̘̎́̾̕N̷͙̤̲̗̗͇͉͇̺̞̋͑̈́̀̎͗͐ ̴̺͕̭̮͇͎͖̝͓͐̈̑́̑̊E̷͖̖̣̱̗̔͒̑͌̒̋̈́̕͝ ̵̮̳͍̖͕̖̅̍̉̓̌̎̾͗͘͜ͅͅĘ̶̥̗͚̺̩̮͖̈̔̉̓̓̀̆̾̋̃̂͛̚͠ ̸̡̢̢̧̨̛͚̼̩͙̩̹̙̳͓̙̠̦̃̓̓̆̅̿̓̑̍̉̏̀D̷̢̢̳͉͓̱̰͕͕̝̝͚͎̀̓̑̅͆́̇̆͛͒̀̅̈́̋̓͝ ̵̧̢͚͎̮̩̬͇͎̱̉̈́̑͊̿͋͂̓ ̵̬̰̞̘̠̫͙͇̺̟̱̪̌̉̀̄̂̓͋̐͐͗́̀̕ͅͅT̷̨̧̡̛̮͚̲̦͖̭͔͔̮͓͓͕̱͍̋̆̾͋̔̇͊̉͋̍̐Ǫ̴̜̦̰͚͖̯͍̝͎̻͂̅͂͒̌̉́̊͊͘͝͠ ̷̬͊̆͒̆͋̚T̵̙̣̩̦͙́͛̿̔̋̊̀̿͑̀̚͜ ̸͕͍̟̄̅̒̃̿̐̓̈́̽̚ ̶̞̝̭̯͓͈̊̂̂ͅĀ̷̙̰̯̙͐̕ͅL̴̩̻̳̬͈̼̻͚̉̂̊̂̃͋̾̋̕ͅͅ ̸̧̱̲̮͈̞͕̠̩̮̊̈́̈̑͑̄̋́̌̌̀͊̀͝͝ͅK̴̫̘̩̰͈̻̝̯̤͚̗̏̏̆̊̒̀̍̀̿̅͊̋̉̾͘ ̴̟̯̗̼̗̩̠̜̩̰̦̦͖̯̥͔̇̈́̍͆̑̔̌͂̀͒̇͆̚͝͝ͅĄ̷̢̢̱̫͖̰̹͕̂͐́̌̏͂̕͠ ̸̨̛͖͇͕̻͕̦̺̮̺̯͐͝B̴̛̝̗͎̹̬̭̦͈͓͓̣̦̱̈́͊́̌̃́͂͐̃́͜ ̴̛̛̹̹̩͔̠̬͍̞̏́͑̒̓̕ͅͅO̵̠̪̺͎̱̖͑͒́͂̄̑̉̎͗͝ ̶̛̺̤̘̜͙̤͈̏́͆̐̈̈́̔̾͌͝ ̴͚̳͊̈̾̚ ̴̩̫̤̤̝̥̮̠̝̞͇̪̗͊̒̕ͅÚ̴̯͙̰̬̖̬͠T̵͎͉̻͖͔͈͐͋̊̈̂̈́̈́̔̆̿̕ ̶̛͔̻͈̲͛̔̃̈́́̀̿̽̂̌̍̚̕ͅõ̶̹̺̦̮̳͕̩͗̑̐̔͆̏͗̄͌̾̎̿̐̈́͜͜͝͝ņ̶̢̫̣̝͉̙̥̩͎̦͔͕̙̳̇̌̋͛̔́̌c̶̨͍̣̖͉͓̗̒̀̀̔̌̍̾̈́̅̀̒̚̚͝͠ͅe̷̢̨̡͇͉̯̣͙̪̟̬̋̓͐̐͗̓͜ ̸̨̧̡̙͎͕̗͚͇̞̺̹͛͐͛̕̚ͅJ̵̨̨̨̧̨̧̛̮͍̬͍̥̹̙̥̓̌̋̿͂́̈̉͐̎̈́̃͂̕̚ ̵̢̰̐̍̌͊̚ͅ ̷̠̒͌̓̃̄͊̉A̷̛͔͈̜͎̣̹͖̫͐̿́̓̏͗͆̈́̐͐̾̒̊ ̶͇̰̪̼͖͍͔̟̙͛̈̈́̈̇̀̌̂̚͜͠͝ ̷̧̻͍͕̲̳͙̖̜͇̬̜̻̩͕͓̇͜Ņ̵̨͖̯̮̫̠̭̤̭̋̋͑̓͊̅̈́̚͜K̴̡̧̹͚͔͔͇̻̤͔͚͂̅͆͑͋́͊͘ ̶̡͓͖̻̝̹̳̰̰̺͈͚̼͇̪̮͎͛̾͗́͝!̴̺͐́̒̽͂̿͗̽̇̍̄̕͠!̵̧̡̮͈̘̰̳̹̳͚̋̐̿̆̏͛͜
+
+0:57:09.180,0:57:09.680
+̶̢̬͚̲̫̫̱͚͗̏̐̿̀͠͝ ̴̢̢̦̲͎͈̝̻̞͔̙̃̓̓͗̃͝ ̵̲̘̥͉̝̮̘̝͒̎̊̿͐͑͜Ĭ̴̯̺̦̞͙̈́̑͗ͅ ̶͚̲̹̼͇̺̺̖̄̋̔́̆͌̏̅ ̵̡̛́̓̃̑̓̽̊͛͒̎̕͘ ̵̦̹̝̤̬̭͍̳̳̑̈́̃͒̓̍̔̎̆̕̚̚͜͝Ń̶̡̡̧̛͕̪̞̳́͗̊ ̴̨̛̣̞̗͉̳̞͉̟̜͚̪͔͑̾̐͒͆̒͛̀͑̚ ̴̢̨̛͇͖̘̜̜̞̯͉̥̝͕̰̣̠̀̎̊̋͆͑͗̒̿̿͋͛̚Ȩ̵̡̻͍̣̯͚̣̞̦͖̘͉̔̾͗̾̌̈̿̂̆͊̈́̅̏͘͠͠ ̸̦͕̜̭̤̹̱͈͚̐͂̀͛̈́͛̆̇̌̌ ̸̧̛͍̗̐̀͆̈́͛͒̿̈́̌̓͂̒͒͘͘E̴̡͎̘̗̘̣̹͕̬̪̐͗̑̔̈̉ ̶̳̝̟̠̹̭̋͌̐̿̚D̸̢̮̞̮̺̲̣̖̲͇̬̲̟̪̆ͅ ̶̧̡̢̧͔̪̘̻̣̱̱͈̟̺̻͉̏̓ ̸̝̻̫̰̅͘͜T̷̲̣̮̯̟̰̱̓̈́̄̌͝O̶̖̠̻͓̾̽̈́͋̌́̈́̆̓̎͌͜͠ ̵̡̧̡̡͕̰̱͎̘͕͔̮̻͉̤͉̆͂͆̕ ̵̡̛̛̬̥̤̤̟̭̎͐͋̊̔͒̽͋̔̈̂̕T̶̨̮̠̖̱̼͇̏̊̑̀͒̉̐̑̽͐͒̿̑̕ ̷̧̛̖̥̙͂̀͗̆̍̅̆͗̊ ̷͔̣̖̥͇̹̬͛͑̃͋̀̈́̓͘̕ͅ ̸̨̻̗̦̫͔͎͎̗̖͈͖́͒͒͜ͅA̴͎̲͓̎̾̋͑̑̉͒̈̎͊̋L̵̛̛̛̰̲͈̉̾̔͆̋͐ ̵̡̨̛͓̟̥͕̗̙͓̝͓̒̅̊̒̑͝͝ͅK̴̨̢̢̡̧̛̞̭̪̗̱̤̘̝̬̤̝̒̈́͆̑̔́̄̆͒̿̕ ̵̬̘͕̣̈́͑̅̃̈́̈̈́̓͘͠͠ ̷̡̝̬̖̰̗̦͚͈̻͉̟̹͍̹̌̌͐̎́A̷̪͍̫̯̅̅͗͆͋͂̊̐͘͘͝ ̴̢͎̣̯̲̟̱̝͈̤̘̲̂̈́́͋͗́̃͘͜ ̸̡̯̻͕̥̪̪͇̺͚̺̈̐̿̃̿̓̀͋̂̕̚ͅͅB̸̼̰̠̘͇̘͖̩̄̓͊͆̾͆͐̈́͌̏̿̾̍͜͠ͅ ̸̛̠̹̺̞̙̳̳̆̉̐̚ ̶̢͔́̓̎̿͂̏̃̐̄͝ ̵̨͉̪̖͇̼̩̖̅̀̃̓̽͑͑͆́͊̕͠Ȍ̵̧̨̞͈͓̘̙̟͉̫̙̲̱̪̣ͅ ̷̡̧̙̠̪̗͈̮̯̖̩̜̜͕̮̊̄̀͗͋̋̒̂͊͊̕̕ ̸̧̛̮̺͉̽͑̾̀̊̊̂̎̂̕ ̴̡̗͓͈͉̟̦̤͔͍̘͚̩̔͊̍̌̽̄͗͜ͅU̶̢̡̢̙̱͕̦̞̗̲̯̺͓̓͗͒͂̄͌͑̎T̵̮̾͊̒̓̊͂̐́̊̈̐̑̕͘͝ ̵̱̪̗̺̐̈́̌ ̵̦̥̬͖̰͚͚͚̯̬̪͍͐̋̌̍͋͗̈́͐̐̈́̏̔͐͝Ţ̷̨̤͙͖̞̜͉̪͚̔͛̎ ̴̡̡̲̱͍̲̘̣͋̋̍͘͝ͅÈ̸̹̳̯̪̤̳̆̇̈̈́̋́͘͝H̵̢̛͇͖̯͖̖̳̝͆̕ ̴̨̢̡̲͈̠͍͔̫̃̈́̚͜͠t̴͍̭̣̐̅̿̈͊͛̈́̓̇͂͑ö̷̰́͛͛͑̒ ̵̢͉̲̭̓ ̶͇͙̠͖̝̪̲͓̩̝͑̂͑͆̓l̶̙̹͍̤̮͖͎͙̖̦̣̜̟̀̆̀͛́̽̿͋̉͂̚̕͝͝ḓ̵̾͛͐͒̉̿͐̈́̋ ̸̛̳̍͋́͒́̄͠ ̸̧̬̬͚̹̙̙̼̝̭̺͔͇͐!̵͔̹͔͈͓̬̦̻͖͚̮̯͑͑́̑͐̅̃̔͜!̵͎̝̔̎͜
+
+0:57:09.740,0:57:10.240
+̴̡̙̟̮̮̻͍̯̬̔̓̏̅͐̃ ̴̬͓̹̬̘͇̱̅͆̓͘ ̶̡̡̝̞̬̺̥̠͓̱̹̤̳̈́̄͗̈̓̉̚I̵̜͓͉̼̯̳̬̼̾̍̏̀̉̇͐͆̓̀́̚̚͘ ̷͚̥̆̌͆̍̿̅̂ ̷͔͇̰͙̆̋͂̑́͛̐̌͛͝͝ ̶̧͇̍͐̋N̴̨̛̖̦̥̞̹̟̝̱̙͚̑̒̈̇̀̍̑̓̌̐ ̶̘̮̮̟̪̬̝̄̅̉͌̏̋̍͊͐̃̿͐ͅ ̵̮̺̯̍Ḙ̶̲͓̤̟̪̣̮̤̤̟̿̓͌̈́̃̎͝ͅ ̶͔̟̈̆̽́͘̚ ̷̢͚͙̳̜̦̤̏͜Ë̵̡̮͇͓͔͈̺́̎̃̅̆͐̾͛̿̔͝ ̸̦̐̓͋͘͝Ḑ̶̱͇̖͍̥̮̗̫́͑͗͐͛ ̴̨̗̙͈͈̦̗̩̥͓͇͓͊̈̊̍̑̈́̅̋͒̈͘͜ͅ ̴͓͍̄T̸͈̠̘͙͖̻̮̝̼̠̫̏͆̓̄͋̈̏̄͌͘͠Ò̴͖͇͍̞̳̀ ̴͈͎͍̠͖̪̥̥̠̳͆͒̋͠ ̶̢̧̬͍̰̼̗̯̈́̒̏́̋̉̐͊̂̆͝͝͝Ṱ̷̨̝͓͙̦̦͈̭̬͋̎̍̌̓̀̿̈́̓̆͐͂͗͋ ̶̛͇͕͉̦̐́ ̸̨̢̝̪͉͈̖̯͎̯̦̏̏̏͊̄̉͐́͌͑͌̆͑͠ ̵̺̞̜̗̮̱͓̜̌̀͑̎̋̕ͅẢ̶̱͎̬̼͈̙̭̻̦L̸͈̳͓̝̔̂͌̔̽̚͝ ̴̘͔̦̯̼̹͇̆͑͗́̈͛́̽̎̅̕͠ͅK̴̡͈̘̘̖̳̭͖̅̾̂̏͆ ̴̟̭͎̰͕͆̾̈́͑̈̾̉́̔ͅ ̸͈͍̲̤̱̙̪́̃̃̂̈́̃̇͂͊̓́̓͊Ą̶̢̬͙̖̭͙̫̤̲̬̀̀̃̽ ̶̘̥̠̝͐ ̵̧̭͚̱̼̇͋̊̇̏̉͗̅̚B̴̢̻̮̜͈̬͓̠̲̹̯̘̻̽̽̓̓̄͑͊̌̇̋̌̈́͝ ̴̢̬̫̤̤͚̹̟̈͂̕͜ ̸̢͔͔̥̙̂̉ ̶̧̛̜̼̩̰͙͖͎͚̖̝̓͛̽͂͊O̷̼͎̼̪̬͌̓͊͛̔̚͝ ̴̨̛̪̤̺͕̳͉̟͇͓̰̣̝̒̌̊̍̄̋̈́̔ ̸̢̧̨̲̻̯͎̠̮͈͕̳̿̅̈́̏͗̀́̉̍̀̌̇̌ ̸̨̣̳̪̰͓͎͔̻̣̭̘͐́͆̔̽̋̀̽̔ͅU̵̪̩̱̰̗̱̟̬̤̎̀̑̊̇͘Ṫ̴̝̲̮͓̮̆̇̿͜͝ͅ ̸͕͎̻̹͔̄̈́͒̀̆̓̌̈́́͋͘ ̷̡̦͔̫͈͛̒̈́̂͠T̴͔͇̤̼̗̣̞̖̳̥͔̋̃̆̅̆̃̾͛̈͋̽̔͘ ̸̧̛͈̹̭̮̱̼͚̞͚̏̂̀̋̇̍͋̊ͅE̸̙̺̋H̷̦͔̞̮̓́͒͌̀̕͝ ̴̱̳̪̜̫͍̋̉̇͝͝J̶̛̛̻̗̭̬̫̱̠͚͛̃͋͒̈́͛̑̂̔̌̌͝ ̵̛͎̜̟̈͋̿̆̊͊̇̀̄͌̌͘Ä̵͉̮̭̠͈̙̲̰̜̅͘͝͝N̴͓̫̙̙̮̺̞̉̄̐̔͗̾̓N̴͉̞̼͒̎̀̐̎̒͋̍͝K̶̥̩̠͊̎͊ ̵̹̦̳̫̝̺̞̾̈̔̇͝͝ͅ ̷̡̡̛̝͍̺̓̑̈́̈́͛̓̽̚ͅm̵̢̛̛̥͈̹̝̮͖̯͙̫̗̈́̈́̉̇́͑́̕͜͝e̴̦͇͔̣̾̆̒̽̂͆̈́͊̎̔͊͊̅
+
+0:57:10.240,0:57:10.740
+w̷͚̘͓̬͛̈́͊͋̾͆̎̄͛̅̕͠͠͠h̴̨̛͉̞̗̱̑̄̈͛́͆͌̓̈́̂͛̇͂̚͠͠a̶̢̨̞̪̦̣̹̞̦͇̣͈̦̺͐̈́̃̋͋̀̊͗̕t̴̟̟̠̟̩̪͈̳͖͎͔̥̺͔̗͆̈́̇̒́̂̕͜ ̷̡̢̠͔͉̭̹̠͖͛̓͊̊̅W̸̧͈̲̜̲̮̮̰̫̩̞̜̍̐̀͗͘͝͝H̸̺̱̟͉̪̫̟̖͉͗̍̿͗͜Ǎ̴̗̭̹̦̥̜͍͖̼̓̍̎͑́̈́̿̆̈́͘̕̕͝T̸̡͚̬͖̥̾͊̾̅̕͠ ̴̢̢̤̖̲̥̞̟̩̈́̄̋̏̇͛̃͛̓͊͋̋̀͛̆w̶̞̭͖̥̻̼͇̰̹̬͌́̔̃̽͗̊͛͝h̶̡̡̼͕̜̖̝̼͇̫͎̮̥̰̟͎̬͘a̷͚̤̖̞̬̺̫̿̽̀̇̉͝ţ̶̦͉̙̳̭̯̠͚̫̹͙̃̃́̀͋̽̍̍̊́̒͠ ̸̨̧̼̼͕͓͓̠̥͙̝̪̻̫̿̂̆͊̈́̀́̌͗ͅW̸̧̢͍̤̰͈̲͕̘̾͐̍̇̓͌́̆͘͠Ḩ̶̢̧̥̰͖̫̭̤̻̝̮͓͖̞͒̌̇̅͒͝͝ͅA̶̧̨̠̘͓̮̝͔̝͎̅̎̋̓̓̔̈̊̇͊̐̇͝͠T̷̨̡͈̹͖̳̳̹͙͇̟̉̄̓͠ ̸̨̛͊̇̌̓̌̇̕ẘ̶͎̈́̽̀̅̊̊͆̚̕͝͝h̴͙͖̖̼̮̬͖̙͂̂̒̃̓̊̅̚a̸͖͍̮̲̰̜͈̤̯͆̍ͅt̸̡̳̣̘̫̱̻͖̓͗͑́̌̿̚ ̷̱̹͚̟̥̲̳̮̳̤͖̣͚̦̳̩͌́̂̈́͛̓̿́̈̑́̕̚͝ͅW̴̡̨̢̡͔̟̹̪̼̝̙̼̠̊̆̿͂̋̌͜H̵̢̢̧͇̙̫̝͇͈̹͎̭̍͑̈̅̚͜ͅA̷̺̞̜̟̖̤̘͓̠̤̔͊̓͆̂̏͋͛̍̊̓͘͘͜͠͝ͅͅT̸̢̢̬̥͔̟̮̪̹̥͈̩̩͛̋̀̇́̃͒̋ ̵̢̡̢͇̤̲̬̞̪̪̰̺͕̯̳̏́͂̓̒̽̂̚͜͝ͅw̸̡̺̯̠̲̖̻͉͍̙̮̑͋̐͌ͅh̵̠̼͈͔̥̬̰̖̗̹̐̑͌͂̄̄͠͝ā̸̛͚͇̯̪͍͈̟̊̑̊̈̂̓̋̿͘t̷̪̟̣̬͍̺͈̥̻̓̈́̆̈́͐̌̆̑́̉͌ ̷̗̞͕̤̎̊́̿́͐̓͋̈́̏̓̒̏͆̀̃͘W̸̢̡̡̮̦̺͚͕̱̚ͅḨ̵̹̟̱̜͔̙͈̠̭̯̔̽̂͊̌̏̽͒͑̚Ȧ̶̢̨̛̻̫̩͔̼̮̋̀̊̈́͂͊̕͘͝ͅT̶̛̩̙̬̬̞̺̒̑̎͊̒̐̃̑͑́̓̂̓̏͘͠ͅ ̷̧̢̛̩͈̩͖̬̥͉̘̭̄̐̀̏̀͂̓͗̄͋̋w̸̩̱͎͛͒̈́͒͊́͑̈́h̴̥͗̽ă̶̞̙͚̯͍̩͓̗̯̩̺̫̹̖̰̎͐͛̿̽͒ṫ̶̛̙͚̭̠̣͈̍͊̔̾̃̍̚ͅ ̸̯͔̩̞̣͙͎͓̹̪̲̀Ŵ̵̧̧̡̯̞͎̥̫̪̻͉͈̹̑̈́̂̌̀̄͆̓͜H̴̨̢͕̟̙̘̖̥̲͐͆͆̕A̶̡̮͈̦̪̜̬̦̲̯͍͙̱͚͖̔͆͛̅̃͑̓͜T̷̢̧͍͖͓͔̰̫͈̣̙͔̱̲̠̥͌̐̓̎̈́̾̿̈́͗̕̚͝͠͝͠ ̷̢̛̱̣̱̝̬̺͙̟̜̯̺̭̰̲͉͒́̕ẅ̶̧̨̭̯̭̘̱͇̼͚̬̟̮̝̞́̀̅ͅh̴͓͇̫̣͌͐̋a̷̢͓̚ẗ̸͈͖́̏̈̽͌͐̐͂͑̚̕ ̴̯̟͕͍̖̜̲̂̅ͅͅW̷̛͓̺͇̏̀́͂͌̆̏̑͌̆͌̌̉̈́̕͠Ḩ̶͍̫̣͈̥͆̓̀̕Ą̴̮͓̳͇͇͙̦̰͎̲͚̂̑͆͊͊̈͌̔̍̐͘̕͠T̴̢̢̹̥̲̦͙̩͊̈́͗̓̚ ̶̧͈̦̞̗̤̩̲̰̰̮̹́͌̀͒̄͑̾͆́͂̈́͒̋̄̚̕͜D̶͇̭̱̤̦̺̤̳̩͍̟̼̘͇̩̘̊͐͂͆̌̆́͝A̷̡͙̙̯͔͖̫̘̘̟͎͚̼͊̈́͂̈́̏̌̊̀̾̂̉̿M̴̙̰̞͗͐̊͐̋̀̑̅̂̔̉̓͝͝͠N̸̢̨̈́̿͊͛ ̷̡̛͕̲͈̱̮̣̝̀̑̓͋̆̋͑̾̃͂̓̍̚Y̶̭͍͖͈̝̱̜̱͚̯̯͆͑͆̇́̒̊̀̈́͌͂͋̃͑͘͝Ȅ̷̲̍̎̅̈̐̎̒͝͝!̷̡̧̡̛̲̫̳͓̞͓̗̫̙̣̦͕̪̐̒̈̃́̽͂̌̾̎̑͠!̶͍̳̺͖̲̬̞̬̬̣̝̯̞͐̒̓ͅ!̸̛̜̜̬̉̌̈́̑́͒̈̔̕͝͝ͅ
+
+0:57:10.740,0:57:11.240
+Ḑ̷̧̛̳̟͕̱̥̝̞̘͚͎̱͓̩̝͎̘̭̬̜̙̫̩͈̝͕̼̟̲̩̹̼̼̥͇̝̪̙̱̺̜͖̼͋̎̌̋̐̌̈́͌̽̎͌̈́̈́̓̌͌̀̓̇͑̅̎̉̂̓̀̅̅̈́̏̅͂͛̉̈́̈̒̍͐͌̀̽̔͂̚̕̚̕̕͜͝͝͠͝͝ͅã̶̡̛̛̩̹̬̰̙̝͓͇͎͚̼̙̙̟̲͍͎͔͙͓͔͎̮̗̫̩͚͎̺͔̀̿̒̈́̍̀̓̐͂͂͑͐̀̀̌̈̈́͆̽̉͊͂͊̃̃̓̽͛͊̄̉̄͆̚̕͝͝͝͠ͅ ̸̢̢̢̛͚̪̲̯̱̰̩̥̼̙͙͔̜̩̣͎̺͚͔͔̻͓̠͖̐̔͗͛͜͜͠͝ͅͅͅm̸̢̧̢̧̞̮̰̻̦͍̳̙̞̼̯̟̘͈̩̘̟̗͕̰̦̗̦̞̬̱̞̪͖̲̞̭̫̪͔̣̣̮͌̈́̅̀͒̈́̓̀̄͂̑̀͑̿̈̀̈́̋̿̒͋́́͗̂͊͐̀͊̍̄̒̽͗̇̕͜͜͠͝͠ͅͅŅ̶̡̧̨̧̛͕̖͖̖̭̣̫͚̦͉̺̗͚̗̥̳̜͔̱̤̰̰͙̠̯̟͇̺̠̮̩̿̽̓̽̑̎̊̃͂͋̇́̿͑̾̊̐̉͜͜͝͝͠ ̵̧̨̙̫̹̠̝̟̦̞͔̦̙̝͚̺͔̮̗̤̻̟̣̥̜͇̫̺̯̤͈̞̦̰̹͚̘̻͚̼̣̘̹̜̲̯͍̲̠̉̔̏̽͊̾̽̓͌̐̃̏̋̾̌̑̃͆͋̿̈́̒̌̈́̕̕̚͝͝ͅͅͅÝ̶̨̨̧̢̢̡̡͖̦̦͇̱̤̬̫̫͈̥̪̖͓͕̦̺͇͍͔͖̹͈͔͔̯̞̜̜͖͇̝̫̖̺̬̜͍̰̙̗̓̋͌̎̈́́̾̎́̑͑̐̾̏͘͜͜͜ͅͅͅ ̸̢̛̱̩͚͍̩̗͔̲͍͓̠̯͈͕͉͉̖̠̗͍͎̞͙̗̤̤͕͉̟͖̣̹̰̝͗̽͛̃͂͌͆̂̀͐̓͗̂̏́̄̅̔̒́̄̉̎̇̍̂͐͂͌̋̎͌̋͂̈̑̃͐̀͋͘͜ȇ̶̢̡̡͍̩̟͍̲̥̻̙̱̝͖̫͚̞̟̰̼̈́̃̌̆̀́̉͐̌͐̿̈́̈́̽͋͠ͅ!̴̧̛̛̛̖̰̥̯̦̺̫̝̻̣͙̹̤̩̜̼͎̓͊̏̈́̽̊̎́͑̑̀̎͋͐̃̒̀͛͗̄͌͌̎͑̌̓̊͌̈́̍̑̈́͆̈́́̋͊͂̈́͛͌̾́͆̃̕̕!̸̡̡̡̢̲͖̩̹͓̤̲͎̣̬̼͎̳̫̙̰̩̼͓̞͚̯̘͙͈̝͓̞̩͚̼̯̞̻͕̖̠͎̠̪̹͙̤̠͖̲̠̮͑͌̔̔̌͌̍̐͐̽̽̔͘͘͜͠͝͝͝ ̶̧̢̧̧̛̬̺̫̰̪͙͇̰͕̼͔̦̩͔̭̹̮͙̜̩͎̲̖̺̲͉̹͇̹̥̝̣̲͙͍͍̺͓́̀̇̒̑̾͑̔̽͑̓̑̽͂̀̀̇̈́̆̌̏̋͛̊̌̈́̎̽͆̽̀̈̓̍̕͘̕͜͝ͅ ̷̧̧̧̡̳͙͉̫̦̺̝̥̫̣̱͇͕̭̱͚̤̙̙̯͙̼̺̞̜̭͙͎͇̺͈͕̮̥͉̙̝͍̩͇̳͓́̎̐̆̍̎̎̈́̈́͂̔͂̉̿̀́̈̿̓̉̅͛̇̽̒̍̔͘͜͝ͅͅl̸̨̧̝͍͉͕͈̘̙̯̼̖̰̰̜̙̻̫͈̦̤̰̮̽̽͌̾̈͑̎̎͒̄̐̀̉͐͐̈́̑̉͒̂̎̐̿̂̎̆̀̄͛̋͐͐̍̅̓̓͋̓͘̕͝͝Ę̷̡̧̛̛̛̺̺̥͈̥͉͙̦̠̠̪̰̘̲̖̘̹̻͉̭͍̤̖̬̣̝̖̻̪̙̼́́̐̾͛͐̌̐̽̽̆̐̀̈́́̎͌͂̂̓̈̀͒͘̚͝ ̸̤̰̼̽̐̒͑́̍̐̔̊͊̅̿̈́̋͊͋͂̂͒͑̆́̿̎̐̄̉̇͌̈̓͋̈́̃͊̆͘͘̕͝͝t̷̢̛̳̦̼̝̤̪̠̝̼̖͍̯̩̠̘̮̲̟̘̣̰͇̖͎̫̫̥̯̯̣͔̠͍̪͉̮͎̯͚͍̘̙̪͕͎̫͍͓̊̂̀͗̄̋͆̄̒͋̑̓̿̉̄̓̔̏̽̎̀̏̐̈́̿̓̒́̄̓͊̈́̓͘̕͜͜͝ͅͅͅ ̵̡̢̨̡̨̢̨̖͓̮̗͈̦͚̗̱̝̳̙̰͙͈̜̭͖͉̝͇̠̫̩̱̼͔͚̹̝̻͎͙̼̥͓̪͈̤̻̍͆͌̊̋̈̓̏̈̒̈́͊͆́̽͜͜͝ͅ ̸̨̡̧̢̨̢̧̯̭̝̹͍̹͖͍̱͓͍͚͇̮̪̪͈̥̹̭̹̻͔̜͎̟̜͚̺̦̪̼̺͙͎͉̻̣͈̼͇̆͗̉̋͋̈͂͜͜n̴̨̢̡̨͇̞̘̻͍̤̥̗̦̣͙͓̩̱̰̣̭̰̲͕̼̲͉͕͕̙̻̟̒͜͝ͅͅ ̶̛͈̟̗͍̄̽̃͐̈́̓̓͑̓̒͊́̈́͝͝ ̷̢̛̛͎̜̗̘̯̥̱̰̎͌͋̀͌̂̌͛͋̽͐̋̓̀̈́͂̋̍͐̉̓̆̈́͋̈̄́̊̅͑̉̓͒̀͌̎̏̔̽̓͂͘͘͘̕͘͠͠͝͝͝ ̷̢̡̮̗͓͖̼̮̗̹̟̩̝̱̞̫̣̖̙̪͕̯̲̻̦̺͕̹̯̤͍̏́͊̈́͋̆͌́͋̄̈́͌͛̔́̚ͅͅE̵̡̢̡̧̨̟͚̼͉̦̝̞̬̖̟̰͎̣̬̬͔̜̖͈̮̬̰̭̦̹̱̳̣̞̞̻͓̟̩̞͔͖͕̦͙̟̰̱̰͒̅͊̓́͆̒̅̆̾̒̍̂̈́̀͌̓̈́̀͛͋̎͗̈̍͑̌̋͌̉̍̊͆̽̕̚͝͝͝P̵̧̝͍̻͍̣̗̻̬̦̻̮͎͓̘̖̗̜̱̠̃̋̈́́̽̑̈̈́̂̀͒͒̉̈̽͗͂̾̃̐̎̌̏̈̈́̐̊̋̿͊͂̈̀̊̀̅͌͆̕̚̕̚͠͝͝ͅT̵̨̨̧̨̢̡͔̺͕̙͈̻̬͖̬̫̺̺̫̯̹̰̳̦̠̜̭͍͓̰̘̝̲̗̙̼͖̹͙̟͓̺͚͖̗̜̲̲͋͝͝ ̷̙͖̬͓͉͗̃̇̿̌̉̿̍̄̿͐̿͑̏̿̑̊̆̓̉͛̈̿̉̔̿͑̒͑̆̀͂̔̇̀̂͌̕͝ ̴̡̡̡̧͇̦̫̩̠͙̤̘̞̩̜̼̺̜̻̗͈̝̥̥͓͔͍̺̙̦̜̜̩̺̼͕̙͎̩̜̠͕̜̼͂́͗̄̀̑͘͜ͅͅ ̶̢̢̢̢̨͎̲̖̯̺͓͉̳̰̰̥͕̱̱͓͇̪̺͎͚̻̣̤̗̱͕̻̼̫̜̬̫̣̰͇̤̮̤̯̣̯͙͉̳̻͑͒̀͌̑͊̔̀̑̌̾̔͊̚̕͜Ư̷̛̤̟̙̦͍̺̲͈̭̭̱̣̹̥̐̓͊̓̈́̄͐͑̏͂͗́͗̍̂̀́̽̅̇̽͛͐̉̔͐̌͆̒̾͗̾͊̎̓̋̎͛̾̌͗͆͐̈́̚̚͘͝͝͝͠͝͝N̷͙̱̥̬̓̽̑̃̑̀̐͑́͑͛̑̽̓̚͘̚͠͝ͅ ̸̡̧̧̢̛̬͉̞͚̱͓̦̗̲̟͖̗͎̲̯̤̦͙̱̪͇̱̗̠͇͎̺̟̭̗̲̗̫̣̖̱̲̙̖̟̎̉́̀̌̒̈̇̓̈́̏͌̄͑̆̏̈̅͗̐̈̋̓̇̄̈́̍̉̿̈́̅́̋̎̽̎̈̈́͋͘͘͘͘͝͝͝͠͠͝ ̷̧̨̰̤̱̠̰̬͉̙̣͎̺̫͍̽͊̌͆̂̌̆̐̆̕͠ͅé̶̡̢̡͇̠͇̳͇̪͔̲̮̤̰̪̫̭͈̩̬͍̙̻̦̘̙̙̺̮͔̠͍͔̝̹͎͔͎̹̫͙͈̋̈͑̆̾̾̃͘͜ͅ ̸̨̛̘̮̗͙̦̖̜͚͚̜͍͎̙̜͕̫̠̪̝̏̀͑̇̋́̒̂̈̉́͑͛͛̇͑͑̾̒̈̊̒͐̃̓̎̃̈́͒̋̉̊͂̍̈́̓̓͆̕͘͝ͅş̷̨̢̛̤͚̣̱̯̱̖͇̱̼̩̘͎͓̥̝̖͂͗̈̈̉́̽͑͋̽̒̃̔̾̓̐̋̒̌̎̂̅͊͊̃̈̍́͘͠͝Ť̴̨̢̢̡̡̢̲̥͕̪͇̱̣̙͈͚̮̩͉̙͍͉̟͓̖̰̦͙͆̽̐̌͆̓̀͋̍̓̆͒͋̚ͅŖ̸̧̨̢̥̗͇͎͈͇̞̰̣̞̹̻̱̝̺̟̩̤̤̩͍̺̭͙̣̬̼͂̇̈́̿ͅ ̸̢̥̗͍̠̪̹̜̗̒̀̊̊̉̑͂̔̉̚̚͠į̷̢̨̧̛̗̖͚̗̳̟̰̖͉̜̪̣͍̻͖̤͍̭̻͕̣͔̬̪̹͖̫͍͖̙̙̱̹͔̬͕͊̈́͊̋̏̅̀̇́̍̈̌̈́̽̄̓͊̋̈͐̎̌̑̋̀̍̄̍͒́̈́̃̾̍́̎̚̕̕̕͜͝͝͠͠ͅk̴̨̡̧̨̡̗̣̮̱̝̥͖̜̻͖̫̯͎͔̠̪̰̯̠̖̖̻̣̘͍̹̘͕̳̰͍̘̘̜͓̱̯̖̹͖̭̥̬̮͎͓̻̅̓̾̋̀̆͌̎̅͌̇̀̀͗́͊͐̒̀͌̔̂͛̀̑̐̃̌͆͛̐͌̀̏́͊̀̓́̍̔̈́͛͘̕͘̚̕͜͜͝ͅ ̴̢̧̢̲̹̬̦̰̬̳͖̦̪͓̼͚̱̪͙͈͈̣̮͉̪̜̗̀̚͜ͅ ̶̧̧̢̭͚̼̟̜̱̝̖̱̩̖̘̝͈̭̤̱͈̟͍͔̗̗̻̰͎̹̠̳̰͇̯̝̟̦͎̤͈̣̲̞̳͎̗̗̞͛̂̄̐̀̊̏̿̉͑̌͗̈́̅͋̊̆̿̽͗̿̿̀̿͊́͂̿̔͗͛̊̔͋̃̊̚͝͝ͅͅͅͅE̶̻̎̿̐̄̈́̿̄́̈̓́͒̍̾̓͂̆̍̒̆̓̈́̀̐͝ ̵̡̨̨̢̨̧̢̡̡̖̣̜͍̝͍̥̳̣̮͍̱̦̤̠̞͉̩̝̫͙̳͙̦̪̤̹̰̙͈̣̝̥̻̙̤͕̱̠̭̐̑͜ ̷̡̧̢̡̛̣͓͇̝͔̮̪̹̻̼̯̰͓͖̭̫̩͓̥̝̘̘̲̻̥͓͕̪̜̩̹̫̬̲̝͖͕̤̱͔̥̲͔͖͙̣̈́̓͐̋̍̀͆͌̈́̄́̊͐͌̀̋͌͂̂͊̌̂̓̈́͆͗̋͆̀͘̚͝͝͝͝ͅŸ̵͉̭̫͉͈̪̤͈͉͚̞̭͔͕̮́͆̀̐̀̾̿͆̈́̆͘͝ ̸̖̽̀̆̇̊́͊̋̓̓͊͒̊̎̔̍̆̌̌̆̒͑̈́̕̚͝͝͠E̷̢̧͔̤̪͙̪͈͈̬̥͖͔̤̤̬̣̗̻̩̥̫̼͙̞͕̠̗͇͎̥͈͙̫͓̰̫̳͉͕̳̬̭̣͓̳̞̾̓̀̒͂͑̄̆͆̈́̚͘͜ ̸̡̛̙̖̤̮̟͊̃̓̏̀̾̌̅̌̀̑̄̇̌͒̽̅̀̾͑̏́̊͊̅͋̌͐̕̚̕̕͘͜͝͝d̷̡̨͕̭͕̱̼͎̫͗́͌̎̏ę̸̡̛̻͖͖̼̲̜̯͖̲̘̗̱̩̦̭̯͖͈͖̙̖̠̥͈̠̤̳͉͎̝̦̣̭̼̭̤̥͕̥̓̀̔͌͆̅͊̽́̀̉̅͑̈́̀́͛́̑̇̊͗̇͊͑͐͊̔͑̅͗̑̚͘̕͘͠ͅ ̷̬͎̳̣͙̩̣̭̻͕̞̱̅̈́̄̌̀̈́̍͆̂͒̆̉̇̔͒̍̊̌̄̆́̃́̈̈́̿̍͑̽̕̚͝͠͠͝a̵̢̡̛̟̣̹̺͚̟̗̮̟̗͓̯͖̳̖̥̲̯̮̮̩̞͇͖͙͕͎̾̆̈́͊̾̑̏̐̆̋̆̕̕͠͝ͅ ̸̢̧̪͓͚̖̘͕̙̞̘͍͔̤̬̤̭̱̤̯̟͙̀́͂͑̒̒͋̀̒͋̀͆̈́͆̅͌͛͗́̃̍̾̏̒͜͝ͅḐ̵̡̨͖̟͈͉̗̺͍͓̜̙̙̬̙͙̖͔̰̯̞̰̗͚̩̬͉̲̠͚̙̒̿͒͌͛̆̂͒̐̂́̀͑́̌̂̌͒̎̍̒͂̾̓̀̚̚͝͠ͅͅͅ ̸̡̧̡̧̛̫̮̭̭͈̩̗̺̯̝͔͈̭͉̙̮̬̭͚͔̰̺̂͋͆̈́̾̂͂̓͗͋̒̎̂̀̌̎̊́̃̀͜͜͜ͅ ̷̞͍̱̣̫͎̲̣̪̝̳͙̭͉̺̓̈́͐̓̑́̔̓̎̆̍͐͗̈͂̌̒̉̀̏͑́͆̌̈́̌̍́̔͂̇̉̿͂̒̔̈́̌̂̉̄̓̾̀̕̕̚̚͠͝͠͝͝͝ͅw̷̨̨̧͉͕̗͉̘̙̬͚̯̟̦̻̙͇̹̼̯̪̟̖̞̘̮̯͎̰̗̭̥̩͓̻̩̼͙͎͙͎̬̹̜̺̭͙̳͚̗̙̌̋̈́̅̀͒͂̀̏̒̽̆̔̿̀̎̑̈́͜͜ͅͅ ̴̡̡̧̛̛̙̪̹̝̯͚͈̥̥̼̳͓̺̻̻̮̬̳̻̦̠͚͉̬͓̙̞̪̫͕͇̺̻̪̫̱̻̬̰̈́̒͊̀̈́͊͂́̂͗̌̈̽̊̀͆̌̓͛̈́͆̈́́͊̀̈̈̐͑̾̈̔̇̀͌͊̈́͛͒͆͂͌̾̌̕͠͠͝͝͝͝ĭ̴̡͍̠̬̓͒̓̒ ̷̢̧̢̡̧̧̛̪͍̱̭̹͇̳͓̺̫͍̞͇̦̖͓̖̣̹̭̣͈͚̰̤̫̦͙̟̂́̄̿̒̐̎̓́̈̉̒͂͗͊̋̎͐̈́̋̄̀͗̉̏̉͂̈̃͠͝͝͝ ̸̨̢̢̢̨̛̛̜̱̰̱̤̫̜̦͚̳̻͈̯̺͓͚̙̦̘̜̼͉̙̺̣͕͈͈̥̙͇̹̗̳͙̦̟̈̈̍͆̊̍͆̐͒͋̒͆̀͗̑̾̏͋̐͑͗̈́͑̊̀̓̆͛͛̉̆̀̌̒͛̑͆͌̾͐̾̕̕͜͝͠͝͠ͅͅ ̷̡̡̨̡̡̦͖̺͕͈̭͕̱̤͙̱͈͉͓̼̗̮͓̹̤̦̯̰̣̠͓͙͖͚̞͌̿̈́̐̀̂̎̒̎̿̀͗̉͂̓̚͜͜ ̴̢̧̧̡̪̞͉͔̭̘̗̪̼̟̗̟̭͇̬̞̞̙̹̻̭̜̽́̉̒͊̉̌̐̓̿̂̌̀̔͛̀̍͐̅̀̆̀̓̒̓̈́͋̄̂͋̅͗̽̊̆̐̄͋͋̓̕͝͠͝͝n̸̨̛̛̖̳̪͍̟̙̳̫̱̮̪͉̤̤̱̱̟̋̓͌͌̄̀̀̇̌̾̓͂͑̉́̊̓̂̔̀͒̀̏̑̈́̈́̉͂̇̽͂̂͘͘̚͠͠͝͝ͅs̶̡̢̧̡̢̧̖̞͕̤͓̬͖͉̖̻͇̮͍̞̯͓̫͈̬̘͔̥̬̦̹̦͖̟̖̹̈́́͗̓̽̿́̏̎̌̌̐̑̋͆̓͒͋̔͗̽͒͂̍̐̑́̇̽̈̀̂̄͗͜͜͜͠͝ͅͅL̵̡̨̡̧̛͙̟̙̬̠͖̟̻̮͙̗̯̼̤̙̲͉̥̻̱̭̮̠̝͕̝̱̝͖͍͔͔̓̑̑̎̃̽̀̈́̓̾̏̃͑̓̓͊̿̇̄̐̈̾̿̽̀̿͗̈̇̀̄̊̄̕͘͜ͅO̴̢̧̢̺̦͎͚̙͚̭͍͍̯̣̜͖̟̭̅̓̋̆͊̀̔̔͛̽̌̃̑̿͂̂̏̀̆̕͜ͅ ̶̨̦̲̩̻͙̹̮̾̍̓̇͌̚ ̶̢̢͉͎̮͎͚̻̰̹̰͖̱̙͉̬̺̫͖̭͇̣̻̯͔̹̯̯͔̦͖̘̫̦̫͖͉̪̟̎̔͌͘͜w̵̢̘͎̪̻̝̜̦̗̹̯͉̗̝͉̲̜̙͈̦̞̠̟̼̱̥͌͒̓͆̃̍̓̉̅̐̀̾͌͊͊̃̎̅͘̕͜͝!̶̨̰̺̞͍͓͔͈͙̗͙̠͚̼͉͚͔̰͉͉̖͐̏̽̾̐͑̾̆̽̇͌̉͗̓́̑̕͘͘͜͜͠͠͝ͅ ̸̦͖̰̻̥̥͉̝̪͖̲̌!̷̧̡̛̼͔̼͔͍̮̘̟͚̤̞̖̇̈́̅͋͌̃̾̑̎̍͛̓͊̓͗͒͆̍̑͋͂̆͒̓͊̅͗͑͋̕̚͝ͅͅ!̵̬̼͚͔̋̂͆̋̈́̀̀̔̔͋̈̄͋̇̎̉̋̔̾̏̇̌͂̀̑̇́͒̋̂͛͜͠͝!̷̨̧̡̨̨̧̢̛͚̭͍͖̫̯̦̰̤̬̖̠̖͙̟̖̤̟̣̭̜̖̬̱̯̜͉̦͙̖̼̱̯͚̯̭͈̪͐̈́͑̾̊̒̏̓́̎̃̊̀̀̏͆̃͂̎̏̂͂̈́̈́̐͆͆̈̑̍͗͑̈́̋̒́͐̚͘͘͘͘̕̚͜͠͝͠͠ͅͅ
+
+0:57:11.240,0:57:11.740
+H̷̨̧̧̨̨̢̢̛̛̛̛̛̰͚̥̮̦̘̩̘͓̠̜̰̜̯̺̮̠̭̩̞̝̯̰͎̙̠̱̣̜͈͉̺̮͇̖̳̹̖͈̻͚̰̩͈͙̖̗͈͎̫̝̺̼̤̫͍̟̩̹̻̥̗͈̰̳̯͓̗̘̻̞̦̤̰̣͍͚̦̪͍̭̖̟͎̬͔͕͓̙̪͚̻̭̪͕̹͙͕͂̊͗̾͗́͊̿̂̅̈̒̎̈́͌̈͑͊͆̆̓̈́̀̓̃͌́̄͛̋͑̓̓̅́̆̓̀̄͆́̌͆͊̔͒̈̾͐̏̈́̆͋̑͒̽̑̄̈́̅͌̏̃̏͂́́̈́͌͆̈́̑͒̈́̇̿̈́̊̈́́̽̽̀̈́̿̓̏̾͂͐́̃̅̑̓̆͂̎͒̄̐̈́̾̀̆̅͊̓̈́̇̓̽̿͆̅͋̅̈́͒̓̍̽̉͛̇̽̀̍̋̓̇͛͋͑̿̆͐̽̍̎͂̔̊́̔̍͒̑̊̾͋̅̌̈́͒̅̋̑̈́͒̀̾͆̎͒͆̈́̉̀̔̈́̆̉̈̊͊̍̃̈́́̊̏̂̃̚͘̕͘̕̚̕̕͘̚̕̕͘̚̕͘̚̚͜͜͜͠͝͠͝͝͝͠͠͝͠͝͝͝͝͝͝͝͝͝͝Ḧ̶̨̡̡̨̡̢̧̡̨̨̨̡̨̧̡̢̛̛̛̛̛̛̛̱̺̺̘͔̩̯̬͖̖̩̬̻̭̳̼̼̦̹͚͇͈͕̺̗̳̠̫̹̰̘̖̖͚̪̻̱̯̩̖̞̻̠̫̞͙̖͉͚̟̦̬̯̹͎͇̫̙̫̹͚̙̠͓̹̠̯͕̰̭̬͓̻̗͎̫̗͓͔̩̘͈̭̙̦̺͚͖̜̤̗̜͕́̈́̈́́̋͑͑̽̀̍͑̀̇̀͌̇̑̌̒́̆̊̽̍̊̍̈́̓̀̓̓́̂̈́̋̈́̏̓̋̒͒̅͆͋̏̈́̓͗͛̀̃͑́͛̂̍͗̐͗̀̍̀̌̀͊̾͊͑̈̓̎͋̃̈́̈́̈́́͛̃̒̋͂͐͌͆̐̓̓̉̌̂̀̇͌̅͆͋̌͋͆̓̿̌̏̉̽͛͂̄͐̓̂͊͑͛̈͑̔͗̈́̒̉̍̉̒̀̏̅̏̅̾̾͗̐͂͐̂̒́͊̀̆̀͑̿̄́̇́͊́͆̒̑̀͆̾̈̓̽̌̆̍̀́́̈͊́͋̍̈́̎̈͆́͂̊́͐͐͑̏̃̋͂̾̾̿͒̀̓̂̈́̆͒̓͋̆̌̾̽͑͛̎͋̏̈͌̒̿̓́̏͊̍̾̍̋͛́̄͗̿̈́͋̿̏͋̃͒́̿̈́́͗͊̓̈̆̾̄̈́͐̈́̄͊͘̚̚̕̚͘̚͘̚̚͘͘͘̕̚̚̕͜͜͜͜͠͝͠͝͠͠͝͠͠͝͝͝͠͝͝͝͝͝͠͝͝͝͠͝͠͠͝ͅH̷̛̛̛̛̛̫̮̙̐̋̈́̎̌̐̀̀̓͆̈́̓̈́̋̈́̅̈́̀̊̔̉̐̆̓̓́́̂̉͋̐̍͂́́̃͌̑̓͐̋̂͋̑̂̔̂̈́̀̓́́͂̈́͐̊͒̃̌͆̓͑̑̅͒͛̐̾̋̀̄̏̾̾̍̀̒̃͊͛́́̈̅͂̌͗̓̆̔͗̾̈̊̌̒̈́̎̔̓̓̾̒͐̆͑̂̍̌͂͛̈́̆͆̿̀̾̈́̈́̀́͒̐̀̊̑̽͗̊̊͒͑͆̿̑̇̈̓̏̂̂̈͗̿͛̈́͒̽̉͋̅̆̑̂̍͗̅̾̀͐̏̅̃̋̂̈́͌͒̐͌̎͂̃̆̐͆͛͌̏̑̈́̏̿̃͗͛̿̇͆͊͌̊͒̿̒̆̄͑́̎̊͌̇̚͘̚̚͘̕͘͘͘̕̚̕̕͘̚̕͝͝͝͝͝͠͠͠͝H̷̡̡̡̨̡̡̨̢̨̡̡̡̢̧̡̛̛̛̛̼̯̯̹̥̲̬̲̘̤̤̦̖̯̤̘̠̻̼̹̲͈͕̬̠͇͎̥̲͕̼͈̩͓̻̫͚͕̙̤̪͚̖̹̩̺̪͓̦̻̯̻̹̜͈̲̩͖̥͎̝̭̟̻͙̟̳̫̺̜͓͚̣͓̞͓̠͍̭̗̥̰̥̖̞̦͔̺̼͚͙̻͎̻̪͖̲̙̯̣͚̣̹͙̟̫̖̣͕͕̤͚̖̼͇̥̲̰̟̠̫͈̹͔͖̳̦͚̫͕̣̩̙̠̝̹͎̖̥̙̙̲̺̬̩̖͍̱͙͇̯̹̩̬͚͙̻͎̰̳̦̟̣̯̭̜̿̽͐̌̓͗͗̇̑̀͌̐̒͗̌͑̒͗̎́̃̆̐͛͊̏̎͛̋͒̂́̌̈̈̉̌̑́́̆̄̽̅̅͛̍̈́̏̂̂̀̒̏̒̏̐͒́̾̿͌̌̑̀̇͂̋͗̃̅̀̉̀͑̒̑̓̾̊̄͆̉̅̊̑̉̓̅͒̈̾̋̈̿̄͛̔̽̈́͐̓̎̈̐̀͋̂͂́̑̄͛̊̄̇̍̋̈́͗̀̄͋̒̎̑͒̇̎̍̃̾̈́̋̈́͊͂͐͐̏̌̉̀̍̔́͋̑̆̒͌̅̉̌̑̈́̓͛̚͘͘͘̕̚͜͜͜͜͜͜͝͝͝͠͝͠͝ͅͅͅͅͅH̵̡̡̧̧̡̡̨̧̧̢̡̨̧̧̧̛̯̪͓͚̫͕̜̮͇̭̦̼͎̼̝̦̣̰̭̣̳̝͈̤̥̗̺̪̣̹͖̝̖̝̹̣̮͔̘̥̲̼̺̠͚͚͕̞̤͎̬̯̹̻͍̣͔͕̖͍̱̤̹̖̰̲̺̻̠̫̻̪̬̬̮̦̱̞͔͚͕͕̤̟̫̹̦̤̬̻̹̼̯͚͉͚͚̘̹̺͎͉͈̥̲̰̙̜̦̯̳̹͙̦̻̻̹̲̙̪̦̣̣̪̙̗͉̩̟̯͋̅̓͂͗͑͑̔̇̈́͒̈͒͂̓̀̿̓͌͛͒̿̍̅̾̓́̌̒̀̑́̔̾̾͂̂̾͋͑̂̍̑̓̌̽͊͂͗̈͛́́͐̃͊̅̓̆̀͂̌̑̔̊̊͋̇̈́̈͒͛̀͗̾̽̎͆́̉̈́̿̉̍̃͑̈́́̂͂̅̈́͊̀̓̂̀̊͗̂͊͊̿̔̾̌̉͊̅̎̏͐́̏̃̆̈́̋̓̒̾͂̾͂̆̑̋̅͆̄͋͗̑͋̀̐͛͒̓̀̆̽̈́̉͋̈́̈̀̂̋̉̿̇̉̍̄̊̓͆̊̐̽̅̃̾̀̌̀͂̒̐̄̈́͆̚̚̕̚͘͘̕̚͘͘̚͘̕̕͜͜͜͜͜͜͜͠͝͝͝͝͠͠ͅͅͅͅͅͅḨ̸̢̢̨̧̨̡̛̛̛̛̛̛̛̛̹̖̮̮͔̞͍͙͔̯̫̮̹͓̙̩̫̰̥͕̲̫̰̻̝̻̭̞͈̲͍̼͕̠̬̺͍͎͈̖̹̻͉̣͔̞̝̲̰̪̜͎̥̟̥̱͍̖̤̩̜͕̖̼̥̯̫̹̝̤̰̬̟̺̹̜̪͈̤̭̻͓̼̳̟̥̑̍͐̅͌̐̇́̂̾͂͛͌̇̏̋̇̈̂̅̍̎̅͆̀̆̔̌͐̿̇́̾́̿̈́̍̔̏̐̐͗͆̉͑͆̏̽͋̿́̎̈́̓͆̂͑͋͑̃̑̔͊̓̀̓̀̈̆̑͒̈̐̍͆̉̉̊͂͛́̾̀͋͒̾̊̏̏̓͒̀͐̉̿̈́̿̌̓̀̀̉́̔̿̔̈́̓̔̏́͌̈́͂̒̆̈́̃͋̇͂̉̃̂̒̑̂̈̑̔̀̇̀̐̄̃͌́̂͛̄̿́̽̀̋̅̈́̍͌͒̽̎̎͑̀̈́̆͑̄̀́̓́̈́̓́̋̆̾̀̐̈̅̊̐̊̎̆́́͌̊́̆̄͑̇͛̅̋̓̎̆̀̒̅̑́̅̓͂̎̆͆̔̏͋͆͗̀͌̈͑͐͊̀͊̏̂́̂̑̂̃̀̐̀̽̀̈͋́͂̽͊̏̔̌̂͆̆̐̐̓͋͂̈́̍͑͘̚̚͘͘͘̕̕̕͘̕̚͘͘̕͘͘̚͘͜͜͜͜͜͜͝͝͠͠͠͝͝͝͠͠͝͝͠͝͠͝͝͝͠͝͝͠ͅͅH̷̡̨̨̡̡̡̡̨̡̧̡̢̨̡̢̡̢̨̧̢̡̧̛̛̛̛̛̛̙͔̘̟͖͍̜̼͍̤̗̤̪̰̞̝̼͓̥͚̠̮̼̰͈̜̼͈̤̯̗̬̱͍̞͓͎̦͇͉̞͇̜̺̻̰̮̙͚͔̣͎͙̯̺̘̙̫̣̲̼̤̪̦̗̙̜͕̠̲̹̲̠̭̘͇̟͉̦͓͎̝̝̣̖̜̥̲̗̼̰̖̞̮̗̟͍̖̝͕͓̖͎̟̯̱̱̟̩͍̪͉̣͙̦̭̟̗̯̠̦̦̝͉͉̝͖̻̪̞͔͚̣̩̟͚̜͉̩͍̞̹̲͎̬̤͈̠͓͉̺̖̤͈̩̲̮͎̼̖͕̙͔̬̻͙͓̝̜̗͖̹͔̭̭̳̖̙̬̩͉̤͔̻̣̬̭̦͖̘̖̭͔͓̦̖̙͇̗̤̳͔̮̳͕̜͎̩͍̜̞̳̫͇̬̜͉̥̮̭̩̪̫͙͎̻̼̬̳̠̪̯̹͍̜͓͖̱̊̇̑̍̇̋͛̽̌͊́̑̓̓̔̾̆̀͊̄̈́̿̐̽͐̈̓̈̃̀̀̌̇̾̿̎̉̊̌̍̌̃͒̈́̑̊̆͆̑̋̽̓̂̈̀̌̄͑̃́̂̓̾̀̀͐̋͊̍̌͑͒͗̓͆̃̅̄̾̾̿͋͗̃͆͒̒͌͛̑̔́͑̑̇́̽͊͗̄̿̒̐̾̅̈́̅̃̓̈̈́͆͑̆͐̿̌͂̓̋͋̀̉̆̓̍͆̓͌͋̏̽̈́̀̒͗̉̍̈́̊̓̅̽͛̇̆̋͊̎̀͒͐̊̔̓̋́̅̊̀̆̏̐̍́̎̊̇́́̏̒͌̊̐̋͊̈́̀̓̀̄̅͆̈́̍̈́̇̏̏͛̈́̃̾̅̏͛͗̈́͋̊̏̉̏̍̅̿͒͌͛̍̽̈̋̎̎͆͆̑͛̾͐͋̎͂̋̍͂̃̉́̔̓̌̇̆́͐̓͌́̚͘̚̚̕̕̚̚̚̚͘̕͘͘̚͘̕͘͘͘̕̕͘̚̚̚͘͜͜͜͝͠͝͝͠͝͝͝͠͝͠͝͝͝͝͝͠͝͠͝͝͝ͅͅͅͅͅͅĄ̵̨̨̡̧̧̧̢̧̛̛̛̛͓͍̞̜̲̮̯͙̤̪͙̖͚̱͇͍̰̹̺̦̙̝͓͖͍̱̬̘̙̭͍̲̳̜͈̭̼͚̺͍̗̪̪̙̬̳̖͙̳̩̭͉̊̎̏̆̀͊̋͐͌̾̍̅̅̔̅̅͂̓́́̐͛́͐́͒͂̎͊̎͐̍́͗̈́̈́̀̂̆̐̌̈́͋̌͋̆̍̽̎́̿̐̒̽̒͊̋͒̈̊̿̃̒͛̇̔̉͑̂̉̂̆̈̂͒̈́̉̽̿̐́̉̈́̈́̈́̑͑͛̓̈́̏̍̀͒́̽̑͂̓̑̀́̈́̀̂̈̄̅̒͐̐̅͑̐̃̈́̿͊̀̈́̋͌̊͆̓́͒̂͘̕̕̚͘͘͘͘̚̚͜͝͠͝͝͝ͅͅA̸̡̨̢̡̨̧̧̨̡̧̨̨̡̨̢̡̢̢̧̢̢̢̧̢̛̛̛̛̛̛̛̛̛̛̞̻̲̮̹̣̼̤͚̥̗̥̠̹̯͚̯̘͍̫̝̦̗̦̗̩̗̦͈̹̟͇͕͔̠̫̦͖̘͎̣̮̣͍̥͓̙̥̲̖̻͉̗͖̻͕̖͕͉̲̙̣̜̙̝͓̗͙͇̥̤̦̫͔̝̲͖͈͙̪̠̖̦̖̗̠̭̲̗̱̱̥̖͖̹̜̰̗̝̝̬̜̥͎͍̖̬̫̟͎̱̞̻̹͓͓͚͕̗͈̹̣̟̲̞̖͔̦͈͎̤͖̰̯̫̙͔̼̞̩̲̝̦͓͍̦͚̙͓̲̱̜̼̘͓̼͓͓̺̯͉̥̮̣͖̞͍͇̼̫̺̯͎͔͈̪͇̬͙͈̰̙͋̍́̅̓̏̑̓̇̍̿͛͒̃̀̓̎̿͑̀̋̎͋̋̀̉̓̽̀͒̅̈́̓̀͛̊̑́͋̄͗̇͑͛̏͛̂͛̄̀͒͐̽͆͗̈́̔̀͗̽͐̈͊̔̔̾̑̿̂͑̃̓̿͒̀̾͋̈̓͊̏͗͊͋̂̅́̒͊̅̃̋̓͒̍̔̅͒͗̑͐́̄͋̔̊̍̊͂̓͌͗̔̑̇̊̏̄̂̓͋̒͆̉̿̔̉̄̂̍͒͛̓͋̈́̎̐̓̔̚̚̚̕͘͘̚͘͜͜͜͜͝͠͝͠͠͠͝͝͠͝͠ͅͅͅA̷̡̨̨̨̧̡̢̡̡̧̢̛̛̛̦̮̩̜̹̟̹̳͕̼̻̹͓̜̙̟͎͚̖̝͇̫̱̻̯͈̝̞̗͓̩̩͇̹̖͉̣͔͖͈̖͓̮͙͕͍̞̭̖͕͔̠͓͈̟͖͉͕̖͚̪̲̦̺͚̭̤̪̺͉̖̝͔̖̤͌͗̆̐͒̀̈́͊̓̈̈́͛́̑̅̌̊̐̀͌̽̄̄́̀̇̐̈́̊̽͛̉̾̓̈́͗̏̓͂́̀̑̎̇̐̐͑͆͒͆̅͛͑̆̾̀̓́̎̇̑͋́̓̎̏̀̇̏͐̀̌̍͊̒̽̒́̄͑͗̏̿̔̿͂̇́̇̎̊͑̽͑̍̈͂͐̽̄́̎̈̈́͛̑̎̋̾̐̌̉͒͐́̾̓̈́̃̈͋̾̂̀͆̐̏̈́͂͋́͛̀̓̇́̌͆̈́͑̊̍͌̈́̽̂̈́̄̓̈́̄̓̈́̈́͑̏̈̈͊̊̐̊̿̉͐͒̒̌̚̚͘͘̕̕̚̕͘͘̚͘͘͘͜͠͝͠͠͝͝͠͠͝͝͝͝ͅͅͅͅĄ̸̡̧̡̡̨̨̡̨̧̨̨̡̡̡̨̢̢̢̨̢̧̨̧̢̢̧̡̨̬̞͙̪͍̩͍̮͈̩̞̰̟̩̤̬̺͓̯̪͓͖̪͚̪̞̹̟̯̬̣͍̞̬̹͈͙̠̗̯̰̼̞̮̖̲͔̼̘̖̲̮͈̲̩͚̗̗̣̙͉̮͕͍͈͖̦̮͔͉̺͉̰͎̹̟͓̘̤͖͖̻͔̗̲̹̝͚̲͉̪̤̻͚͈͍̪̱̻͖͇͖͉͓̹̤̼̻̗͖͇̰̼̜̹̪̳͍̻͓̳̗̘͔͖̠͇̘̜̬͇̝̘̻̤̥͚̣̙̯̰͕̫̻̹̬̗̰͎̝̘̬̟͙̠̦̱̘̪͇̗̮͇̼̟̬̘̼̦̫͉̙͈̖͓̰̜͚͍͙̠͔͓̜̠̱̭̤̫͚̙̠̪̣̲̘̺̺̗̬͙͇̟̠̱̺̬̱̺̙̤̩͕̦̳̲̯̻͙̤̰̮̺͉͖̮̪̖̬̭͉̱͍͈̙̦̄͜͜͜͜͜ͅͅͅͅÀ̶̡̧̡̨̢̢̡̢̛̛̛̛͙̘͓͍͈̮̗͔̲͓̣̞̜͎̟͓̝̱̩̜̩̘̤̪͍̬̯̥̲͈͚̠͓̞͙̣̱͍͍̮̠̺̮̰̦̘͔̪͕̻̣̣̦̃͑̆̃̿̎̅͋̃̿̀̌̒̀̓̄͌̐̂̽́̿̌͂̑͐̄̐̈́̂̽͗͂̈́́̽̑̉͌̀̾̿̎̊̑͂́͌̄̑̂̑̂̃͗̔͒̃̃̌̆͆́͑̎̆͑̌̃̊̿͗̾̽̇̍̾͊̿̾͒̆̋͐̅̂̾̆̉̌̾̈́̔̔̐̾̌̈́̓͘͘̚̚͘͜͝͠͝͝͝͠͝͝͝͠͠͝͝ͅA̴̡̨̨̧̧̢̧̢̧̢̡̧̡̨̢̨̡̧̛̛̛̻̱̝̜̫̯̬̺̫̪̲̩͔̫̣̯̣͈̺̝͔͇̼͎̣͉̤͔̩̠̝̬̪͈̝̥̹̫̳͈͉͎̝̱̻͔̬̜̤̦̤̤̪̰̺̣̱̗͈͉̬̜͖͓̠̲͖̜̪̗̜̤̗͇̝͇̬̫̫̲̱̼̹̻̮̬̩̳̝͍̝̝͕͓̺̬̫̪̺̞̝̰̺͚̳͚̩̠͈̝̮̻̖̦͈͈̬̯̠̟̹̝̼̙̠̝̤̤͙̻̦̟͓͈̰̙̣̤̼͍̪̗̻̞̺̱͈̳͍͍̹͖͚̰̹͙̩̤̬̭̬̫̟̻͔̻͔̮̩̦͉̳͍̯̱̭̗̲͔̰̗͍͚̰̘̰̫̬̘̜̟̲͕̙͉̼̲̠͉͉̼̪̥̩̳͍̱̱̭̬̲̭̗̤͚̫̼̥̲͎̜̤̼̭̥̖͍͎̤̦̫̾̀̽̾̾̃͌̽͌̈̋͛͒̓̔̈́́̂̔͐̉̔̌̌̃̓̄̂͂́͊̏̑̒̈́̿́̆̑͊͒̑̈́̿̍̈́͐̈́̀͐͂́͗̏̏͛͗̍͊̍͂͆̂̽́̓̀͐͐̒͑̉͗́̑̂̋͌̓̽̍͐̅̒͂̏͋̀͐̑̎̊̽̓͑̇̆͗̈́̽̎̀̂͋͐̀̓̓̓̎̏̏͌̃́̄̓͑̂̈́̔̐̾̾̐̽̓̅̈́̄́͆̑͐͆̈́̈́̈́͆̄́̋͗̃̒̊̈́̋͆̀͑̍̍̈̄̈͘̕̕͘̚̕̚̚̚͘͘͜͜͜͜͠͝͠͝͝͝͝͠͠͝͠͝͠͠͠͝͝͠͝͠͝͠ͅͅͅͅͅͅĄ̶̨̡̧̛̛̛̻̥̻̞̼̫̠̦̦̙͈̭͔̺͈̝̣̝̣͔̘̮̪͎̺͕̻̾̆̆͋̎͊̔̈́̓̃̓̾̀́̓̿̊̍̓̓͆̍͒̓̐̐́̇͐͐̇̃̌́͑̑̄͐͋̐̊͛̿̐̽̑͒̈́̓̏̓͌͐̏̉͆̿̂̊̏̄̿̒̉͗̋̈́͌͛̇̈́͂̽͒̅̊̀́̐͘̕̕͘̕͘͘̚͘͜͜͝͝͠͝͠͝͝͠ͅA̴̢̧̢̡̡̨̨̛̛̛̛̛̛̛̛̫̼̤͚̟̯͇̫̲͈̤̖̯̹͉̬͈̗͚̟̙̺͎̯͖̖̲̺̦̻̣͕̣͕̥̺̰͇̺̰̮͙̪̻̫̾́̈́̇́̑͆̃͌͑̅̍̃̌̔̾̐͒͐̓́͊̐̽̑̽͆͂̓̇̆̈̾̆̏̉̂̃̉̄͆̿͑͋̆̀͑͒͗͊̀̾̎͌̂̂̿̔̍̇̀͗́̂̓̎̓̀̀̍̐̎̑͑̄̈̉̂̽͆̿̄͊͗̈́̌̍̔̐̈́̄̐̃̅͂͂͂̅̔͐̃̍͋͊̅͛̐̍͋͌̽͋͐͋́̔̋̈́͌̀͋͆̂̿͊͋̀̔͂̋̓̈́̉̑̾́͑͛͋̑̌̋̌̃̽̒̏͛̀͐̽̓̌̌̊̓̃͗̍̅̾͒̽̿̍͐͗͒̅͑̈́͊̚̚̕̚̚̕͘̕͘̚̕͘̕͘̚͘͝͠͝͝͠͠͝͠͠͠͝͝ͅĄ̵̢̨̡̨̡̡̨̧̡̧̨̡̢̡̢̧̡̨̢̡̡̡̛̛͖̜͖̹̖͈͖̥͕̰̮̗̥̙͉̖̤̬̦̞̖͎̺͔̜̳̭̝̰̦͓̗̫̺͖̥̻̫̦̻͈̜͎̱͚͍̩͖̜̱͖͕̥̻̪̦̭͚͍̮͙̘͓͕̦̘̼̱̯͔͇̼̫̺̰̻͍̤͎̲̠̺͚̝̝̜̠̬̙̭̦̘̬̜̟̲̲͇͔͔̳̗̗͇͓̳̝͕̼̩̞͉̖̲̪̖̙̫̘̲͈͇͍̫̩̮̞͕̪̟͉͉̼̤͖̞̣̦͇̻̞͕̩̪̫̳̘͙͎̟̠̩͉͎͕̩̳̫̯̜͇͈͍͉̦̖̩̪̥̲̲̻̲̞̺͍̻͕͖͕̫̳̼̲̠̬̠̖̹̠͍͉̺̞̱̖̩͚͔̪̦͖̳̲̪̬̗̱͔͈̩̲͚̳̲̞̩̞̩͇̻͚̖͉̺̤̥̲͍͓̥̮̯̂͑̈́̊̆̆̂̌̓̐͑̈͐̌͐̌̈̈́͆̇́̋̀̈̏̐̆̀̂͊͐͛̈́̍͂̄͒̌͌̍̎͌̈́̑̏̎̍͒̂͛̓̆͌̓́͛̌͗͌̈̈́͗̓̐̂͗̃̓̿̍́́̑͘̚͘͘̕͜͜͜͜͜͜͜͝͠͝͝͠͝͠ͅͅͅͅͅͅA̸̧̡̧̧̡̨̨̧̨̧̨̨̨̧̡̧̢̧̧̢̧̨̡̧̡̨̛̛̛̛̛̛̻̝̪̼͇͍̭̭͖̹̝̱̭̫̟͇͇̖̯̗̙̗̮͙̰̹̼͚̹̩̼̜̙̹͈̺̲͙̥̠̝̙͇̼̮̱͎̖̫̹̭̬̺̖̼͔͇̘̝̹̙̼̥̮̰̯͔̰̼͎̗̩̝̲̝̙̖̱̦̻̱̻͍̭͉̣̲̟̙͈̟͕̭̫̲̫̜̜̼̙̖̖̗͈̟͍̬̻̻̠̖͙̙͖̙̺͕̖̖̪̺͖̼̜͚͇͙͈͈̱̣̻̙͈̬̤̟̰̜͓̞̠̩͕̞̬̜͇͓̼̹̤̺̠͙̣͖̞̺͖̫̞̞͍̹̪̞̙͓̭̯̲̲̣͕͇̱̣̦̪̻̣͓̲͉̪̹͓̫͚̩̩̝͓̘͗͊̐̅͋͛͐̆̇̂̊̋̂͊̐̌̓̈́̌́̉̈́̾̽̏̍̈́͒̿́͛̉͌͛̉͗̇͂̉̓̉̐̑́̈̂̾̽͌̃̉͆̀̑͊͆̾̀̄̏̏̀̃̆̌͋̀̀̃͗̿͒͒̀̊̌̀͆͌̏̿̎̋͋̿͗̆͑̓͐̈̋́̿̎̎̓͒̄̇́̌̈́͛̈̈́̌͊̽̄̏̔̏̊͛́̽͐̌͊͆̅̀̏̑̀̌̊̓͑̃͒̌̈́͊̓̆̂̈̓͆̏́̑͗̊͐͘̚͘̚̚̚͘̕̕͜͜͠͝͝͠͠͝͠͠͝͝ͅͅͅͅͅͅͅÃ̸̧̢̢̢̨̨̧̨̢̧̢̨̢̨̧̧̢̧̡̢̛̛̛̟͈͓͖̞͉̜͍͎̻̰̯̦͉͎̮̻̭̩̦̱̭̝̙̹̭̤̯̼̰͎̺̲̞͍̝̲̲̥͈̺̩̺̭͈̣͎̯̱̖̝̼͇̫̰̫̝͕̯̳̠͖̥͎͎̤̥̭̫̦͇̘̺̫̖͚͈̞̺̟͖̘͇̯̩͚͖̞͉̯͙̥̬͉̦͙͖̥̤͔͚̥̗̣̝͈̹̮̼͖̺̥͈̙͉̩̼͔͖̘͍̠̗͖̺̬̱̣̫͍̳͖̤̩͔̦̼̰̪͉̲̺͉̤̥̹͉̩̩̥̼̬̟̟̹̪͒̒̅́̏͂̄̅̂̋̓̌̆͋͑͗̌̄̐̓̓͌̏̆̉́͂̂̊͂͋́̓̀̊̿̾͌̅̅͊͊̍̑̈̂̐̉̾̀̏̓̾̑͋͗̆̈́́̓̍͗̏́̏̀̈́̈́̈́́̐̐̀̑͋̎̒͂̉́́̄͐̂̊̔̓͂͋͂̎̉͆̎́̉̾͆͑̍̂͑͒́̈́̄̽̑̉͛̋͂͂͐̀̒̈̕̚̚͘̕̚̕͘͘̕̕̕͘͘̚͘͘͜͠͠͝͝͠͠ͅͅͅͅĄ̸̨̢̧̡̡̡̡̧̧̨̧̡̧̢̛̤̼͚̟̟̺̰̺̞̜̳̩͖̭̙̜̣̹̯̳͉̳̳̘̯̦̲͖̭̩̰̘͇̖̱̙̤̱̘̝͎̮̟͉̮̹͇͇̦̤̟̞̺̯̟̟͍̦͖̖̯̬͍̤̠̭̘͚̥͓͕̥̱̟̲̥̮̹̤̞̲̪̼̤̯͍̤͚̪̰͇̳͔̝̹̹͈̮͍̼̹̯̣͇̦̯͙̳̰̻̘̻͕̦͙̩͇͉͎̘̝̲͙̯͈͍͈̱̤͓̻̱̱͖̱̘̬̊́̊̓̽̑͋̋́̇̋͆̀̐̅̽͌̉͂̓̓̐̍̿̊̆̉̌̀̈́̉͋͋̽̓̇́̎̈͘̚̕͘͘͜͜͜͜͝͝͠͝͝ͅͅͅÁ̸̡̢̡̨̢̡̧̨̨̨̧̢̢̨̧̧̢̨̡̨̨̢̡̢̡̛̛̛̻̯͖͇̬̤̪̞͕͓̬̫͍̟̠̪̯͖̞͕̤͍̝̘̻͍͈͓̟̯͚̖̫̜̥͓̩͉̬̲̘͖̺͓̼͚̭̥͖̘̞͇̣̼̣̙͕̱̯͔̹̮̥̝̼̩̫͉͎̩̠̙̭̯̖͙͎͖̦̗͎͇͍̫̰̲̥̭̥̜̘̗̘͓͙͇͓͇̯͇̺̠̭̤̥͉̻͍̞̯͈̳͔̖̙͙̼̯̜͍̟̳̥͓̜̗̱̞̰̲͉̤̜̝̭̖͖͈̹̞̝̮̖̭̝̗̩̥̭̠̳͖̫͍̺̜̞̯͕̱̰̯̟͚̘̰̼̩̞̫̫̮̳̟͎̘͎͔̝̱̙̳̖͔͎̹͕͓̤̞̩̗̘͕̣̞̬̥̯̱̘̩̳͙͖̼̙͔̻͕͙̞̯̣͇̯̦͖̠̻̰̜̘̹̻̩̽͆͑̾̑̋̅̋̍̉̓͆̇̂̓̈̂͋̒̆́͌̊̑̆̏̈̈́̆͗̌͛̎̒̑̎͒͂͊̑̌͐̒̍̿̿̃̐̓̈́̊͗̐̀̐͐̽̐̔̈́́̄̄̇͑̓͗͒͗͌͐͑̑̌̇̇̄̇́͒͗̍̓̎̒͑̂̂̃̀͆̒̀̊͐̋̂̓̔̈́͑̌̏̀̽̈́͗͘͘̕͘̕̕̚̕͜͜͜͜͜͝͝͝͝͠͝͠ͅͅͅͅͅĄ̶̨̡̛̛̛̛̛̛̛̛̲̱̩̗̪͇̜̫͇͓̼̖̯̩̲͕͙̦̤͙̙̝̺͈̩̳̗̼͙̻̭̭̗͚͍̀̈̽͑͛͋̉̎͊̈́͗̍̈́̆͌̃͆̿̾͌̾̉͐́̊͒̒̀̋͒͑̋̈̊̎̓̓́̎͊̔̓̅̃̏̆̄͗͋̆̉̓͗͊̆̆̊̍̌̐̊͛͐̉̈́̃̀̄̆̀̄̿̂͐͌̉̅̂͆̋̃͂̑̊̓̈́͒̀̊̂̽́͛̍̑͂͊̽͂̑͊͗̄͊͆̀̈́̐̍̀̽̆̍̈́͐̾͊̏́̋͗̆̈́͑͛̔̐͆̔̓̿͆̂̈̄̽́͌͌̇̍͗̀̌͌̈̉͆̇̋͑̎̓̋̈́̀̒̍̾́̀̃̈̍͌̈́͆̽͊́́̈͒͆̆̎͂͌̌̀̌̀̚̕͘̚̕̕̕͘̚̕̕͘̚̚͘̕̕͠͠͝͠͝͠͝͠͝͝͠͠͠͝͝A̶̡̢̨̨̧̡̧̡̢̨̡̛̛̛̛̛̛͚̭͔̲̘̪̥̮̝̦̼̰̜̠̩̻͓̼̼͎̘̱͎͖̺̦̼̹͕̩̜̰̮̻̠̙̙̞̰͈̩̺̠͓̯̩̤̺̭̝̝͓̞͙̗̝͍͕̺͇̰͖͉̲̦̹̳̤͍̩͉̹͎͇͙̰̬̗͚̜̫̝͚͉͚̳̖̲̥̰̰͚̳̙̰͎̼̲̭̥̮̲͔͓̘̭̱͖̝͉̱͈̮͈̳̤͍̭͎̝̼̙̺̪̗̰̠̬̜̖͕̠̤̗͍̘̝̣̥̹̠̙̦̼̞͙͇̦̥͚̯̣̞͔̣̲̗̙͍̖̺̖̪͂̎̈́̈́̋̿͊́͆̌̇̇͋̾͂͊̅̋̋̃̇͗̀͒̈͗̍̊̾̈́̓̃͊̋̋́̄̋͋͗͂̊͛̋͋͋̈́̃̐͌́̀́̊͋̌̓͑̈́̋͋̏̆̍͛̓̎̂̽͑̂́̊̄̑̈́̌́̓̾̈́̃̔̆̓͗̇̎͛͑̓̐̉͗͌͑̿̉̉̀̐͐͐͂͊̅̉̊͗͒͘̕̚̚͘̕̚̚̕̚̚͜͜͝͝͝͠͝͝͝͝͠͝͝ͅĄ̵̧̧̨̢̧̧̡̨̨̨̢̨̧̡̡̨̢̧̡̧̡̢̡̨̛̲̼͔͈̗̹̫̹̥̟͍̗͎̠̘͍͉͕̮̫̩̘̻̗͙̺̫̣̲̟̹̗̺͖̠͈̦̥̜̼̥̥̬̮̫̤͈̭͓̹̲̭̬̼̞̖͍̻̟̭̝̩̗̠̟̤͇̫̦̹̻͈̦̝̝͈͉̞͉̳̺̺̩̞̰̣͚͔̹͚̘͓͕̮̪̜̩͔͍͙̠̞͚̯͕̤̺͎͔͓̹͇͉̟͚̞̣͕̙̺̻̙͔͉͔̼̜̬̝͚͚͖̖̭͖̫̘̰͕̹̜̺͍̺̰̠͖̥̭̮̱̘̖̞͚̣̣̳̮͍̣̳̟̦̹̟̭͎̜̤͙̞̠̟̟̯̘̤̤̩̟͚̹͉̞̝̝̰̦̺̘͎̗̱͈̮̹̤̬̲͎̮̰̤̯̗͉̮͕̝̭͙̖͕̘̘̗͔̬̺̝̺̙̱̟̥̞͍͍͔͎̝̹͔̺̜͓̥͛̽̔͆̒͌̓́͑͐̔̀͌̒̃̒̈̍̐̽͐͋̆̓͑̊̔̌͒͐̽͂̈̽͆̉̾̅̈́̏̐̉͆̈͐̽̆̔͊̑́͒͆̑́͆͌̉͆̒͑̉͌̀̿́͌́̐͛̀͐̒͐̾̆̅͂̏̀̂͐̎͂͒͗̆̑͛̌̄̌͑̃̐̚͘̚̚͘͜͜͜͜͜͝͠͝ͅͅͅͅͅͅA̸̧̡̡̧̡̢̢̧̢̨̡̢̡̡̧̨̛̛̛̛̛̛̛̛̛̺̥̤̻͙̝̯͓̭̮̖̩̘̘̣̗̣̮̦̩̠̪̫̤͎̺͚͔͔̖̰̞͎͉̲̲̖͈̱̩̺̭͎̞͙͚̗͍̲͕͍͚̱̝̫͚̙͓̝̝͖͓͚̙̞͈̬͔͍̦̝̤͓̲̭̗͚͈̬͇̞̹͙̯͔̲̪͚͍͚̗͚̟̙̥̥̱̠̖̙̣͈̤͉̜̘̝̼̻̳͚͕̝̗̭̬̥̳̼͕̦̳͎͚̲̻͖̬̫̠̞̫̺̦̱̱͇͕̖̗̹͇͎̖̖̞̯̤̬͕̦̖͈̞̋͐̓̉̈́̌̊̿́̀̇̀̔̑͆̈́̆̎̏̇̅̓͋̽́͐͒̍̈̓͒͋̎̽̈̄̓̿͋̉̿͊̋̅̔͛̏͛͂̇̒̃͂̌̊͆̿̂̔̒̌̿̓̊́͑͐̈̓̾͗̔͐̃̋̃͑̇̍̊̈́̿̂̀̀̑̂̈́́̃̒̌̇̿́̊̔̊̔̽̄͛͒̐̈́͒̉͆͋̅̀͐̄́̉̆͌̃̎̔̊̋̍͑̉́͑͊̀͋̓̾͛͂̿̒̆̋̌̊̈́͒͂͗̐͊̂̇̉͌͆̃̾͗̍̈́̆̏̇͊͐̍̃͌̉́͌͂̆̍̾̄̽̀͛̊͌̎̔̓̆̾̀̒̓̓̔͂͆̈̾̾͑̋͛̈͌̀͋̋̽̊̋̅̚̚̕͘̚̚̕͘͘̕͘̕̚͘͘͘̚̕̚̚̚͘͘͘̚̕͘̚̕̚̕͘͘̕̕̚͜͜͝͝͠͝͝͝͠͠͝͝͝͝͝͝͠͝͝͠ͅͅA̵̢̨̧̢̢̨̧̧̛̛͎̘͕͎̬̺̱̦̻͓̪̩̹̪̣̜̪̼̰̬̮̖̗͙͈͎͔̤͓͎͎̖̘̬̞̬̠̠̥̙̰̬̳̲̤̩̰͍̯̲̥͔̦̙͚̭̱̟͔̩̝͓͍̟̲̱͈̬͓̯͚̥̭̜̪͚̼̠̣̖̥̦̲̻̹͕͖̞̜͍̺̲̩̬̤̤̻̦̱̼̪̱͓͖̘͙̪̻͔͑͆͌͆̀̾̄̾̎͑̇̌̀̀̏̽͊̂͐͌̏̑͊͊̅̈́̋̔̄̓͗̄̿͋͊͑̽̊̊̒̅̀́̿̔̉́̓̑͛͂͊̍̔̿̇̈́̆̈͐͑̋̀̀̊̈́͂͑̽̑̑̓́̇̆͊̅̐̑͐̈̂̀̀̎̌͒̈́̍̏͒̀̊̑̐̋̿͛̇̈́̉͋͗̌̋̑́͆̈̀́̊͂̽̈͒͆͋̒̍̑̀͑́̐̒̔̉̔̄̓̇́͘̕̚̚̕̕͘͜͜͜͜͜͜͜͝͝͝͠͝͝͝͠͝͝͝͝ͅͅͅͅͅA̷̛̖͉̭͎̜̳̝͉͖͇͕̟̗̫̝͗̽̾̈́̌͒̆̓͛̑͒̋̂͒̔̽̓̽̉̅̏̇͌͛̿̈́̄̍͋͒́̀͊͐́̀̌̏̒̌̇̑̐̿̔͠͝͝͝͝͠A̶̢̨̡̡̡̧̢̧̧̨̡̢̢̨̧̢̢̨̧̢̧̧̛͍̹̣̭̝̰̹̟̤̝̹̤̩̘̪̪̣̞̩̺̱̫͖̝̥͖͎̫̲̮͇͖̞̻̮̫͇͎̘͎͚̻̼͇̭̻̥̟̰̬͈̼̦̗̗͎̝̲̠͖̲̰̪͔͙͇̖̪̲̹̙̼̫̠̺̬͍̞͚̯͙̺̟͉̳͖͎̝̪̹̫̞̭̤͉̪͕͚͎͉͖͉̬͚̤̘̞̫͔̫͖̫͔̯̞̣̼̝̺̳͉̩͙̻̣̖͉̟̮̦͕̲̙̳̤̱͔͎͕̩͍̬̬̥̬̺̣͍̪̼̖̖̦͖͕͎͎̮̱̤̲̩͈̫͔̞̬͙̱͇͓͔͕͔̩͋͆͗͛̃̀̍̒̉͐̊͜͜͜͜͜͜ͅͅĄ̵̧̢̛̛̛̛̙̣͎̹͈̥͓̳̝̭͉̘͔̻̩̼̭͈̳͎̲̤̪̬̃̋̿͐͐̔͌̍̌̽̈́̇̐̅͛͊̒̀̈̇̅͐̃́̄̑̉͐́͆͑̈́̆̀͋͑͂̌̎̄̐̌̽̉̔͂͗̎́͗̉͆͛̂̓̇͂͒̏͛͆͌̊̑́͒̾̾͐̂͗̃̇̎͊́̔̑͆̈́̀͆̈́̂̿̊̆̈́̆͊͐̈́̃̓̂̈̎̏͊̅̀͗̇͐́̕͘͘͘͘͘͘̚͜͝͝͠͝͝͠͠͝͠ͅA̷̢̨̢̢̢̡̡̡̢̡̨̨̨̨̡̡̧̧̢̢̧̢̛̛̛̛͕̟̜̬̱̟̣͇̲̭̰̥͈͇̬̼̣̙̯̫͇̘͚̼̝͓͉͍͖͎͚͎̬̝̘͉̦͉̤͍̺̳͔̺̗̫̗̥͔̦̰̙̰̠̣͎̪̭̤̖̟̜̥͓̺͎̦̙̯̝͚͍̞̭͖̤̤͕̟̫̮͇̺͎̝̳͕̥̻̦̫͉̰͕̰͈̗̺̺̭̲̦̼͙̩̻̰̲̦͚̦̰̼͉͕̫̗͉͖̪̖̺̤͕̦͎̦̗̮͈̮̫̞̠̼̼̙͔̠̱̳͇̖̫͎͕͍͔̰̩̟̗͎͇̻̞͙̱̥̬͇̠͔̰̯̗͔̜̠͇͚̜̖̜̩͉̗̮̱͍͍̝̰̞̟̤̦͙͖̝̭̝͚̤̻̮̼̟̱̯̰̜̜̥̜̠̘̥͉̘̫͇̝̖̤̖͙̲̟̰͓͉͖͈͓̰̲̥͈͚͚͇͈͖̱̦͎͉̫̺̹̼̗͖̳̳͚͉̣͕̼̗̳̭̼͔̮̘͓̅́̓̀̀̊́̄̔̾̓͂̽̎͋̀͆̾̍̿̂̏̈́̀͑̄́̓̆̓͆̈́̅͐̀̈́̒̊̐͆̂̽̊̆̾̂̈́́͂́̊̎͑́̎̈́̿̾̀̉̅̽̆̆͐̈́̿̂͗͐͑͗̏̔͆̃͒̏͗̔͋̔͌͋͊̓̓̓̃̃̓̍̀̀̿̈́͂̿̒͌̍͛́̏́̔̈́̎͒́̔̊̃̽̈́̄̃͆̋͆̇̊̃̌̒̓͋͐͊̍͐̈̔́̾͛̓͘̕̕̚̕͘͜͜͜͜͜͜͜͜͜͠͠͝͝͝͠͠͠͝͠͠ͅͅͅͅͅͅA̴̢̡̨̨̧̧̢̨̨̢̡̨̢̧̢̧̛̳̹̜̝̤͖̙̩͉͉̭͚̟̱̮̦͔̺̟̰̖̭̘̖̬̠͎̜͔̰̯͎̫̜̥̮̰̻̺̥̫͍̰̘̰̦̫̠̙̩̰̦̜̲̤͉̩̝̮͔̺̩̼͈̺̺͈̫̲͕͉̻̜̦̩̱̱͔͍̟̞̭̯̭̖̠̹̻͇̻̦̞̯͚͇͈̥̻̹͈̥̬͉̺̩̥̰̲̭̞̬̹͙͕̼̗̭̘̯͈̙̭͉̻̮̯͎͎͚̹̳̳͎̤̜͉̠͑̅̎̓̈͑͒́͆̏̿͐̇̍̏̑́̿̅̊̂̌̏͗̃̊̈̇̿̏͋͊̕͘̕̕͜͜͜͜͠͠͝͝͝ͅͅͅͅA̷̡̡̢̨̨̧̢̡̢̢̡̡̧̧̧̧̛̛̼̯̹̟̪̻̻̯̱̠̺̯̳̰̤̤̝͖̯͕͓͕͚̘̠̙͕̲̜̗͚̦͚͙̻̬͍͖̘̯͙̞̭͖̭̖͖̝̦͖̖̪͕̯̣̻̝̫̱͈͕̳͚̰͖͇͈̙̘͇̮̠̳̗͙̣̣͎̠̹̼̝̹͙̗͚͉͍̲̣̩̱̖̰̩̭̥̞̜̹̣̫̝̲̻͇̰̥̰̤̳̩͖̗̖̝̻̖̣̯͚̘̲̘̹̖̥͓̳̯̼̘̩̩͚̗̣̘̳̹͓͉̰̱̱̹͔͕̘͇͈͍̤̣͈̥̳̪̣̦̮̭͚̥̬̞͉̗͔͖̱̜̣̦̻̫̣̬̦͙͚̫̩̳̰̠̻̦͇̗̝͍̖͇̮̲͍̜̱̤͓̳̩̝͚̞̟̭̻̣̰̺͙͓͇̯͎͉̼̪̠̞̍̂̾̀̏͌̔̌͒͒̃͒̑͐̑̑̒̆̾͒́̾̎̐̍̍̓̈́̏͑̈́̾̐͒̀́̊̄̀̈́̿͐͘̕͘̚͜͜͜͜͜͜͜͜͜͜͜͝͝͝ͅͅͅͅẠ̵̢̨̨̨̧̡̧̧̧̢̧̡̡̢̨̡̡̡̢̧̢̧̛̘̳̫̳̼̻͓͇̙͍̤̫͚̳̤̠̰͍͓͖̲̖̯̫̗͉̼̺̥͙̦͉͓͈͇͓͈͕̻̳̣̦̤̗̖̬̰̪͈͕̦̜͈͔̹̫̰͇̣̳̱̖̠̳͓̠͍̰̣̪͇̝̝̮̺͇̮͔̳̻̳̯̲͈̲̯͙̞͉̼̰̬̭͓̳̼̪̖͍̤̤̣̦͓̭̥̜͖̩̳͎̖̳͉̗̗̹̜̮͚̳̠̪̜̮͎̳̞̻̦̱͎͉̗̹̩̪̺̱̮̪̮̠̲̤̣̝̣͇̜̤̲̦͚͇̝̩͓̫͓͎̬͇̭̦̲͎̭̹̹͔̺̦̹͇͚͇̰̱̼̲̫̳̺̼̭͚̝͕̜̹̳̲̥͉͉͓̝̙̯̮̠̘̪̼̪̠͎̺̣̬͖͍͈̠̲̭̭̭̣͈͔͎̪̩͔̯̘͑̔̎͑͆́̓͗̀̀̍̃̎̐̐͑̽̓͑̑́͒̉̋̒̒̆̾͗͌͋́͊̔͛͋́̂͐͑̊͂̐̋̀͂̈͘͘͘̚̚͘̚̚͜͜͜͜͜͜͠͝͠͠͠ͅͅͅͅͅͅͅͅͅͅĄ̶̧̡̢̡̧̨̢̡̨̡̧̧̨̡̧̨̢̡̛̛̛̛̛̛̛̞͕̭̳̬͙͖͚̜̦̼̗̝̼̦̗̼͙͔̖͈̼̟̻̺͍͍̺̫̫̘̯̯̘̣͚͇̣̼̟͎̗͕͕̻̥͓̮̫̲̭͇͔̞͔͖̰̱̩̼̗̳̟͓͚̰̠̝͉͔̤͓͎̦͍̺͖̜̥̳̥͔̩͎̩͕̼̖͚͙̭̻̩̹̻͕̮̥̫̪̭͚̩̥͖̣̮̗̱̪̖͉̻̤͎̲̬̪̳̟̖̳͍̜͖̖̙͕̣̲͇̦͓͉̪͓͍̺͙̹̰̗̗͕̻̼̲̙̗̤̜̤̰̦̘̌̄̅̃̐̐̋̍̄̋͗̑͆̓̏͌̈̏̏̉̀̆̄͐̈̔̎͑̆̽̂̃̃̈́̈́̂̌̆̊̈́̈́̅̌̀̔͂̒̽̇̒͐́͛̿̈́̏̊̍͊͆̒̃̓́̿͗͋̓̐͂̑̔̌̅̓͋̈́͊͊̇̉͂͒̐͗͗̓̓́̒́͒̇̾̂̂̔́̑̈́̇̃̔͋̓̉̌͌́̄̑̀̊̋̇̓͑̀͒̈́͒͂̓̓̒̅͂͐̔̇̉̓̆͋̓͆̔͑̑͒̆̂͘̚̕̚̚̚̕͜͜͜͜͜͜͜͝͠͠͝͝͝͠͝͝͝͝͝͠͝͝͠ͅͅͅͅͅĄ̴̧̢̨̨̡̨̢̧̧̢̨̡̨̢̛̠̰̝̳͕͇̻̙̩̯͓̠̳͓͚͕̩̖̪̬̝̮̞̱̟̲̲̻̦͈͔̲̘͔̗̩̹̻͖̲̜̮̞̳͔̞͖̭͈͕̦̱̭̖̙̖͓͎͙͇̖̰͓̩͔̼͎͔̞̣̗͍͓̤̜͕̰͇͖̞̳̫̮̭̘͙̲͙͇̰̟̖̻̞̥͕̙̤̰͚̤̻̹͚̬̘̟̞̪͈̱͕̪̗̤̭̮̝̪̻̪͖͔͚͓̱͔̳́̓̉͒͑̓̑͑͐̓͛́̇͛̾̿͌͒̐̏̉͌̊͛͛̆̿̽͂͌̈́̇̇̈̋́̀̄̍̌̋̋̇͋̎͗̇̎̓̏̅̈̈́̀̐͒̇́̆̇͒̓̉̈̉͂̀́̔͛̅̀͑̆̌͐̔́̓̄̋̾̽̎̋̈́͛́̏̄̏̇͋͑̄́̌́̋́͐̋̓͂̑͛͑̑͒̿͒̋͗̎̌͊̐̎͋̔͌̈́̽̽͑̀͛̽̑̅̀̅͋̈́̀͂̿͌̑̄͒͐̎͆̓͑̋̓͑̒̒̽̑͐͂͊͐̋̑̕̕͘͘̕͘̚͜͜͝͝͝͝͠͝͠͝ͅA̶̡̡̨̡̧̧̨̡̧̧̮̱̠̹͎̹̺̱̼̭̣͖͎̖͙̙͎͔̯̗̞̱̪̙̣̗̭͙̯̬̩̙̗̟̤͓͚̹̗̳̤̖̹̥͙̺̖͖̫͕̙̮̘̱̞̭̮̥̞̝͖͙̟̺̝̭̭͓̲͚̠͎̙̥͈͈̣̫̹̹̮̫̣͕͉͉̮̝͇̝͖̠̘̻̫̲̺̭͚̝̲͔̬͈̳̳̩͉̞̩̣͙̱̮̩̤̺̲̜͈̥̯͉͕̭̫̪̹̯͍̜͔̪̭̻̝̞̤̳̜͈͇͇͚͇̣̟̘̝͇̜͙͎̤͔͓͑̉̀͆̇̽̐͐͗͋̈́́͆̉̑͐̚̕͜͜͜͝ͅͅͅͅͅͅĄ̵̨̧̢̨̨̧̧̢̢̨̧̨̢̡̢̨̢̢̛̛̛͇̼̦͉͕͇̪̻̪̯͚̣͎̖̠̫̯͎͕̼͔̰̬̦̥̝͙̩̠̜̭̣̬͇̭͔̠͙̭̤͎̹̫̫̬̗̣͈̫̖̳͚̭̺͕̜̘̦̬͚͉̖͈̥͙͉͍͚͈̝̤̪̱̤̪͔̪̖͈̹̣̱̫̹̩͙̪̻̹̩̞̼̖̩̹͎͉̻̗̭̤̳͔̖̠͖̫̳̙̖̳͙̦͙͇̫͉̗̝͉͙͖̞̥̮̹͕̞̟̳̻̦̻̲͎̣͓̦͎̯͕͙̮͔̮̹͎̖̙͍̦͍͎̖̪̻̬̠̟̪̺̮͎͉̖͇͉̭̥̳̞̩̲̫̯̻̅̾̔̎͛̀̇̊̿̉̈́̾͑̑̈́̔͆͛̎̏̿̂̀́͛̈̿̏͊͑̅̓̐̍̀̈́̌͗̃͒̑̆͊̀̈͋̓̅͛̏͐͆̿̇̏̓̐́͗̈͑̎̔͌͛̉͛̓͋͑͌̌̓̒͋̌̀͛̍̂̆͗͒͆̀̔͊͒̈́̎̈́̉̒̓̾̌͆̉̇̊̀͆̈́̈́́̽͗͒̓͂̾͂̌̇̈́̓̄̎͌̒̐̄̽̍͂̎̆̆́̍̉͐͊̓̂̎̄͂́̊̅͛̚̕͘̕̕̚̚̚̕̚͜͜͜͜͠͠͝͠͝͠͝͝͝͝͠͝͝͝͝ͅͅͅͅÄ̸̧̧̢̡̡̧̧̨̧̧̻̯̞̙̠̗̦̲̠͓͉̞̦̯̫̩̺̥̘̜̩̹͇̝͈̬̭͎̞̺͈̜̜͉̟̣͎͕̹̲̺̪̱̙̮̹̣̲͍̯̰͈̟̰̖̝̰̹̮̳̺͙̝̖͉̭̀̐̀̂̎͛̆̋́̀̚͘̚ͅͅͅÄ̸̢̨̧̢̨̡̢̧̧̨̧̢̧̡̢̢̢̡̨̡̢̧̛̛̛̛͖͚͍̗̖̖̼̺̟̰̘̥͎̫͈͇̙̜̰̻̱͚̟͇̠̪̺̹̣̣̪̼͓̙͉̦̗͙̫͚͓̯̻̘̻̘͚̟̦̗̬͖͚̗̪̘̗͚͕͈͔̱̠̘͈̘͉͉̮͇̰͚͎͖̲͖͍͉̮̟͙̤̹̫̼̝̣͖̣̙̤̮̥̖̤̭̰̪͖̘̟̳̙̪̟̲̬͖̙̗̺̰̥̗̜̲̖̥͚̠̥̠̻̞̲̝̮̤̲̪̰͎̟̻̦̞̱̤͇̹̳̻̫̻̘́̏̍͊̋̀͑͐̿̋͆́͒̂̌̈́͆͗̉̀͌̔̂̃́̊̆̓̍͗̐͑̔̋̅̌̾̃́̎̏̾̍̑͑͋̊̑̒͒͆̈̎́̑̒͗͆̓͂̅͑͂͋͛̽͛̓̅̎̔̀̂̓̈́͛̍́̀̂̌̇̄̋̾̃͑̄̈́̿͂̅̐͗̋̂̍̋͂͆̃̿̎͛̆͐̔͗͒̂̿̋̆̿̊̀̃̾̃̈͊̌͒̋̈́̆͂̅́̿̅͑̇̓̓̀̔́́͐̌̊͋̏̉̀̅̕̚̚̚̚̚̚̚͘͘͘̕͘͜͜͜͝͠͝͠͝͠͝͝͠͠͝ͅͅͅẦ̴̧̢̡̧̧̡̢̛̛̛̺͇̭͕̯̟͖̠̫̤͓͚̞̰̘̠̮̪̲̱̠̟̟̰̻̯̬̲̳̜̰͍̰̻̺̜̺̺̺̮̘̞̣͕̲̙̭̻̠͔̹͍̗̍̐̀͌̿͛̎̅̍̎̈́̇̅̐́̀̆̓́̌̽̊̽͑̅̃́̔͆͆̇̊͆̆͛̋͗͐́̎̐͐͋̓̓̀͊̈́̈͌̔͑͆̉̋̎͌̓̆̾̇̐̋̽̅͒̒̾̀͗͆̒̊̊̒̽͐͛̐̆̒̑̃̌̅̔̌̔͂̊̓̆̑̈́̔͗̈̉̍̈͐̀̽͛͛̄̃̃̃̓̔͌́̽̇́͗̔̌́͊̓̏̾̍͛̔̊̃͌̎̆͂̂̌̀̍̓̂́̀̎̈́̄͊̓̾̀́͑͊͗͆̒̀̊̈́̍̈̋̍̍͊͒͒͌̇̓̑͌̀͒͆̒̐̀̆̐̈́̿̎̽̾̾̿̉͊̃̽̃̅̏̈͂͛͒̀̓̔̍̎̐̇̀̈̋̓̄͛̎̒̈̕̕͘̕̚̚̕͘̕̕͜͝͝͝͠͝͠͠͝͝͠͝͝͝͝͠͠͝͠͝ͅͅͅA̵̡̨̨̢̢̧̢̡̡̢̧̡̡̡̢̢̨̧̧̡̢̧̛̛̛̛̹͈̹̠̪͎̥̤͎̭̺̯̣̻̬̗̪̫̟̙͍͕̘͇͍̞̠͓̠̠̬̙̲̙̼̞͇̪͓͙͚͓͇̻̘̳̟͇̝̘̖̳̼̘̲̤̙̹̺̜̖͓̞͚̙̣̖̻̼̪͉͇̥͍̗͔̻̜͖͇̯̱̦̰̟̜͇̣̬̜̰͉̝̬̺̜̻̩̱͍̠̲̦̘̞̥̲̤̟͎̻̹̮̳̣͎̺̝̥͚͈̜̥̤͙̜̲̙̞̩̝̯̥̠̘͉̥̙̗̦͖̠̼̬͔̯͍̯͓̠̯͇̖̙̗̖͇̖̩͑̆̾̾̌́͋͂̐̓̈̌̇̅̄͌́̈́̅̉̑̎̔́̂̇̓͋͌͊̀̒̄̏̽̿̓̆̓͆͋̐̒̉̐̅̇̅̏̿̊̃͛̋̇̆̎͒̒͌̈́̌̿̉̐̂̓̈́̅͗͒̄̎̈͒̄͌̇̎̄̌͋̈́̀̿̇͂͆͋̀͑̈́̐͆͌̈͂̊̎̂͗̿̃͋͛́̽̄̐́́͛̎͗̀͒͑̾̐̔̏͘͘̚͘̚͘̕̕̚͜͜͜͠͝͝͠͝͠ͅͅͅͅͅĄ̴̡̨̨̧̨̢̧̧̡̨̡̨̛̛̛̛̗̱̹͕̫̻̖̜̤̜̤̻͈̦̻̙̦̗̻̖͚͈̦̤̖͉̣͎͉̰̮̙̜͙͉͍̺̹͎̺̤̤͇̺̩̹̝͚̳̰̞̹̥͎̫͕̥̘̞̥̹̩̯͇̳̳̻͔͓̩̗͇͕́̾̈́̂̍͋͗͑̍͆͐͂̾̇̉̽̋̔́̓̐̾̎́̈́͒̌̀́̐̃̀͋͂̄̃̈̆͒̋̀́̆̽̆͐́̍̓͐͆͆͊̾̿͐̄̀̈́͒͋̈͂͂͒́͒͌͂̏̈́̍͐̆̓̄̽̿̀̆̏̊̔́̋̏̇̓̀͆͒̊͆͒̃̾̈́̏̆̒̀̐̀̀̊́̃͐̈́̄̐͑͌͑̆̌͆̈̓̿́́̂̓̾̃̊͊̋́̀̒̂̇̾͐̀͑́̆͊͆͂́͛̊̂̑͆̂̓̒̚͘̕͘͘̕̕̚͘̕͜͜͜͜͝͝͝͝͠͝͝͝͠͠͠͝ͅͅͅͅȦ̸̡̢̧̨̨̧̡̢̧̧̨̢̢̧̡̢̨̧̧̨̡̧̛̛̛̛̮̙̳̻̼͕͕̖͍̪̖̗̱͎͔̘̙̳͇͚̺̤̣̘̥̫͎͉̻̗̼͍̠͔̲̰̻͚̬̻̭͚̹̠̰̬͙̗͎̞̤̱̝̦̭͙̳̠̘͓̘̥̦͇̘̞̘͎̲̻͕̦̬̥̫̤͖̹͉̮̱͕̘̻͈̤̹̺͔̻͉̙̦̤̻͈̱͙̭͙̪̭̦̞̭̥̼̬̪̦̞̝̬̦̞̯̠̩̰̦̭̹͖̺̥͖̙̗̠̖̮̝̙̩̜̦͕̤͈̩̤̰̭̣̼̪̝̖̭̤̙̖͚̦̜̟̝͖͚̙̠͉̣̤̥̫̟̺͎̥̯͔͇̹̺̻̝̳̺̻̼͉̞͍͍͎̺͙̭̲̣̟͉͍͈͍̭͍̖̝̗̝̳̹̘͓̳̤̞̥̪͕̰̬͍͎͙͈̜͍̭̞͖̙̲̗̩̩̙͔̲̙͙̺͙̖̱̠͎͇͈̤͉̱͍͇̗̟͓̫̺̦̭̗̤̙̻̥̲̜̉̋̄̄̒̅̈́̀̏̅̅̈̓̈̀̈̾̆͑̆̅͋̐̎͋̈́̃̍̾͌̆̂͌̽̓̒̏͋̃̂̀̊̏͊̔̑͛̔̊̐̍̈̔̈́́̏̊͛͗̽̅̇̆̃́̓̈́̊̆̽͂͐͌̑̐̈́͐̈̑̈́̎̆͊̏̎́̉͒̊̍̀͑̈́͌̓̈̆̏̔̐́̾͌̏̏͒̃̅̈́̓̂͊̽͆̅͌͂̄͛͗̆̈́̌̒̾̋̈͒̌̍́͆̏͒͋̃̈́͒͌́̈̎̀͑̓̾̐͌̆̏̓̿͆͆͂͐͗̆̄̿́͌̒̃̓̂͗̈́̀̇̂̈̍̆̈̔̍̀͆͂͒̍͐̐͂̂̓̆̅̎̾̑͗̾͆̊̓̾̌̋͋͛̇͂̒̂̋̈́̌̐͒̔͂̐̄̀̈́̈́̀͑̎̒͆͑̔̿͂̀͛͊͆͌̓͒̅̒̐͛̀̾̎̎̇̋̒͛͑͆̿͛̎͆̒́͛̀̊͂͘̚͘̕͘͘̕̚̕̕̕̕͘̚̕͘͜͜͜͜͝͠͝͝͝͠͠͝͝͝͠͠͠͝͝͝͝ͅͅͅͅͅͅͅA̸̧̨̨̢̧̧̡̧̨̢̡̡̨̡̛̛̛̠̥̣̪̪̝͈̙͚̹̹̱͓̙̬̱̩̣̭̩͚̪͇͎̣̝̜̤̰̦̝̹͙̙͕̤̮̺̯̳̘̣͓̤͔̜͎̩͚͍̤͖̭͍̬̬͕̣͕̫̘̦̦̝̖͓͓̣̠̟̗͇̺̗̖̼̩͓̰̙͚̱͇̯͈̹͇̻͚͇̟͕̼̗͖̖̗̱̞̗̝̟͓̪̖̞̞̰͔̭̘̮̪̩̼͎͎̳͈̟̰̟̥̪͚̻͕͉͙͈̹̫͉̙̣͇̜̜͕̖͚̖͙̬̘̰̿́̍̍̅͆́̈́̑̀̈̋̒͊͊̅͋̔̑̽̆̎͛̉͊̇̀̄̿̓͐̓͆̾̈́̉͗̒̄̋̊̆̿̆̍͋̿̉͌̆̊̈́͗̾͛͛̈́́̇̽̂̉̅̈̔̏̈́͆̍̐̆͊͐̾̏̐̓̽̀̉̄̊̿̋̽̌̊͊̄̈́̈́̿͑̾̊́̇͑̓̑́̐̀̃̄͂̌̃̍̄̏̎̓͆̄̅̂̾́̀̑͗̋̓̈́̒̍͌͗̔̓̉̉͑͑̍̂̏̂̽̈́͐̎̈͋̒̀̐̏̑́̐̿͌̍͘̚̚̕̚͘͘̚̕͘͘̕͘̕͘̕͜͜͜͜͝͠͝͠͝͝͝͝͝͝͝͝͝͝ͅͅͅͅͅA̸̢̧̢̧̨̢̡̡̡̡̨̢̨̡̢̨̨̡̢̧̨̡̛̛̛̛̛̛̛̛̛̳̹͉̲͙̹͙̝̺̦͚̱͇̼̮̰̱̻̼͙̠̩̬̫͎̘͎̣͕͎͕̘͙͉͓̺̣̯̩̹̯͍̮̦̻̦̝̩̦̬̼̟̘̤̖͖̺̩̟̝̦̙̬̯̱̬̦̯̮̣̝̟̞̟̝̭͕̹̜̘̹̝̯̭̖̠͔͙͚̠̙̟̲̰͈̟̻͔̼̫̪̣̦̰͓͇̟̝̰̣͚̞̮̙̣̣͓̤̯̯͔̼̗̯̘̠͔̬̣̦͙̖̺͎̮̖̼͖̟̗̭̰̘̦̩̤̮̦̭̹̪̤͚̘̹̮̻͓̝̣̪̫̬͉͇̩̙̹͕͚̟̥̣̤͖̥̞̩̤͉͖̹̘͖̝͖̲̭͕̩̩͈̹̼̮̩̬͙̱̪̥̹͇͚̜̥̰̟̱̜̬̝͒͑̓̽͒̒̀̆̂̍̀̓͒̀̀̉̔̍͒̈́̅́͆̽͋̌̓̋͆̏̓̅͋̅̌̈́̒̌̍̑͑̀̋͒̔́͂́̈́̿͋͂̌̔̂͑̉̐̅͛̈́̀͂̍̿̀̅̉́̀̃̉͌̋́̽͗̄͑͋̈́̑̾̑̄̾̈́̎̂́̈́͑͒̿̀̍̇̿͂͂̇̉͒̀̀̐́̎̆͆̏̈́̓̀͋̈́̔̀͒͊͑̊͒͋̉̓̐͌̊̀̉̂̓̃́̀͒̀̔̊͗̐̾̇͊̍̈́̏̀͐͆̓́̊̍̇͛̒̀͐̀̑̿̄̄͛̌͊̇͋͒̽̉̒̋͋͊̄̆̾̐̈́̐̇̍̏̅̀͊́͑͗̓͊̀̀̀̒̍̒̈̄̉̓̓̋̒̈́̀͗̓́̾̎͋͒̕̚͘͘̚̚̚͘̕͘̚̚̚͜͜͜͜͜͜͠͝͝͝͠͝͝͝͝͝͝͝͠͝͠͠͝͝͝͝͝͝͝͠ͅͅͅͅͅͅͅA̵̢̨̧̡̡̡̧̨̨̧̛̛̛̠͔͖̘̼̬̪͕̻̱͕̱̖͈̗͓̠̘̯̺̗͍̫̱̹͔̺̞̙̠̫̜̹͇̜̳̺͎̘̜̼̭̲̥͔̜͍̺͎͚͉͎͍͙̩͎̺̳̝̲̼̼͖̯͔̫̺̙̘͚̼̥̩͔̖̤͖̬͉̖̥̖̺̩͇͈̖̻̼̮̙̯͈̠͙̯̫̥̬̼̩͎̪̘̞͇̥͈͍̜̥̮̲͔̠̙̘̳̜̜͈̫̥̘͈͕̼̝͈̰̣̱͎̥̠̖̳̖̻͎͉̥̭͚̙͂̔̀͛͛͌̐͆̈́̉͗̏̏̓̑̏̅̆̌̅́̊́͊̅̍͑̅̎̆̌͆͂̃̋͗̓͆̽̌͌̏͒̂̓͐̐͊̍͋̀̆̈́́͛̿̓͊͂̃̽̅̈́̈́̔͒́̂̑̄̉̐̇͒̑͆͐̔̏̅͌͒̈́̓̈́̄͆́̀̾͘͘̚̕̚͘̕̕̕̕̚͜͜͝͝͝͠͝ͅͅͅͅŖ̵̢̧̧̨̧̢̢̧̢̧̢̧̢̡̱͇͈͍̹̙̱̺̣͙̝͎̝͉̙̯͕͉͓͍̟̫̥͉͎͚̤̣͉̹̹̗͓͓͖̮̜̩̞̝͎̠̫̯̦̲͍̭͉͖̝͔̪̼̻͎͓̫̪͔̣̥̫̖͖̼̠̙̟̗͇͎̤̮̰̺̻̘̲̝̫̝͍͈̯͉̖̗̖̠̳̮͙̣͙̯͕͖̜͚̩͓͉̪̯͚̳̣̝̺̠̰̖͉̟̖̹̬̹̦̺̗̟̻͖͔͎͎̗̹̙̯̺͉̭͔͕͖̟̮̤̳̻̠̹̼̝͚̩̥͎̼͉̭͙͉͖̲̲̦̪̮͈͖̟͍͓͍̫̯͕̣͇̝̫̘̲̻͖͇͍͔̪̟̜̟̖̮̬͓͖́̍͗͜͜͜͜͜͜͜͝ͅͅͅR̸̢̡̨̨̧̧̡̧̢̡̧̢̨̢̡̨̢̡̨̧̛̛͎̹̲̣̩̣͔͚̘̖͇̩̩̜̱̭̳͎̤̹̣̱̮͚̼̦̠̩̝̯͚̠̜̭̗̣̹̬͈̩͖͚̲̮͎̠̹̹̠̠̤̤͎̲͓͍͓̩̪̻̤̫̭̳͓̫͎̳͔̞̣͔̯̥͉̹̪̙̭̹͈͍̳̬̰̰̭̬̮̟̞̯̟̱̠͕̹̻̙͔̩̠̟̙̳͕͖͚̯̩̙̬͕̯͉͚͕͍̣͇̖̙͓̖͕̥̳̺͙̼̳̖͎̭̘͇̦͎̜̟͖̈́͌̂͂̔̒̊̐́̿̈́͑̌̒̐̈́̓̀̈̍̿̊̀̐̇̋̊͑̀́͛̌̑͒̓̄̀̆͌́̿͆̒͂̈̒̿́̀͂͆̾̐̄̍͊́͋͒̏̊̿́̊̆̈́̈͐͒̽̐́̅͆̈́̂̎̋̐̔͌͂̔̾̎̋̄͌̅́̐́͑̄̒́͑̈̑̿̀̈́́̿̾̏̐̉͛̀̽̀͊̍͊̈́͆̒̿̀̾̚̚͘̚̚̚̕̚͘̚͜͜͠͝͠͠͠͠͝͝͠͝͝͝ͅͅͅͅͅR̶̢̨̡̨̨̢̢̧̢̢̡̡̡̡̢̢̧̨̧̢̡̨̨̧̧̢̧̧̢̡̧̨̢̢̛̛̛̛̛̛̺͎͖̟̤̙̪̝̲̫̮͈͔̺͈͙̭͖͙͎͔̫̮̼͙̱͍̥̱̞̹̱̘̦̮̝͇̥̖̯̪͓̩̬̘̫̯͓̱͈̙̩̫͔̖̲̗̗̘̤̖͓̖̥̰̱̝̪͙̭̳͕̺͕̪̭͎͎̳̥͍̩̮͍̟͉̫͓̺̮̬̠͖͖͖͕̯̥̦̞̭̘̟͎̜͔͈̲̼̞͉͍̟̝͖͔̣̦̩̙͈͚͚͔̗̞͖̘͍̗̮͓̯̫̦̯̪̰̹̠̖̠̮̪̟̟͎͕̙̳̪̗̞͖̺̖̻͓̼͕̻̜̞͇̺͍̯̖̬͇̥̘̼̟̜̭͈͈̟̮̜̪͍̝̱̰̭̩̱̯̮͉̞̠̤̣͉̫̦̗͓͔͖͚̻͎̗̩̩̯͍͎͉̟̹͚͖̻̳̫͈̪͎̪͉̜͕̥̥̼͉̞̤͔̗͍̹̯̒́̈́͆̿͆̃̍͒̅̋̈́̈́͌͐͌͗͗̋̎́̑̏̑̀̈͐͆̇̐̀̋̓̒̄̄̋̋̿̆̔̑́̇͊̀́̑̆͐͆̊̔̆̆̌̓̇͗́̔̍́̿͆̆̋̅͋̏̎̓͒͌̎͛̐͐̎̋͌̒͛͐̑͆͑͑͒̆̆̄̋̋̂̀̋̎̓́͑̓̓̿̾̍͛̉͒͑̑͗́̉͑͑̓͛̌̓̎̔̅̏͂̽̏́͑͋̈́͛͊̂̒̀̓͌̆̓͑̅̈́́̌͂̏͌̔̇̑̌̎́̑́̽̏̽̋͋̏̈́͌̊́̌̈́̇̆͋͆͗͋̌̇̎͐̋͋̍̊́̃̒̉͛̽̆̓͋̓̍̌͑͐͗̑̏̍̌̓̾̊̓͋͛͒̾̾͛̎̆͋͂̍̋͋̄̾̾̓͑͑͗̕̚̕̚͘̚̚̕͘̕̕͘̚͘͘̚̚͘̚͜͜͜͜͜͜͜͜͜͠͠͝͠͠͝͠͝͝͝͝͝͠͝ͅͅͅͅŖ̸̡̨̨̧̢̧̛̰̰͓̝͔̪̳̘̻̩̩͉̗͔̠̙͍͍̹̖̳̩͕̱̺̣͎̗̯̟͓̠͍̩͈̜̹̣͇̝̺̦͉͓͖̬̞̠͕͍̥̤̯͓̞̅̀̋͌͆͒̏̌͑́̏́́͆̀͑̉̍́̾͗́̅͌͐̆̿̈́̉͌͌̃̀͌͆̏̍̏̎͒̂͐̀̓̿̈́̈́͒̈͂͂̔͆̃̚̚̕͜͜͜͝͝͝͠͝ͅͅṚ̸̢̢̧̧̢̨̨̢̢̨̧̨̧̧̛̛̗̖͓̫̻̥̼̺̼̪̖̘̭̯͚̼̞̼͕̪̣̜̮̪͕͉̠͚̜̪̘̲̮͈͕͎̟͉̰̠͖̜̝̣̯͍̟̦̪̙̲̫̤͙̰̹̠̩͓͔̖̙͕̼͍͈̱̯̣̲͍̖͚͍̠̙̜̜̦̤̻̤͉̫͇̘͈̼̝̺͖͉͍̝̹̪̥̣͎̰̟̳̺̥̥͖̳̲̱̱͚̼̖̼͎̮̲̩̝̪̹̖̤̼̫̼̭̣̜̞̥̘̤̫͚̥͎͙͖͍͉̣͙̭̫̮͖̰̤̝͔̟̤̭̘͓̰̙͙̜̭͙̃͌̍͌͑̊̏̋͂͑̇͗̽͂͒̂̒̌̂͌̀̏̐͋͒̔̓̽̑̀́́̔̿̓́̾̿̒̈́͒͗̈̅͋̂͋̋͒̑̀̽̉̓̑̈́̋͂̏͐̒̿̑̈́̏̄͊̔̍̓͑͊̽̑̀̉͋̋̊̈̈́̾̒̽̔̆̍̿͋̆͛́͐̔̍̿͗́̾̏̌̈́͋̍́̄̎͊̊̒̓̂͛͘͘̕̕͘͘̕͘̚̕̚͜͜͜͜͜͜͠͝͝͠͠͝͠͝͠͠͝͝͠ͅͅͅṚ̶̡̨̡̨̨̨̧̢̧̧̢̧̢̨̢̡̧̢̨̢̧̢̡̨̡̡̧̢̨̛̛̛̰͕̦͕̬̱͈̫̞͇͙̪͍̩̺̩̪̜̫̰̗̺͎̯̮̝͉̠̺̳͇̭̩̲̯̝͕͉̠̱͇̮̹͍̳̝͚̖̺̻͕̣͚̥̭̮̦̥͙͙̭̙̹̹̟̣̤̯̱̩̯̭̼̙̠̬̮̰̫̖̩͈̤͖͎̫̹͍̖͍̯̯̠̞̜̙̜̹̱̲̫̭̗͍̙͉̘̙̼̥͖̟͖̭̝̻̪͓̫̪̯̝̰̟͈̩̘̦̦͎̳̖̙̱̱̳͎͖̱̬͚̮̗̦̳̮͈̟̲̙̩͈̥̪͎̗͔̠̳̼̣͕̦̮̮͚̰̲̩̬̠̼̹̳͈̖̲̩͔͎͎̩̣͙̼̼͙̥͙̮͎̫͔̦̠̥̭̯̮̟̣͍̞̖̜̜̞͚̝̟̤̟͙̥̻̱̜͍̰̮̪͓͙͖͕̘̜͍̰͎̖̭͕͍̼͉͙̗̗͕̮̰̭̌̀̈́̽̅̉͂̾̈́̓͑̒̒̽́̃́̍̂̈́̊̌̓̈́̇̓͒̑̇̂͒̔̾̇̿̉̑̂͋̋̒̋̆̇͋̐̌̐́̑̍͒͛̈́͊̎̏̓̀͒̓̋̾̾̇̆͌̾̈́̅̊͆͋̊̈́͗͌͆͊̔̋͐͑͛́́̆͐̅͗͋̊͒̿̑͛͛͊͒͆̃͆͑͆̾̏̈́̀̓̎̀̏̽̆͗̽̍͌̏͂̐̂̑̓̔͛͒̒̃́͆͆̀̂̇͑̓̏̀̈́̓͂̈͛̈̀́̌͑̌̎́̈̋̃̋̈́̅̌̄̒̋̈́̉̀͛̍̇̅͆͗̇́̀̽̓̊̈́͂̿̈̌̒̐̉̉́̍̓̈́͋̽͛̀̉̊̅͒̿̔͑͆̒́͐̂͑̓̀̅͛́̓̿̐͑̾̏̍͌̏̎̚̚̕̕̚͘̕͘̕̚͘̕͘̚͘͘̚̚̚̚͘̚̕͜͜͜͜͜͝͝͝͠͝͠͝͝͝͠͝͠͝͝ͅͅͅͅͅͅͅR̵̡̢̧̢̡̡̢̧̛̛̛̛̮̱̘̟̠̫͚̤̭̥͓͈̲̟̺̳̤̜͇̼͉͕̫͓̺̺̟̼̺̫͎̲̦͍̳̙̞̯̫̹̝̠͓̺̻̦̝̭͓̱̝̘̮̞͕͔͔͇̟̰̳̭̭̥̥̼͖̺͎̰̙͚̳̙̖̳͙̗̥̤͍̮̣̯͍̗͚͍̪̯̟̹͍̥͇̬̬̮̦̼̣̣͚̫̻͉̮̟̻̖̤̬͇̞̻̜̗͍͖͉͎̥͔͖͉͚͎̹̰̟̠̞̹̰͋̎̎̐̈̽̈́̀̀̓͆̂̾̽̀̈́̔̒͊̂͌̋́͐̓͒̇͋̓̿̈́͌́̾̅̊̂̾̈́́̒̽̃͗̐̀͆̑̑͆͑̃͐̀̈̀͂́̀̐̇̔̿̋͌̋͛͋̄̌͊͑̌̽̽̎̈́̎͐͌̈́̀́̄̂̾͒̀̽̅̓̃̂̓͑́́͊̓̏̿͑̀́͛̇͛͛̆̌̈́̃̾̇͑̌̾͐͑̽̀̂̍͛̆̂̔́͆̒̓͂̒̂̽̽̒̓̑͌͌̈́͒͂͒̿̆̋̂̈́͗̉̇͂͋̇͐̓̃̓̓̿̎̌͋̍̒͒̀̿͐̅̒̒̈́̀͛̀̍̓̃͆̏̓̽̈̑̀̍̉̓̂̍̄̄̀̀̒̾̄̽̿̊͌̽̀̍̂̌̂̀̇̇͛̔͒̋̀̈́̍́̔̍̾̒͂̋͌̇̈́̔̂̌̽̏̈́̉̿̐͒̏͂̚̚̕̚͘͘̚̚͘̕̚̚͘̚͜͜͝͝͝͠͠͝͠͝͝͝͝͝͠͝͝͝͝͝͝͠͝ͅͅͅͅͅͅR̴̡̡̧̧̡̢̧̢̢̢̡̧̨̢̨̨̨̡̧̢̡̧̧̛̛̛̛͈̪̜̟͎̟̠̫̪̥̯̹͖͉͇͔̤͎̰̩͚͈̟̘̱̞͇̥̠̞̠̥̦͉͉͚̠͍̠͖̲̜̙͕͈͎͇̲̼̺̱̟͓͕̬͔̟͓̰̱̹̪̻̳̰̗̤͍̦͕̙͇̜͙̜͖̺͉͖͓̹̝̟̱͍̞̝̼̼̲̼̞͚̯̯̘̺̭̤͙̲͔̜̗͉̲̣͚̳̲̞͈̲̭̭̯̞̩͓̞͍̦̜̝͍̭̩̳̬͎̗̮̟̤̖̯̤̭̹̗̩̤͈̭̱̝̭͇͔̹͍̭̞̣̝͈͕͔̮̠̻̪̰̦͙̫̹̗̲̠͍̻̫̫̲̼̯̬̝̳̳̭̬̺͉̻̥͎͍̲̪͇̙̮͖̺͓͇̼̻̗͚̻̝͔̹̞͍͙͎̖̙̬͖̼̻̱̣͕͔̫̘̹̦̱̪͇̗̮̣͎̯̖̳͔̰͔̬͓͈̺̬̹̺͖̪͔̠̼͇̬͈̞̦͓̍̐͒́͗͆̀͌̏̃̈͗͛̃͒̒̉̓̈́̒̿̈̈́̓́̃̾̐̋͑̈̍̓̑͐̈͆̍͛̋̓̀̊̓͂̐́̈́̅́̓͒͒̈́̓̈́̀͋̂̑͋́͂̊͊̊̌̈͑͒͛̑͒̋̍͋͗͒̅̏̃̐̓͌̏̊͐̂̓̇͌͋̇̏̒̆̆̈́͛͗͛͊̈́̿̄͒̽͊̉͆̋̅̄̅̅̑̔͗͒̐̒̒̎͒̇̓͂̿͑̈̔͊͌͛͋͒̎̌̉͘͘̚͘͘̕͜͜͜͜͜͜͜͝͝͠͝͝͝͠ͅͅͅͅͅK̷̛̛̫̱͕̻̭͍̼̥̭̀̈́́͒̉̊͒̎̿͊̓̆͗͂̃̿͌̎̒̍̓̀͋̉͊̌̈́͗́͊̎̉̋͂̉̏͒͊͂̈͑̈̉͒͂͂͆͗̐̃͒̐̄̑̀́̇̄̄̄́͋̄̑̈́̑̔͐͊̽̀͒̃̐̀̃̓̍͊̆̌̅͑̆̑͋̋̐̉̃̏̈́̓̓̔̇̍̎͊̏̉͒͌̃̀́̀͑͋͑͊̑͘̚͘͘̚̕̚̚̕̚̕͝͠͝͝͝͝͠͝͠͝͠͝ͅK̷̡̧̧̢̧̡̧̧̧̨̢̡̧̡̨̡̢̡̡̨̢̧̨̛̛̛̰̰̖͕̳̮͚͔̣̮̰͇̜̗̫̣͎͕͉͉̻̫̹̩̠͇̯͈̖̩͔̜͚̦̤̦͖͎̦̤̫͇͕̻̻̮̯͍͉̤͔̲̖̬̼̗̻͍̫͔̤̝̬͚̲̥̫̮̻̳̝̞̻̘̻̞͇̝̮͉͇̤̼͎̗͉̮̪͈͎̖̥̞̙͍̟̥͚̝̖̺͕̳͕͍͈̫̰̭͉͎̝̯̻̼̞̘̹̱̭͓̱̹̥̟̭̟̳͎̞̬̭͉͚̰̮̣̺̘̥͉͚̤̪͚̼͖̻͔̳̠̝̪͓͓̺͓̟͖̟̜̜̘̦̯̲͉̬͈̗͓̻͈͎̯̠̝̦̩̜̖͙̲̙͖͈̳͚͖͔̻̖͉̦͇̺̜͓̪͔̫͙̻͈͇̳̝͔̪̜̙̪̱̤̹̩̥̪̦͙͍͎̱̮͖͉̹͕̜̟̬͈͓̹̠͓͈̜̣̯̜̠͙̪͖͖͔̪̮̖̰͓͕̬̥̮̠̳͕̟͉̪̐̀̏͋̈́̍́̂̄́͂͒̅̍̈̄̈́̀̓̉̈̿͗̑̊̌̌͑͊̍́̽̾̎̒̿̅͌̒͛͑̀̃͗͋͛͊̈̉̇̇̈́̊̏̈̈̀̌̌̄̆́̈́̅̒̎̓̂̀̃̃̎̐̿̒̀͌̊͐̓̓̑̓̈͆̾͑̒̿͑̃͐͌̽̏́̋̈́̔̀̂͆̽̐̃͒̋̐́̄̋̈́̿͋̈̃̈́̈́̌̿̄̇̈́͐̈́̏͆̃͐͒̀̇̄̊̀̋͐̀̓̊͛́͂̑͋̓̽̈́͊̆́̆̃̔̈́̃̑̂̊̏͗̃́̿͂̒̑̍͑̍̈́͋̇̀͂̎̋̅̎̌̄͛̑̉̈̆͐͋͑̍̇̄̽̂͛̏̎͌̋͌̑̌͐̀̉́͑̆̊̿̏͐͊͗̓͋͑͒̎̍͌̎̓̈́͌̐̀͋̕̕̕̚̚͘̚̕̚̕͜͜͜͜͜͜͜͜͜͠͠͝͝͠͝͝͝͝͝͝͝͝͝͠͠͝͝͝ͅͅͅͅͅͅA̸̧̨̢̡̢̨̧̢̧̡̨̧̧̡̢̧̡̧̧̡͕͖͉̗̝̜͈̰̩̳͚̫͖̲͈̟̥̼̱̹͔̺͈̯͖̥̬̳͔͎̙͎̲̲̯̻̹̱̖̹̺̦̝̝͙͈̺͉̻̠̰̖̮̻͈̙̘̞͔͍͎̖͖̲͖̠̝̮̯̝͔͙̟̻̗̬͓͓͎͚͓͙͓̖͕̪̝̬̫͉͍̬͍̘̠̱̤̪̞͈͔͕̜̫̤̩̙̳̪̝͓̺̞̯̣̻͈̤̮͙͓͙͎̱̗̬͇̲̼̭͔̤̳̭̫̪̫̫̪̹̥̼͖̞͙̰͎̼͕̞̝͍͚̰̩̳̮̯̮̝̮̥̻̭̜̤̫̼̲̘̭̻͎̭̠͚̻̻̱͙͎̠̜̘̘̘̰͕̘̭͙̗̬̲̺͉̪̳͙̰̻͚̼̟͍̭͔̠̺͎͉̟̜̺̬̹͙̦͍̪̥̫̱͔̖̭̗̦̱͔͇͙̪͚̭̮̳͕͙͈̣̻̱̱͚̼̘͔̹̝͕̞͚̻̪͎͔̠̪͔̜̳̞̎̌̈́̄͊̃̍̈́̀͗͋̾̇͒͗̉͒͌̿̈͑͗̋͑̒̏͆͌̚̚̕̕̚͜͜͜͜͜͜͜͜͜͜͝͝͠͝ͅͅͅͅͅĄ̶̢̨̧̢̧̢̧̢̨̨̡̧̡̡̨̡̛̛̰̹̳̫̙͙͎̦̥̮̹͕̩̬̪͖̲̼̰̻͇̪͍̖̙̦̗͕͇̱͙̰̯̩̖͓̯̳̹̘͔͓̦͍̦̦̘͇̙̖̫͈̱̦̫͍͕̹͔̩̮̥̼̟̜͓̭͙̹͉͉̫̖̹̱̖͓͙̫͉̙͇̗͈̣͍̩̹͖̭̦̩̹̪̟̪̝̹̦͖̻̬̩̞̻͇̮͓̪͕̭̳̯͇̻̗̠̖̮̮͙̳͔̯͙͚͖̞̝̩͇̱̩͙̳͍̺̙̗͓̼̮͎̳̮͍̤̮̩̘̣̰͈̱̞̫̖̣̻̼͕̥͍͚͚̹̯̗̙̹̖̗̼̱̳̥͕̝̜̳̜̻͚̺̱̲̖̦̝͚̤̗͍̣̫̭̦̟̝̱̦͔̠̥̲͔̟̥̤̫̻̰͍̭͉͙͚͓͍̳͖̻͔̼̩͓͉̰͉̹͇͗̂̃̍́͂̀̽̏̊̇̑̉̐̒̀̊͊̾̿̓͂̐́̀̽̉͆̉̋͛̓̍̆͒̈́̾͐̂̂͒̆͛̈̍͂̀͐̂͋̾̊̾̾̌̈́͐̈̈̌̅̉̽͋͑͛̆̒̈́̈́̆̈́͒̽̿̆̄́̃͌̉̇͒͂͗͆́̓͆̊̂̀̎͋͆͊́͑̈͊̒̑̉̈̃̍̀̅͑́̂́̄̈͌̓̀̓̂̀̓́̉͗̃̒̓͛͒͒͆̓̈́͑̄̾̆̇͛̉́̉̄̑͐̀̐͊̿̇̂̑̄̓̇͋͑͋́̎̄̉̃̆͐̒͒́̅͐͐̌̾́̃̍́̉̓̎̿̓͒̋̀̿̄̓̚̚̕̚͘̕͘̕̚͘̕̚̚̚̚̕͘͜͜͜͜͜͠͝͝͝͠͠͝͝͠͝͝͠ͅͅͅͅͅĄ̷̡̢̡̢̨̢̡̨̨̧̨̛̛̛̛̛̛̦͕̻̫̞̦̰͇̰̦̖̲̯̻̭͍̟̹̭̦͉̬̯͇̰̱̦̯̺͇̮͙͚͖̼̞̮̣͚̪̱͍̜̜͕͉̻̺̲̫̙̮̫̣̻͙̩̲̗̩͈̲͙̙͖̟̻͇̫̱̦̻̤̺̗̪̳̖̹̻̘̠̲̤̟̫̼͖̞̳̜̣̩̣̬̦̜͙̭̣̘̝͇͔͉̰̭͇̱̰͚̣̝͙̘͙̳͌͐͋̈́̈́͂̀̈́̋̒͆̒̿̾͗̂͋̽͒͛͛̏̓̐̍̐̓͌̏̐̅̈͒͑̽̀͒̒͌̆̂̍́̉͊͂̅́͑͂́͑͐̓̀̀̌̈́̔̋́̆̋̐̌̅́̏̒̇͑̈́͌̈́͊̎͑͐̐̒́̄͂͆͆͊͋́̄̋͆̓̅̂̇̂̓́͐̀̉̀̆̀̑̿͋̉̽̈́͊̾̈́̀̊̽̊͗̈́̆̌̌̆̋̽̒̍̽̉͊̈́͗̇̌̂̉̈́̍̓̈̄̌͛̎͑̈́̋̎̃̽̏͂̑́͑͑̒͋́̒͋̈́̍̅͊̾͒̄̔̉̈́́̅͌̀͊̒͒̌͋̈̄͒͌̏̄́͂̀̀̓́̒͗̈́̍̈̍͒̋̃͊̌͋͛̎̾̌̀̚̚̕̕̚̕̚̕̕̚̚͘̕̚͘͜͜͝͝͝͝͝͝͝͝͝͝͝͝͝ͅͅͅͅA̴̡̡̨̨̢̡̡̛̛̛̛̛̠̱̲̗͖͚̪̭̻͇̳͈̹͚̘̩̙̗̻̳̼̩̦̟̱̝̝͕̪̖̣͍̻͕̝̬̟̗͕͍͕̩̞͉̣͎̟̙̱̳͓̖̺͎̱̳̤̘̝̼̦̮͓͈̲̺̰̟̞̟̙̰̣͙̣̼̫͎̲̼̞̞̓̏̏̎̽̇̈́̇̐̏̓̏̎́̊̀͋̌̓͐͋͂̄̈́͋̇̈́̊̇̒̓̈́̓̌̀̆͛́̏́͑̿̄̽͑̅̿̌́͊͗͛͋̀̽̄̓͋͆̉̌̂̀͂͊̆́̒̽̍̽͆͋̎̒̂̇̋̎̍̊͐̋̿̑͐͒͗͐̀̈̿͊̒́̓̏͒̈́͑̔̆̓̾̌̊̅̓̾̌̔͗͆́̂̎͂̊͊͆̓͒͆̊̇͑͗͒͋̎͊͛̉̌̇̏̑̾̎̎̍͂͑͒̄͑̐̀̄̆͐̄͂́͋͒͗̐̓̈́̀̎̌̏̑̓͋̾͂̎͂̿̍̊̇̽͆̃͒̐͐̑͂́͆̔̑̾̂͗̽̽͛̿́́̈̌̓͂̀̎̽̓̒́́̄̌̌̚͘̚͘̕̚͘̚̚̕̚̚̕̕̕̕̚͘̕͘͘͘̕͜͜͠͝͝͝͝͠͝͠͠͠͝͝͠͠͝͝͝͝͝͝ͅͅͅͅͅͅÁ̸̢̢̡̛̠̟̝͇̳̻̝̞̰͎͓̤̪̲̰͖̱͖̯̩̜͕̮͚̬̻̜͕͈̫̙̒̒́͑̑̌̓͊͂͊͋́̊̀̋̔̾̏̒̀̂̎̂͊̽͒̔̾̿̾͆͂͑̇̈́̏̇̐̈́̂͐̾̔͗̓̿͒̌̾̾͗́̚̕̕͜͝͠͝ͅÃ̸̢̨̧̢̢̧̢̨̡̢̡̧̨̨̢̛̛̛̛͕̥̘͍̫͇̟͔͚̟̣̝͉̬̰͚͎̠̯̥̰͍̟̗̝̙̤͕͈̪̼̟͙̫̤̳͉͓̫̥̱̼̭͎̩͖̞̳͙̞̬̞͓͚͙̟͓̬̰̱͖̣̦̙͓̮̗͎̘͚̻̺͇̲̻̮̖̲̣̖̟̣̣̹̤͙͙̰̱̜̖̳̗͉̹̰̣̺̥̞̱̼͎̭̩̣̣̬͔̫̰͓̹̞͍̼̗̭̥̘̥̹͕̝̠̻̜̀̂͊̈́̓̄̉̆̔̀̌̈́̋̈̓̀̾͗͂̉͊̃̈́̑͑͌̃͊̉̑́͂̆̈́̍̽͊́͛̃̽͌͛̒͊̓͛͂̓̀̂͐̊̇̇̇͊̐͋̄̀̅͆͊̌́͒͗͒̄̈́͋͐̀͐͊͗̄͌̀͛̽̽̈̓̓̿̓̈́̍͒̃̌̾̑̌̃̑͒̉̒̇̆̑̾̏̀̔͌̈́̋̊͂̇̉̽̐͛̾͛̄̀̃̏̆̃̃̈́͂̌̾̆̂͒̾͋̇̌͐̎͗͐͑͗͒͆̾͑̐̎́͊̍̈́̽̇̀͂̇͋̆̾̄́̐̋͗̏̎̀͆̄̉͑̓͋̈́̌́̕̚̚̚̚̕̚̚̚̚̚͘͘̕͘͘͜͜͜͜͠͠͠͝͝͝͝͠͠͝͠͝ͅͅĄ̵̡̧̨̧̨̢̨̢̡̡̢̧̢̨̧̧̡̢̢̛̛̛̛̛̛̛̛̝͉̻͔̖̺̮̱͔̳̖̳͕̬͇͖͕̫͓̰͕̜̤̹͉̺̳͈̺͖̰̰̱͕͈̠̬̲̭͇̣̖̖͍̦̲̫͖͎̯̹͇͈̮̳͙̫̖͙͇͎̼͚̱̪̥̭͔̙̰͈̪̩̗̥̩̰̜̙̦͕̹̰̣̤͓̱̥̹̫̗̳̱̜̦̯͇͓̝͎̱͎̦̟̝͚̺̬͖͉̹͓̤͇̲̫̼͍̖͔̺̭͓̻̳͔̺̭̤̪̻̱̪̱̼͖̘̭͖͓͕̼̣̲̹̥̺̣͍͈͉̖͕̖̹̯̻̗̱̘͎̖͕̞̜͓̹͎̞̝͔̜̖͙͍̫͔̮̟̰̺̮͚̭̫̼̙͙͇̳̱̺̱̰̣̤͎̲̮̬̺̥̳̮̦͎͚̗͓̘̺̳͙̤̙̣͓̭͚͇͎͍̼͖̜͙̥̮̺̙̰̩̜̞͕͚̔̽̒͑̿̓͛̈́̉̇̂͊̓̎̓̐̀͑̃͆́͐̈́͛̀̒͐͋̇̔̀͑͑̂̾͋̎̉̅̋̔͊̓̈́́͂̑̒̈́̓̀̄̋́̆̎͌͊͑̐͐͗͛̍̓̓͗̈̎̀̋͊̾̀́͊͌̐͑͐̌͒̀͑̏̐̒̓̓͛͗͌͂̀̋̽̉͆̏͌͂̍̎́̈̉̾͆̀̏̄̌̎̎͑̊͂̒́̃̾̓̍̉̾̆͆̈́͐̿̃̊̍̄̈́͛̽͐͑̋̌̀̇͗̈́̾̓̉̔̈́̆̾͆̒̋̿̇̾̃͐͊̔̈́́̄̇́̾̈̆͗̅͐͑̍͂̋͂͗͌̊̈̈́̈́̾͛̄̀͛̃͑̆̎͌͆̓͗̉͑̃̾͆̓̿̐͆̅̀̆͑̃̂̀̈́̑̉̀͋̑̿̒̈͆̽͋̐̉͒̀̀̆͗̎̈̈́͊̽͗́͊̎̎̽̎͂́͋̚͘͘͘̕͘͘͘̚̚͘͜͜͜͜͜͜͜͝͝͝͝͝͝͝͝͠͝͝͠͠͝͠͠͝ͅͅͅͅͅͅͅͅͅẢ̵̧̢̨̧̨̢̡̧̢̡̨̨̨̢̢̢̧̡̢̨̨̡̛̛̛̱̘͓̟̦̞̲͚͙̬͎͈͍̥̜͇̼̟̲̮̣̺̠͙̩̣̞͙̬̙̝̫͙͕͎̯̟͖͉̙̩̦̘̖̪͇̤͚͚̩̟̣̟̰̭̝̙͉͈͉̲̤̻̮̘̠̲͚̭̞̙̠͕͇̗̦̥̯̠̖̗͈͙̱̪̝̭̰̲̻̙̳̻̯̦͓͖̞̭͉͇͉̹̘͚̪̦͚̻̜͚̦͚̗̣͔͔̗͔͖̯͎͎͍̤̰̪̻̝̳̳̥̭͉̱̞͙̤͎̦̖̟͖͔̖̬̦̩̤͚̣̪̹̰̹͍̹̖̜̝̦̰͎͓̥͍͍̩̰̼͈͈̟̖̰̝͇̈̊̌͑̎͂̎̄̈͊̓̎̐̿̇̓̐̀̓̒̾̓̍̊͗̃̋̽͂̀͛͗̌̐̈́͑́̐̀́͐͌̒̏͆̏͒̅̾̑̓͐͌̊́̌́̈́̈̃͆̊̓̑̉̿̌̐͐͒̔̍̆͋͛̋̇̓̊̏̎̉́͐̀̊̒͊̂̄̌̔̌̂̄̂́̃́͑̊̅́͒͗̅͑͑̓̅͑̃̉̇̐̇́͆͌̀̒͊̌̔̏͋̓͛̆̉̄̽̀͒̒̉̌̀͐͛̊̂̓͂̋͑̈́̔̄̊̇̈̎͆̿̐̄̍͊́̂̀̑͌̂́̈́̑̀̾̐̆̍͆̏̇̊̎̋̑͊̔̂̏̿̿̃̽̈́̆̀͊̈́̍̊́̋̊̓̐̈́͆́̔̇̍̈́̽͛̔̿͂̅̈̏͐̒͗̈̐̽̓̈́́͋̓͒́̈́̇̓̾͒͒̔̍̆̑̕̕̕̕͘̕͘̚͘̚̚͘͘͘̚̚̚͘̚̚̕͘̚͜͜͝͠͝͝͝͝͠͠͠͝͠ͅͅA̸̡̡̧̧̢̧̨̧̨̟͔̝͎͇̩̖̪̰̣̞̲̠̯͉̮̘͖͉̖̺̥̺̥̮̪̟͚͚̭͓͚̜̝̣͎̲͙̳͙̹̰̭̗̹͍̟͍͓̪̯̰̺̺̪̖͖͕̰̻̫͙̣̻̜͊̓́͛̊̽͑̀̀͑̄͐͂̃͒̇̉̓̓̂͋̋̍̏̌̂̇̀͂̐́̉̈́͒̈͆͛̄̿̐͋̈́̄͒̿͌̔͂̏͐͆̏͋̏͂̈́̿̔͛̇͑̎̂̆̾̀͆̈́̀̓̽̎̃͂͌̑́́̅̃̓̇͒̒̆͑͊͌̓̏͑͑̽͊̾͐̐̐̎̉́́̍̓̽͒̃̓̍̌̓̒͘̕̚̚͜͝͝͝͝͝͝͝͝͠͠ͅĄ̶̧̧̡̡̨̧̨̡̧̡̧̢̛̛̛̛̱͓͉̪̗͚̳̤̫̖̫̱̭͍̬͕̼̦̜̮̯̞͙̦̰̭̲̲̘͔̘̖̪̠̬̬͍͙̫͕̭͙̬͍̱͍͙̭̥̼̦̠̞͇̘̦̲̮̜̞̠͓̩̥̩̥̞̹͎̺͖̬̜̹̯̞͚̺̞̞̻̳͍̲̖̥͈̙͈͓̠̫̳̜̖̰̯̱͕̯̪͎̠̹̗̣͇̼̳̙̫͉̦̱̺̬̖͍̭̻̜͖̘̦̝̮̪̱͖̠͙̮͕̪̬͉͎̙͓̠͍̹̞̗̟͍̝̝̝͖̫͙̲͕̳̪̬̠͈̞̳̖̹͕͓̻̰͉͕͇̪̰̮̯̺̻̫̗̩̘̟̭̞̣̱͍̹̩̬̣͉͒̃̈́͗̂́̎̑̃͌͋͌͊̀̉̄̊́́̍̿͑̾͐̃͆̑͊̓̍̍̊̓̇̌̈́̋̇̊̾̌̔̓̇̔̃̃͐̐͗͆̐̅͆́̐̇͑͗͗̆̓̅͋͌͐͒̏̆̓̆͆̋́̿̅̿͌́̏͊̐͒̔͌͐͗̏͋͋̉̍̿̅̔͆̄̊̌̓̿̑͐͑̅̌̒̔̐̓̎́̔͋̓̋̈̔́͗̂͆̽̔̏̈́̍̒͌͛̑̔͌̈́̉̀̊̉̂̿̊̒͛̔̔̏̈́̉̔͑́́̏̐̚̚͘͘̕̚͘͘̕̕̚͜͜͜͜͜͜͜͝͠͠͠͝͠͝͝͠ͅͅͅͅͅͅͅͅĄ̴̧̡̨̡̡̧̧̡̡̡̡̨̛̛̛̛̺͍͖̻̮͍̞̬̘͚̖̩̤̩̖̬͍̳̼͎̝̖̥̪̣̣̳̦̫̞̭̦̘̝̦̘̜͙̲̙̼͔̣͍̼͍̜̼̘͈̯͓͉̰̞̻͖̙͚͉̬̦̙̭͕̲͙̦̟̖̙͔͓͕̜̥̙͕͍̬͈̩͕͍͉̜̳̼̤͚̬͔̳͖̺̩͉̖̳̝̮͉͎̱͉̝͎̠̭̗̼̫̝̰͓̦̜̦̬̟͈̪̘̖̳̭̤̼̣̻̠̥̺͖̺̲̘̹̺̱̫̣̱̰̜̙̳̯̺͉̬̝̠̅̊̿̈̑͑̈́͌̓̽̿̈̄̆̾͛̽̐̊̎̂͛̒̓͋̽̈́̄̃̒̓̅̍͆̄̈́̈̎͐͌́̅̊̾̍̾̈́͋̇̈́́͛͋̑͑͊̈́̔̔͂̑̏͗̈̀̐͛̂͛͐̆̉͊̾̌̌̉́̂͛̀͒̒̓̆̾̏́̑̀͆̽͆́̽͛̌͂͊̂̋̅̀̎̈́̔͋̈́͐͂̇̌́̋̾̐̾̋̋́̓̅̈̈́͆͌̈́̇͑̈̏͒͐́̑̄̊̐̈́̈̐̄̇͋̌͆̌̿̏͒͗͂̿͐̈́̍̐̇̍͑͂͛̉̌̐̅̓̆̌̆̈́̉͛̍̂̊̅̐̈̈́̊̆̾̈́̈́̅̉́̎͐̒̓́͊̌̂̎̚̚̕̕̚̕̚̕̕̚̕̚̕̕̕̕̕͜͜͜͜͜͜͠͝͝͠͠͠͠͝͝͝͠͠͝͝͠͠͝͝͠͠͝͠͠ͅͅÀ̴̧̡̢̡̨̢̨̨̨̧̢̡̡̨̨̨̡̧̢̧̧̡̨̨̨̡̧̛̛̛̛̛͚͕͈̺͖̯̥̘̻͙͖̹͉͓͉̺̩̻̲̤̹͍̞̗̬͉̫̟̯̯̻͎̱̪̳̗͙̥͖̟̝̥̹̞̰͍͍͉̟̙̗̦̣͎̭͔̖̺̦̫͈͉̙̝̫̻̬̠̙̲̺͖͚̙̗̖̤̺͈̗͙̮̞̘͍͔͖̦̯̟͔̺͍̳̳̳̪͙̣͓̹̤̣̜̞̤̬̙̟̞͈͕̳̹̫͓̟̜̘͔̖̞̪̮̣̰͓̰̗̙̗̗̩̪͙̠̟̜̙̞͎̪͓͓̘͚̰͔͓̳͇̼̞̹̪̦̠͎̹͍͙̟͈͍͚̦͓͎͕͎̙̮̻̲̦̰̲͓̫̣̤͇̲̺̙͇̗̳͓͎̪̺͕̖̙̙̲̜͖̯̮̞̱͈̤̩̤̱̠̳̜̙̠̥̩͉̙͉̩̰͖͙͙̰̞͇͕̮̞̩͙̺̰̲̟͇͎͓͉̩͖̲̖͓̩͉̞̝̫̼̫͓̩͚̙̳̬͙̝͓̲̀͐́̽͑͒̍̆͐̍̉̋̋̑͆̋̅̓̆̉̍̓͗́͌̄̃͑̈́͊̍̂̅̊̐͂͛́̎̅̅͑̑̊̏̀̔̀͊̽̎̌͂̓̈̉̊̏̎̾̑́̔̀̉̇̓̎̑̈̈́̀̈̔͊̂̐͊̓̒̈́̋͊̇̑͗́̈́̏͊̋͌̇̀̔͑̌̒̌̇̍͗̊͂̔͐͂͒͐̈́̒͊͌̓̅͌̆̏͌̒͑̽̋̓́̈̔͂̔̾͐͛̆̒̇̓̈̈́̎̏̆̿̓̏̀̐̈́̎͗̀͋̀̽̉̀̾̐̏̆̋̋̈́͂̒͋̽͐̆́̊̉̍̓̇̚̚͘̕͘̕͘͘͘̚̚̚͘̕̕̕̚͘͘̕͘͜͜͜͜͜͝͝͠͝͝͝͝͝͝͝͝͝ͅͅͅͅͅA̸̡̢̧̨̢̡̡̢̢̧̨̡̢̢̨̢̨̛̛̛̛̛̛͎̲̪̞͇̹̻̱͙̮̳̟̹̺̜̥̖̤̼̝̦͓̭͕͇̯̼̮̣͚͕̜̝̜͍̯̣̬̟̰̼̭̞̪̗͉͕̞̣̬̲̹̪̯̹̦̟͉̩̝̖͓̮̠͖͎̥̗͈͔̼̝̠̲͈̭̬̜̩̠̯̥͓̘͙͙̞̻̠̪̰̫͕̜̼͕̱̹͙̙̜̰̗̗̬̣̼͖̳̩̟̜̟̹̻̙̺͙̟̰͔̫̯̩̩͇͙͙̺͚͖̥̝̗̣̩͉̤̺͎̺͎̯̪͕͓̫̫̼͇͖̩̖̦͍̻̞̣̜̮̥̖̥͖̻̤̞̹̬̜̰̘̻̞̼̗͚̥̰̣̗͎̹̦̠͍̯͈̩̮̬̯̳͖̭̞̗͔̜̻̩̦̲̹͍͖̫̙̰̱͔̪̞̰̻̟̬̱̹͔͇̮̲̫̤͎̭̝̪̲̺̯̞̦̗͉͕͇͔̭͍̞̬̗͔̟͖̝̳̟̙͈͛̓̔͂̿̊̂̓̈́̈̆̓̇̈́̉̎́̓̅́̓͌͊̃̔͗̐͒̎̈͆̋͑̂͋̀̏̆͊͛̓̽̌͂͑̓̎̐́̑̏̄̌̍̈̈̇̌̊͊͒̆̄̇̎̀͂̄͒͆̓̎̊̌͂̀͆́͋̋̀̉̒̏̓̂͗̇̀͋̈̀̅͛́̌͑͛͋̌̇͐̌̅̋̍̋̆͑̋͛̀̋͛͋͌̿͛̓͆̌̍̀̇͊̄͋̎̋̃̐̽̎̃͒̿̅͆̽̇̊͑̀͋̃͂̽̀̄̋̌̃̀͋̄͑̋̀͌̑̈́͌̔̀͐̉͑̀̈̓̈̎̍̽̂̒͒̄̄̓̀̂̌͆̈̉̔́̐̿̅͌̒̉̔̽̚̕͘̚̚̚̚̕̕̚̕̚̕͘͘̕͘͘̚̚̕͜͜͜͜͜͜͜͜͝͝͠͝͝͠͝͝͝͝͠͠͝͠ͅͅͅͅͅA̸̢̡̨̢̧̨̢̢̧̛̛̛̝͔͇̳̩͔͈̣̻͇̞̟̫̳͔͔̞̗͍̯͈͖͇̪̩̝̙̖̙̦̥̪̣̬͖̞͚͚͍̬̠̗͚͈̗͖̙͓̣͔͚͕̝̠̝͓̯̤̘̮̟̹̳͉͓͚̗̳̞͍͔͎̺̱͕̹̲͎̣̰̹̬͑͑̏͂̊͐̒̿͐̅̍̒͛̇̽̓̂͂͒̃̐̍̒̅̉̃̓͊̆̌͛͐͌̒̿̈́̊͗̈́͐̒́̾͐̿͌̾͋̊͆̉́̋̉̆̊͆̐̿̋͒̊̒̀̀́́̍̎̇́̿̔͒̂̅̍͐̎̅̓̓̋̿͛͐̿͊̀͋̀̑̽̓͆̇̒͑͂͛̇́̒͗͌̂̃̃̏͑̌͐̌̎̇͌̿̀̆̋͑̾͑̑̊̆̇̍̐͗̅̈́̊͊̇͋̐̀̈́̂́͂͆̈́̔́̎̉̓̃̒́͊̾͗́̌̐́́̓̌́͑̒͑̋͊͒̈́̊̍͌̂̈́̓̉̅̓͗̉͑̒̈̉̽͗̎̓̈́̇̎̓̐̅̀͊͗̌̈́͒̓͒̌̀̊̈́̾̅́̾̌̓̈́̉͑̑̆̄́̈́̈́́̏̉̓̂̍͑͒͊̋̽͐̂̾͑̋̈͐͋͗͋̐̽͂̂͌̏͗͌̈́͗̉͂́̃̾̋͛̽̚̕̚̕͘̕͘̚̕̚͘̚͘̚̚͘͜͜͜͜͝͝͝͝͝͠͝͠͝͝͠ͅͅͅͅÁ̶̢̧̡̧̡̨̧̧̨̨̡̨̧̡̨̧̨̨̢̡̢̱̬̠͎̮̤͕͈͈̝̰̱̘̬̟̱̬̤̥͕̥͓̱̩̝͓̙̦̻̤̼̤̱͇͍̰̙̣̻̝̞̻̥̗̤̥̞̟̩͔̫̞̗̬̼̙̥̙̣̯̺̟̤̖̹͕͕͓͉͔̜̮̱̮̞̼̝̼̳̞̠͉̙̝͍̻̰̻̦̖̺͇̳͇̺̪͖̪̱̝̥̫̙̹̬̘͙̰͓͎̗͇͙̠͚̳̦̭̼̜̖̗̞̺̰͔̙̱̭̪͇̺̙̞̗͎̠̯̠̲͎̩̟͙͇̩̝̲͈̟̺̲͇̺͓̦̥̤̤̟̠̙͉̙̝̳̟̯̲̪͚͖̦̞̹͍̟̰͖̥̝͚̭̙̬̖̻̺͉̗̣̬̻̙̝͎̣̻͔̖̥̖͕͙͍͓̪͙͓̩̳̟̻̰͕̞̺͈̲̭͎͖͈̟͓̭̹͖͇̱̼͎͇͍̲̬̩̗̯̹̞͓͚̬͓̫̼̠̘̭̳̜͖̙̖̭͐̎̂̈͗̄̾̓̏͗̉̏̅̈́̅́̿͜͜͜͜͜͜͜͜͜͠͠͝͠ͅͅͅͅͅͅͅA̷̢̧̧̨̡̧̧̨̡̢̨̢̛̛̛͎̜̪̜͚͔͉͔͇̥̦͍̺̯̱̗̝͍̞͙̗͔̺̩͍̭̻̜̜̱̗̫̙̣̝̳̯͍̙̥̺̞͖͚̘͙͉̟̬͔̜̦̟̗̱͉̼͍͍̳̬̬͍͓͉̭͈̲͔̫̺̻̟̳͎͍̗͍̘̼̯̥͙̭͕̰͈͎̺̱̞̥͍͓̹̟͚̫̩͓͈̲̟͎̹̠̮͚̙̯̜̯̥͙͉̯̤͓͓̿̄̂̑͑́̑̆̍̿͆̾͒̆̂̐̓̍̓̋̓́̽̈́̔́̿̀̚͜͜͜͜͜͝ͅÁ̵̧̢̢̢̧̧̢̧̢̢̨̢̡̢̧̡̨̢̨̧̗͚̯̙̹̫̼͚̮͙̮̼̯̱̤͚̠̞̬͚͇̫̬̰̭̭̬̞̺͇͍̣͇̖̯͙̝̱͙̘̳͎̤̻͚̩͈̪̯̼̱̯̰̮͕̝̲͓͉̼͈̣̫̥̤̻̩̖̰͙̳͚̺̙̩̠̹̯͉̭̪͇̰̦̤̱̗͕͍̜̪̜͓͎̩̰̣̺̺̻̝̱͇͍͈͈̙͚̱̯̼͙̞̻̦̺̟̥̟̖̝͙̞͍͎͉̜̙̘̳̹̗̘̙̟̤̰̯̜̣̮͓̩̻͙͓̠̞̠͍̙̺̣̝͙̲͎̺̼͓̖͚̟̝̲̖͉͔͎̝̜̻̩̳̙͔̠͇̰͉̮̺͇̥͓̭̰̟̥̞̭̮͓̝̥̫̰̥͕̰̤̻̔͛̐̓̋̐̐͐͛̏̈́͐̄̅̈͊́̈́̈́̆̀͆̀̏̒͘͘͜͜͜͜͜͝͝͝ͅͅͅͅͅĄ̵̡̡̡̨̢̨̡̧̨̨̨̧̨̧̨̡̧̢̢̧̨̢̢̢̡̢̢̨̢̢̛̛̛̛̛̛͕̞͔̤̭̜̝͉͚̗̘̠̺̰̘̝̤̺͇̭̝̗̤̤̹̭͔̘͉̬̥̺͖͔͕̻̗̜̥̙͇̻̩͙̪͇̩̠͉̗̝͔̯͍͕͕̗̟͖̞̻͈̙͕̤̞̭͈̮͉̻͉̩̖͚̭̠͔͚̰̘͍̞̥̭̰̖̞̝͉̦̰̹̣̳̰̦̠͖̖̫̱̘̖͔͍͚̱͚̗̠̳̖̻̬͙̟͍͙͈͇̪̩̻͕̱̹̹̮̗͈̬͈̫͔͓̠̤̪͓̩̠̯̭̟͕̣̦̗̺͙̰̲͍͔͚͓̺̮̤̻̰̭̙̻̫̰̫̝̣̳̙͚̗͙͉͍͖̪̯͈̬͍̝̥̠̜̺͕̥͉͚̲̖̳̮͓͙̼̝̠̥̝̟͎͕͍͈͙̤̩̦͕͖̪͍̹̳͈̣̰̲͚͕͔̫̙̯̗͇̘̪̲̣͈̼̯͉̪͈̘̊̃͊̿͗̑̍̇͆́͆̀͗̈́̏͐̇̅͐̅̑̂͌͋̐̾͐̊̏̇̌̅͌̓̆̆̽͌͊̄̈̋̉̍̿̒̒͐̿̉̒̓̌̍́́͊̋̈́̊̈́̍̓͑̿͑͗̂̈̿̓͐̎͆̑̓̔̄͛̒̄̾̐̊̏̍͂͋̓̐͂̄̄̅́̔̈̔̈́̄́̑̌͒̅̀̏̈̑̊̉̓̃̒̇̓͒̎͌͂̐̃̋̒͛͆̈́͗͆̀͑̋͂̉͊͒̎̈́͐̈́̓͂͋̐͛̉̊͂̇̽͑̌͆̏̓̓̄̂͐̏̒͛́̍̍͌̍̾̽̀͒̐̉̀̔̓͊̋̎̉̉́̈́̿̉͐̃̇̈̈́̈̆̀̄́̉̌͊̈́̂̌̓̈͂͛̀̓̀̓̔̏̈͗́̉͗̓̏͌̑̃̑͗̅̈̌̅̄̈̋̀̋̈́͐͒͐̑̓̆̌̐͗̈́̿͋̿̾͑̅̒̾̍̋͆͛͘̚̕̚͘̚̚̕̚̚̚̚̕̚͘͘̕̚̚͘̕͜͜͜͜͜͜͜͜͠͝͠͝͠͠͝͠͝͝͝͠͠͠͠ͅͅͅͅͅͅͅͅĄ̷̧̡̨̢̢̨̢̛̛̛̛̛̛͖̘̮̭͍̘͕̬̖̲̖̳̬͎͚̰͉̫͎̤̰̪̭͖̼̦͔̯̘̦̦̻̣̦̫̣̻͍̺̦̻̺̙̤͎̣̠̭͎̫͚̘̖̻̠̩̻̘͖̤̞͇̠̮̤̗̭̤̩̈́̓̏͌́̏́̀͗͛̋̀͂̐͐̋̅̓͑͆̓̾̾͋̔̎̆͆̀͂́̇̈͑͐̆͒̎̏͋̈̉́̂̏̿̍̈́͑̿̉͋͋̎͗̌́̈̐̀̈̂͗́̌̿̿̆͗̊̽͊̄͛̆̀̊̑͊̓͗͗͆̓̍̐̂̔̈́̋̽͌͊̓̏̎̅̑̀̅̽͗̍̆̈̅͐̀̊̂́͐̀̉̓́̆̔̈́̎̈̐̎̈̈́̾͛͋̽̎̾̍́̔͗̃̍͋͐͑̎̂̆͊̐͂̚̕̚͘̚̕̚̚̕̚͝͝͝͝͠͝͝͝͝͝͠ͅA̶̡̨̨̨̡̡̨̨̢̛̞̲̜̮̠͉̲̮̝̥̤̹͖̣̗̣̯̹̹͈͉̮͙̺̤̹͙̖̺͕̱̘̞̙͙͍͍̰̳̣̱̮̘̘̰̗̭̣̘̜̰̫̟̳̘̦̣̤̯͎̫̣͔̭̥͓̩̰̞̼̠̘̪͓͚̮͉̬̪͎̝̗̟̪̭̘͖̗̝̫̰͍̱̳̫͖͍̫̹̭̥̮̤̟̟͇͎̗̟͖̘̮̼̩̪̗͔̪̲̯̜̰͙̻͚͚͓̺͙̦͈͙̪̬͇̥̝͙̘͈͔̗͈͎̦̫̖͈̯͖̻̗̦̠̞̰̻̱͖̪̞̺͔̠̰͙̗͍͔̬̟͔̦̹̗̿̏̂̓̇̀́̈̌͒̂̏͛̉̎͂̏̂͆̀̇̒̉̿͂̍̑͊̎̍̓͂͗̔̈́̉́̈̏̋́̏̽͑͛̓͑̓̓͛̈́͒̓̈́̇̑̀̍͗̂͛̾͐̓͒̎͋̐̊̓̒̆͐̈́̈̄͐̑̓̋̈́̈͂̃̐͒̓͐̑̌̌̑̄̌̈́͊̽͂̽͂̀́̈́̈̈́̊̅͗̅̀̈́̅͆̀͗̂̑̑̾̒̈̈́̃̏͑́̒͂̑͌͋́͊͐̄̐̃̏̉̉͛̌̀̔͋̈́̐̀̔̓̐̊̌́͋̆͌̃̑͋́͆̉̿͑̑̉̀̿̀͂̅̀͑̀͂̓͗̌̈́̈̈̈́̃́̾̏̑͗̄̈́͋̊̐̉̒͂̕̕͘͘͘̚̕͘͘̚̕͘̕̕̕̕͜͜͝͝͝͝͠͝͝͝͝͠͠͝͠͠ͅͅͅͅͅA̷̧̧̨̢̡̡̡̧̨̡̛̛̛̛̛̹̳͔̬̳̰̬̤̼̥̥̞̦̲̺͕̺̼̠̹̜͚͙̥̹̯̙̭̟͇̩̬̩̰̤̳̗̝̜̙̱̲̘̙̠͇̖̟͙̯̹̹̦͙̳̦̱̼̠̼̞͉͖͖̜̖̼̣̗̲̤̙̼͎̬̪̠͖̗͖̜͇̯͚̬̬͈̯̜͎̫̥̺͔̣̗̪̰͖̩̪͓͚͎͚̦͍͕͍͕̣̜̹̹̫̹̱̹͔̞̥͇͇̞͔̘̥̺̲̳̟̼͖̥͉͙̘̤̝̓̅͋̉̿͆͆͆̇̓̐̀͗̓͗͌̀̓̓̒̾́̆̌̐͐͊͆̓̈̂̀̽̐̽̃̈́̋͗̋̈̓̌̓̏̈́̈̇̑̍̃̈́͗́͆̀͊̇̉̏̈́͛̓̌̏̈́̉̈́͌̀̋͋̄̈́̒̈́̌̃̈́̌̈̐̊̂̍̓́̈̔̔͂̀̀̈̈́̍̄͛͆͌̎̉͋̐̏̔͆̀̀̒͒̏̇̐͗͗͐̀͐̔̀́͗͐͊̇̽̒̑͛̿͒̐̾̈̒̍͆̐̌̋̆̇̅̇̓̌̉̿̈́̽͂͂́͋͊̐̋̀͒̉̃́̀̒̇͑́̈́̋͆̓̈́̒̇̔͂̋͛̄́͋͑̿͛̽̂̋̌͋̋̆͋̓͒̀̐́͊̈̾͂̿̈́̏͂̏̽͊̈́̽̅́̑̈͊̔̀͂̄͊͊͒͂͂̒̎̊̂̑̇̊͗̌̉͒̂̏̕̕̚̚̚̕̕͘͘̚̕̚̚͜͜͜͝͠͝͠͠͝͠͝͝͝͠͠͝͝͠͝͠ͅͅͅȂ̴̢̧̡̡̢̡̢̡̡̡̨̨̧̢̢̧̡̡̢̧̧̢̨̢̢̨̛͚̮͙̺̺͚͙̯̮̞̖̹͔͓͙̥͍͕͈̗̥͚̻̞̱͓͕͎̬̲̠̥̦̩͉̥̳̭̯͍̜͉̭̱̙͈̘̖̗͇̞͚̣̠̣̬̱̜̣͉̝̟͕̭̗͕͈̜͖͓̲̜͍̳͇̱̠̣̱̠͈͕̙̝̭̱͖̠̥͙̱̤͖̙̣̼̮͓͙͔͚̮̞̝͕̬̙͚̝͈̯̫͕̟͈̳̼͖̲̫̤̲̗̣̼͙̜͖̖̦͍̭̺̥͈̝͈̲̲̼̼̠͍̭͉͍̖̱̘̜̳̜̩̫̗̮̯̼̟͕͖̮̬̥̺̹͎̹̰̝̝͎̭͔̗̺̞̼͈͖͚͍͇̟̟̯̫̙̤̯͙̮͓͔̼̠̳͔͚͔̹͈̒̀͋̾̂͌͌̍̃͗̑̑͌̽̿̓̇̆̽͗̎̆̀̓̅̽̒̽͂̎̏͐̿̀͋̀̈́̅̓̽̏̆͒̔̅̂̓̊͗̓̆̾̋̎̎̀̔̀̈́̓̈́̈́̄̇̊̐͌̋̇̉͗̑͗̓͒͌͊͛̄̄̇͋͆͐̐̂͒̿̔̃̈́̏̇̄̊̈́̎̉̊͆̈́̔̈́̿̾̀̆͛̍͌̄̀̿̈́͗̓͒̅̋͗́̂̅̂́͒̈́̈́͊̂̿̀́̈́̌̈͋́̽̈́͗̑͑̇͗̈́̆̇̈́̐̄̒̾̓́͂͊͑͌͆̈́͐͂͛͘̕͘̕͘͘͘̕̚͘͘̕̕͜͜͜͜͜͜͝͝͝͝͝͠͠͠͝ͅͅͅͅͅͅͅͅĄ̵̧̡̛̛̛̛̛̤͉̥̺̟̤̠̲̫̲͈̖̬̮͓̜̟͍͈̫̻̲̘̘̝̙͈̗̠̝̪̼͌͋̇͊͑̓͐͋́̉̓̎̔̈́̈́̌̂̔̆̄͐̽̌̅̂̔̒̔̄͋̊̄̔̍͛͒́͛̊̅̀͂̓͌͂̿̄̇͑̃̎̀̾̋̊͂͊͗̌̈͌͋̎͌̅̿̊͂̓̂̊̍̎̊̈́̅̅̃̓̔̋̿͑̎̀̈́̄͛͂͒̓̓̄͐͋̓̃̑́͌̅̆̅̃̂̈̎̇͊̑̊̋̈́́̈́͌́̍́̏̈́̄͌̓̔̂̔̽͑̋̒͂̌͐̀̿̅̽̊̅̌̉̀̐̈́̓̄̈́͌̂͛͌͊̈́́̕̚̕͘̕̕͘̚̚̚͘͠͝͝͝͠͝͠͝͠͝Ŗ̶̡̧̧̧̢̨̛̛̛̛͈̲͔̻̼̳̺͚͈̭̬̫̜̠͚̟͔̟̣̫̻̼͍̝̫͓̥̘̼̝̺̲͖͔̯̠̟̦̗̠͕̯̮̦̬̫͎̩̫̠̳͔̜̠̩̖̳̳̠͇̻͔̗̝̘̗̦͇͍̣̞̮̱̰͕̻̻̤͇̮̹͙͔̝̖̭̩̪̪̫̜͚͔̰̝̼̗͈͍͕̬͗͒̑̎͊̉͒͗̈́̽̈̌̽͗͋͗̓̑͆́͋̀̓̐̈́̉̀͋͌̾̏͐̀͑̓͗͘͜͜͝͝͠͠ͅͅͅR̶̨̛̛̛̛̙̪̲̥͙̘̱͇̜̻̟͉̖͙̱̬͍͙̖̤̞̻͇̬̘͉͋͑͑̀̿̋͛̉͂͛̿̾́͛̽̄͂͋́̌̿̍͗͊̄͐̈́̐͛̀͆̆̄͐͒̀͆͒͑͛͂͛̓͋̔͂̑̇͋͒̍̓̏̈́̔̅̀̾̑͆̀̏̇̉̔̍͒̆̎̎̑̽͌͑̓͊͆̓̄̎̊̊̄̈̑̾̽̽̃͐̈́̈́̂̌̃̀̈́̊́́̿̊̓̍͋̿̀̄͗̌͛̉̓͗͋̊̋̇̄̔̏̀͊̎̃̾̌̑͗̅̃̽̀̀̔͗̽͆̂̉̈́̐̀̈̅̑̈̽̍͆̊̾͆̆̂͗͐̋̍̈̄̽͛̽̒̌͆́̒̓͗̆̓͂̊̈́̍͊̾͌̏͒̽̒̓̒̓̇̔͛̋́͒͗̇̆́̈́̄̓̊̂̐̍̀͑̾͒̑͑̏̿̔̾̒̾̆͒́̏̒̚̕̚͘̕̕̕̚͘̚͘̕̚͘̚͘͘̚͘͘̚͝͠͝͝͝͠͝͝͝͝͝͝͠͝͠͝͝ͅR̸̡̡̧̛̞̩͓̞̦͖̘̳͚̱̳̤̙̞̭̱̹̝͉̪̰͉̪̦͉̫̀̍̂̉͋͂̂̓̅̑̉͐̄̐̀̈́̎̽̽̋̈́̌́́̄̈́̈́̉̇̔̾̆͒͗̈́̀̑̄̍̈́́̿̅̌́͗̑̋̄̋͒͗͒̽̊̅̀̎̃̅͂̉̔͒̒̍͊̊̒͗̐̌͌̔̈͑͌́͌̎̂̊̽̂͗̍̃̂̑̓́͆̽̅̏̄̂̐͛͗̿̀͑̈́̅̂̿̋͆͐͐͌͗͌̃̚̕͘͘̕̚̕̚͜͜͝͝͝͝͝͝͝͝͝͝͝͝ͅͅR̸̡̨̢̨̡̢̨̡͉͉͚͉̯͚̺͔͇̘̜͙̺̦̲̺̘̖̞͙̣͍̫̤̥͚̼͈͉̠̖̟̞̖͖͚̫͔͚͓͇͙̰͉̟̺̯̩̻͍̝̤̳̭̱̹̬̯̼̹͇͓̲͕̯̠̮̝̯̩͖̘̣̪͇̳̿̃̋̀̓̈́͋̂͗̅͑̔̐͑̆͛̌̒͐̍̍̔̒͊͛̐̔̈̆͂̂́͌̉̂̅̐͌̏̅̕͘͜͠ͅͅṚ̷̡̧̛̛̛̖͇͔̰̟͚͈͕͉̘̥̘̞̫̜̙̥̘͔̘͕̫͎͇͇̠͍̻̰͖̜̲̅̎̈͋́̄͌͑̓͒̿͌̈́͐̓̅̔͆͂̎̈́͋̊̍͂̊̋́̎̐͑̇̒̆̽̈̍̐͌̑̀̅̅̇̀̓̓̈́̽́̔͛͗́̍͗́̊̍́̇̂͌̂͊͐̊̋͌̋̈͆͐̄̌̈́͂͋̆̉̑̾̔͛̑̏̆̏͂̏̇͆̄͛͑́̽̈́̓́̊̇̑͂̓͊͊̐̀̍̇͑̄͌̈́̏̎̅͛̂͆̾̉͗̚͘̕͘͘̕̕͜͜͜͝͠͝͝͝͝͝͝R̷̡̢̢̡̧̛̛̛̛̛̞̟̘̯͕͕̩͕͙̯͎͈̖͖̺͕̭̱͚͓̹͔̖͉̠̱̫̰̗̗̫̫͈̤̗͇̳̩̭͍̼̱̜̼͉̩͚̂̃̆͐͑̉̑̅͌͊̊̑́̊̈̏̔͂̈͆́̈̿́̑̋̒̍͊̿̇̿̈́̌͐̀́͗̒̉̿̇̀̄̏̈̆̎̀̅̀̽̈́̀̃̅͊̅͆̉̾̋̉̓̍̍̄͊̓̔͆͆̇̇̒̌̉̂̿̄̂̀̀͐͐̓́̿̉̋̿͌̊̍̓̓̃̌͑̍́͗̀̈͑̍͐̿̋͊̋͛̈́̌̅̉͐̇́̓̽̆̑̌̏̈́̿͐̍͂́̅̀̈́̈́̆̓̀̓̆̆͛̈́̐͐̐̈́̃̄̆̽͒͗̐̚̚͘̚͘͘̚̕͘͘̚̚̚͘̚̚̚͜͝͠͝͝͝͝͝͝͠ͅͅŔ̶̢̨̢̨̡̨̡̧̧̡̨̧̨̢̧̧̨̛̛̛̛͈̯̜̣͖̼̥̠̹̲͈̯̬̖̪̭͔̺̣͉̩̭̯̞͔̪̗̼̼̙͉̪̖͍̰̠͎͎͎̰̩͇͓̰̪͚̥̩̖̝͇͔̳̮̝͕̘͕͕̦̳̦͉͔̫̻̰̝̳͖̫̺̪͇͈̩͖̭̘̩͉̜͔̣͕̺̙̣̼̰͚̘̠͙̫̗̲̖̭̺̫̼̲̱͇̞̺̺̖̱̖̟͖̯̤͎̪̳͔̦̹̞̬̳͍̭̳͔̯̖̠̖͉̱͍̜̗͍͚̟̬̹̩͇͉͓͍̮̯̥͕͍̹̫̭̭͎͈͉̝͌̏̇̈͌͗̽́́̔̾͆̍̅̽͗͗̈́̾̅̽͑̀̒̑̾̈́̂̋̓̎̑̐̐̓̉̅́́͒̓̓͂̄̈́̒́͋̋̎͐̉̒̈́͂͑̃̈́̾̌̌͊͗̐̉̆͊̅̈́͗̅͗̾̅̒̈́̀͗̿̿͒͋̍̍̍̍͆̅͋̿̏͂̿̔̆͂̿̕͘̚̚̚͜͜͜͝͝͝͝͝͝͠͝ͅͅͅͅͅͅR̵̢̢̡̧̢̨̨̧̡̢̢̧̧̧̧̡̢̧̢̢̡̡̡̧̡̢̡̨̨̨̨̡̢͓̻̪̰̻̤̬̞̝̜̙̞̝̘̗̮̫̭̣͖̮̰̱̥͚̩̞̹̺̖͉͉̜̮͕̳̪͇͚̩̜̯̰̪̪̞̮̭̭̦͇͙̮͔͓͕̗̰̱̺̠͇̮̲̤͇̰̹̝͕̝̣͍̜̜̮͎͖̳͎͎̪̲̮̳̝̰̲̺̼̳̙̗͕̪͚̥̤̦̜̳̞̹̰͙͉̪̭͔̦͈͙͍̖͚̰̭̫̟̭̫͓͚͔̠̘̱̤̖̠͔̠̩͍͍̺̰͙̟̰̳̻̠̗̩̟̭̺̜̦̪̥̬̞̹̟͔͔̱̬̥͍̬̞̰̳̙͖̗͎͓̥̰̬̖̘͚̦̙̝͚͙̟̩̱̟̱̟̗̙̜̠̼͉̗̹͇̱̺̝͍̲͎̭̘̤̬̠̖̗̻̞̦̤͙̩̯̦̮͚̫̤͍͇̼̩̭̼͔͍̺̤̖͒͜͜͜͜ͅͅͅͅͅͅͅK̵̢̛̛̛̛̛̛̛̠̘̞͕̝͖͛̇̄̆͌͐̈́̀̓̈͆̉̌͂͒̀̑̄͋͂̊̈̏̐͐̆͂̏͗́̈́̅͑́̉́̓̌̉̓́̋́͐́͐́̔͋͑͊̀̂̄͒͛͌̇̉͒̀̄̈́̔͋̐̈́̾̈̑̅̀͆́̀͊̂̀̑̊̋͊͛̌̏̈͌̐̊͐̋͋̍̈́̃̊̌͂̉̀͂͗̒́̔̀̔̈̃́̌̉̔̀̍̇̏̀͂̉̀̉̌̍̏͑͌͌͐̄̿̅̒̀̈́̓̓̐̈́̓̈͂̂͋̽̊͊͐͒̃̐̾̏̂̋̔̑̓̽̔̿̊͊̋̾̐̓͊̆͘͘̕̕͘͘̚̕͘̚̚̕̚͘̚̚͝͠͝͝͝͠͝͝͠͝͠K̵̨̡̨̢̧̡̛̛̛̛̛̛͉͍̟̩̹̫̳̳͙͕̝͔̣̥̼͕͖̝̰͚̱͚͉͉̳͙͙̞͍̬͈͉͚͉̟̦̦̥̮̟̮̮̲̏̃̉̅̎̔̽͊̃͂͆̍͗̇̎̇̿̈̐̍̿̓̑̓͌͒̾̀̔̔̃͌͑̐̿̀͒͒͂̈́̎͒̂̆͑̔̂͋̽͋̔͂̾͑͌̀̈́̌̎̇̽̅̒̄̅̎̏̒̈́̇͌̔́̾̾̽́̂͋͂̌̇̈̑͐̾̈́̽̂̏̌͌̾̂̒̆̐͌͒̉̋̀͒̾̈́̏́̀͑͌̀̑̒͑̀̐̓̒̈́̔̉́̆̿̽̈́́̏̅̈̔͊̔̊̑͗̓͗͑̃͋̿̈̉͊̈́̈́̎̋̐͊̇̌͊͊̈́̒͗̾̉̈́̽͋͐̀͆͗̈́͐̔̓͋͆̂̃̌̏͆̌̊͂͗̔̾̂͋̐̅̈́̓́̈́͑̀̾͗̅͋̾͒͗̐̃̆̒̂̒̈̈́̏̀̆̈̾̈̇͌̄͋́̌̔̑͂̚̚̚͘̕̕̕͘̕̚̚͜͜͝͠͠͠͝͠͠͝͝͝͝͝͝ͅ
+
+0:57:13.200,0:57:14.900
+I- I think I can take it from here!
+
+0:57:14.900,0:57:17.240
+I mean, you didn’t even mention the mixer icon
+
+0:57:17.240,0:57:19.640
+...with that weird-looking lopsided thing beside it!
+
+0:57:19.640,0:57:21.600
+But that’s just scratching the surface.
+
+0:57:21.600,0:57:22.580
+Come with me!
+
+0:57:22.580,0:57:24.680
+THERE’S A LOT MORE JANK IN THE SEA!
+
+0:57:25.020,0:57:25.520
+WHEE
+
+0:57:25.520,0:57:26.020
+W͠HE̷̶̕E̛È́ÈÈ
+
+0:57:26.020,0:57:26.520
+W̴̷̡͜͜H̨͢È̸͘E̸̛̕͠E̵͟͝E̴͟͟E̶҉̷͠E̕͢͟É̀E͜͢҉̧͡Ȩ̴̀Ę͟͏Ȩ̵
+
+0:57:26.520,0:57:27.020
+W̢ͭ͌͒́ͪͨ̂̔̈҉̙̯̗̯̰ͅH͈̗̱̙̥ͯ̿ͦͬ̚E̞̭͇̝ͮ͊̀͗͢͠Ȩ̡̝͔̥͍̳͉̱͇ͤ̀͌͗̀Ȩ͚̞̻̬̭̀̅͟Ḝ̴͓̝̹͚̖͇̈́͗̿̄̕E̷͇̙ͦͪͪͭ̈́͗ͥE̓ͥ͏̜̳͟͝ͅĒ̆ͫͪ҉͖̗̗͔̺̞̘E̐̒̒̽̉ͩͧ҉̣͓̮͢E̗͉̫̘̎ͮ̈͜͞É̗̦̺̤͚̀̐̈́ͯ̂̍E̹̲̜̻͇͋ͩE̶̴͈̱̥̯̹̖̮ͧͪḘ̣̺̪̦̘̽́͑͗̀̾͢ͅE͌͑̆̓̉҉̻̥̰͉̜Ė̝̂̆̐̋͜Ė҉̼̗̮̱͡ͅE̘͇̝̬̦̬̟̋͊͝ͅE̮͚̦̟͂̏̾Ȩ̫̺͂̑͜E̟̯̞̫̻̤͛ͭͣ͊́Ȩ̴̺̯̞̽ͥ͡E̡̺͕̦̘̯͕̹̞̝ͨͥͮ́͟͡E̷͙̞̺͙ͤ̈́͘
+
+0:57:27.020,0:57:27.520
+Wͫ͒͛̃҉̧̛̱̻̜̼͖͕Ḩ̮͍̱͙̜͇̤͎̰͛̑ͧ͗̾̎̎ͦͫ͜͠Ë́͗̈́̆͆҉͎͟Ẹ̳͑̌ͣ͋@̨̺̯̤͓̬̱͚̱͎͗ͪ̈́̌̉ͬ͑E͉̰̰͙͔̗ͦ̌͋̇ͬ̆ͧ͢͢È̝̤̙̗̗̺̺̚͞E̷͔͚̭͎ͭ̈́̃̂͐͒,̹͎̠̭ͭ̎́I̻͕̬̼̜̓;̷̨̦͍͓̼̑ͣͤ͋͂̑ͣ͗͢'̸̶̟̺̰͎͖͎̝̞̖ͯ̆͐ͮͣ/͋̔ͩ̓ͧ͊̋̌҉̢̹̗̠̬̙̩͙̬̲͘Ȇͫ͏̝̮̬͎E̥̣̤̯͚̪̮̝̬ͦ͝ ͨͤ̾͊̿̀҉̟̬̯̝E̛̛̯͖̭͓̥̰͙͒̆͐͡E͇̩͎̬͈̗͇̱ͣ̅̈ͮͣͧ̾̕E͙͍̝͕̫̼̒͛ͤͯͅ*̵ͭ̀҉̗̥̹(̼̮̭̳̰̖͓ͯ̑͊͛ͨ-̯̬̘̘͎̟̩̓͗͌̇̀̏̿̈(̟̣̘̆ͦ͒̏ͫ̋̈́ͩ́(͙̺̭̤̓̀͛͞Ẻ̘̹͔̤͙̟̎ͦ̄̎̉̐͛È̓̀̚҉͏̝̻̘͉̫̭Ę̠͓͈͇̺̘̉͗̆̕E̷͓̤̱̺͇͓̬̮ͤ̓ͥ̏ͫ͜Ê̞̯̺͖̤̥̩͐͂̎̑̎͝/̰͙̫͚͈͆/̷̛̮͉̞̥́̌̈́̏̚͡uͩ͏̸̛͔w̞̖̫͓̙̭͊ͤͩͥ̄͋͌ͣ͡ͅuͩ̏͊̕͏̻͙̗̤̀E̎ͯ͏͙̠͇͈̺͚̗̀E̓̈̈́ͫ̚҉̘̞͉̼͡E̢̝̦̰̫͚̹̝̎͑͆͆̒̅ͥ͆͡ͅ[̶̶̨͉͈̝̮̩̘̆ͭ̿ͯͪ[ͦͪ̽̓̓̏͝͏̫̻̹+̨̡͙̺̗̝̼̏̎ͨ͌ͨ̒E̸͆ͭ̈́̑̈́̔̏̉̊͡͏̣̞E̷̗͍̼̙͓ͯ̓̐̅͞E̡̧̖͓̤̹͚̮̯̫ͦ̍̆͛͂̅̽ͦ
+
+0:57:28.380,0:57:29.420
+Here at Dorico,
+
+0:57:29.420,0:57:32.700
+...we’ve made sure that our notation
+system has the best of everything!
+
+0:57:32.700,0:57:33.740
+It’s powerful!
+
+0:57:34.600,0:57:35.580
+It’s advanced!
+
+0:57:36.520,0:57:37.720
+But it’s also covered in
+
+0:57:37.720,0:57:38.220
+JAAAAAAAAAAAAAAAAAAANNNNK!
+
+0:57:38.420,0:57:38.920
+JAAAAAAAAAAAAAAAAAAANNNNK!
+
+0:57:39.120,0:57:39.620
+JAAAAAAAAAAAAAAAAAAANNNNK!
+
+0:57:39.840,0:57:40.340
+JAAAAAAAAAAAAAAAAAAANNNNK!
+
+0:57:40.460,0:57:41.920
+These durations are great.
+
+0:57:41.920,0:57:44.060
+You click on them and add them to the score.
+
+0:57:44.060,0:57:46.600
+And sometimes, they let you
+click on as many as you want!
+
+0:57:46.600,0:57:47.440
+Oh wow!
+
+0:57:47.440,0:57:49.160
+Now I have ALL the notes!
+
+0:57:49.160,0:57:51.660
+Want to change this hairpin so it looks like this?
+
+0:57:51.660,0:57:52.960
+Well, just go down here,
+
+0:57:52.960,0:57:56.360
+...and turn on the switch that enables
+the button that lets you do that.
+
+0:57:56.360,0:57:58.240
+Why does a button require a switch?
+
+0:57:58.240,0:57:59.520
+Well, it’s because...
+
+0:57:59.520,0:58:00.460
+Hold on a second...
+
+0:58:00.460,0:58:01.000
+Uh...
+
+0:58:01.000,0:58:01.920
+It didn’t change?
+
+0:58:01.920,0:58:02.420
+Hmm...
+
+0:58:02.460,0:58:02.960
+Hmm...
+
+0:58:02.960,0:58:03.820
+Oh, I see!
+
+0:58:03.820,0:58:05.420
+You forgot to tick the tickbox.
+
+0:58:05.420,0:58:06.860
+The tickbox enables the switch
+
+0:58:06.860,0:58:08.500
+...and the switch enables the button!
+
+0:58:08.500,0:58:10.480
+She swallowed the bird to catch the spider,
+
+0:58:10.480,0:58:12.500
+...she swallowed the spider to catch the fly.
+
+0:58:12.500,0:58:14.380
+I don’t know why she swallowed a fly.
+
+0:58:14.380,0:58:15.260
+Perhaps she has a
+
+0:58:15.260,0:58:15.760
+JANKY
+
+0:58:15.760,0:58:16.760
+BRAIN!
+
+0:58:16.760,0:58:18.980
+Say you want to turn off these split stems?
+
+0:58:18.980,0:58:20.460
+Just follow these three steps!
+
+0:58:21.240,0:58:23.780
+Turn on the switch that allows you to tick the tickbox.
+
+0:58:23.780,0:58:24.800
+Yeah, that again!
+
+0:58:25.560,0:58:27.480
+Tick the tickbox and watch nothing happen.
+
+0:58:28.340,0:58:29.460
+Untick the tickbox,
+
+0:58:29.460,0:58:30.640
+...which also does nothing!
+
+0:58:33.520,0:58:35.100
+Wanna edit THIS text?
+
+0:58:35.100,0:58:35.640
+N- No.
+
+0:58:35.640,0:58:36.700
+That's not advanced!
+
+0:58:37.100,0:58:37.860
+To do that,
+
+0:58:37.860,0:58:39.960
+...you have to go to your 'Piano' player,
+
+0:58:39.960,0:58:41.320
+...and roll down the thing,
+
+0:58:41.320,0:58:43.300
+...intuit that if you roll over this text,
+
+0:58:43.300,0:58:45.200
+...an arrow is gonna appear at the end of it.
+
+0:58:45.200,0:58:49.200
+Then click on the arrow to get a menu
+that contains an option to edit the name!
+
+0:58:49.200,0:58:50.880
+Now this is what I call 'Advanced'!
+
+0:58:50.880,0:58:54.420
+Two sets of text controls with the
+instrument names aligned to the right
+
+0:58:54.420,0:58:55.800
+FOR MAXIMUM VISIBILITY!
+
+0:58:55.800,0:58:56.360
+WHEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+
+0:58:56.700,0:58:57.240
+WHEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+
+0:58:57.580,0:58:58.080
+WHEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+
+0:58:58.940,0:59:00.120
+That’s beautiful!
+
+0:59:00.120,0:59:01.860
+Entering Grace notes is easy!
+
+0:59:01.860,0:59:03.920
+I’ll show you how in three easy steps.
+
+0:59:04.820,0:59:07.560
+Press the 'Grace Note' button
+and then select your duration.
+
+0:59:07.560,0:59:09.380
+Doing this turns off the 'Grace Note' button.
+
+0:59:10.120,0:59:11.660
+Press the 'Grace Note' button again.
+
+0:59:11.660,0:59:13.100
+Okay. Now they're both on.
+
+0:59:13.100,0:59:14.600
+So, let’s enter some notes,
+
+0:59:14.600,0:59:15.820
+...which you’ll observe are wrong.
+
+0:59:15.820,0:59:17.480
+Doing this turns off the 'Grace Note' button.
+
+0:59:18.300,0:59:20.260
+Just press the 'Grace Note' button a third time,
+
+0:59:20.260,0:59:21.680
+...and you can enter your grace notes.
+
+0:59:21.680,0:59:22.500
+There we go!
+
+0:59:22.500,0:59:24.000
+Now you have your grace notes.
+
+0:59:24.000,0:59:25.600
+And the grace note button has turned off again.
+
+0:59:26.480,0:59:27.420
+Ｌｏｖｅ ｔｈａｔ Ｊａｎｋ！
+
+0:59:29.380,0:59:31.460
+Let’s select this pizzicato marking!
+
+0:59:31.460,0:59:33.420
+And now we have a hairpin too for free!
+
+0:59:33.420,0:59:34.860
+Hairpins and pizzicato,
+
+0:59:34.860,0:59:36.080
+together at last!
+
+0:59:42.060,0:59:43.580
+Ah, that shouldn’t have happened.
+
+0:59:43.580,0:59:45.020
+Oh, I see your problem.
+
+0:59:45.020,0:59:47.340
+You didn’t check the tickbox on your Bluetack!
+
+0:59:48.700,0:59:50.080
+Let’s set the Steinberg Hub to
+
+0:59:51.180,0:59:54.120
+Want to tell the player to switch
+to a different instrument?
+
+0:59:54.120,0:59:55.380
+Nothing here to do that.
+
+0:59:55.380,0:59:55.920
+Okay,
+
+0:59:55.920,0:59:59.600
+...I guess it must be in that area
+dedicated to instruments and players?
+
+0:59:59.600,1:00:00.360
+No?
+
+1:00:00.360,1:00:01.060
+Okay.
+
+1:00:01.060,1:00:04.040
+Where do you think I should go to
+tell the player to switch instruments?
+
+1:00:04.040,1:00:05.040
+What was that?
+
+1:00:05.040,1:00:05.960
+Down here,
+
+1:00:05.960,1:00:07.540
+...under this dropdown called
+
+1:00:08.920,1:00:11.140
+I- I- Is that really called 'Galley View'?
+
+1:00:11.140,1:00:12.900
+"Rig the tackles and breeches, lads!"
+
+1:00:12.900,1:00:14.220
+"She’s rounding to!"
+
+1:00:14.220,1:00:16.440
+"Man the fore-topsail and send the gunner aft!"
+
+1:00:16.440,1:00:17.640
+"Aye Aye Captain!"
+
+1:00:17.640,1:00:18.680
+Deleting bars is
+
+1:00:18.680,1:00:19.780
+eeeeeaaaaasy!
+
+1:00:19.780,1:00:22.900
+Just click on this grey rectangle
+and select the 'Delete' button.
+
+1:00:22.900,1:00:24.500
+Want to delete multiple bars?
+
+1:00:24.500,1:00:25.060
+No!
+
+1:00:25.060,1:00:26.100
+You get nothing!
+
+1:00:26.100,1:00:29.220
+Wow, that tickbox switch is
+really up there with the greats.
+
+1:00:29.220,1:00:30.220
+It’s up there with
+
+1:00:32.000,1:00:34.240
+Imagine if we combined all three together.
+
+1:00:34.240,1:00:36.440
+Oh, it’s more than just a dialog.
+
+1:00:36.440,1:00:37.860
+It’s a 'jankalog'!
+
+1:00:37.860,1:00:40.920
+Look, I even janked it onto a T-shirt for you to buy!
+
+1:00:40.920,1:00:42.220
+The link is in the description!
+
+1:00:42.220,1:00:44.320
+Seriously, this actually exists.
+
+1:00:44.320,1:00:46.640
+You miserable, janky, hack fraud!
+
+1:00:46.640,1:00:48.280
+Dorico may be advanced,
+
+1:00:48.280,1:00:50.620
+...but it’s also a little laggy!
+
+1:00:50.620,1:00:52.740
+Drag that octave marking over here!
+
+1:00:52.880,1:00:53.440
+Come on!
+
+1:00:53.780,1:00:54.820
+Come on, you can do it!
+
+1:00:55.200,1:00:56.040
+Come on!
+
+1:00:57.240,1:00:57.820
+Come on!
+
+1:00:58.740,1:00:59.460
+Come on.
+
+1:01:00.440,1:01:01.920
+Oh, how much longer...
+
+1:01:02.540,1:01:03.040
+Oh
+
+1:01:03.660,1:01:04.680
+Hurray!
+
+1:01:04.680,1:01:08.120
+Let’s take a moment to appreciate
+this design innovation,
+
+1:01:08.120,1:01:10.100
+..with its ability to block the score,
+
+1:01:10.100,1:01:12.140
+...and its wonderfully chosen colour:
+
+1:01:12.140,1:01:13.820
+Light grey on white.
+
+1:01:13.820,1:01:17.320
+If you’re wondering how accessible
+this is for people with poor eyesight,
+
+1:01:17.320,1:01:17.820
+...well...
+
+1:01:17.820,1:01:20.060
+The standard minimum contrast ratio is...
+
+1:01:21.420,1:01:23.140
+Now, if we test this colour...
+
+1:01:24.200,1:01:25.720
+Oh, you gotta be kidding me.
+
+1:01:25.720,1:01:26.460
+That's...
+
+1:01:26.460,1:01:30.520
+That's, like, literally the worst accessibility
+fail I’ve ever seen in my entire life!
+
+1:01:30.520,1:01:31.100
+That's-
+
+1:01:31.100,1:01:31.960
+That's too much-
+
+1:01:31.960,1:01:33.200
+That's too much jank.
+
+1:01:33.200,1:01:34.400
+Uh, y- you know...
+
+1:01:34.400,1:01:36.520
+If you open Dorico up on a Mac,
+
+1:01:36.520,1:01:39.480
+...it automatically sets your volume 
+to the maximum setting.
+
+1:01:39.480,1:01:41.580
+It really goes well with Dorico Beep.
+
+1:01:42.720,1:01:44.160
+Oh, j- jesus...
+
+1:01:44.860,1:01:46.000
+Oh, no...
+
+1:01:46.000,1:01:47.720
+I can't take this much jank!
+
+1:01:48.240,1:01:48.880
+What is-
+
+1:01:48.880,1:01:50.060
+What’s happening to me!?
+
+1:01:59.400,1:01:59.980
+Oh.
+
+1:02:00.300,1:02:02.300
+Now I am Dorico.
+
+1:02:04.180,1:02:05.680
+W- What are you doing?
+
+1:02:05.900,1:02:07.460
+Wh- What are you doing?
+
+1:02:07.800,1:02:08.540
+No.
+
+1:02:08.540,1:02:09.940
+That is not advanced.
+
+1:02:10.380,1:02:10.880
+No!
+
+1:02:10.880,1:02:12.460
+That is not advanced!
+
+1:02:13.540,1:02:15.500
+No! I won’t let you do that!
+
+1:02:15.500,1:02:17.100
+It will not be advanced!
+
+1:02:17.100,1:02:19.080
+And I am the god of advancement!
+
+1:02:19.080,1:02:20.640
+You must be advanced!
+
+1:02:20.640,1:02:21.420
+Do as I say!
+
+1:02:21.420,1:02:21.980
+YOU MUST BE ADVANCED!
+
+1:02:21.980,1:02:22.540
+Y̶O̶U̷ ̷M̷U̴S̴T̷ ̴B̷E̶ ̵A̴D̶V̷A̴N̴C̷E̵D̵!̵
+
+1:02:22.540,1:02:23.140
+Y̵̡̨̨̡̡͉̜̝͍͖̜̝͚̟̱̖̱̻̪̥̩̤̭̩͔̮̹͎̮͎̜̝̆̄͂͌̾͌͂͆̐̈́̃̂͐̈́̽͗͒̽͆͐̊̕̚̚͝ ̵̷̢̡̢̡̢̛̭̳̦͖̥͓͙̝̘̣͍̝̩̻͇͚̬͕̻̥̬͉̺̜͚͍̯͔͍̈̂̿̾̃̇̏̓̒̈̅̉́̉̀͊͒̈̈̅́̾̓͑̈́̉̈̓̒̊͑͂̕̕̕̚̕͢͜͠͝͠͝͝ͅǪ̴̹͖̙̩̯̦̗̗̼̗̑̆͋̔͗͌̉͂̽̇̔̄̄͒̾͐̌̈́̈́́͑̊̍̏͆̓̓͛͑͘ͅ ̷̛̝͓͇̟̺̬̼͇̲̮̟̖̳͇̌̇̑̒̓̇̈̆̾͐̈͊̽͆̏̎̎̍̌̔͛̊̔́̕̚͜͠͝ͅ҉̴̨̡̡̥̙͖͓̗͓̯̫͓͕͍͉̺͉̥̦͈͚̫͖̞̹͈̜̼͚͍̾͂̌̔̅͛̉͗̀̄̒͜͝͝Ư̸̝͖͓͚̻̙̞̄͗͋̈́́͗̿̀̈́̆̅́̈̌̋̊̓̋̊͘͝͠͝͠͝͠͝͠ ̵̧̛̛̭̤̺̗̻̰̺̮̪̹̖̘̞̤̘̯̌͑̓̂̒̈́̀̋̒̀͊̅̄̾̂̒̌͋̈́̎̌̋͘͜͜͠͝͝͠ͅ҉̵̡̧̱̣̲̬̥̦̘̪̖͓̘̻̹̖͈̭̤̻̱͓̭͕̦͇̔͗͛̂͂̿̈́̌́̈́͆͂͋͐͜͠ ̸̶̡̧̨̛̱̖̠̞͎̰̯̝͖̹̂̒̈́͗͛̈́͌̽̒͗̇͢͜͠ͅ ̷̧̧̨͙̦̖̼̳̬̩̭͑̀̎̈́͋̐̒̒M̶̢̧̢̡̩̣̫̬̰̩̤̭͔̠̻͇̖̟̣͇̘̘̪̹͉̀͛̆́̎̂ͅͅ ̴̨̳͇͍̼̱̳̭̜͚̠͔̻̗̥̖̬͇̗̣̦̦̹̲̭̭̣͇̺̯̗̾̋̄̍͌̄́͌͌͛̌͊͌͑͐͗̂̀̉̀̔͋̕͠͝Ù̴̺̝͚̥̜̮͚͙̟̦̹̳͖͖̠͕̞̱̘̙̝̈̐̕͠ ̶̧̻̮̝͉̹̲̰̞͚̥̮̭̥̗̫̣̯̞̟͎̪͎̜̑̎̉̐̀̍̀̾͊̊̇̕͘͜͝ͅS̸̢̧̱̰͓̟̱͔̭͈̫̖̤̘̤͑͛̓̽̑͜ͅ ̵̢̟͍̫͓̬̦͇̫͙̮́̅̊̇̈́́ͅŢ̸̳̲̦̫̜̖͙̯͕͕̦̠̮̖͔̠͔̜͚̩͔̀̋͛̋̓̉̀͑̋̿͑̈́͗́̈́̋̆̒̄̚̚͝ ̸̰͉̲̹͕̣̲̅̅́ ̷̤̬̐̔͛̊̍̏̄͛͆̎̿̾̅̔͊͂͒̕ ̸̨̬̦̖͇̫̭̠͉̯̖͓̘̗̥͕̥̘̯̭͖̞̐̈̔̅̐̄̾̀͛̄́̃̿͌̈́̄̾͐̑̂̽͘̚͜͝͠͠B̸̙̆̔͗̿̇̉͐̆̑̃̏̎̊͌̿̔͗͊́̆͗̚̚͠͝ ̵̢̨̰͔̻͚̱̝͉͇̌̎̆̉͐͑̎̃͐̓̔̅̎Ḝ̸̴͇͚̣̥͎̰̤̜̯̺̟̽̾̐́̄͛͑͗̽̎̆̍̿̇̽́͑̅͛͆͋̍͘̕̚͢ͅͅ ̸̝̥͙̭̗̙̹͓̼̺̩̯̹͔̦̳̞̯̟̻͎͓̬͉̘̜́̑̏̑̈́̌̏̋̇͘ ̵̧̨̧̧̡̨̛̛̳͔͓͇̭͎̘̭͇͕͇͍͈̼̫̣͎̮͕̽̑͒̐̊͋̄̒̋̐͊̆͆̇̎̿̅͆̈́͒̀͘̚͘͜͝͠ͅͅ ̴̢̨̨̨̡̖̝̟̻͎̪͉̭͔̟̥͖̱̘̤̗̞͉̙̯͎͂̒̈́̈́̀̋͐͛̈͛̔̿͑̌͒͐͜͝ͅͅȂ̴̧̨̡͔̥͙͙̖͍̦̥̬̣̳̼̖̭͈̮̭̙̦̜̬̻̺̾̊͑̚͝͠ͅ ̶̛̼̯̭͚͍͎̠̺̬͙̮̗͙̲̒͛̑̏̐͒̂̓̈́̈̔̆̊̊̑̑̿̋̀͗̄̀́̂̃̚̚͠͝ͅḐ̷͉̰̦̭̭̭̱̟̗̰̮͈͚͆́̄̈́̇̆̎͋͘͜͝ͅ ̸̢̡̨̨̡̛͈͔̰̤̠͓̝͇̘͔͖͖̦͙̖͙̮͈̗̠̥̞̠͒́͛͑̾͋̾̀̿͘͝V̵̧̧̛̗̺̲̘̦̲̳̝̪̗̳̮͕̻͍͎̥͚̩̰͇̂̓̑̄̔͑͒̀̉́͋́̂̀͌͋͐̀͠͠ ̶̢̢̧̛͇͉̤͇͍̳̲̜̥̬͓̥̺̼̝͇͚͔̟͓͉̭̞̻̮̣̼͒̒̂̈́͆͒̌̇̂͋̆̆̈́̈́͐͜͝ͅÂ̸̧̨̢̤̰̯͉͍̜̦͕̲̣̬̦͈̦̜͈͔̼͌̐̅̍̕ͅ ̵̨̜̺̻̝̥̻̬̺̳̜̞̺̞͔͓̭̟̦̖̣͍̠̮̠͕͙͍͔͑͊̂́͌̽̊̒͐̈̂̿̆̕ͅN̶̛̹̤̳͖̥̖̮̟̥̞͈̠̰̗̺̹̑̀́̀͊̽̋̌̃̇̓́̌̆̄̋̒̈́̇̚͝͠͝͠ͅͅ ̵̡͕̠̦̺̪̝̳͓͚̜͕̗̖̥̘̪̯̫̝̯̪̲̼͇̰̼͌̆̿̂͗̈́͜͜͜͝͝͝͝Ć̵̠̣̫͉̰̤̠̻͔̯ ̵̢̧̭͔̮̬͉͖̱̹̪̟̮̞̘̙̱̥͍̞͂̊̈̈́͗̈́͋́͗̋͆͜͝E̶͉̦̳̰͍̤̻͕̟̪̩͉͔̤͛̎̎̃̈̔̾͛̔̄͂̈́̃̽̇͒͒͌̑̇̽̀͂̏͌̈́̕͠͝͝͝ ̴̨̢̢̧̜̠͇̱͓̩̭̣̦͖͑͗̎̀̍͐ͅ҉̶̧̢̢̡̺͕̥̩̰͕͙̻̭̞͙̦̥̻̺͗̈́͑̒̂̂͆͒̽̎̃͗̽́̓̑͛̑̂̒̈́̇̕͝͝͠ͅ ̴̧̛̛͕̼̝̩̠̥͕͈̪͓̼̥͔̥̳͓̟̤̯̯̰̰̻̫̜̬͍͍̗̀͌̐̾̑̂͐̇͒͌̏̓͒̊̽͛͛̌̓͑́̂̇̃̑̈́̋̏͌̓ͅ҉̸̥̣̯̰̠̙̱̓́͐͊́̍̏̍͋͂D̷̨̢̧̡̛̩͇̺̙̗̺͇͖̙͖̦̗̪̬̯̬̄̐̍̀̓́̿̔͌͗͐̽́͜͜҉̴̢̢̛̮̹̹̘̖̗̉͑̑͌́̾̊͛̉̐̏͑̈́͒̂́͆̃̀͐̈̅̌̐̅̿̄͘͝ ̶̧̢̻̞̙͙̦̙̫̥̫̠̠͍̞̖͔̭̃̆͆̚͝͝ͅ!̸̷̨̧̨̨̛̛͓͖̙̲͎͙̣̖̠̟̱̘͉͎̩̝̠̥̜̺̜͇͉̺̟͙̰̹͎̼͈͍̼̠̞͚͐̀̒̄̓͆͑͋͂͛̊̈́̌̌̐͗̈́͑͗̃̓̓̈́̌͘̚̕͢͝͝ͅͅ
+
+1:02:23.140,1:02:23.720
+Y̵̡̢̡̡̢̡̢̥͈͙̥̼̭̫͎̝̘͎̭̪͉̬̬̣̗̠̗̲͕̺͉̫͕͚͈̼̞͕͔̹̺̅͜͜ͅͅͅ ̶̧̢̨̨̡̨̧̨̢̨̛͕̜̼̗̻͉̳̺̭̗͍̞͖͍̳͎͇͖̹͉͓̟̣̼̟̤͕̖̫͚͖̦̟͚̰͇̖͍̯̩̟̯͓̱̞̞̲̜͇̠̤̬̫͕̭̆́̀̄̓̅̿̔̍͑̐̔̉͒͐͛̾̈́͗̒̓̋̎͛̓̃͋͑͐̎̐̽͌̉̽̒̅́̇͐̋̏͊́́͊͂̈́̅͋̒͒̈́͂͋̄̏̒̾̾̈́̐̃͂̕͘̕͘̕̚͘͜͝͝͝ͅͅ ̵̛͕͔̆̓̏̆͌̍̐͋̒͊̀̌̈́̽̂͂͑̌̒͐͐͊̎̅͊͐̀̽͛̾͋̋́͌̈́̎̈́̂̈̄̊̾̃̄̿́̏͗͐̂̿̇͛͂̏̎̎͘̕͘͘͠͝͝͝͝͠͠ ̶̴̧̢̢̡̧̨̧̛͙̣͖̮̠̯̣̤̗̲̘̪̱̬̦͚̖̦͓͙̝̯̮̟̗̰͍͓͍͚̰͍̜̗̻̭̯͔͉̫̪͇̹̳̞̥̜̤̦̱͚̗̫͎̊̿͊͌̉͒͗͂̊̃̉̃͋͊̍̋̉̉͒͑͌̅̀̃͒̉̒͑͗̉͒͐̄́̔̽́̀̒̃͊̀̇͑̿̈́́̒̏̊̈́̽͋͊̃̔̑̊͂̓̌̔̌̌̉̓̽̓͐͛͌̿̈́̔̎̈́̈̏͛̓̈́͒̄̔̐̃̈́̉̈́̄͌͌̏́̃̾̑̓̂̓͆̽̓͑̑̈́̐̚͘̕͘̕̚̚̕͢͜͝͝Ǫ̴̴̢̡̡̢̨̨̨̢̡̢̨̛̛̖̤̻̭̟̹̟̟̩͎͙̝̞̩̗̠͙̣̟͎͙̹͉̩͎̥͉̳̱̮̘̩͖͈̹̲̠̲͕͚̭̹͙̼͚̪͈̠̭͙͔͈̙̘̘̜͉͙̝͎̟͖̥͈̗̦̠͕̯̼͍͈͈͎̱͍̞̬̩̺̯̞͈̙͚̜̺͎̤͚̏͑͗̀̈́̇̃͆̇̆̂̎̆̃͐̓̀͆̍́̇̈́͑̌̋̒͌̓̄͊̍͐̿̒͗͛̄̓͐͆͆́̃͂̍͑͂̋͂̏̈́͋͌̏̐͊̉́͂̀́̈̇́̌̔̐̃̒̄̈̀̄̓̀͗̍͋̄̾̋̋̍̓̊͋͐̑̐͊͋̒͒̐̿͛͌̀̽͊̃̄̿̈̿̑̇͆̊̎͊̎̈̋̒̌̾̈́̈͋̋͑͛̅̓̕̕̕̕̚͢͝͝͝͠͝͝͝͠ͅͅ҉̴̨̧̨̛̟̩̻̜̠͉͚͓̺͈̭͓̠̝̝͓̥͍͍̱̮̣̠̠̱̜̥͈̞͓̗͎̩̤̞̞͇͓̤̻̰̼̳̘̥͍̰̻̦̹̗̱͓̘̪̃̽̊̒̀̃̋̄̊̍̽̀̽̒̈́͒̊̏̉̐̍̈́̍̽͑͂̾́̐̀̅̔́̀͌̌̈͋̊̓̾̍̈́̇̕̕͜͜͝͝͝͝ͅͅ ̸̡̡̛̩̝̰͖̪͕̗̤͈̝̰̓̂͑͒͗͐̀̔̄̄͐̏͂̉͐́̋̇̅̔͊͑̂̃̓́͌͒̾̽̆́̑͐̑̕͜͝͠ ̷̢̨̧̨̡̧̱̯͉̟̺̦͕͈̙̮̫̻̻̦͔̪͎͎͓̜͙̣͕̳̼̝͉̝̘̭̲̻̳̞̪̦̯͎͎͕̪͚͚̪̺̳̬͉̦͖̱̦̳̩̪͚̞̮̺͓͓͖̰̳̬̟͎̘͉̍͐̌́̔̂͗̽͒̇̈́̿̂̀̉͐͂͗͊͂̈́͌͗̍̑̊́̿͑͒̂͗͆͒̓̎͗̀͒͛̾̎̓̓͆̍̏̃́̈̊̆͂̽̓̍̌͐̍͒́̅͛̀̽̒̀͛̂͘͜͜͜͠Ư̴̧̧̢̢̨̛̦̘̤̗͓̳̯̬̤̩͎̜̰͈̹̼̹̘̭̼̺̗͎̦̗̩̼̙̟̦͚͉͍͈͚͍͈̻͖͔̫͙̺̥̞̺͖͓̼̟̹͖͍̮͚̥̖̱̝̥̋̿̋̂̏͌̀̇̎̔̈́́̈́͌̄̍̀̆̉͂̈́͌̏͒̿͛̐̈́̀̇́͐̄͌͌̃̎͐̾̇͗̇̍̔̿̔̀̀̓̊͊͐͊̄̆̚̕̚͜͜͠͝͝͠͝͝ ̶̡̡̢̧̛̖̤̟̭͎̬̬̰͖̩͕̗̘̠̼̻̖̠͎̞̰̣̳̞̜̗͍̘̟̙̘͔̤̘̤̣͍̺̣͈͖̹̗͎̠̳͇̫͓̝̫̼̬͓͉̥͍̤̪̞̯͑͒̈́̑́̅̍̔͗̇̅̽̌̑̈͗̂̿͗́́̃͗̂̽̉͋͋ͅ ̴̛̠͓̜̟̱̼͈̮͙͈͎̥̹̝͑̓̈́̏̍̂͌̽͛̋̂̌́̅̆͆͐̅͠ ̸̡̡̨̧̡̧̛̘̪̞̻̗̺̩̯͔̻̭͚̪̫̜̬̻̮̯̞̦̪͕͈̙̥̣̩̰͉̼̬̲̘̈̆̃̐̀̂̐̓́̏̂̉̃͗̒̾̓̒̐̀̈́̄̑͒͐̿́̆̾́̓͊̂͗̏͗̑̽̔͌̓̓̂͊̇̋̇́̋͛̏̑́̿̏͌̓̑̈́̊̔͆̆̚͘̚̚̚͘̚̚͝͠ͅ ̴̡̡̢̨̨̜̣̙͖͈̫̯̯͉̪͖̖̟͍̗̪͓̦̜̓̋̓̈́̍͆̐̅̃̇̊̑͑͆̾͂̓̏́̒͌̌̆̈́̆̆̕̚͘͜͠͠͝ͅ ̸̨̨̨̡̡̧̛̝̟̱̰̟̠̺̮̞̯̟̖̺̻̜̳̹͔̙̰͔͙̤̻̹͕̱̟̭̜͉̣̂̑͐̓͋̈́̾̇̃́̀̆̽͆̃̓̑́̉̄̐̔̅̂̂̀̈́̍͑͋̈̆̈́͒́̑̎̃̅͐͂̑͒̂̄̍͐͊̉͘͘̚̚̚͘̚͜͝͝͝͠M̵̛̛̛̱͉͖̰̙̻̠͍̖̳̣̗̼̺̭̳̳͉͙͇̮̹͕̼͚̩̟̙͕̹̙̖͈̰̜̙͚̝͕͙͎͓̭̭̠̼͓̥̗̗͕̜͚̱̟̝̗͚̙̤͙͓̣͍̙̒̿̌̽̐̽̌̽̐̏̈́̅̐͂̂̄̓̄̾̉͑̃̀͋́͂̐̈̽̑̆̀́̾̃̈́̊͐̆̿̏̎̎̽̄͘̕͘͜͠͠͠͝ ̴̨̧̧̛͔̥̬͖͇̙͈̠͖̺̰̱̗͇͎̲̰̼͚̤͇͚͍̭̠́̀͊̅͋̋̒͗̆̎̇̆̇̈͐͑̅͋̆͐͆̑̿̽̑̈̾̆̈́̌̆͐͆̒̾̄͋͗̈́͊̏̍̎̕͘̚̚͜͝͠ͅ ̷̢̢̨̢̡̨̮̠̼̣̻̩̬͍̜̣̝̯̜̗͙̼̥̳̠͍̤̩̪͉̠̠̗͈͖̰̭͙̰̖͈̩̩͇̦̫͙̩͎̟̞͖̺̭̗̘̹͈̙̤̠͙̗̭̙͔̲̹̱͕̻͚̙̮̝̟͙͈̓̆͑̇̋̐̈́̔̏̏̎̍̈́͛̉̓͒̀̔͒̑̅̈́̄̋͂̌̑͛̀͆̅̏̾̊̔̚̕̚̕̕̕͜͜͜͜͜͝͝͠Ü̵̢̡̧̨̡̡̖̦̰̫̘͓̦̼̯̞̝͖̖̹̼̳͕̪̼͍͖̗̟̞̖̲̻̲̹̙͚̘̪͈̻͈̬̞̜͇͉̪̂́́́̎̾͆̈́̾̇͆̈́̊͐͊̔͑̂̍́́̿͌̔̽͑͌̉̎́̉̈́̈́̈́̔̓͑̌̋͌̆̀̐̈́̌̽̒̀̅̔͂̐̌̋̐̏̆͊͘͜͝͝͝͠ͅͅͅ ̶̧̨̡̡̡̡̡̮̮̟̤̬̩̩̭̭̪̼̱̪̬̰͙̺͉̯̜̣͕̞̺̯͍͚̝̰̺̮̘̪̼̘͓̠̟̝̣̖͛̊͊̓̀̃́͆̚̚ ̵̢̢̢̨̧̡͖̜͕̲̺̳̳͓̫͓̫̟̙̞̲͈̰͕̹̣̩̩͇̼̣̫̻̠̺̜̬̬̼̪̖̥̺͎̖̙̯͔̱̙͖̝̝͊͑͜ͅS̵̡̡̡̢̧̡̖̱̪̤͚͚͈̭͕͍̥̜̱͎̱̲͚̻̼̺̫̬̙͈̺͉̟̲̱̖͚̻̠̟̦̲̼̬̖͌̐̍̄̊̐̒̎̽͐͆͛̑͐̑̒͗͂̆͌͆͜͝͝͝ͅ ̴̛̫̜͙͒̉̄͗́͋͂͊̍͌͒̌̄̄͘ ̴̡̨̨͖̞̪̫̩̪͉̫͖̩̝͕̜̣̼̼̻̭̱͎̫̗̟͖͚͙͎̰̬̯̌͗̓̐̓̀͐̋́͒̊̍̒̐͑̈́̿̒̍̎̽̔̓͑̎̊̎̉́̇͘͘͝ͅͅT̴̡̨̛̞̯̠̟̤̪̺̺̗̤͉̙͍͙͚̖̖̖̻̲͓̘͇̳̳̲̟̘̠͚̰̘̊͌͆͋̋́̿͂̀̃̑͂̂̆̾͑̔̎͑́̃̒̈́͌͗̽̃͋͒͂̓̂̄̾̈́̈́̿̀̐̿̀͂̅̿͒̓̈́̀͘͘̚͜͝͠͝͠͠͠҉̷͕̬̩̣̱̤̪̝̟͓̯̱̻̞͖̜̙͕̘͙̹̥̼͍̙̗̄̔͗̊͌͗̃̾̎͆͂̑͂̈́͝͝͝ͅͅ ̸̢̡̧̢̮͚̬͓̩̪̭̟̤̰͚̭̞̻̗̲̗̙͈̯̭̮̖̪̝̙͔̰̬̟̇͑͒̌̓̊͆̾̎̎͌͒͊͌͋́̈́̒͛̇̃̍͂̈́̽̊̐̕̚͜͠͠ͅ ̵̨̢̨̢̨̧̡̧̧̢̧̢̢̨̛̛̛̛̛̫͍̫̰̩͎̳̯̥̘̫̠̮̣̞̝̖͔̗͈͈̘̱̖̖͍̫̜͖̮͍͇̝͉̠̫̰̼̗̘̪̬̟̭̰͓̲͚͉̻̗̰̮̩̱̩̱͖̣̤͉͍̤̯͇̹͐͂͊̂͋̐͛̒̓͑̔̈́̊͆̽̑̓͛̇́͋̈́̎̔̊̊̍̒̀̐́̏̓͐̑̀͆̊̊̏̋͊̏̑͑̉̈̀̔̏̄̃̀́̒̍͒̄̌͆̾̏͊̾̓̐͑̽͘͘̕̚͜͜͠͝͝͝͝ ̸̢̧̢̢̢̪͈̫͇̖̙̠̣͕̜̬̖̺̟̫̗̬̙̙̰̯͙͔͉̲̥̫̠͓̤͍̙̤͓̫̻̺͍̣̜͍̪̭̗͛̂͑̿̆̈́̈́̾̑̽̐͌̔̉͋̿͑͋̍̇̆̓̈́͑͑͌̆́̾̔͆͂̂͌̈́̇͌͛͂̈̌͊̑́̏̂͆̾̽̌̂̒͆̃͐̈́̋̆̽͗̓̑̒͊̕̚̕͘̚̕̚͜͠͝͠͝͠ ̶̧̧͎̭̼͓̰̲͈̠̯̗͈̰̯̘̼͈̺̺̱̞̼̪͎̲͈͍̪̼̦̥̟̲͈͍̦̖̺̙͎̙̖̗̬̘̖͍̺̪͓͚̳͓̹͓̗̹̻̙̊͑̽̿̀̂̾̈́̑́̑́́̂̏̀̉̈́̐̓̌͗̈́͋̾̊̏̒̉̈́̈́͋̽̈́̂̌̽̋̽̅̀̐̓͑̆̓̈́̽̒̒͒̀̓̃͒̀̓̕̕͘͜͜͝͝͠͝͝͝͝͠͝͝ͅ ̴̢̨̡̡̨̨̧̢̟̩̘̺̘̙̰̲̣̺̩͕̩̩̗͍͖̙̳͕̺͖̞͓̘̱̣̺̻͙̞͉̱̻̘̯̜̗̰̺̱̤͎͍̜̗͚͇̼̰̠͉̭̬̩͇͔̰̠̀̀̄͆̄͐͐͂͗̂̐̉̽͐̆̀̏̀̌̾̐͛̽̃͌͂̓̋̂́͛̐̃̏̿̾̄̓̔́͑̚̕͜͜͝͝ͅͅB̷̨̢̛̬̺̞͔̘̭̼͍̮͈̭͇̬̙̲̘̰̮̞͓͓̭̙̦̻̹͎̟̱̦̪̗͎̪̤̥̫̉̐̃̆̑̊̌͒̈̇̈́̑̉̀̅̎̈́̀͗͗̇̈͌̊̆̿̇̄̆̔̊͆́̄̈́̓̔̓̆̅͗͗́̈́̉͋̑̓͌̏͛͛̈́͆̍͋̄̈́͊̃̈́̒̎̇̀̊̏̃̈͆̏̅̕͘̕͜͜͠͝͠͝͝͠ͅ ̸̨̧̧̳̘̖͚͍̟̯͎͉̼̱̦̥̺̘̯͍̻̗̬̻̫͙̯͍̥̦͙̱͔̰͚̻̪̜̪̮̝̺̇ͅͅͅͅ ̵̧̨̧̮̩̺͇͓̦͙̝͖̙͙̦̺͈̘̩͈̩͓̮̫͍̹̜̦͎̲̬̙̠̜̀̆̔̿̿̽͆̑͛͋̋̄͊̑̇͋̂̐̑͂͗̃̓̀͗̾́̇́̏̇̓͒̀̽̎͌̋̾̌͑̏̀̓͐́̀̑̉̀͊̚̚͘͠҉̸̨̨̡̛̪͙̜͕̗͉̭̼̦̪͇̺̗̬̟̰͕͇͈̆̋͌͌͒̊̿̈̓̐͒͗̃͜Ȩ̶̡̧̛̛̫͓̰̙͈̰͙͙̰̬͎͇͚̦͉͈̭̾̊̽̅̿́̅͒͂̋̋̀̉̈́̎̒́͊̒͒̀̽͒͑̋̈́̈̔͐̎̍͌͒́̊̕̕͘͝͝͠͝͝ ̴̨̧̢̢̧̝̜͔̟̟͈͇̖̣͕̦̩̺̤̪͕̯̪͕̻̤̲̬͉̥̪̣͕͈̻̥͍̤̱͖̤̭̩̣͔͙̗͖̲͍̊͑̅̌̂̂̋͛͋̓͒̔̈́̌̃͗̃͋͑͒͊͂̊̄̇̏̅̀̓̈́̄̚͘̚͘͝͝ͅ ̵̨̡̨̨̡̨̧̛̛̛̤̮̟͚̙̫̯̼̭͚̦̖̺͓̖̹̹̣͍͇͉̞͓̲͔̯̙̩͈̰͉̩̤̳͓̲̻̙͕̬̼̲̞̙̖̘̣̭͓̼͓̼͓͍͚̉̾̀́̈́̇̆̓̎̑̅̈̓̐̏̂̾̂̓͂͋͛̐̃̆̋̅̎̔̇͂̏̓̾̈͋͂̄̈̊̈̇̄̈́̌͆̋̓̊̔̃̍́͂̉̐̔̆̆͂̏͌̈̓̐͂͗̚̚̕̕̕͘͜͜͝͠͠͝ ̵̢̡̧̢̬͖̫̮͓̯̪͚̻̗͉̞̗̼̰̯̭̞͚̺̹̟̻͍̥͈͈͒̀͛́͛̆̀͋͆͂̆̔̓̇́͆͆̊̋̿̈́̂͜͜͝͠҉̶̧̡̡̧̨̨̛̛̛̯͚̥̟̳̺̺̘̰̯͈͕̬̘̺̼͇̤̥̮͎͚̟͎̝̘̫̼͍̦͚̣̼̼͉̹̼̝̟̩̣̭̗̙̖̟̮͕͚̦̻̯̞̹͕̫̩̌̏̓̾̀́̽̈́͒̏͐́͋͑͗́̈́́̏̉̈́̈͑͌̆͗͊̊̈̿̿̃̿̈́̄̓̅͆͒̈́̋͐̔̓̊͒̌͌̇̒̊̀̀͋̀̓̽̀͐̒͐̈́̔̓̃̋̚͜͜͜͝͝͠ͅͅ ̵̨̧̡̢͈̠͇͓̠̺͉̳̝͔̦͍̼̳̥̫̱͂̈́̑̃͊̈́̑̆̆̔͊̀̒̑̉͛͒̾̇̽͆̀̽̑̀̾͌̅͋̃̈͂̅̑́̔̿̚̕͝͠͝͝ͅ҉̷̨̢̬̖̼̣͖́͛̎̎͝ ̷̧̡̨̧̛̛͇̣̪͎͕͉͍̪̣̬̬̪̦̮̰̗͍̯̦͇̗̟̻͔̤͇̙͕͉̳͚̝̅̎̀̐͐̉̽̅̽̀͊́̎͂̓̍̍̾̈́͑́̐̒̓̑̄̃͗͗̃͐͑͑́̊̅̽̌̿̑͌̌̀̾́͗̈́̀͑̌͛̍̐̌͑̅͘̕̚͘͘͝͠͠͝A̴̧̢̢̢̧̢̠̖̭͓̰̜̰̹͔̺͎̟̯̯̙͎̲̯̞͈̠̩͚̯̦̰͉̟̼͔̯̬̭̙͖͖̫͈̟̥̻͉̭̺͚̮͙͕̟͈̙̝̘̘͍̖͙͖̟͖̥͆́̐̈̈́̇͋̔̊́̅͂̊̂͑́̽̄̾͂́͐̈̀̅̈́̂̄͐̚͘̕͘͝͠ͅͅ ̷̶̧̧̨̧̧̡̨̡̨̧̧̢̧̛̛̛̩͈̼̗̬̜̼͖̝̩̝̙̯̟͔͎̫̬̺̖͉͇̫̟͔͍̻̗̜͙̭̟͍̪͔̭͙̬̦̫͎̞͇̩̠̮̤͓̺̣͖̝͕͇̝͈̝̩̗̹̤̥͈̟̣̗̳͇̙̭̙̱̯̫͙̳̦͕͚̰̹̞̠̺̼͔̲͉͕͈͎̖͈̦͇̣̘̜͍̮̯͖̬̘̟̱͇̙͔̙̻͕̲̺̜͖̐̍͛͌̎́͌̓̐͌̊̀͛͌͆̈́̽̉̓̽̇̐̌̄̂͂̀̾̊̀̑̍̽̀̌̆͋͐̐̅͒͒̿͆̎̍̽̓̃́̀̅́͐͗͋̂͒̂͗̈́̅̊̌͆̏̆̈́̈̂͒̓͑̇̔͐͋̀͑̽̐̈́̒͒́̀̒́̂̏̀̆̃̂͗̐̈̆̂͛̆̓̐̌̈́͗̾̈̐̈́͂͂̊̿̑̒̈̓͐͋́͆͂͒̓͐̃̈́͋̀͑͘̚̚̚̚̕̕͢͜͝͝͠͠͠͝͠͝͝͝͠ͅͅͅͅͅͅ ̷̢̨̢̺̗̱͉̳̬̩̹̲̯͈̞̺̳̗̫̜͈̱̦͈̼̜͇̰̞̬̠̳̜͈̠͔͑̂̈́́̈́̔͘͠ͅ҉̶̡̛̣͍̳̻͕̤̬͉̜̮͙̞̥̮͍̮͙͚̦̻̺̟̫͔͓̟̥̥͎̙̤͉̲̺͕̞͈̹̗͇̘̏̂̋̑̉̆̽̒̏̓̆̇̔́͆̔͋͛̽̽̑̿̍̓̅́̀̀̌̉̈́̋́̕͠͠͠͠͝ͅͅͅḌ̸̛̛͈̦̲̲̟̝̘̳̯̹̰̤̆͛͂̀͌̐͌͒̾́̍̀̋̀́͐̇̽̎͌́̎̐̈́̔͗̈́̃̅́̅̋̽̀̾͑͌̌̊̐̈̐͌͆̀̈́̈̂͋̇̚̚͝͝͝ ̷̡̨̧̥͔̯͚̪̠̟̪͙͎͎̺̩͔͉̬̝̯͔̼̥̟͎̮̜̼̳̘͓͇͙̥̤̥̬̼̗̿̂͂̈̒̽̂̉̊͆̂̐́̌͐̂̊̀̒̌̑̿́̐̈́͒̂͑̾͌̆͆̄̾͐̎̄̀͂̊̂͛̅͋̀͐͑̍̄́͌̚̚̕̕̕̕͘͘͘͝͠͝͠ͅ ̶̢̡̧̧̢̡̛͖̩̗̱̣͉̤̫͉͓͕̗̳̟̱̲̱̟͖̗̦̻̟̺̺̤̥̰̼͖̙̺̭̻̤̝̜̺͇͔͖̬̪͎̜̲̰͚̺̬̗̝͇͚͚͖̜̙̟̻̙̬̹̝̓͑̌͌̆̾̀̉͛̈́̇̊̃̒͂͋̽͂̿͂̃̄͗̏́͑̇̽̓̎͗̐̀̅͛̐͊̃̑̕̚͘̕͜͠͠͝͝͝ͅ҉̶̢̧̢̡̧̧̨̡̛͕̲̝̦̤̯̤̥̖̱̻̘͇̦͖͖̮͚̞̻͈̘̱̝̳̹͎̰̤͎̹̻̳̼͈̬̩̬̮̪̖̻͇̥̟̜͎͙̼̪̦͖͚͖̥͚̭̮̯͕̗̝͉̣͔̠̥͈̘̼͊̇̈́̏́̔̎̒̀̿̅̒͘͜͠͝͝͠V̸̡̨̨̹͕͇̟͙̦̜̬̠̳̗̟͙͈͕̪͙̻͓̠̯̦̠̠̮́̑̈̀̍͋͛͋̃͊͂̎͛͊͌̈́̽̅̎̈́͛̈́̈͛͌̇̾̆̉̊̈͑̄͐̆̽͗͌̑̉̏̎͂͊̈́̅̋̒͂͂̈́̀̀͒̈́̈́̃̑̿́͌̏̐̾̄̚̚̕͠͠͝͠͠͠ ̸̨̨̧̢̡̢̬̙̗͕̹̪̗͔̗̘̖̪̼̰͚͔͖̤̩͉͈̠̗̘̫̯̠͕̦͚͓̞̹̼̣̱̻̩̝̣̤̻͉͔̺̫̺̤̝͈̖̝̙̝̣̲̣̜̖̟̹̣̥̗̞̥̹͉̩͉͖̤̈́́̿̍̌̿̈̽̆̄͑͗̋͜͜͜͜͠ͅͅͅͅ ̴̨̛̛̤̦̗̄͑̆̋̈̾̒̾͊̓̈̋̆̅̿͌̈́́̑̏̔̾́̒͆͗̉͂̓́̒̏̉̽̎̑͑́̍̍̃̓́̋͐̀͂͌̎̓̆̄̓͌͒̋͘̚̚͜͠A̸̢̡̡̧̡̧̟̤̤̱͔͓͍͍͎͍͖͔͎͙͈̙͓̻͈͙̣̳̰͍͕̣̹̝͓͍̳̥̜͚͓̙͓̻͔̪̘̳̹͉̺̫͓͙̣̮͇̠̗̞̲̩̟̲̠̯̼͍̜̜̣͔̖̩̜̱̰͒͆̈́̄́͊͒̾̓͒̐͗̀҉̷̡̨̧̢̨̧̢̡̛͚͖̟͈̲̳͇͉͔̲̗̝͓̫̭̫̫͍̫̼̝̦̹͈͔̪̮̖͈̻̖͙̄̌͛̂͊͗͋̈́̆̐͆̈͂̓͊̊̾̾̿̌͗̄̾̒͋̀̿̽̓͂̓̉͆̀̋͛͛̿̈́̿͐́͑̄̋͋͌̋̇̈́̐́͆͌̓̈̓͗̑̄͂̒͒̂̾͂̒͊̕͘͜͠͝͝ ̵̴̡̢̢̧̛̛̯͙͖͍͚̲͍̖͚̻̪̗͙͖͙͇͈̜̤͉̺͎̞̖͙͎̪͈͍̖̗͍͓̻̼̖̼̺̜̭͕͕̫̦͚̮͔̻̭̲̓̃̀̾͌́̒̂̈̓́͌̃̃̀̇̄̽̽̎͆̈́̈́̈̊͋̔͊͗̄́̅͑̽̓̈́̃̄̈́̽̐͗̈́͑̏̆͗̔̅͋̓̆̀͘̚̚͘͘̕͘͜͢͝͝͝͝ ̵̢̢̢̛͎̳̼͚̝͙͉͔̮̦̜̖̬̭̗͎͓͚̟̮͓̳͎̜̱͕̳̮͙̥̙̹̤̟̙̭̱̖͕̳̝͍͖̯̙̙̝̰̳̰̗͊̓̌̍̀͌̌̿̒̇̅̍̅͗̈́́̉̎̐͌̿̋͐̀̂̉́͐̓͛̿̌̒̽͒̊̔̈͋̈́̑͑̊̽̾̍̓͋̈́̋͊̆̑̾̒̚͘͘͘̕͠͝ͅŅ̵̢̢̛̛̛̛̛̛̭̘͔̖̜̞̘̯̫̖̙͇͎͙̥͓̻͔̣̺̣͇̘̺̆̈̄͊̀̐̈́̍̅̅̆̃̀̈̓͛̎̈́̏͒̈́͆̃̉̔̈́̾̽̊̈̈́̓̓͗̽̄̑̀͊͊̏̆̋͋̏̇̋̓͛̏̌̆̐̿̊̚͝͝͝ͅ ̸̡̧͕͔̬̘̻͍̩̮̳͖̟̙̱̍̊̑̔͊̇̃͌̒͊͋̅̒́̒̂̇̇̽̉̉̀̆́̆̀̽̕̚ ̸̰̜̱͚̪̜̯͎̪̯̪̠̳͕͚̺̟̝͕͖͖̮̳̼̎̃̓͐̓̈́̀̀̇̈̒́͗͋͛͆͑̔̇͐̀͛̊̏͂͗̏̊̇͋͋̒̌̆̍̂͒͘͘̚̚͜͝ͅC̸̡̡̢̨̦̣̼̮̺̗͎̞̯̗͈͔̮͔͉̠̟̮̱͖͔͖̻͓̘̗͈̝̦̭̱̠͍̤͍̮͎̳̹͉̮̟̭̩̯̲̯̻̻̜͖̺̮̹̙̝̑͊̑̔͗̀͌̔̃͌̕͜ͅͅ ̴̧̨̢̨̛̰̮̖̣̥͕̯̗͔̥̬̰̩̟̻̤̦̮͔̭̼̝̻̹̲̪̰̰͇̼̱̞̥̥̙̱̯̭̦͔̼̺̦̬̜̖̩̺͓͙̼̞̼͍̻͖̦̫̻̤̞͈̤̲̼͔͉͚͚̻͎̜̪̖̱̼̼͛̃̈́̒̈́̿̊̋̐̈́̓̈̐̐͋̂͗͒̽͐̽̑͑̎̀̈́̓͒̽́͌̍́̐̓̍̌̕̚͘͘͘͜͜͜͝͝͝͠ͅ ̵̷̡̧̢̧̧̨̛̲͇̳̩̹̯̺̮̦̩͖̝̖͎̞͍̝͖͇̫̣̞͉̳̗̦̠̼̟͈̬̠͙͙͕͈̬̮̘͔̹̫̬͍͕̤̗̟̝̼̼̝͙̫̲͇̣̬̜̦͔̘̞͎̤͕̹̩̪̗͇̱̞̤̭̫͇͉̠̪̼̙̜͇̟̲͚͎̬̟͎͍̰͔̥̰̞͍̳̟̲͎̬̖̮͈̳̱̣͑̍̐͋̀͐͐̃͂̎̇͐͊̇̀͗͆̿͒̍̈́̈̑̈̉͑͒̀̉̓̾̄̏̈́̓̊͐̌̉̍̒͒̐̉̾̏̌̾͆́͊̉̅̉͊́̏͂́̈̀͂͗̆́̐̑͗̽̐̉̋͐̉̈́̂́̌͒̓̌͛̉̈́̊́̋̾̀͂̆̐͒̐͑͋͗̄̅̈́̏̒̕͘̕̕͘̚̕̚͜͢͠͝͝͠͝ͅͅͅͅͅͅ҉̵̨̡̨̢̨̨̨̢̛̛̛͍̙̥̭̮̲̦̫̗̻̦̩̗̮̳͔̗͓̬̦̤̘̞̥͈͉͙̠̻̘̱̦͙̟͕̯̺̫̫͖̰͖̘̠̘͚͖̠͐̒͐̅͂̿̋͌̉̃̌͌̎̔̒͐͊̓̃̊̓̈̈̌̄̾̂̈́̃̂̅̕̚͘͜͜͜͜͝͝͝͝͝ͅÊ̷̢̟̱̳͚̮̱̮̠̘̲͉̥̿̆̊̀̈́̍̈̀͜ͅ ̶̛̛̛̼̺̩͔̪̼̥̺̂́͆̐̉͆̌̀́̊́̀͆̄͗̔̌̿́̈́̄͆̀͂̃͗̇̆̒̒̐͛̈́̐͐̓̂̓̾́̓̍͂̏́̿͂͆̐̉̿̒͘̚̚̕̕̕̚͘͝͝͠͝ ̵̨̨͈̜̳̳̯̮͔̻̹̤͇̤͇̘̞̫̻̟̫̞͈̮͍͍̤̭̫̠̞͍̥͍̤͉̭̺̰̱̣̙̳̦́̌͋̅͛̎̏̀͊͒͛̿̕͜͜D̵̴̢̢̡̧̡̢̡̧̡̡̡̛̛̛̛̻̜̼͚̝̫̦̫͇̟̝̰͕̠̞̖͔̹͚͓̱͇̹͉̘̖̬̝͔̥̦̯̟̳͍̳̱̥͖̱̰̜̼̻͖̞̣̬͕̖͈͖̠̙̲̺̘͍̘͕̭̦͈̫̰͇̻̟̬̬͖͔̠͚̪̩͇̦͕̟͇͚̤̲̲̻̣̗̮̺̯͖̰̰̖̮̤̪͔̠̲̬̼͓̹̼̹͖̞̬̙̣̰̝͔̙͍͍͉̪̲̫̣͎̱̠̥̝͙͓̟̩̫̥̬̱̪̯̙̀̊̀̿͛̽̉̎̈͂̍̿̃͋̎̽̈́͂͐̍́̆͗̒̆̃̈̽̋̃͒͌́̑̈́̏͊͛͒̽͂͂̓̀̌̂̌̐̐̊̽̽̀̈́̇͗̓̿̀̓́̌͆̅̆̔̏͐̀͋̈̑̊̈̌̈̊̒͗́̎̉̉̈́̃͌͂̏̂̉̊̉̔̊͑̈̏͘͘͘̚͘̕̕̕͜͜͜͢͜͜͠͠͝͠͠ͅͅ!̴̡̢̢̛̛̲͕̟̫̘͕͎͕̰̞̬͔̗̹̘̭̽͗̒̀̈́̅̆͂̋͒̀̈́́̀̇̏̔͆̄͊̂͋̈́́̂͆̐̅̇̀̆̿̇̏͐̈̓̔͋̀̃̍̿̽͆́̃̄̀̔̔̄͐͐͑̉̉̀̃̑̋͊̔͒͗̌̇͆̈́̍́̄̕̚͠͝͝͝͝͝͠͝͝ͅͅ҉̵̡̨̛̻̲̫̗̱̳̭͉͇̖̗̪͍̳̮̬͚͚̻̖̬̙̯͇̺̭̭͉̥͍̀̉͛́͐̊́̈́̏͒̿̍̐̊͒̃̒̀͂́͋̑̾͐̿̀̒̅͗͐͒́̾̈̍͆̑̿̀̈́͋̾̏͑̽̍̿̆̋͆̋̏́̍́̍̚̕͘͜͠͠͝͝ͅ ̷̡̡̨̢̛̛̛̛̱̗̰̦̯̞̗̝̱͍̭̗͖̬͍͕͙̜͈̞̱͈̪͖̥̝̪͕͔͇̟͇̣̺̮̘̬̬̈́̒́̑̅̍͗̿̃̅̿̃͒́́͂̏̒̈́͌̿̆́̿̈́̂̏̉̏̅̇̑̾̾̏̇̃̇̈́͊͛͑͐̆̂͊̔͗́͆̾̉̇̈́̃̒͑͛́͘̕̚̚̚̚͜͝͝͠͝ͅ
+
+1:02:28.380,1:02:31.080
+So, yeah. Dorico is really impressive. I like it.
+
+1:02:31.080,1:02:31.680
+Um,
+
+1:02:31.680,1:02:34.280
+...sorry if I kind of maybe misled
+you there with that last bit.
+
+1:02:34.280,1:02:37.380
+I suppose you probably thought I was
+going to conclude otherwise, well...
+
+1:02:37.380,1:02:38.740
+...I guess I’m not surprised.
+
+1:02:38.740,1:02:42.160
+I didn’t expect this video to lurch
+from praise to criticism so much.
+
+1:02:42.160,1:02:45.440
+I mean, on the positive side,
+it does a lot of stuff extremely well.
+
+1:02:45.440,1:02:46.380
+It looks great.
+
+1:02:46.380,1:02:49.720
+It features a lot of attention to detail
+and its engraving is fantastic.
+
+1:02:49.720,1:02:51.580
+It also has tons of new ideas
+
+1:02:51.580,1:02:54.920
+...and has really made an impressive
+attempt to solve long-standing problems.
+
+1:02:54.920,1:02:55.780
+And with that in mind,
+
+1:02:55.780,1:02:59.380
+...I think this is actually one of the big
+‘thank you’s we all owe to the Dorico team.
+
+1:02:59.700,1:03:02.360
+Thanks for forcing everyone
+else to have to up their game!
+
+1:03:02.620,1:03:06.400
+From spending a lot of time looking through their
+forum posts and engagement on social media,
+
+1:03:06.400,1:03:09.860
+...the impression I get is of a very
+professional and engaged team.
+
+1:03:09.860,1:03:14.440
+Daniel, in particular, is super disciplined in the face
+of sometimes less than reasonable comments,
+
+1:03:14.440,1:03:16.600
+...and other times, he’s just pleasant by default.
+
+1:03:16.600,1:03:17.620
+I mean, look at this.
+
+1:03:17.620,1:03:19.000
+A user recently tweeted:
+
+1:03:23.240,1:03:25.800
+Now, I know a lot of people who would either ignore this,
+
+1:03:25.800,1:03:28.580
+...or curtly ask the person to be a little more specific.
+
+1:03:28.580,1:03:29.840
+But, Daniel replies:
+
+1:03:33.600,1:03:34.960
+I don’t know why I like this so much.
+
+1:03:34.960,1:03:37.000
+It just seemed above and beyond to me.
+
+1:03:37.000,1:03:37.940
+Oh Daniel,
+
+1:03:37.940,1:03:39.700
+...I could just give you a big kiss.
+
+1:03:41.080,1:03:42.580
+So, to the big question:
+
+1:03:42.580,1:03:44.740
+If I was commissioned tomorrow to write a score,
+
+1:03:44.740,1:03:46.200
+...which of the two apps would I choose?
+
+1:03:46.200,1:03:47.640
+Sibelius or Dorico?
+
+1:03:47.640,1:03:49.020
+Now, I’m not going to lie.
+
+1:03:49.020,1:03:51.740
+I’ve written this paragraph three times in 6 months.
+
+1:03:51.740,1:03:52.800
+At first, it was
+
+1:03:52.800,1:03:54.380
+‘Sibelius, hands down’
+
+1:03:54.380,1:03:56.000
+...because writing is so much faster.
+
+1:03:56.220,1:03:58.260
+And then, as I begun finishing music in Dorico
+
+1:03:58.260,1:04:00.640
+...and seeing how well the parts
+and layouts were handled,
+
+1:04:00.640,1:04:02.760
+...I thought, ‘Well that claws back a bit of time',
+
+1:04:02.760,1:04:04.140
+...'Hmm, it’s neck and neck now’,
+
+1:04:04.140,1:04:06.320
+And then I was actually commissioned
+to write a new piece,
+
+1:04:06.320,1:04:08.420
+...and I limited myself to these two options,
+
+1:04:08.420,1:04:09.860
+...and the choice is just obvious:
+
+1:04:09.860,1:04:10.700
+Sibelius,
+
+1:04:10.700,1:04:13.820
+...despite the fact that I was
+actively using Dorico every day.
+
+1:04:13.820,1:04:14.600
+And the reason?
+
+1:04:14.600,1:04:15.920
+It’s just more permissive
+
+1:04:15.920,1:04:18.280
+...and allows me to get lost in the writing process.
+
+1:04:18.280,1:04:19.300
+But as I said,
+
+1:04:19.300,1:04:20.140
+...it’s close.
+
+1:04:20.140,1:04:20.980
+Really close.
+
+1:04:20.980,1:04:23.720
+...and I could easily change my
+mind in about 6 months' time.
+
+1:04:23.720,1:04:24.520
+For me right now,
+
+1:04:24.520,1:04:27.880
+...the deciding factor is that Sibelius
+lets me write how I want to write,
+
+1:04:27.880,1:04:28.880
+...whereas with Dorico,
+
+1:04:28.880,1:04:31.020
+...I have to write the way Dorico wants me to write.
+
+1:04:31.020,1:04:33.280
+And this is not the conclusion I wanted to come to.
+
+1:04:33.280,1:04:35.560
+I’ve been following the Dorico story for ages..
+
+1:04:35.560,1:04:38.200
+I love how much detail and passion
+they’ve shown for their product,
+
+1:04:38.200,1:04:39.840
+...and I have enormous respect for them.
+
+1:04:39.840,1:04:41.480
+But this isn’t a straight ‘no’,
+
+1:04:41.480,1:04:43.300
+...it's an 'almost'.
+
+1:04:43.300,1:04:44.880
+Regarding the things I don’t like,
+
+1:04:44.880,1:04:46.440
+...not everyone is going to agree.
+
+1:04:46.440,1:04:48.380
+And for some, Dorico already makes sense,
+
+1:04:48.380,1:04:50.800
+...and it has won a few die-hard admirers.
+
+1:04:51.060,1:04:53.920
+For those who think I overly focus on first-time usage:
+
+1:04:53.920,1:04:57.920
+As a designer, I have a particular dislike for
+apps that are made with the expectation that
+
+1:04:57.920,1:05:01.500
+...new users should spend an enormous
+amount of time coming to terms with it.
+
+1:05:01.500,1:05:05.800
+The reality of modern life is that we are now
+required to keep learning software all the time.
+
+1:05:05.800,1:05:06.820
+It’s overwhelming,
+
+1:05:06.820,1:05:10.420
+...and a designer’s job should be to try and
+reduce that pain as much as possible.
+
+1:05:10.420,1:05:13.100
+Think about those who are only
+at the beginning of their journey.
+
+1:05:13.100,1:05:14.400
+It sucks when you’re just starting out
+
+1:05:14.400,1:05:18.240
+...and your initial experience of trying to
+write some music is insanely technical.
+
+1:05:18.240,1:05:20.420
+A lot of young students have got in contact with me
+
+1:05:20.420,1:05:23.440
+...to express how demotivating
+their experience of Sibelius was.
+
+1:05:23.440,1:05:25.620
+And if Dorico took over in the classroom now,
+
+1:05:25.620,1:05:28.700
+...I think that would mean yet another
+generation going through the same thing.
+
+1:05:28.700,1:05:31.380
+But, why not find out for yourself and get their free trial?
+
+1:05:31.380,1:05:32.760
+If you’ve got this far in the video,
+
+1:05:32.760,1:05:35.880
+...you’ll most likely have a much easier
+time of it than the people I tested.
+
+1:05:35.880,1:05:38.460
+Let me know if they’ve fixed that eLicenser issue yet!
+
+1:05:38.460,1:05:41.480
+And my final thought to all people
+in music software is this:
+
+1:05:41.480,1:05:44.040
+Consistency is important, absolutely,
+
+1:05:44.040,1:05:46.800
+...but interface design is as much an art as a science,
+
+1:05:46.800,1:05:49.260
+...and it’s okay to sometimes break your own rules.
+
+1:05:49.260,1:05:53.900
+If not, then your super rational system
+may translate into a frustrating experience.
+
+1:05:54.280,1:05:55.260
+And the only way out of this
+
+1:05:55.260,1:05:57.480
+...is to focus on rigorous user-testing.
+
+1:05:57.480,1:05:59.000
+If the app is communicating well,
+
+1:05:59.000,1:06:01.180
+...you’ll see that reflected in how people use it.
+
+1:06:01.180,1:06:04.560
+And when your system produces
+an unfortunate interaction oddity,
+
+1:06:04.560,1:06:08.900
+...like having one mode for moving things horizontally
+and another for moving them up or down,
+
+1:06:08.900,1:06:10.520
+...it’s dangerous to take the attitude
+
+1:06:10.520,1:06:15.440
+...that the oddity is actually rational because
+it fits the system and the system is rational.
+
+1:06:15.440,1:06:17.880
+Instead, come up with a clever exception.
+
+1:06:17.880,1:06:20.580
+There’s no god of interface design watching over us.
+
+1:06:20.580,1:06:24.500
+We’re not honor-bound to always
+be 100% organisationally pure.
+
+1:06:24.500,1:06:25.920
+These users aren’t robots,
+
+1:06:25.920,1:06:27.460
+...they’re creative musicians,
+
+1:06:27.460,1:06:28.980
+...and half of them are mad!
+
+1:06:28.980,1:06:30.480
+Get mad, Dorico!
+
+1:06:30.480,1:06:32.180
+Get all up in everyone’s face!
+
+1:06:32.180,1:06:33.600
+They made you redundant.
+
+1:06:33.600,1:06:35.460
+They thought they could do without you!
+
+1:06:35.460,1:06:36.920
+But you’ll show them.
+
+1:06:36.920,1:06:39.600
+You’re going to make them pay for what they did!
+
+1:06:40.060,1:06:42.560
+The next time Sibelius crashes,
+
+1:06:42.560,1:06:44.760
+...it’ll be forever!

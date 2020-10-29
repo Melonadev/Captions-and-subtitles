@@ -1,0 +1,803 @@
+0:00:00.140,0:00:00.760
+Hi!
+
+0:00:00.760,0:00:04.020
+It's been a while since my previous
+ElectroBOOM 101 video,
+
+0:00:04.020,0:00:05.260
+...which was about
+
+0:00:05.260,0:00:06.500
+...resistors. Right.
+
+0:00:06.500,0:00:09.980
+But there's no point to go any further
+without knowing what a circuit is.
+
+0:00:10.320,0:00:11.200
+What is a circuit?
+
+0:00:11.520,0:00:13.460
+Well, you always need a power supply
+
+0:00:13.460,0:00:14.940
+(like the AC source)
+
+0:00:14.940,0:00:15.800
+...and a load.
+
+0:00:16.900,0:00:17.520
+Let me...
+
+0:00:17.520,0:00:18.820
+...make some room.
+
+0:00:18.820,0:00:19.700
+I just need to...
+
+0:00:20.300,0:00:22.060
+...clean in front of the camera.
+
+0:00:22.060,0:00:24.420
+Like a microwave oven, for example.
+
+0:00:24.420,0:00:25.960
+I can put in the
+
+0:00:27.040,0:00:28.980
+...plastic fan, I guess.
+
+0:00:28.980,0:00:30.820
+It's not gonna heat up because it is plastic.
+
+0:00:31.480,0:00:32.780
+Now if I turn it on,
+
+0:00:32.780,0:00:34.960
+...it draws power from the supply
+
+0:00:34.960,0:00:35.580
+...to heat up the-
+
+0:00:51.560,0:00:52.340
+How does it work!?
+
+0:01:06.580,0:01:08.360
+If there is metal in something,
+
+0:01:08.360,0:01:09.800
+...don't put it in the microwave.
+
+0:01:10.660,0:01:12.440
+Just burned my No.1 fan.
+
+0:01:12.440,0:01:15.180
+And don't just throw fire on your pile of junk.
+
+0:01:15.180,0:01:15.780
+H H H ∀ ∀ ∀ ∀ ∀
+
+0:01:16.040,0:01:17.640
+We can use a lamp for example,
+
+0:01:17.640,0:01:18.220
+...as the lo-
+
+0:01:25.020,0:01:28.320
+You know, a lot of smart people do a very decent job of
+
+0:01:28.320,0:01:30.460
+...teaching their knowledge and skills at
+
+0:01:31.080,0:01:32.760
+...the sponsor of this video!
+
+0:01:32.760,0:01:34.820
+The online learning community.
+
+0:01:34.820,0:01:36.480
+Thousands of classes!
+
+0:01:36.480,0:01:38.900
+And none of them is likely to set your home on fire.
+
+0:01:39.140,0:01:42.200
+You can surely find what you like or need to learn
+
+0:01:42.200,0:01:44.240
+...from the list of many categories
+
+0:01:44.240,0:01:45.100
+...for free!
+
+0:01:45.420,0:01:47.100
+For the first two months, that is,
+
+0:01:47.100,0:01:49.320
+...IF you use my link to sign up,
+
+0:01:49.320,0:01:52.820
+...after which the annual subscription
+is less than $10 a month,
+
+0:01:52.820,0:01:55.320
+...which is nothing compared to the value of knowledge.
+
+0:01:55.420,0:01:57.080
+Let's continue on the whiteboard.
+
+0:01:57.080,0:01:59.540
+Simply put, every circuit is made of two parts:
+
+0:01:59.540,0:02:01.980
+A power supply which pukes out power,
+
+0:02:01.980,0:02:04.160
+...and a load that eats up power.
+
+0:02:04.160,0:02:06.620
+The power supply generates electric current
+
+0:02:06.620,0:02:08.900
+...by placing voltage across the load.
+
+0:02:08.900,0:02:11.620
+Of course, energy can escape the system
+
+0:02:11.620,0:02:14.980
+...in form of light, heat, radiation and such,
+
+0:02:14.980,0:02:17.260
+...but the electric charges, like electrons,
+
+0:02:17.260,0:02:19.100
+...MUST return to the source,
+
+0:02:19.100,0:02:23.020
+...and thats why all active circuits are always closed.
+
+0:02:23.240,0:02:24.080
+ALWAYS!
+
+0:02:24.420,0:02:26.180
+It is like the flow of water
+
+0:02:26.540,0:02:27.920
+...turning a generator.
+
+0:02:28.300,0:02:32.160
+As we rely on the water cycle to return
+the water back into the hose,
+
+0:02:32.480,0:02:36.040
+...the electric charges must
+also return back to the source.
+
+0:02:36.040,0:02:38.660
+Otherwise, we'll run out of charges to push out
+
+0:02:38.660,0:02:40.040
+...and the current stops.
+
+0:02:40.520,0:02:43.080
+So, if I supposedly open the circuit,
+
+0:02:43.080,0:02:45.260
+...but the light continues glowing a bit,
+
+0:02:45.260,0:02:47.600
+...it's because the circuit never really opened.
+
+0:02:47.600,0:02:49.700
+If the circuit seems open
+
+0:02:49.700,0:02:51.340
+...but your load is still powered,
+
+0:02:51.340,0:02:54.060
+...then you must be missing a component in your circuit,
+
+0:02:54.060,0:02:55.020
+...which in this case
+
+0:02:55.020,0:02:59.400
+...is a stray capacitor made through
+the excess length of the wire,
+
+0:02:59.400,0:03:02.600
+...which blocks DC, but passes AC through.
+
+0:03:02.880,0:03:06.340
+So you must be careful about why
+you're drawing a schematic.
+
+0:03:06.340,0:03:08.320
+There are two main types of schematic.
+
+0:03:08.320,0:03:11.420
+One is simply to show the components
+you have in your design
+
+0:03:11.420,0:03:12.540
+...and how to connect them.
+
+0:03:12.540,0:03:16.120
+This is typically for manufacturing
+or troubleshooting purposes,
+
+0:03:16.120,0:03:17.260
+Pretty straightforward.
+
+0:03:17.260,0:03:19.480
+You just draw it to be most readable,
+
+0:03:19.480,0:03:24.120
+...and these lines show how your components
+connect by conductors like wire.
+
+0:03:24.300,0:03:26.180
+But, another type of schematic
+
+0:03:26.180,0:03:28.600
+...is what you draw to analyze a circuit.
+
+0:03:28.600,0:03:29.800
+In such a schematic,
+
+0:03:29.800,0:03:34.560
+...the results are as accurate as the models
+you pick for your circuits and components.
+
+0:03:34.760,0:03:37.220
+So, there might be a capacitor
+
+0:03:37.220,0:03:38.880
+...parallel to your switch.
+
+0:03:38.880,0:03:42.100
+Your supply would have an output impedance.
+
+0:03:42.100,0:03:44.380
+Your wires would have
+
+0:03:44.380,0:03:47.340
+...series resistive and inductive components.
+
+0:03:47.340,0:03:48.320
+Your load
+
+0:03:48.320,0:03:52.560
+...might have an antenna component
+radiating electromagnetic waves.
+
+0:03:52.560,0:03:54.220
+But don't let this intimidate you.
+
+0:03:54.220,0:03:57.160
+As a designer, you need to know that these exist
+
+0:03:57.160,0:03:58.980
+...and you will learn when to ignore them,
+
+0:03:58.980,0:04:01.400
+...unlike the designers of these LED light bulbs,
+
+0:04:01.400,0:04:05.380
+...who decided to ignore the line
+capacitance and let the lamp glow.
+
+0:04:05.620,0:04:09.160
+So, in every schematic there are
+components and their connections.
+
+0:04:09.340,0:04:10.940
+Components connect together
+
+0:04:10.940,0:04:14.140
+...through these connecting lines by their terminals.
+
+0:04:14.220,0:04:17.200
+Components can have one terminal, like an antenna.
+
+0:04:17.200,0:04:19.060
+Two terminals is the most common one
+
+0:04:19.060,0:04:22.900
+...like resistors, capacitors, inductors,
+supply, diodes and such.
+
+0:04:23.420,0:04:25.640
+Three terminals is like transistors,
+
+0:04:25.640,0:04:28.180
+Four terminals and above are like ICs,
+
+0:04:28.180,0:04:30.720
+...like amplifiers, processors and such.
+
+0:04:30.720,0:04:34.080
+The connecting line's properties
+depend on the type of schematic.
+
+0:04:34.080,0:04:37.340
+Again, if you are using this for
+manufacturing or troubleshooting,
+
+0:04:37.340,0:04:40.580
+...then these lines only show how
+the components are connected,
+
+0:04:40.580,0:04:43.900
+...ignoring the wire resistance or
+other straight components.
+
+0:04:44.000,0:04:46.860
+But for analyzing a circuit, which is our focus here,
+
+0:04:46.860,0:04:48.820
+...these are not regular wires.
+
+0:04:48.820,0:04:51.020
+Nothing about them is regular.
+
+0:04:51.020,0:04:52.680
+They are magic wires!
+
+0:04:52.680,0:04:56.600
+Even superconductors don't come
+close to what these wires are!
+
+0:04:56.600,0:05:00.160
+These are ideal connections
+connecting point A to point B,
+
+0:05:00.160,0:05:02.720
+...with absolutely 0 ohm between them.
+
+0:05:02.720,0:05:05.380
+It doesn't matter how long the wire is,
+
+0:05:05.380,0:05:08.120
+...or how many locations it connects to.
+
+0:05:08.340,0:05:11.080
+The line itself does not affect your circuit.
+
+0:05:11.080,0:05:14.380
+These ideal connections have no stray inductance
+
+0:05:14.380,0:05:16.440
+...no matter how long the wires are,
+
+0:05:16.440,0:05:19.280
+...and there's no stray capacitance between the lines,
+
+0:05:19.280,0:05:22.140
+...no matter how close you draw them on paper.
+
+0:05:22.140,0:05:23.820
+These are SUPER WIRES!
+
+0:05:23.820,0:05:25.660
+Nobody calls them that though.
+
+0:05:25.660,0:05:28.700
+It is important to know that these are ideal connections.
+
+0:05:28.700,0:05:30.860
+And you must realise that in real life
+
+0:05:30.860,0:05:35.720
+...you will use actual wires that will have
+stray components like I mentioned
+
+0:05:35.720,0:05:38.000
+...that will affect the behaviour of the circuit.
+
+0:05:38.000,0:05:38.840
+But don't worry.
+
+0:05:38.840,0:05:43.560
+The engineering design involves a whole bunch
+of approximations and assumptions.
+
+0:05:43.560,0:05:45.180
+So for most purposes,
+
+0:05:45.180,0:05:48.440
+...such a connection is a pretty
+good approximation of a wire.
+
+0:05:48.440,0:05:52.140
+But if the straight component of
+a wire becomes too significant,
+
+0:05:52.140,0:05:54.660
+...you can show it in your schematic model
+
+0:05:54.660,0:05:56.960
+...to make the behavior better to understand
+
+0:05:56.960,0:05:58.980
+...and your calculations more accurate.
+
+0:05:58.980,0:06:00.680
+For example, in one of my videos,
+
+0:06:00.680,0:06:01.360
+...I made the
+
+0:06:01.780,0:06:02.420
+...resistor
+
+0:06:02.420,0:06:05.060
+...using this very thick, low-resistance wire.
+
+0:06:05.060,0:06:09.060
+Although for most purposes
+this thick-a** wire is a 0-ohm,
+
+0:06:09.060,0:06:11.740
+...for my purpose, I used it as a shunt resistor,
+
+0:06:11.740,0:06:13.660
+...and so must show it as a resistor.
+
+0:06:13.660,0:06:16.820
+Now, when a line connects to another line,
+
+0:06:16.820,0:06:18.600
+...it creates a node.
+
+0:06:18.600,0:06:20.480
+A node is a location where
+
+0:06:20.480,0:06:23.740
+...two or more branches connect to each other.
+
+0:06:23.740,0:06:25.700
+And like those magical connections,
+
+0:06:25.700,0:06:27.940
+...the nodes have no affect on your circuit
+
+0:06:27.940,0:06:29.800
+...beside connecting the branches.
+
+0:06:29.800,0:06:31.940
+So if you connect components like this,
+
+0:06:31.940,0:06:34.980
+...all these connections are no
+different than a single node.
+
+0:06:34.980,0:06:38.020
+Because since these are connected with magic lines,
+
+0:06:38.020,0:06:40.880
+...the line length and the number of nodes don't matter.
+
+0:06:40.880,0:06:43.980
+So you're free to draw your
+schematic to make it look pretty.
+
+0:06:43.980,0:06:45.580
+Okay, I hope I'm not going too fast.
+
+0:06:45.580,0:06:47.040
+Let's do some intermission.
+
+0:06:49.040,0:06:49.920
+Enough intermission.
+
+0:06:49.920,0:06:50.940
+Okay, let's repeat.
+
+0:06:51.160,0:06:52.080
+In a circuit,
+
+0:06:52.080,0:06:53.520
+...there are components
+
+0:06:53.520,0:06:56.040
+...that their terminals connect to each other
+
+0:06:56.040,0:06:57.560
+...using magic wires.
+
+0:06:58.220,0:07:01.300
+Two or more connections from different branches
+
+0:07:01.300,0:07:02.940
+...can join in a node.
+
+0:07:02.940,0:07:05.200
+Now let's talk about series and parallel.
+
+0:07:05.200,0:07:07.840
+These two are the simplest connections in a circuit
+
+0:07:07.840,0:07:10.500
+...that can help simplify our calculations.
+
+0:07:10.500,0:07:12.080
+Let's assume you have a component
+
+0:07:12.080,0:07:13.840
+...like a resistor or a capacitor
+
+0:07:13.840,0:07:19.780
+...or a complex circuit like a computer that you
+can contain all of the circuit in a black box
+
+0:07:19.780,0:07:22.480
+...with only two terminals going in and out of it.
+
+0:07:22.480,0:07:24.220
+If you have two of such components
+
+0:07:24.220,0:07:26.720
+...connected together by one terminal each,
+
+0:07:26.720,0:07:28.480
+...then these two are in series.
+
+0:07:28.480,0:07:31.340
+If both their terminals are connected like this,
+
+0:07:31.340,0:07:32.720
+...then they are in parallel.
+
+0:07:32.720,0:07:35.640
+If there are only two components in a circuit like this,
+
+0:07:35.640,0:07:37.740
+...then they are both in series and parallel,
+
+0:07:37.740,0:07:39.160
+...like a supply and a lamp.
+
+0:07:39.160,0:07:40.560
+Let's do some examples.
+
+0:07:40.560,0:07:42.640
+These four components are in series.
+
+0:07:42.640,0:07:46.540
+If I connect another component
+between these two nodes,
+
+0:07:46.940,0:07:47.740
+...then
+
+0:07:47.740,0:07:48.700
+...these two (C1-2)
+
+0:07:48.980,0:07:50.220
+...and these two (C3-4)
+
+0:07:50.220,0:07:52.080
+...are not series anymore.
+
+0:07:52.080,0:07:54.680
+But these two (C2-3) are still in series,
+
+0:07:54.680,0:07:58.120
+...and this (C5) is in parallel with this branch (C2-3)
+
+0:07:58.680,0:08:02.060
+And these three (C1, C5 & 2-3, C4) are still in series.
+
+0:08:02.060,0:08:03.020
+Or here,
+
+0:08:03.020,0:08:05.260
+...these two components (C1-2) are in series
+
+0:08:05.260,0:08:07.440
+...and those two components (C3-4) are in series
+
+0:08:07.440,0:08:10.920
+...and this whole branch (C1-2) is in
+parallel with the other branch (C3-4).
+
+0:08:11.320,0:08:14.780
+But if I add a component between these two nodes,
+
+0:08:14.780,0:08:17.780
+...then nothing here is either in series or parallel.
+
+0:08:18.020,0:08:22.220
+But the whole thing is still in parallel
+with the rest of the circuit.
+
+0:08:22.320,0:08:25.920
+Now, there are important properties
+to series and parallel connections
+
+0:08:25.920,0:08:27.420
+...that you must never forget.
+
+0:08:27.420,0:08:28.200
+NEVER!
+
+0:08:28.200,0:08:29.000
+Are you ready?
+
+0:08:29.000,0:08:30.800
+When components are in SERIES,
+
+0:08:30.800,0:08:34.480
+...the electric CURRENT through
+all of them is exactly the same,
+
+0:08:34.480,0:08:37.200
+...because electric charges are not leaking anywhere.
+
+0:08:37.200,0:08:39.060
+So if the current enters the branch,
+
+0:08:39.060,0:08:41.060
+...it must go through it, unchanged.
+
+0:08:41.060,0:08:42.080
+You know what this means?
+
+0:08:42.080,0:08:45.260
+We can switch the location of the
+components in a series branch,
+
+0:08:45.260,0:08:46.740
+...and it doesn't affect the circuit,
+
+0:08:46.740,0:08:48.860
+...because the current through all of them is equal.
+
+0:08:48.860,0:08:50.260
+In PARALLEL circuits,
+
+0:08:50.260,0:08:53.520
+...the VOLTAGE across all components
+are exactly the same,
+
+0:08:53.520,0:08:54.420
+...because otherwise,
+
+0:08:54.420,0:08:57.940
+...there would be a voltage difference
+across a 0-ohm magic wire,
+
+0:08:57.940,0:08:59.900
+...which would result in infinite current,
+
+0:08:59.900,0:09:00.960
+...which is impossible.
+
+0:09:00.960,0:09:02.220
+And you know what that means?
+
+0:09:02.220,0:09:05.440
+In parallel circuits, you can switch
+the location of the components,
+
+0:09:05.440,0:09:06.940
+...and it doesn't make any difference
+
+0:09:06.940,0:09:09.200
+...because the voltage across them remains the same.
+
+0:09:09.200,0:09:09.800
+Like at home,
+
+0:09:09.800,0:09:12.380
+...if you switch the location of your TV and your lamp,
+
+0:09:12.380,0:09:13.700
+...it doesn't make any difference.
+
+0:09:13.700,0:09:17.780
+This reminds me of the disagreement I had
+with Professor Lewin in my other video,
+
+0:09:17.780,0:09:19.080
+...where he was claiming that
+
+0:09:19.080,0:09:22.720
+...the voltages across two parallel
+components can be different
+
+0:09:22.720,0:09:25.400
+...in the presence of changing magnetic fields.
+
+0:09:25.400,0:09:28.020
+The summary was that our definitions were different,
+
+0:09:28.020,0:09:29.780
+...and my definition was better, of course.
+
+0:09:30.800,0:09:31.700
+In any case,
+
+0:09:31.700,0:09:35.340
+...the properties of series and
+parallel circuits never break.
+
+0:09:35.340,0:09:38.540
+If you measure two DIFFERENT CURRENTS
+between SERIES components,
+
+0:09:38.540,0:09:43.840
+...it must mean that the current is leaking out of
+the branch through some hidden component,
+
+0:09:43.840,0:09:45.900
+...and these two are not actually in series.
+
+0:09:45.900,0:09:49.720
+Or if you measure two DIFFERENT VOLTAGES
+across PARALLEL components,
+
+0:09:49.720,0:09:51.580
+...it means that they are not in parallel
+
+0:09:51.580,0:09:55.560
+...and there must be a hidden component
+between them you didn't account for.
+
+0:09:56.360,0:09:58.020
+These should be enough for one video.
+
+0:09:58.020,0:10:01.540
+If you like this type of video where
+someone like me shares their skills,
+
+0:10:01.540,0:10:02.340
+Then you'll love
+
+0:10:03.240,0:10:05.600
+Two months of free premium subscription, mate!
+
+0:10:05.600,0:10:07.900
+Just use my link in the description and sign up.
+
+0:10:07.900,0:10:10.480
+And there you'll find a vast community of people
+
+0:10:10.480,0:10:12.120
+...teaching what they know professionally,
+
+0:10:12.120,0:10:13.000
+...like, uh...
+
+0:10:13.000,0:10:15.260
+...lessons on Arduino is still going through,
+
+0:10:15.260,0:10:18.160
+...or from other categories like animation or film,
+
+0:10:18.160,0:10:19.520
+...that can help my work.
+
+0:10:20.120,0:10:23.460
+I still need to learn some Adobe Premiere film editing.
+
+0:10:23.460,0:10:25.500
+LEARNING FOR FREE HASN'T KILLED ANYBODY!
+
+0:10:25.500,0:10:29.840
+So sign up for free for the two-month
+free trial and get the unlimited access,
+
+0:10:29.840,0:10:31.220
+...and I'm sure you'll be hooked.
+
+0:10:35.340,0:10:35.840
+Oh
+
+0:10:35.920,0:10:36.420
+Have fun.
+
+0:10:42.000,0:10:44.000
+Subtitles/captions by Jonathan Lee (Pentameron)
+youtube.com/c/PentameronSV
