@@ -1,0 +1,990 @@
+0:00:03.120,0:00:05.010
+August 25th, 1991.
+
+0:00:05.010,0:00:07.280
+A 21-year-old graduate student in Helsinki
+
+0:00:07.280,0:00:08.670
+...named Linus Torvalds
+
+0:00:08.670,0:00:10.970
+...announces he's doing a free operating system.
+
+0:00:11.120,0:00:12.000
+Just a hobby.
+
+0:00:12.000,0:00:13.360
+Won't be a big professional thing.
+
+0:00:13.580,0:00:15.410
+Fast forward a few years later,
+
+0:00:15.410,0:00:16.700
+...and that hobby evolves into
+
+0:00:16.700,0:00:18.160
+...one of the most important projects
+
+0:00:18.160,0:00:19.600
+...in the history of computing.
+
+0:00:19.600,0:00:21.310
+Most operating systems were created
+
+0:00:21.310,0:00:22.390
+...to make shitloads of money.
+
+0:00:22.390,0:00:23.150
+STEVE BALLMER: "That's right!"
+
+0:00:23.460,0:00:24.570
+"It's 99 dollars!"
+
+0:00:24.570,0:00:25.920
+"It's an incredible value,"
+
+0:00:25.920,0:00:26.680
+"...but it's true!"
+
+0:00:27.060,0:00:28.890
+"It's Windows from Microsoft!"
+
+0:00:29.170,0:00:30.090
+"Order today!"
+
+0:00:30.400,0:00:32.150
+But Linux was a revolution
+
+0:00:32.150,0:00:33.480
+...based on a simple principle:
+
+0:00:33.480,0:00:35.610
+Software should be free and open.
+
+0:00:35.610,0:00:36.490
+Today, we'll take a look
+
+0:00:36.490,0:00:37.990
+...at the weird history of Linux,
+
+0:00:37.990,0:00:38.980
+...and in the process
+
+0:00:38.980,0:00:40.290
+...answer the question of
+
+0:00:40.290,0:00:42.130
+"Why are there so many Linux distros?"
+
+0:00:42.420,0:00:44.130
+But before we can even talk about Linux,
+
+0:00:44.130,0:00:46.660
+...we need to travel back to 1969.
+
+0:00:46.660,0:00:48.620
+While Grandpa was dropping acid at Woodstock,
+
+0:00:48.620,0:00:50.310
+...Ken Thompson and Dennis Ritchie
+
+0:00:50.310,0:00:52.320
+...were creating the Unix operating system.
+
+0:00:52.520,0:00:53.810
+Unix was well-loved
+
+0:00:53.810,0:00:55.760
+...by both businesses and universities.
+
+0:00:55.920,0:00:57.260
+There was one problem though.
+
+0:00:57.260,0:00:59.190
+The code was owned by AT&T.
+
+0:00:59.190,0:01:00.700
+And in 1977,
+
+0:01:00.700,0:01:02.020
+...when UC Berkeley created
+
+0:01:02.020,0:01:04.280
+...their own Berkeley software distribution,
+
+0:01:04.280,0:01:05.510
+...AT&T sued them.
+
+0:01:05.510,0:01:07.770
+That put limitations on Unix development
+
+0:01:07.770,0:01:09.210
+...and led to a period known as
+
+0:01:09.210,0:01:10.320
+...the 'Unix wars'.
+
+0:01:10.320,0:01:12.490
+A few years later in 1983,
+
+0:01:12.490,0:01:13.770
+...Richard Stallman creates
+
+0:01:13.770,0:01:14.780
+...the GNU Project,
+
+0:01:14.780,0:01:16.030
+...which was intended to be a
+
+0:01:16.030,0:01:18.390
+...free and open replacement for Unix.
+
+0:01:18.390,0:01:20.750
+But Unix was a big complex project
+
+0:01:20.750,0:01:22.710
+...with hundreds of different applications,
+
+0:01:22.710,0:01:24.730
+...and replacing it was no easy task.
+
+0:01:24.930,0:01:25.970
+Over the next few years,
+
+0:01:25.970,0:01:28.190
+...the project recreated many of the applications
+
+0:01:28.190,0:01:29.460
+...that you know and love today.
+
+0:01:29.640,0:01:32.020
+Tools that are often used synonymously with Linux
+
+0:01:32.020,0:01:32.870
+...like Tar,
+
+0:01:32.870,0:01:33.360
+...Bash,
+
+0:01:33.360,0:01:33.970
+...and Emacs,
+
+0:01:33.970,0:01:34.790
+...just to name a few.
+
+0:01:34.790,0:01:35.980
+By the early 90s,
+
+0:01:35.980,0:01:37.830
+...GNU had all this great software,
+
+0:01:37.830,0:01:39.840
+...but it was missing one essential component:
+
+0:01:39.840,0:01:41.430
+The operating system kernel.
+
+0:01:41.430,0:01:42.940
+A complete operating system
+
+0:01:42.940,0:01:44.840
+...needs a kernel to sit in between
+
+0:01:44.840,0:01:46.480
+...the hardware and the software,
+
+0:01:46.480,0:01:47.500
+...where it can allocate
+
+0:01:47.500,0:01:49.210
+...CPU and memory resources
+
+0:01:49.210,0:01:51.270
+...to run software applications.
+
+0:01:51.270,0:01:52.940
+Luckily, it was right around this time
+
+0:01:52.940,0:01:55.080
+...that Linus Torvalds was working on
+
+0:01:55.080,0:01:56.660
+...his hobby operating system.
+
+0:01:56.660,0:01:57.360
+Originally,
+
+0:01:57.360,0:01:58.230
+...it was going to be called
+
+0:01:58.230,0:01:59.010
+'Freax',
+
+0:01:59.010,0:02:00.010
+...because the name 'Linux'
+
+0:02:00.010,0:02:01.360
+...was too egotistical.
+
+0:02:01.360,0:02:02.680
+But as fate would have it,
+
+0:02:02.680,0:02:04.940
+...the admin for the FTP server at the time
+
+0:02:04.940,0:02:05.780
+...didn't like the name,
+
+0:02:05.780,0:02:07.360
+...and changed it without his consent,
+
+0:02:07.360,0:02:09.250
+...and the name stuck from there on out.
+
+0:02:09.250,0:02:09.970
+Initially,
+
+0:02:09.970,0:02:10.860
+...Linux was released
+
+0:02:10.860,0:02:12.190
+...with a proprietary license
+
+0:02:12.190,0:02:14.450
+...that had limitations on commercial use.
+
+0:02:14.450,0:02:15.060
+However,
+
+0:02:15.060,0:02:16.680
+...by the end of 1992,
+
+0:02:16.680,0:02:17.690
+...it was released under the
+
+0:02:17.690,0:02:19.480
+...GNU General Public License,
+
+0:02:19.480,0:02:20.400
+...and this gave birth
+
+0:02:20.400,0:02:22.050
+...to a complete operating system
+
+0:02:22.050,0:02:22.940
+...that we know today
+
+0:02:22.940,0:02:24.540
+...as 'GNU plus Linux'.
+
+0:02:24.540,0:02:25.400
+The following year,
+
+0:02:25.400,0:02:26.400
+...hundreds of developers
+
+0:02:26.400,0:02:27.740
+...jumped on the Linux project
+
+0:02:27.740,0:02:29.020
+...and started adapting it
+
+0:02:29.020,0:02:30.140
+...to the GNU environment.
+
+0:02:30.140,0:02:31.530
+The beauty of the Linux kernel
+
+0:02:31.530,0:02:33.100
+...is that it gave developers the ability
+
+0:02:33.100,0:02:35.050
+...to build custom operating systems
+
+0:02:35.050,0:02:36.130
+...that felt like Unix
+
+0:02:36.130,0:02:37.180
+...but didn't come with the fear
+
+0:02:37.180,0:02:38.558
+...of being sued down the road.
+
+0:02:38.560,0:02:39.270
+Ultimately,
+
+0:02:39.270,0:02:41.730
+...this led to some of the first Linux distributions
+
+0:02:41.730,0:02:42.970
+...like Softlanding,
+
+0:02:42.970,0:02:43.760
+...Yggdrasil,
+
+0:02:43.760,0:02:44.540
+...and Slackware.
+
+0:02:44.800,0:02:46.790
+But what is a Linux distro exactly?
+
+0:02:46.970,0:02:49.260
+A distro is a complete operating system
+
+0:02:49.260,0:02:50.620
+...based on the Linux kernel
+
+0:02:50.620,0:02:52.850
+...that contains a bunch of packages and libraries
+
+0:02:52.850,0:02:54.830
+...and typically a package manager
+
+0:02:54.830,0:02:56.740
+...to install additional applications,
+
+0:02:56.740,0:02:58.480
+...and possibly a Windows system
+
+0:02:58.480,0:02:59.880
+...if there's a GUI involved.
+
+0:02:59.880,0:03:00.740
+Many distros
+
+0:03:00.740,0:03:03.000
+...might share the same default user interface.
+
+0:03:03.000,0:03:04.520
+Popular UI options include
+
+0:03:04.520,0:03:05.110
+...GNOME,
+
+0:03:05.110,0:03:06.250
+...KDE's Plasma,
+
+0:03:06.250,0:03:06.980
+...MATE,
+
+0:03:06.980,0:03:07.590
+...Cinnamon,
+
+0:03:07.590,0:03:08.638
+...and a bunch of others.
+
+0:03:08.640,0:03:09.580
+Today, there's nearly
+
+0:03:09.580,0:03:11.640
+...a thousand different Linux distros out there,
+
+0:03:11.640,0:03:12.760
+...and they've all been customized
+
+0:03:12.760,0:03:14.320
+...to serve different purposes.
+
+0:03:14.320,0:03:15.440
+Some of them are designed
+
+0:03:15.440,0:03:16.590
+...for enterprise users,
+
+0:03:16.590,0:03:18.390
+...while others are for home users.
+
+0:03:18.530,0:03:20.240
+Some distros only run on servers,
+
+0:03:20.240,0:03:21.580
+...while others are designed for
+
+0:03:21.580,0:03:22.120
+...desktop,
+
+0:03:22.120,0:03:22.650
+...mobile,
+
+0:03:22.650,0:03:23.840
+...and embedded devices.
+
+0:03:23.840,0:03:24.740
+And each distro
+
+0:03:24.740,0:03:26.330
+...is usually backed by a community
+
+0:03:26.330,0:03:27.380
+...that has its own set of
+
+0:03:27.380,0:03:29.430
+...philosophical and technical opinions.
+
+0:03:29.680,0:03:31.020
+Most of these older distros
+
+0:03:31.020,0:03:32.090
+...are no longer maintained
+
+0:03:32.090,0:03:34.310
+...and just considered historical artifacts.
+
+0:03:34.310,0:03:35.430
+One exception is
+
+0:03:35.430,0:03:36.070
+...Slackware.
+
+0:03:36.070,0:03:37.680
+It had a release as recently as
+
+0:03:37.680,0:03:38.410
+...2016,
+
+0:03:38.410,0:03:40.770
+...and has spawned a bunch of different variations.
+
+0:03:40.770,0:03:41.390
+Most notably,
+
+0:03:41.390,0:03:43.290
+...it led to the openSUSE project,
+
+0:03:43.290,0:03:44.610
+...which remains a very popular
+
+0:03:44.610,0:03:45.860
+...general-purpose distro,
+
+0:03:45.860,0:03:47.230
+...and is usually associated with
+
+0:03:47.230,0:03:48.570
+...professional power users.
+
+0:03:48.820,0:03:50.040
+But the most significant distro
+
+0:03:50.040,0:03:51.660
+...to come out of 1993
+
+0:03:51.660,0:03:52.490
+...was Debian.
+
+0:03:52.490,0:03:54.380
+It was established by Ian Murdock,
+
+0:03:54.380,0:03:55.850
+...and its name comes from his name
+
+0:03:55.850,0:03:57.630
+...combined with his ex-wife's name,
+
+0:03:57.630,0:03:58.950
+...and its first official release
+
+0:03:58.950,0:04:00.370
+...came in 1996
+
+0:04:00.370,0:04:02.280
+...as version 1.1 (Buzz).
+
+0:04:02.280,0:04:03.050
+And since then,
+
+0:04:03.050,0:04:04.820
+...each release contains a code name
+
+0:04:04.820,0:04:06.260
+...with a 'Toy Story' character.
+
+0:04:06.260,0:04:07.260
+A few years later,
+
+0:04:07.260,0:04:08.780
+...it led to the creation of
+
+0:04:08.780,0:04:10.160
+...Advanced Package Tool,
+
+0:04:10.160,0:04:11.130
+...or APT,
+
+0:04:11.130,0:04:12.520
+...although it was originally developed
+
+0:04:12.520,0:04:13.860
+...under the code name 'Deity'.
+
+0:04:14.030,0:04:15.460
+The Debian community is huge,
+
+0:04:15.460,0:04:16.960
+...and it's a great distro today
+
+0:04:16.960,0:04:18.770
+...and very popular on servers,
+
+0:04:18.770,0:04:19.660
+...but can also be used
+
+0:04:19.660,0:04:21.350
+...as a general-purpose distro.
+
+0:04:21.350,0:04:22.800
+It's minimal and stable,
+
+0:04:22.800,0:04:24.570
+...which are traits that have allowed it to father
+
+0:04:24.570,0:04:26.980
+...a huge number of offspring distros.
+
+0:04:26.980,0:04:28.430
+Some of them are highly specialized,
+
+0:04:28.430,0:04:29.820
+...like Raspberry Pi OS
+
+0:04:29.820,0:04:30.970
+...or SteamOS,
+
+0:04:30.970,0:04:33.250
+...but by far the most popular child of Debian
+
+0:04:33.250,0:04:34.280
+...is Ubuntu,
+
+0:04:34.280,0:04:36.210
+...which was first released in 2004
+
+0:04:36.210,0:04:38.070
+...and is managed by a British company called
+
+0:04:38.070,0:04:38.878
+'Canonical'.
+
+0:04:38.880,0:04:40.970
+It follows a semi-annual release schedule,
+
+0:04:40.970,0:04:41.990
+...where each release
+
+0:04:41.990,0:04:43.540
+...is named after an animal
+
+0:04:43.540,0:04:45.060
+...and a word with the same letter,
+
+0:04:45.060,0:04:46.690
+...like 'Cosmic Cuttlefish'.
+
+0:04:46.690,0:04:48.290
+It's extremely beginner-friendly
+
+0:04:48.290,0:04:49.920
+...and was really one of the first distros
+
+0:04:49.920,0:04:50.970
+...to open up Linux
+
+0:04:50.970,0:04:53.110
+...to the mainstream home computer user.
+
+0:04:53.110,0:04:54.130
+In recent years, though,
+
+0:04:54.130,0:04:56.250
+...it's received a lot of hate from the Linux community
+
+0:04:56.250,0:04:58.220
+...for releasing closed-source software
+
+0:04:58.220,0:05:00.610
+...and also selling data to third-party companies.
+
+0:05:00.610,0:05:01.280
+In any case,
+
+0:05:01.280,0:05:02.740
+...it remains extremely popular,
+
+0:05:02.740,0:05:04.930
+...and it even has a variety of different flavours
+
+0:05:04.930,0:05:06.000
+...like Kubuntu,
+
+0:05:06.000,0:05:06.710
+...Zubuntu,
+
+0:05:06.710,0:05:07.850
+...and Lubuntu,
+
+0:05:07.850,0:05:09.230
+...which are their own distributions
+
+0:05:09.230,0:05:11.560
+...that offer slight variations on the original.
+
+0:05:11.750,0:05:13.310
+Like Kubuntu, for example,
+
+0:05:13.310,0:05:15.250
+...it's designed to be a great entry point
+
+0:05:15.250,0:05:16.510
+...if you're transitioning from
+
+0:05:16.510,0:05:18.080
+...Microsoft Windows to Linux.
+
+0:05:18.320,0:05:19.060
+In addition,
+
+0:05:19.060,0:05:21.520
+...Ubuntu has spawned many other variations
+
+0:05:21.520,0:05:22.720
+...like Linux Mint,
+
+0:05:22.720,0:05:23.510
+...Peppermint,
+
+0:05:23.510,0:05:24.460
+...and Pop! OS,
+
+0:05:24.460,0:05:26.958
+...just to name a few of the most popular options.
+
+0:05:26.960,0:05:28.680
+Debian has a huge family tree,
+
+0:05:28.680,0:05:30.840
+...but if we go back to 1994,
+
+0:05:30.840,0:05:32.160
+...there is another Linux distro
+
+0:05:32.160,0:05:33.820
+...that also has a huge family tree
+
+0:05:33.820,0:05:34.820
+...called 'Red Hat'.
+
+0:05:34.820,0:05:36.270
+It was created by Mark Ewing
+
+0:05:36.270,0:05:37.880
+...and is known for its focus on
+
+0:05:37.880,0:05:39.598
+...security and reliability
+
+0:05:39.600,0:05:40.830
+...for enterprise users.
+
+0:05:41.140,0:05:42.960
+Red Hat adopted a business model
+
+0:05:42.960,0:05:45.300
+...where they maintain an open-source operating system,
+
+0:05:45.300,0:05:47.940
+...then make money by selling consulting integration
+
+0:05:47.940,0:05:49.310
+...and add-on services
+
+0:05:49.310,0:05:50.870
+...to big enterprise clients.
+
+0:05:50.870,0:05:52.020
+Today, it generates
+
+0:05:52.020,0:05:53.230
+...billions of dollars in revenue,
+
+0:05:53.230,0:05:55.130
+...and was recently acquired by IBM
+
+0:05:55.130,0:05:56.940
+...for an 11-figure price tag.
+
+0:05:56.940,0:05:58.180
+Red Hat has given birth
+
+0:05:58.180,0:05:59.370
+...to a bunch of children,
+
+0:05:59.370,0:06:01.830
+...most of which are associated with enterprise work
+
+0:06:01.830,0:06:04.860
+...and use either the RPM or YUM package manager.
+
+0:06:05.070,0:06:06.440
+Popular descendants include
+
+0:06:06.440,0:06:07.270
+...RHEL,
+
+0:06:07.270,0:06:08.150
+...CentOS,
+
+0:06:08.150,0:06:09.260
+...and Fedora,
+
+0:06:09.260,0:06:11.380
+...which is not only great for enterprise servers
+
+0:06:11.380,0:06:13.770
+...but also works well as a personal workstation.
+
+0:06:13.770,0:06:15.250
+And it's even the distro of choice
+
+0:06:15.250,0:06:16.730
+...by Linus Torvalds himself.
+
+0:06:16.980,0:06:19.200
+Now, one thing that you'll notice about Linux distros
+
+0:06:19.200,0:06:21.160
+...is that many of them do a lot of stuff
+
+0:06:21.160,0:06:22.490
+...that you don't actually need,
+
+0:06:22.490,0:06:24.100
+...that takes up space on your hardware
+
+0:06:24.100,0:06:26.320
+...and ultimately makes your life more complex.
+
+0:06:26.630,0:06:27.810
+There are two Linux families
+
+0:06:27.810,0:06:29.700
+...that came out in the early 2000s
+
+0:06:29.700,0:06:31.550
+...that are focused on simplicity,
+
+0:06:31.550,0:06:32.420
+...performance,
+
+0:06:32.420,0:06:33.300
+...and minimalism.
+
+0:06:33.540,0:06:35.190
+Gentoo, with its Enoch distro,
+
+0:06:35.190,0:06:36.470
+...came out in 2000
+
+0:06:36.470,0:06:38.500
+...and Arch came out in 2002.
+
+0:06:38.500,0:06:39.960
+If you'd like to keep things simple,
+
+0:06:39.960,0:06:40.940
+...then you'll probably like
+
+0:06:40.940,0:06:42.770
+...the Arch family of Linux distros.
+
+0:06:42.770,0:06:44.180
+It has its own package manager
+
+0:06:44.180,0:06:45.110
+...called 'pacman',
+
+0:06:45.110,0:06:47.320
+...and has adopted a rolling release model.
+
+0:06:47.320,0:06:48.300
+Unlike Ubuntu,
+
+0:06:48.300,0:06:50.620
+...that has a new major release every 6 months,
+
+0:06:50.620,0:06:51.920
+...Arch releases small updates
+
+0:06:51.920,0:06:54.310
+...that can be continuously updated in the OS.
+
+0:06:54.560,0:06:56.200
+Arch is also the parent of
+
+0:06:56.200,0:06:56.920
+...Manjaro,
+
+0:06:56.920,0:06:59.300
+...which is one of the most popular distros of today.
+
+0:06:59.300,0:07:01.380
+In addition to all these families that we've looked at,
+
+0:07:01.380,0:07:03.540
+...there are many popular independent distros,
+
+0:07:03.540,0:07:05.330
+...like the extremely lightweight Alpine,
+
+0:07:05.330,0:07:07.460
+...Fire OS for Amazon devices,
+
+0:07:07.460,0:07:08.420
+...and Android,
+
+0:07:08.420,0:07:10.570
+...which is used by billions of people every day.
+
+0:07:10.730,0:07:12.110
+When you think of the Linux kernel
+
+0:07:12.110,0:07:13.490
+...like the engine in your car,
+
+0:07:13.490,0:07:15.200
+...it starts to answer the question of
+
+0:07:15.200,0:07:16.850
+"Why are there so many Linux distros?"
+
+0:07:17.000,0:07:18.610
+Some cars are designed to go fast,
+
+0:07:18.610,0:07:19.680
+...others for comfort.
+
+0:07:19.680,0:07:21.260
+Some are engineered for enterprise,
+
+0:07:21.260,0:07:22.580
+...and others are just for fun.
+
+0:07:22.920,0:07:23.790
+As a developer,
+
+0:07:23.790,0:07:25.390
+...Linux is like a free engine
+
+0:07:25.390,0:07:27.040
+...that you can use to build your own car.
+
+0:07:27.280,0:07:27.930
+That freedom,
+
+0:07:27.930,0:07:28.820
+...along with GNU
+
+0:07:28.820,0:07:30.790
+...and the greater open-source ecosystem,
+
+0:07:30.790,0:07:32.540
+...motivates people to try new things
+
+0:07:32.540,0:07:33.940
+...and to profit by creating
+
+0:07:33.940,0:07:35.700
+...innovation within that ecosystem.
+
+0:07:35.700,0:07:36.830
+People who are threatened by it
+
+0:07:36.830,0:07:37.800
+...call it 'communism',
+
+0:07:37.800,0:07:39.870
+...but in reality it's the polar opposite,
+
+0:07:39.870,0:07:41.550
+...and the free market at its finest.
+
+0:07:41.550,0:07:42.160
+Today,
+
+0:07:42.160,0:07:43.910
+...even Microsoft fully supports Linux
+
+0:07:43.910,0:07:45.390
+...through its WSL project.
+
+0:07:45.560,0:07:47.060
+I'm gonna go ahead and wrap things up there.
+
+0:07:47.060,0:07:49.180
+There's a lot of aspects of the Linux history
+
+0:07:49.180,0:07:51.360
+...and the histories of individual distros
+
+0:07:51.360,0:07:52.360
+...that we didn't cover,
+
+0:07:52.360,0:07:54.200
+...but hopefully this gives you a general idea
+
+0:07:54.200,0:07:55.990
+...of how Linux came into existence,
+
+0:07:55.990,0:07:58.570
+...and the evolution of Linux distros over time.
+
+0:07:58.570,0:07:59.280
+Oh, and there's
+
+0:07:59.280,0:08:00.840
+...one random thing I almost forgot.
+
+0:08:00.840,0:08:02.060
+Back in 2005,
+
+0:08:02.060,0:08:03.340
+...the source code for linux
+
+0:08:03.340,0:08:05.590
+...was managed under a version control system
+
+0:08:05.590,0:08:06.540
+...called 'BitKeeper',
+
+0:08:06.540,0:08:07.720
+...that was controversial though,
+
+0:08:07.720,0:08:09.530
+...because it's proprietary software.
+
+0:08:09.530,0:08:10.460
+So Linus Torvalds
+
+0:08:10.460,0:08:11.860
+...did what any legend would do
+
+0:08:11.860,0:08:13.010
+...and he created Git.
+
+0:08:13.170,0:08:13.790
+Before you go,
+
+0:08:13.790,0:08:15.240
+...make sure to like and subscribe,
+
+0:08:15.240,0:08:16.010
+...and stay tuned
+
+0:08:16.010,0:08:18.150
+...for a lot more Linux content on this channel.
+
+0:08:18.150,0:08:19.040
+Thanks for watching,
+
+0:08:19.040,0:08:20.770
+...and I will see you in the next one.
+
