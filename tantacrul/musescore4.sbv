@@ -1,0 +1,4687 @@
+0:00:03.460,0:00:05.350
+When the release of a
+creative app gets announced,
+
+0:00:05.350,0:00:07.750
+...it's not something I get
+particularly excited about,
+
+0:00:07.750,0:00:10.310
+...because I generally find
+software announcements to be...
+
+0:00:10.820,0:00:11.630
+markety.
+
+0:00:11.630,0:00:13.850
+Full of hyper-positivity
+and overpromise,
+
+0:00:13.850,0:00:16.550
+...which also kind of seems to
+keep me at arm's length too,
+
+0:00:16.550,0:00:19.500
+...with claims to be "changing
+the very concept of creativity",
+
+0:00:19.500,0:00:20.960
+..."enabling" my "wildest dreams",
+
+0:00:20.960,0:00:22.870
+...and "democratizing" bloody blah.
+
+0:00:23.180,0:00:23.940
+Thing is, though,
+
+0:00:23.940,0:00:26.740
+...since I spend most of my waking
+life using creation software,
+
+0:00:26.740,0:00:28.730
+...I'm really interested
+in how it gets made.
+
+0:00:28.730,0:00:30.500
+And since I work in
+creative software,
+
+0:00:30.500,0:00:32.120
+...I know that, far from being dull,
+
+0:00:32.120,0:00:34.560
+...it's often a tenuous
+and uncertain process,
+
+0:00:34.560,0:00:37.550
+...sometimes relates to its massive
+disappointments in human drama.
+
+0:00:37.550,0:00:38.620
+For example, when I was a
+
+0:00:38.620,0:00:40.130
+...lead designer at Microsoft,
+
+0:00:40.130,0:00:42.810
+...I spent years working
+on an app called Paint 3D.
+
+0:00:42.810,0:00:43.980
+Yeah, that's right.
+
+0:00:43.980,0:00:45.630
+That weird silly meme app?
+
+0:00:45.630,0:00:46.520
+I was there.
+
+0:00:46.520,0:00:48.810
+You'd assume we're all having
+a blast making that, right?
+
+0:00:48.810,0:00:49.750
+[chuckles] Nope.
+
+0:00:49.890,0:00:51.840
+Paint 3D was forged in the fires of
+
+0:00:51.840,0:00:53.640
+...unexpected technical restrictions,
+
+0:00:53.640,0:00:55.340
+...never-ending external pressures,
+
+0:00:55.340,0:00:57.640
+...including an internet uprising
+when people found out that
+
+0:00:57.640,0:01:00.310
+...it was intended to replace
+the original MS Paint on Windows,
+
+0:01:00.310,0:01:03.280
+...along with continued disagreement
+about its overall purpose.
+
+0:01:03.580,0:01:05.300
+On the other hand, there
+was an enormous amount of
+
+0:01:05.300,0:01:07.950
+...technical and creative skill
+involved in its creation too.
+
+0:01:07.950,0:01:08.940
+So, all in all,
+
+0:01:08.940,0:01:10.340
+...a very memorable production
+
+0:01:10.340,0:01:12.270
+...that I'd love to
+delve into but can't,
+
+0:01:12.270,0:01:14.900
+...because I signed a piece of
+paper that allows Microsoft to
+
+0:01:14.900,0:01:17.630
+...torpedo my house if I
+ever divulged state secrets.
+
+0:01:17.630,0:01:20.080
+And now it's being
+used to make NFTs.
+
+0:01:20.380,0:01:21.660
+Um... [sighs] Wha-
+
+0:01:22.340,0:01:22.900
+[exasperated sigh]
+
+0:01:22.900,0:01:24.540
+Why i- Why is life like this?
+
+0:01:24.540,0:01:26.590
+So when a new version of
+a creative app is released,
+
+0:01:26.590,0:01:28.060
+...my questions are nearly always,
+
+0:01:28.060,0:01:29.440
+"What were the compromises here?"
+
+0:01:29.440,0:01:30.630
+"What didn't work out?"
+
+0:01:30.630,0:01:32.750
+"What were the emergencies
+and changes of plan?"
+
+0:01:32.990,0:01:34.620
+And when it's
+particularly successful,
+
+0:01:34.620,0:01:35.650
+...what I want to know is,
+
+0:01:35.650,0:01:36.640
+"How is it done?"
+
+0:01:36.640,0:01:40.380
+"What magic combination of organization
+skill and good luck made this possible?"
+
+0:01:40.380,0:01:42.030
+So that's the idea behind this video.
+
+0:01:42.030,0:01:44.110
+Since I've been lucky enough
+to find myself in a position
+
+0:01:44.110,0:01:46.140
+...where I'm leading one of
+the major composition apps,
+
+0:01:46.140,0:01:47.040
+...Musescore,
+
+0:01:47.040,0:01:48.750
+...I'm going to describe
+the gigantic effort
+
+0:01:48.750,0:01:50.810
+...that went into the release
+of our latest version:
+
+0:01:51.880,0:01:53.170
+This was the most massive release
+
+0:01:53.170,0:01:54.490
+...of anything I've ever worked on,
+
+0:01:54.490,0:01:57.020
+...which took a very taxing
+and physically exhausting
+
+0:01:57.020,0:01:58.540
+...two-and-a-half years to complete.
+
+0:01:58.540,0:02:00.480
+Mercifully, it wasn't
+a troubled production,
+
+0:02:00.830,0:02:02.680
+...just an incredibly long one.
+
+0:02:02.680,0:02:04.210
+So, in this video, I'm
+going to talk about
+
+0:02:04.210,0:02:05.577
+...how we redesigned its look,
+
+0:02:05.579,0:02:07.400
+...made big changes to its usability,
+
+0:02:07.400,0:02:08.890
+...how we overhauled the notation
+
+0:02:08.890,0:02:10.670
+...and how we overhauled
+the playback too.
+
+0:02:10.670,0:02:12.740
+And although I've made this
+video for a general audience,
+
+0:02:12.740,0:02:15.140
+...Musescore users will
+most likely enjoy it too.
+
+0:02:15.140,0:02:16.840
+Even if it's just so
+you know who to blame
+
+0:02:16.840,0:02:18.700
+...for moving the concert-pitch
+toggle down here,
+
+0:02:18.880,0:02:20.180
+...next to the 'Subscribe' button
+
+0:02:20.740,0:02:22.070
+...and the 'Quit Sibelius' button,
+
+0:02:22.430,0:02:23.520
+...the 'New All' button,
+
+0:02:23.520,0:02:24.590
+...the Eye of Terpsichore,
+
+0:02:24.590,0:02:25.640
+...the pop-up switch, and
+
+0:02:25.640,0:02:27.220
+...the Pro-Level Chords generator,
+
+0:02:27.220,0:02:28.030
+...although- Actually,
+
+0:02:28.030,0:02:28.960
+...actually, hold on.
+
+0:02:28.960,0:02:30.120
+None of these work until you-
+
+0:02:30.120,0:02:31.450
+you flick the switch over he-
+
+0:02:31.450,0:02:33.090
+[noises of portal materialising]
+
+0:02:33.090,0:02:34.300
+[giggles]
+
+0:02:34.300,0:02:35.540
+"My name's Jankman!"
+
+0:02:35.800,0:02:38.190
+"Ah, it looks like you're
+trying to write a symphony."
+
+0:02:38.190,0:02:39.530
+"Would you like help with that?"
+
+0:02:39.820,0:02:40.730
+"O- Oh, wait, it's-"
+
+0:02:40.730,0:02:42.040
+"It's for solo piano."
+
+0:02:42.040,0:02:43.190
+"My- My mistake!"
+
+0:02:43.190,0:02:44.580
+"I'll see myself out."
+
+0:02:45.400,0:02:46.390
+Jesus, Jankman!
+
+0:02:46.390,0:02:47.360
+Oh, god...
+
+0:02:47.360,0:02:48.650
+Jankman, what have you done!?
+
+0:02:48.650,0:02:49.660
+Oh, no.
+
+0:02:49.660,0:02:50.270
+How am I-
+
+0:02:50.270,0:02:52.170
+How am I supposed to talk
+about Musescore without you?
+
+0:02:52.170,0:02:52.810
+Oh...
+
+0:02:52.810,0:02:54.030
+...the walls are closing in...
+
+0:02:54.650,0:02:54.850
+CAT!
+
+0:02:54.850,0:02:55.050
+CAT! CAT!
+
+0:02:55.050,0:02:55.250
+CAT! CAT! CAT!
+
+0:02:55.250,0:02:55.450
+CAT! CAT! CAT!
+CAT! CAT! CAT!
+
+0:02:55.450,0:02:55.650
+CAT! CAT! CAT!
+CAT! CAT! CAT!
+CAT! CAT! CAT!
+
+0:02:55.650,0:02:55.850
+CAT! CAT! CAT!
+CAT! CAT! CAT!
+CAT! CAT! CAT!
+CAT! CAT! CAT!
+
+0:02:55.850,0:02:56.050
+CAT! CAT! CAT!
+CAT! CAT! CAT!
+CAT! CAT! CAT!
+CAT! CAT! CAT!
+CAT! CAT! CAT!
+CAT! CAT! CAT!
+CAT! CAT! CAT!
+
+0:03:11.490,0:03:13.330
+Let me start by quickly describing
+
+0:03:13.330,0:03:15.580
+...the state of affairs with
+Musescore before I arrived.
+
+0:03:15.790,0:03:17.140
+First of all, if you don't know,
+
+0:03:17.140,0:03:18.910
+...Musescore is an
+open-source project
+
+0:03:18.910,0:03:21.290
+...that was created by a
+community of unpaid contributors.
+
+0:03:21.290,0:03:23.440
+The leaders of the project
+at the time were:
+
+0:03:23.440,0:03:24.320
+Werner Schweer,
+
+0:03:24.320,0:03:25.200
+Thomas Bonte,
+
+0:03:25.200,0:03:26.240
+...and Nicolas Froment.
+
+0:03:26.240,0:03:28.440
+And the more I learn about
+these guys and talk to them,
+
+0:03:28.440,0:03:30.900
+...the more I'm blown away by
+what they managed to achieve.
+
+0:03:30.900,0:03:32.260
+You'll see why in a second.
+
+0:03:32.260,0:03:35.340
+So, before my team of full-time
+professionals joined the project,
+
+0:03:35.340,0:03:37.790
+...I want to describe how the
+community builds Musescore 3.
+
+0:03:38.060,0:03:39.810
+To begin with, Werner the founder
+
+0:03:39.810,0:03:42.250
+...began working on an overhaul
+to the notation system,
+
+0:03:42.250,0:03:45.240
+...which would take it far beyond
+the capabilities of Musescore 2.
+
+0:03:45.240,0:03:47.090
+It took years of work,
+but eventually
+
+0:03:47.090,0:03:48.720
+...when he had the
+main systems in place,
+
+0:03:48.720,0:03:50.290
+...he then opened it up
+to the community,
+
+0:03:50.290,0:03:51.960
+...who set about
+polishing and refining
+
+0:03:51.960,0:03:53.460
+...every other aspect of the app,
+
+0:03:53.460,0:03:56.050
+...using chat rooms and forums
+to hash out the details.
+
+0:03:56.050,0:03:57.900
+Different contributors would volunteer
+
+0:03:57.900,0:03:59.660
+...to take on parts of
+the remaining work,
+
+0:03:59.660,0:04:01.730
+...and would submit their
+progress piece-by-piece
+
+0:04:01.730,0:04:03.280
+...to the whole group for review.
+
+0:04:03.280,0:04:05.060
+It would then be up to
+Werner or Nicolas,
+
+0:04:05.060,0:04:06.280
+...the heads of the project,
+
+0:04:06.280,0:04:08.170
+...to accept or reject each submission.
+
+0:04:08.170,0:04:09.580
+In the open-source world,
+
+0:04:09.580,0:04:12.570
+...most contributions tend
+to be small contained tweaks
+
+0:04:12.570,0:04:13.920
+...rather than large overhauls.
+
+0:04:13.920,0:04:15.110
+This is practical, because
+
+0:04:15.110,0:04:17.940
+...small changes are less likely
+to impact on someone else's work,
+
+0:04:17.940,0:04:20.040
+...which makes them much
+more likely to get accepted.
+
+0:04:20.040,0:04:22.850
+This also suits the routines
+of open-source contributors
+
+0:04:22.850,0:04:25.140
+...whose involvement is
+almost always part-time.
+
+0:04:25.140,0:04:27.440
+But with the community as
+vibrant as Musescore's,
+
+0:04:27.440,0:04:29.320
+...there were loads of people
+willing to take part.
+
+0:04:29.320,0:04:30.530
+So, eventually,
+
+0:04:30.530,0:04:33.480
+...all these thousands of little
+fixes and suggestions came together
+
+0:04:33.480,0:04:35.760
+...after enormous amounts
+of testing and revision,
+
+0:04:35.760,0:04:37.510
+...until a new stable
+release was ready.
+
+0:04:37.510,0:04:39.450
+I've seen this process
+many times myself,
+
+0:04:39.450,0:04:40.880
+...and it's a beautiful
+thing to watch.
+
+0:04:41.820,0:04:44.130
+However, as powerful
+as the system is,
+
+0:04:44.130,0:04:46.090
+...it does come with
+one major drawback:
+
+0:04:46.090,0:04:48.130
+A mountain of architectural instability.
+
+0:04:48.130,0:04:51.220
+I can best explain this using
+the metaphor of city planning.
+
+0:04:51.220,0:04:52.220
+Musescore was
+
+0:04:52.220,0:04:53.500
+...less a Singapore and
+
+0:04:53.500,0:04:54.480
+...more of a Houston.
+
+0:04:54.480,0:04:55.540
+A free-for-all, where,
+
+0:04:55.540,0:04:56.840
+...in order to build anything,
+
+0:04:56.840,0:04:58.050
+...you have to do your best to
+
+0:04:58.050,0:04:59.540
+...plug into whatever existing
+
+0:04:59.540,0:05:01.420
+...uncoordinated and
+inefficient structures
+
+0:05:01.420,0:05:02.910
+...you find yourself sitting on top of.
+
+0:05:02.910,0:05:05.550
+By the time we got to the end
+of development on Musescore 3,
+
+0:05:05.550,0:05:06.860
+...which I spent a lot
+of time working on,
+
+0:05:06.860,0:05:09.110
+...it was an amazingly
+complex potpourri
+
+0:05:09.110,0:05:10.990
+...of thousands of
+patchwork improvements
+
+0:05:10.990,0:05:12.610
+...that depended upon and reinforced
+
+0:05:12.610,0:05:14.000
+...other patchwork improvements,
+
+0:05:14.000,0:05:16.050
+...all hanging together
+through a combination of
+
+0:05:16.050,0:05:16.720
+...workarounds,
+
+0:05:16.720,0:05:18.310
+...inefficient additional processes,
+
+0:05:18.310,0:05:19.450
+...and straight-up hacks.
+
+0:05:19.450,0:05:21.050
+A massive technical debt,
+
+0:05:21.050,0:05:22.350
+...which, practically speaking, meant
+
+0:05:22.350,0:05:24.230
+...that if you tried to
+make a change to one thing,
+
+0:05:24.230,0:05:26.850
+...you'd break seven other
+unrelated things in the process.
+
+0:05:26.850,0:05:29.560
+And this is not a criticism of the
+Musescore community, by the way.
+
+0:05:29.560,0:05:30.610
+Far from it, actually.
+
+0:05:30.610,0:05:32.840
+This structural problem
+is almost unavoidable
+
+0:05:32.840,0:05:35.050
+...and inherent to many
+open-source applications,
+
+0:05:35.050,0:05:38.160
+...which often can't afford full-time
+developers to manage code quality
+
+0:05:38.160,0:05:41.260
+...alongside experienced designers
+who can plan years in advance.
+
+0:05:41.260,0:05:42.880
+Although it's not like professional companies
+
+0:05:42.880,0:05:44.440
+...regularly get this right either.
+
+0:05:44.440,0:05:46.700
+Spaghetti code seems to
+be the norm everywhere.
+
+0:05:46.700,0:05:48.690
+Like, I remember once while
+working on Paint 3D,
+
+0:05:48.690,0:05:50.850
+...I asked a developer to
+change the color of a button
+
+0:05:50.850,0:05:52.130
+...from orange to blue.
+
+0:05:52.130,0:05:53.090
+And when he did this,
+
+0:05:53.090,0:05:54.860
+...the orange option in
+the main color palette
+
+0:05:54.860,0:05:56.360
+(that's the thing you
+used to paint with)
+
+0:05:56.360,0:05:57.650
+...also became blue,
+
+0:05:57.650,0:06:00.190
+...giving users four
+blues and no oranges.
+
+0:06:00.190,0:06:02.400
+Anyway, if we ever wanted
+to be able to move quickly,
+
+0:06:02.400,0:06:04.900
+...we had to take a step back
+in order to take two forward.
+
+0:06:04.900,0:06:06.420
+And that really was
+the main purpose of
+
+0:06:06.420,0:06:08.590
+...the first year of
+Musescore 4 development:
+
+0:06:08.590,0:06:10.410
+Build ourselves the right
+technical underpinning
+
+0:06:10.410,0:06:12.270
+...before proceeding with
+major improvements.
+
+0:06:12.560,0:06:13.970
+However, we had one big problem.
+
+0:06:13.970,0:06:16.240
+Since the level of core
+work was so massive,
+
+0:06:16.240,0:06:17.840
+...to the point where it
+would be unreasonable
+
+0:06:17.840,0:06:19.770
+...to expect our community
+to take it on,
+
+0:06:19.770,0:06:21.780
+...we needed to beef up
+our internal team,
+
+0:06:21.780,0:06:23.790
+...which at that point
+consisted of two people:
+
+0:06:23.790,0:06:24.470
+myself
+
+0:06:24.470,0:06:26.400
+...and our fresh new
+developer, Vasily.
+
+0:06:26.400,0:06:29.050
+So step one was to find
+and hire a new team.
+
+0:06:29.050,0:06:31.750
+And, by the way, trying to find
+designers, developers, and testers
+
+0:06:31.750,0:06:33.460
+...who all have
+experience with notation
+
+0:06:33.460,0:06:35.940
+...is like trying to find a dog
+with a degree in criminology.
+
+0:06:36.200,0:06:38.210
+So, Vasily and I
+started calling friends
+
+0:06:38.210,0:06:40.360
+...and doing everything we could
+think of to spread the word.
+
+0:06:40.640,0:06:43.340
+Since London was both a hub
+for classical music and design,
+
+0:06:43.340,0:06:45.330
+...I was looking into setting
+up a new office there.
+
+0:06:45.330,0:06:47.490
+It was actually all getting
+really exciting at that point.
+
+0:06:47.490,0:06:49.210
+We were finally on our way.
+
+0:06:49.210,0:06:50.490
+Finally hitting the ground.
+
+0:06:50.490,0:06:52.540
+['Inception' bwaaam]
+
+0:06:58.780,0:07:00.490
+Okay, so the pandemic was something that
+
+0:07:00.490,0:07:02.230
+...caused enough trouble to all our lives,
+
+0:07:02.230,0:07:04.400
+...so I won't delve into
+my own experiences here.
+
+0:07:04.800,0:07:07.510
+Suffice it to say that the
+London office idea was scrapped,
+
+0:07:07.510,0:07:10.580
+...and eventually we decided to
+become a fully remote team instead.
+
+0:07:10.800,0:07:13.120
+Because of the general nastiness
+of this whole period,
+
+0:07:13.120,0:07:16.140
+...we definitely felt like we were being
+battered from pillar to post for a while.
+
+0:07:16.140,0:07:17.860
+But as we adjusted, we realized
+
+0:07:17.860,0:07:20.190
+...that there was one
+gigantic silver lining.
+
+0:07:20.190,0:07:21.650
+Because we were now fully remote,
+
+0:07:21.650,0:07:23.830
+...we could hire expertise
+from anywhere in the world.
+
+0:07:23.830,0:07:25.420
+And even though it
+took almost two years
+
+0:07:25.420,0:07:27.310
+...until we had a fully
+rounded team in place,
+
+0:07:27.310,0:07:29.400
+...this was actually a
+critical turning point for us.
+
+0:07:29.640,0:07:31.170
+Vasily built the
+core development team
+
+0:07:31.170,0:07:33.470
+...by bringing in three people
+he'd worked with before.
+
+0:07:33.710,0:07:36.830
+As for me, looking for designers,
+engraving experts, and testers,
+
+0:07:36.830,0:07:39.190
+...I spent a lot of time
+scrolling through portfolios,
+
+0:07:39.190,0:07:41.710
+...looking through LinkedIn profiles,
+and interviewing candidates.
+
+0:07:41.710,0:07:44.420
+My social media following turned
+out to be a real blessing here,
+
+0:07:44.420,0:07:45.940
+...since, apart from finding people
+
+0:07:45.940,0:07:48.010
+...by posting openings
+on Twitter and YouTube,
+
+0:07:48.010,0:07:49.670
+...a few people actually found me.
+
+0:07:49.670,0:07:52.030
+I'll introduce everyone as
+we go through this video.
+
+0:07:57.440,0:07:59.090
+So, one little note before we continue,
+
+0:07:59.090,0:08:02.220
+...to help you easily distinguish
+between Musescore 3 and Musescore 4,
+
+0:08:02.220,0:08:03.900
+...which I'm going to be
+comparing quite a lot,
+
+0:08:03.900,0:08:05.910
+...version 3 will always
+be using the light theme,
+
+0:08:05.910,0:08:07.710
+...and version 4 the dark theme.
+
+0:08:08.639,0:08:11.880
+So, now that I've discussed the
+need to re-architect Musescore,
+
+0:08:11.880,0:08:14.430
+...let me describe the
+situation on the design side.
+
+0:08:14.650,0:08:16.760
+Musescore 3 was largely
+constructed from
+
+0:08:16.760,0:08:18.610
+...a set of UI components called:
+
+0:08:19.650,0:08:20.750
+Now, Qt Widgets are what
+
+0:08:20.750,0:08:22.990
+...we often refer to
+in music tech as
+
+0:08:22.990,0:08:24.260
+...a pain in the arse,
+
+0:08:24.260,0:08:26.220
+...because when trying to
+construct an interface,
+
+0:08:26.220,0:08:27.260
+...they're quite limited
+
+0:08:27.260,0:08:29.660
+...and often require
+disappointing compromise.
+
+0:08:29.660,0:08:32.420
+We learned this the hard way
+building features in Musescore 3.
+
+0:08:32.580,0:08:33.320
+For example,
+
+0:08:33.320,0:08:35.020
+...one of my first ever designs
+
+0:08:35.020,0:08:37.580
+...specify the need for
+pop-ups that work like this.
+
+0:08:37.580,0:08:39.430
+Well, Qt Widgets said, "No,"
+
+0:08:39.430,0:08:42.020
+...so we decided to
+recreate this entire panel
+
+0:08:42.020,0:08:44.710
+...using the interface
+language QML instead.
+
+0:08:44.710,0:08:46.760
+And since that experiment
+worked really well,
+
+0:08:46.760,0:08:48.720
+...when planning Musescore 4,
+we decided to
+
+0:08:48.720,0:08:50.970
+...remove our dependence
+on Qt Widgets completely
+
+0:08:50.970,0:08:53.370
+...and remake the entire
+interface using QML.
+
+0:08:53.370,0:08:55.510
+And this was no small
+decision, by the way.
+
+0:08:55.510,0:08:58.240
+It meant that every single
+interactive and visual element
+
+0:08:58.240,0:09:00.040
+...had to be rebuilt from scratch.
+
+0:09:00.040,0:09:00.680
+Buttons,
+
+0:09:00.680,0:09:01.400
+...scroll bars,
+
+0:09:01.400,0:09:01.930
+...tabs,
+
+0:09:01.930,0:09:02.460
+...drop-downs,
+
+0:09:02.460,0:09:02.980
+...sliders,
+
+0:09:02.980,0:09:03.600
+...more buttons,
+
+0:09:03.700,0:09:04.320
+...more buttons,
+
+0:09:04.320,0:09:05.310
+...context menus,
+
+0:09:05.310,0:09:06.180
+...modal dialogs,
+
+0:09:06.180,0:09:07.190
+...non-modal dialogs,
+
+0:09:07.190,0:09:07.770
+...pop-ups,
+
+0:09:07.770,0:09:08.380
+...search boxes,
+
+0:09:08.380,0:09:09.000
+...spin boxes,
+
+0:09:09.000,0:09:09.500
+...grips,
+
+0:09:09.500,0:09:10.200
+...check-boxes,
+
+0:09:10.200,0:09:10.960
+...et cetera.
+
+0:09:10.960,0:09:11.670
+And on top of that,
+
+0:09:11.670,0:09:12.500
+...colour styles,
+
+0:09:12.500,0:09:13.300
+...text styles,
+
+0:09:13.300,0:09:14.600
+...about 400 icons,
+
+0:09:14.600,0:09:15.400
+...rollover states,
+
+0:09:15.400,0:09:16.230
+...disabled states.
+
+0:09:16.230,0:09:18.240
+As well as all the
+accessibility features
+
+0:09:18.240,0:09:19.310
+...like focus states
+
+0:09:19.310,0:09:20.638
+...and screen reader support
+
+0:09:20.640,0:09:22.260
+...that gets built
+on top of that too.
+
+0:09:22.260,0:09:23.410
+And all of it had to work on
+
+0:09:23.410,0:09:24.080
+...MacOS,
+
+0:09:24.080,0:09:24.600
+...Linux,
+
+0:09:24.600,0:09:25.570
+...and PC.
+
+0:09:25.570,0:09:27.530
+Starting at UI from
+scratch like this
+
+0:09:27.530,0:09:28.840
+...is a dangerous step to take,
+
+0:09:28.840,0:09:30.740
+...and I would usually
+recommend not doing it
+
+0:09:30.740,0:09:32.540
+...unless you have the right
+experience on your team.
+
+0:09:32.540,0:09:34.140
+But, that said, once we've built it,
+
+0:09:34.140,0:09:36.460
+...it was a dream
+compared to Qt Widgets.
+
+0:09:36.460,0:09:38.550
+A way more flexible and capable system
+
+0:09:38.550,0:09:41.380
+...that allowed us to move so
+much more speedily than before.
+
+0:09:41.670,0:09:44.460
+And, by the way, since this
+component library is open-source,
+
+0:09:44.460,0:09:46.290
+...we encourage any
+other apps to use it.
+
+0:09:46.290,0:09:48.170
+For example, we're
+planning on reusing it
+
+0:09:48.170,0:09:50.010
+...for the remake of
+the Audacity interface.
+
+0:09:50.320,0:09:52.480
+So, to help me handle
+all of this UI work,
+
+0:09:52.480,0:09:53.550
+...I eventually found
+
+0:09:53.550,0:09:55.010
+...Jessica, a visual designer
+
+0:09:55.010,0:09:56.980
+...who also has a music
+production background.
+
+0:09:56.980,0:09:59.300
+Musescore was actually
+her first ever design job,
+
+0:09:59.300,0:10:00.240
+...but despite that,
+
+0:10:00.240,0:10:02.710
+...it only took about a year
+until she had taken over
+
+0:10:02.710,0:10:05.230
+...virtually all my UI
+design responsibilities.
+
+0:10:05.460,0:10:07.550
+For anyone who likes our
+new mixer, by the way,
+
+0:10:07.550,0:10:09.600
+...that's just one example
+of Jessica's work.
+
+0:10:09.600,0:10:10.500
+Now, apart from that,
+
+0:10:10.500,0:10:13.210
+...remaking the UI also gave
+us the golden opportunity
+
+0:10:13.210,0:10:15.050
+...to go back over the
+experience of the app
+
+0:10:15.050,0:10:16.320
+...and make it more intuitive,
+
+0:10:16.320,0:10:19.740
+...rooting out as many frustrating
+and bizarre elements as possible.
+
+0:10:19.740,0:10:21.230
+But we were careful
+not to go too far,
+
+0:10:21.230,0:10:23.750
+...because there is a lot of
+stuff that Musescore gets right.
+
+0:10:23.750,0:10:24.830
+And throughout the redesign,
+
+0:10:24.830,0:10:26.600
+...I spent a lot of
+time talking to users
+
+0:10:26.600,0:10:28.440
+...to find out what they
+liked and didn't like.
+
+0:10:28.440,0:10:29.770
+And a massive thanks to everyone who
+
+0:10:29.770,0:10:32.510
+...responded to my posts on Twitter
+over the years, by the way.
+
+0:10:32.510,0:10:35.220
+There were so many little things
+that changed or didn't change
+
+0:10:35.220,0:10:36.570
+...as a result of your feedback.
+
+0:10:36.840,0:10:38.740
+Another really invaluable
+source of advice
+
+0:10:38.740,0:10:40.510
+...came from our community
+of contributors,
+
+0:10:40.510,0:10:42.780
+...many of whom have been
+around a lot longer than me.
+
+0:10:42.780,0:10:44.550
+They provided a lot of context
+
+0:10:44.550,0:10:47.330
+...so we understood how and
+why certain features were built.
+
+0:10:47.750,0:10:50.210
+Let's start with the most
+important control in the app:
+
+0:10:50.210,0:10:51.480
+the note input bar.
+
+0:10:51.480,0:10:53.420
+This was something that
+already worked quite well
+
+0:10:53.420,0:10:55.120
+...and just needed
+a few improvements.
+
+0:10:55.120,0:10:56.660
+For example, it felt obvious that
+
+0:10:56.660,0:10:59.100
+...we should add articulations
+and tuplets here,
+
+0:10:59.100,0:11:00.560
+...because they're so often needed
+
+0:11:00.560,0:11:03.190
+...they really should just
+be considered primary controls.
+
+0:11:03.190,0:11:05.880
+We also made this bar much
+easier to customize too,
+
+0:11:05.880,0:11:08.080
+...so if there's something you
+want or don't want to see here,
+
+0:11:08.080,0:11:10.430
+...you can access this pop-up
+to turn them on or off
+
+0:11:10.430,0:11:11.940
+...or rearrange their order.
+
+0:11:11.940,0:11:14.730
+This is one of those tweaks
+that lets us scale in future too,
+
+0:11:14.730,0:11:17.170
+...so when we want to add
+potentially useful options
+
+0:11:17.170,0:11:19.040
+...like this one for
+cross-staff beaming,
+
+0:11:19.040,0:11:21.540
+...we can do so without worrying
+too much about clutter.
+
+0:11:21.540,0:11:23.640
+Let the user choose what
+they want and don't want.
+
+0:11:23.890,0:11:26.760
+And there was a lot of redundancy
+and duplication to address too,
+
+0:11:26.760,0:11:28.350
+...which is partly a
+result of years of
+
+0:11:28.350,0:11:30.340
+...features being built
+upon other features.
+
+0:11:30.340,0:11:31.380
+For example, there were
+
+0:11:31.380,0:11:33.240
+...two different play
+panels in Musescore 3
+
+0:11:33.240,0:11:35.080
+...that contained a lot
+of the same stuff
+
+0:11:35.080,0:11:37.560
+...but with each having
+something unique about it.
+
+0:11:37.560,0:11:39.490
+We combined these two panels into one
+
+0:11:39.490,0:11:42.470
+...and kept it close to where the
+primary play controls were before.
+
+0:11:42.650,0:11:43.990
+There were also two different panels
+
+0:11:43.990,0:11:45.740
+...for entering and editing text,
+
+0:11:45.740,0:11:48.380
+...which again duplicated
+loads of functionality,
+
+0:11:48.380,0:11:50.210
+...producing loads of unresolved bugs.
+
+0:11:50.210,0:11:52.300
+Like, if you made text bold down here,
+
+0:11:52.710,0:11:54.510
+...this panel didn't
+seem to recognize it,
+
+0:11:54.510,0:11:56.240
+...so if you toggled on or off bold,
+
+0:11:56.240,0:11:57.330
+...it just didn't work.
+
+0:11:57.330,0:12:00.230
+In testing, this lower panel
+performed really poorly too,
+
+0:12:00.230,0:12:02.360
+...mainly because users
+just didn't see it.
+
+0:12:02.360,0:12:04.180
+So we also combined these panels
+
+0:12:04.180,0:12:05.900
+...and got rid of all the weird bugs.
+
+0:12:07.060,0:12:08.340
+When it came to the mixer,
+
+0:12:08.340,0:12:11.060
+...the Musescore 3 version
+was big and weird-looking
+
+0:12:11.060,0:12:13.040
+...and didn't dock anywhere
+that was comfortable.
+
+0:12:13.360,0:12:14.160
+For version 4,
+
+0:12:14.160,0:12:15.670
+...we placed it at
+the bottom of the app
+
+0:12:15.670,0:12:18.920
+...with a little toggle up here that
+lets you quickly switch it on and off.
+
+0:12:19.320,0:12:21.230
+We made so many other
+changes like this
+
+0:12:21.230,0:12:22.890
+...it would take hours to go through.
+
+0:12:22.890,0:12:23.580
+Instead,
+
+0:12:23.580,0:12:26.190
+...to give a general sense
+of how we approached the redesign,
+
+0:12:26.190,0:12:28.900
+...I'm going to focus on
+just two examples in detail.
+
+0:12:33.340,0:12:34.810
+When it comes to software design,
+
+0:12:34.810,0:12:36.400
+...I am not a fan of things like
+
+0:12:36.400,0:12:38.640
+...a priori rules or design mantras
+
+0:12:38.640,0:12:41.180
+...that are always considered
+to be true no matter what.
+
+0:12:41.480,0:12:44.460
+I'm much more in favor of
+adaptability in real-world testing.
+
+0:12:44.460,0:12:45.410
+But with that said,
+
+0:12:45.410,0:12:48.440
+...there is one rule I tend to
+stick to in designing software,
+
+0:12:48.440,0:12:51.350
+...which is to always focus on
+the experience of a new user.
+
+0:12:51.640,0:12:53.770
+The reason for this is
+that if a new user can
+
+0:12:53.770,0:12:56.350
+...figure out how your app works
+without needing a tutorial,
+
+0:12:56.350,0:12:57.990
+...it creates a
+baseline of simplicity
+
+0:12:57.990,0:13:00.030
+...that really benefits
+everyone in the long run.
+
+0:13:00.030,0:13:02.250
+It's the hardest possible
+measure of success,
+
+0:13:02.250,0:13:04.020
+...which is why I
+tend to focus on it.
+
+0:13:04.020,0:13:06.980
+Let's take the experience of
+setting up a score for the first time.
+
+0:13:06.980,0:13:08.910
+This is our handshake with new users.
+
+0:13:09.090,0:13:10.850
+In Musescore 3, setting up a score
+
+0:13:10.850,0:13:12.300
+...was already pretty good,
+
+0:13:12.300,0:13:14.890
+...but there were plenty of annoyances
+that I wanted to get rid of.
+
+0:13:14.890,0:13:15.730
+Let me show you.
+
+0:13:15.990,0:13:17.710
+So, when you first go
+to 'File' > 'New...',
+
+0:13:17.710,0:13:20.580
+...you're taken to a dialog
+called the 'New Score Wizard'.
+
+0:13:20.760,0:13:22.510
+When opened, it asks you to specify
+
+0:13:22.510,0:13:24.460
+...what the title of your
+score is going to be,
+
+0:13:24.460,0:13:26.130
+...along with some
+other information like
+
+0:13:26.130,0:13:27.960
+...the name of the composer or arranger,
+
+0:13:27.960,0:13:29.770
+...and also some copyright information.
+
+0:13:29.770,0:13:31.920
+Now, on paper, it makes
+sense to start like this,
+
+0:13:31.920,0:13:35.120
+...but it's not all always the case that
+you begin a score with a title in mind.
+
+0:13:35.380,0:13:37.860
+So, let's leave this blank
+for now and 'Continue'.
+
+0:13:37.860,0:13:39.360
+Next, you're taken to this page,
+
+0:13:39.360,0:13:40.400
+...which in testing
+
+0:13:40.400,0:13:43.050
+...always causes new users
+to do a double-take.
+
+0:13:43.050,0:13:44.170
+'Choose Instruments'?
+
+0:13:44.170,0:13:44.930
+'Treble Clef'?
+
+0:13:44.930,0:13:45.760
+'Bass Clef'?
+
+0:13:45.760,0:13:46.540
+'Great Stave'?
+
+0:13:46.920,0:13:47.640
+What?
+
+0:13:47.640,0:13:49.480
+And why is this image
+over here blank?
+
+0:13:49.480,0:13:50.790
+Well, what's going on
+
+0:13:50.790,0:13:53.180
+...is that all these options,
+apart from the first one,
+
+0:13:53.180,0:13:54.480
+...are score templates.
+
+0:13:54.480,0:13:55.490
+If you select one,
+
+0:13:55.490,0:13:58.090
+...the image on the right shows you
+what that template will look like.
+
+0:13:58.090,0:14:00.380
+So this first option
+'Choose Instruments'
+
+0:14:00.380,0:14:02.700
+...is actually a way of
+bypassing the templates page.
+
+0:14:02.700,0:14:04.550
+So, if you select it
+and press 'Continue',
+
+0:14:04.550,0:14:06.030
+...you're then taken to
+the section where you can
+
+0:14:06.030,0:14:08.590
+...manually add whatever
+instruments you want instead.
+
+0:14:08.590,0:14:09.980
+Okay, so let's stop for a moment
+
+0:14:09.980,0:14:12.010
+...to look at this poll
+I published on Twitter:
+
+0:14:18.600,0:14:19.710
+Now, as you can see here,
+
+0:14:19.710,0:14:21.340
+...a significant majority of users
+
+0:14:21.340,0:14:23.170
+...prefer to add their
+instruments manually,
+
+0:14:23.170,0:14:25.580
+...despite the fact that templates
+are offered to them first.
+
+0:14:25.790,0:14:27.320
+In other words, for most people,
+
+0:14:27.320,0:14:29.940
+...this is the most important
+part of the New Score Wizard.
+
+0:14:30.270,0:14:31.230
+Aside from that,
+
+0:14:31.230,0:14:33.030
+...look at all this detail
+here on the the right.
+
+0:14:33.030,0:14:34.120
+It's quite dense.
+
+0:14:34.120,0:14:35.400
+You see the instruments,
+
+0:14:35.400,0:14:38.040
+...but also the number of
+staves for each instrument too.
+
+0:14:38.040,0:14:40.410
+And if we look closer,
+there's some odd stuff.
+
+0:14:40.410,0:14:42.310
+For example, these piano staves here
+
+0:14:42.310,0:14:44.450
+...have strangely
+titled options like
+
+0:14:44.450,0:14:45.500
+'Custom Standard'
+
+0:14:45.500,0:14:47.000
+...and 'Custom Percussion'.
+
+0:14:47.000,0:14:49.520
+Trying to explain why these
+are here would take forever.
+
+0:14:49.520,0:14:51.300
+Suffice it to say,
+they don't do anything.
+
+0:14:51.480,0:14:53.070
+All in all, this panel is just
+
+0:14:53.070,0:14:54.790
+...overly noisy and complicated.
+
+0:14:54.790,0:14:56.740
+Anyway, after you've
+selected your instruments,
+
+0:14:56.740,0:14:58.500
+...there are two more
+pages to get through.
+
+0:14:58.750,0:15:00.260
+Choose the key signature,
+'Continue'.
+
+0:15:00.260,0:15:01.560
+Choose the time signature,
+
+0:15:01.560,0:15:02.340
+...pickup measures,
+
+0:15:02.340,0:15:03.170
+...number of bars,
+
+0:15:03.170,0:15:04.130
+...and tempo,
+
+0:15:04.130,0:15:05.280
+...and then you're finally done.
+
+0:15:05.280,0:15:06.840
+And your score appears great.
+
+0:15:06.840,0:15:08.320
+And one thing to note here is that,
+
+0:15:08.320,0:15:11.390
+...since we chose not to fill in the
+title and composer fields earlier,
+
+0:15:11.390,0:15:12.980
+...the top of the score is now blank.
+
+0:15:13.190,0:15:14.010
+Makes sense.
+
+0:15:14.010,0:15:15.160
+We made our bed, so
+
+0:15:15.160,0:15:16.570
+...now we have to
+sleep in it, right?
+
+0:15:16.570,0:15:17.730
+Well, sure, but
+
+0:15:17.730,0:15:20.260
+...if you eventually do want
+to add this information later,
+
+0:15:20.260,0:15:22.750
+...it's not exactly easy
+to discover how to do that,
+
+0:15:22.750,0:15:24.400
+...since they're up in
+the main menu here,
+
+0:15:24.400,0:15:26.090
+...which many people never figure out.
+
+0:15:26.090,0:15:27.840
+In fact, many users
+don't realize that
+
+0:15:27.840,0:15:30.110
+...titles are a unique
+type of text object
+
+0:15:30.110,0:15:32.110
+...and just add regular
+text here like this,
+
+0:15:32.110,0:15:34.870
+...which causes even more problems
+with part scores down the road.
+
+0:15:35.130,0:15:36.150
+Now, individually,
+
+0:15:36.150,0:15:38.310
+...none of these issues have
+just talked about are critical,
+
+0:15:38.310,0:15:39.720
+...but they really do add up to
+
+0:15:39.720,0:15:41.340
+...confusion for first-time users
+
+0:15:41.340,0:15:44.510
+...and persistent annoyances
+for experienced users.
+
+0:15:44.510,0:15:46.820
+So here's what we did
+in Musescore 4 instead.
+
+0:15:46.820,0:15:47.890
+When you press 'New',
+
+0:15:47.890,0:15:50.710
+...you're taken straight to the section
+where you define your instruments.
+
+0:15:50.710,0:15:52.110
+And if you prefer templates,
+
+0:15:52.110,0:15:54.600
+...there's a tab right here that
+lets you choose them instead.
+
+0:15:54.600,0:15:57.190
+And since Musescore will now
+remember which tab you chose,
+
+0:15:57.190,0:15:58.650
+...the next time you create a score,
+
+0:15:58.650,0:16:00.410
+...it maximizes the
+likelihood that you'll see
+
+0:16:00.410,0:16:02.170
+...the options most relevant to you.
+
+0:16:02.540,0:16:04.590
+Now, if you choose to
+manually add instruments,
+
+0:16:04.590,0:16:06.610
+...you'll notice the
+interface is much simpler.
+
+0:16:06.610,0:16:09.890
+We also added little descriptions
+for each instrument down here
+
+0:16:09.890,0:16:12.290
+...to give those who are just
+starting out some helpful guidance.
+
+0:16:12.470,0:16:13.780
+Once you've added your instruments,
+
+0:16:13.780,0:16:15.030
+...you can just press 'Done'.
+
+0:16:15.030,0:16:16.220
+Or you can press 'Next',
+
+0:16:16.220,0:16:18.200
+...which takes you to a
+final page that combines
+
+0:16:18.200,0:16:20.090
+...these three pages
+from Musescore 3:
+
+0:16:20.520,0:16:22.250
+We achieved this by using pop-ups,
+
+0:16:22.250,0:16:23.700
+...which minimise cognitive load
+
+0:16:23.700,0:16:25.920
+...by only displaying
+info you want to see.
+
+0:16:25.920,0:16:28.810
+All in all, when comparing
+version 3 to version 4,
+
+0:16:28.810,0:16:32.040
+...the maximum number of steps
+has been reduced from five to two.
+
+0:16:32.040,0:16:33.880
+However we're not quite
+finished, because
+
+0:16:33.880,0:16:35.460
+...when your score is then created,
+
+0:16:35.460,0:16:37.710
+...if you had earlier chosen
+not to fill in these fields
+
+0:16:37.710,0:16:39.670
+...for title, composer, et cetera,
+
+0:16:39.670,0:16:42.470
+...Musescore now adds these
+default titles automatically
+
+0:16:42.470,0:16:44.590
+...so you can fill them in
+whenever it's convenient
+
+0:16:44.590,0:16:45.740
+...or just delete them.
+
+0:16:50.160,0:16:52.170
+Probably the most
+significant change we made
+
+0:16:52.170,0:16:54.830
+...was to how part scores
+can be viewed and edited.
+
+0:16:55.020,0:16:56.930
+In Musescore 3, to see your parts,
+
+0:16:56.930,0:16:58.690
+...you needed to open
+this 'Parts' dialog
+
+0:16:58.690,0:17:00.000
+...hidden away in the file menu,
+
+0:17:00.000,0:17:02.070
+...then, faced with this
+whole load of blank,
+
+0:17:02.070,0:17:03.910
+...you need to figure out
+to press this button
+
+0:17:03.910,0:17:04.780
+'All Parts',
+
+0:17:04.780,0:17:05.680
+(formerly:)
+
+0:17:06.210,0:17:07.700
+...which generates your part scores,
+
+0:17:07.700,0:17:09.450
+...that then appear here as tabs
+
+0:17:09.450,0:17:10.910
+...that can't ever be closed.
+
+0:17:10.910,0:17:12.620
+Now, if you want to
+modify these parts,
+
+0:17:12.620,0:17:14.750
+...this is where I need to
+issue a headache warning.
+
+0:17:15.000,0:17:15.660
+Right.
+
+0:17:15.660,0:17:17.440
+Say you're writing a piano trio
+
+0:17:17.440,0:17:19.140
+...and the violin
+player asks you to
+
+0:17:19.140,0:17:20.780
+...include the piano
+in their part score.
+
+0:17:21.030,0:17:23.150
+So, the process for doing this is...
+
+0:17:23.530,0:17:24.070
+It's...
+
+0:17:24.330,0:17:25.250
+[sighs] Okay.
+
+0:17:25.250,0:17:26.570
+Press 'All Parts',
+
+0:17:26.570,0:17:28.180
+...and then click the file in here.
+
+0:17:28.180,0:17:28.730
+Right.
+
+0:17:28.730,0:17:30.300
+Then go down here where you can see
+
+0:17:30.300,0:17:31.820
+'Instruments in Part'.
+
+0:17:31.820,0:17:33.600
+So, if I now click on this piano
+
+0:17:33.600,0:17:34.960
+...and press this 'plus' button,
+
+0:17:34.960,0:17:37.230
+...a piano is added to
+this box on the right,
+
+0:17:37.230,0:17:39.190
+...which means that the
+violin part now has
+
+0:17:39.190,0:17:41.200
+...both the violin
+and the piano in it.
+
+0:17:41.490,0:17:42.460
+Great! We're done.
+
+0:17:42.700,0:17:43.550
+Oh, hold on.
+
+0:17:43.550,0:17:44.300
+I just realised.
+
+0:17:44.300,0:17:46.550
+I actually wanted the piano
+to be above the violin.
+
+0:17:46.800,0:17:47.310
+Damn.
+
+0:17:47.310,0:17:49.440
+Okay, let's open this
+back up again, except
+
+0:17:49.440,0:17:50.780
+...now the part is locked,
+
+0:17:50.780,0:17:52.260
+...because once it's been generated,
+
+0:17:52.260,0:17:53.600
+...that's it. You can't change it.
+
+0:17:53.820,0:17:55.850
+Right, so we need to
+delete this part entirely
+
+0:17:55.850,0:17:58.170
+...and create a new one
+by pressing 'Single Part'.
+
+0:17:58.610,0:17:59.280
+Okay.
+
+0:17:59.280,0:18:00.860
+Now let's add the piano first,
+
+0:18:00.860,0:18:01.780
+...and then the violin,
+
+0:18:01.780,0:18:03.880
+...and finally we have
+the arrangement we wanted.
+
+0:18:04.140,0:18:05.880
+Can you now see why so many users
+
+0:18:05.880,0:18:07.250
+...didn't know this was possible?
+
+0:18:07.590,0:18:09.010
+Now, over to Musescore 4.
+
+0:18:09.010,0:18:09.860
+Where to begin?
+
+0:18:09.860,0:18:11.540
+I need to introduce Roman,
+
+0:18:11.540,0:18:13.770
+...one of our developers
+who built a ton of features
+
+0:18:13.770,0:18:15.100
+...over the last
+two-and-a-half-years,
+
+0:18:15.100,0:18:17.820
+...including an improvement to
+the performance of part scores,
+
+0:18:17.820,0:18:20.800
+...which in turn freed us up to
+design a simplified experience.
+
+0:18:21.150,0:18:23.580
+First, we put a prominent
+'Parts' button here.
+
+0:18:24.070,0:18:25.940
+Using this, you can open your parts
+
+0:18:25.940,0:18:27.610
+...and close them again
+whenever you want.
+
+0:18:27.610,0:18:29.780
+Then, using this new
+'Instruments' panel,
+
+0:18:29.780,0:18:31.690
+...you can now quickly
+include or exclude
+
+0:18:31.690,0:18:33.780
+...whatever instruments you
+want in your part scores
+
+0:18:33.780,0:18:35.480
+...and rearrange them at any time too.
+
+0:18:35.480,0:18:38.250
+In this way, changes you make
+are instantly visible on the score,
+
+0:18:38.250,0:18:41.080
+...rather than an abstraction
+in a mad-looking dialog.
+
+0:18:43.570,0:18:46.430
+The really fun part of the design
+process was working on the UI.
+
+0:18:46.630,0:18:47.890
+In particular, the colours,
+
+0:18:47.890,0:18:50.310
+...which Jessica and I spent
+a lot of time figuring out.
+
+0:18:50.310,0:18:51.610
+We began by establishing
+
+0:18:51.610,0:18:53.080
+...twelve colour definitions,
+
+0:18:53.080,0:18:54.890
+...each one filling a
+particular purpose.
+
+0:18:54.890,0:18:56.060
+The colour of backgrounds,
+
+0:18:56.060,0:18:57.050
+...the colour used for text,
+
+0:18:57.050,0:18:57.920
+...the colour for buttons,
+
+0:18:57.920,0:18:58.560
+...et cetera.
+
+0:18:58.560,0:19:00.370
+Our rule was that everything in the app
+
+0:19:00.370,0:19:02.060
+...had to use one of these definitions.
+
+0:19:02.060,0:19:03.560
+Now, the trick to the
+definitions is that
+
+0:19:03.560,0:19:05.870
+...they can change their
+colour depending on the context.
+
+0:19:05.870,0:19:07.430
+If the app is using the light theme,
+
+0:19:07.430,0:19:08.560
+...the button colour is this:
+
+0:19:08.560,0:19:10.450
+If it's using the dark theme, this:
+
+0:19:10.450,0:19:11.940
+This means that when
+we design something,
+
+0:19:11.940,0:19:14.030
+...all we have to do is create
+it using the light theme,
+
+0:19:14.030,0:19:15.590
+...and the dark theme comes for free.
+
+0:19:15.890,0:19:18.130
+We also created one
+special colour definition
+
+0:19:18.130,0:19:19.250
+...called 'ACCENT_COLOUR',
+
+0:19:19.250,0:19:20.490
+...which allowed us to provide
+
+0:19:20.490,0:19:22.310
+...theming options for
+people to choose from.
+
+0:19:22.690,0:19:25.690
+And the other reason we built
+this system was accessibility.
+
+0:19:25.690,0:19:28.140
+In particular, a customizable
+high-contrast mode
+
+0:19:28.140,0:19:30.990
+...for users with various different
+kinds of visual impairment
+
+0:19:30.990,0:19:32.110
+...like low-vision,
+
+0:19:32.110,0:19:33.210
+...poor-contrast perception
+
+0:19:33.210,0:19:34.340
+...or colorblindness.
+
+0:19:34.340,0:19:36.240
+This particular design
+was implemented by
+
+0:19:36.240,0:19:38.470
+...a community member
+called Arjun Tunasia.
+
+0:19:38.470,0:19:39.380
+Thanks, Arjun!
+
+0:19:39.380,0:19:41.340
+Actually, it is worth
+deviating from the UI
+
+0:19:41.340,0:19:43.360
+...just to talk about
+accessibility for a moment.
+
+0:19:43.360,0:19:45.900
+I worked a lot on accessible
+design while at Microsoft,
+
+0:19:45.900,0:19:47.230
+...and when I came to Musescore,
+
+0:19:47.230,0:19:49.820
+...found a kindred spirit in
+our community member Peter,
+
+0:19:49.820,0:19:52.480
+...who had done a lot of
+accessibility work in Musescore 3
+
+0:19:52.480,0:19:54.730
+...and who later on joined
+our internal team too.
+
+0:19:54.730,0:19:57.220
+Together, we designed a new
+system for keyboard navigation
+
+0:19:57.220,0:19:59.630
+...which, along with our
+expanded screen reader support
+
+0:19:59.630,0:20:01.440
+...and ability to export in Braille,
+
+0:20:01.440,0:20:04.310
+...makes Musescore 4 much more
+accessible for blind users
+
+0:20:04.310,0:20:05.290
+...compared to version 3.
+
+0:20:05.290,0:20:07.740
+And it's worth mentioning that
+much of this was made possible
+
+0:20:07.740,0:20:09.670
+...due to the massive work
+done under the hood
+
+0:20:09.670,0:20:11.090
+...by our architect Igor.
+
+0:20:11.090,0:20:12.270
+Igor works in the shadows
+
+0:20:12.270,0:20:15.520
+...on the continuous
+de-Houstonification of Musescore.
+
+0:20:15.520,0:20:18.170
+He's one of the reasons we've been
+able to build as much as we have.
+
+0:20:18.460,0:20:19.840
+Anyway, back to the interface.
+
+0:20:19.840,0:20:21.350
+All the changes we made amounted to
+
+0:20:21.350,0:20:23.420
+...thousands of pages
+of design specs,
+
+0:20:23.650,0:20:25.220
+...but design is only halfway there.
+
+0:20:25.220,0:20:26.720
+All this stuff needed to be built,
+
+0:20:26.720,0:20:28.240
+...and two developers
+in particular had to
+
+0:20:28.240,0:20:29.890
+...take on the majority of that work.
+
+0:20:29.890,0:20:31.430
+I've already introduced you to Roman,
+
+0:20:31.430,0:20:33.180
+...but have not yet
+introduced Elnur,
+
+0:20:33.180,0:20:36.110
+...who is responsible for a lot of the
+accessibility work I've just described.
+
+0:20:36.330,0:20:38.880
+The effort these guys put into
+building this entire interface
+
+0:20:38.880,0:20:39.940
+...was really incredible.
+
+0:20:39.940,0:20:42.870
+No matter how many times I tested
+their work and suggested improvements,
+
+0:20:42.870,0:20:44.270
+...they just took it on the chin,
+
+0:20:44.270,0:20:46.210
+...sending me revision after revision
+
+0:20:46.210,0:20:48.100
+...until the feature
+in question was solid.
+
+0:20:48.100,0:20:51.440
+The community provided a ton of
+help on polishing the interface too.
+
+0:20:51.440,0:20:53.410
+In particular, there are
+three people who pumped
+
+0:20:53.410,0:20:55.060
+...endless hours into the project.
+
+0:20:55.060,0:20:56.260
+The first is Casper,
+
+0:20:56.260,0:20:57.790
+...who worked seemingly non-stop
+
+0:20:57.790,0:20:59.990
+...while preparing for his
+first year in university.
+
+0:20:59.990,0:21:01.910
+He has since joined
+our internal team too.
+
+0:21:01.910,0:21:04.170
+Another two notable
+contributors to the interface
+
+0:21:04.170,0:21:05.510
+...are Hemant Anthony
+
+0:21:05.510,0:21:06.680
+...and Dylan Nicholson.
+
+0:21:06.680,0:21:08.580
+Users owe these guys a big thanks.
+
+0:21:08.580,0:21:10.670
+There are of course many
+other community members
+
+0:21:10.670,0:21:13.550
+...who contributed in a big way
+to areas outside of the interface,
+
+0:21:13.550,0:21:15.460
+...but there are simply
+too many to mention here,
+
+0:21:15.460,0:21:17.560
+...so if you want to know
+who to say 'thank you' to,
+
+0:21:17.560,0:21:19.520
+...you'll see their names
+in the credits at the end.
+
+0:21:37.550,0:21:39.440
+When we were at the
+early planning stages,
+
+0:21:39.440,0:21:41.080
+...one of our main goals
+was to modernize
+
+0:21:41.080,0:21:42.740
+...Musescore's playback capability
+
+0:21:42.740,0:21:44.690
+...by supporting VST instruments.
+
+0:21:44.690,0:21:47.250
+Now, VST is obviously
+fantastic for DAWs
+
+0:21:47.250,0:21:48.850
+...like Ableton or Logic.
+
+0:21:48.850,0:21:50.590
+If you have an orchestral VST,
+
+0:21:50.590,0:21:52.040
+...you can, with enough tweaking,
+
+0:21:52.040,0:21:54.160
+...achieve some very
+realistic-sounding results.
+
+0:21:54.330,0:21:56.750
+However, from the point of
+view of a notation app,
+
+0:21:56.750,0:21:59.580
+...orchestral VSTs are
+extremely awkward to work with,
+
+0:21:59.580,0:22:01.460
+...and tend to provide,
+with one exception,
+
+0:22:01.460,0:22:02.510
+...quite poor results.
+
+0:22:02.510,0:22:04.210
+...and I think it's
+worth explaining why.
+
+0:22:04.210,0:22:06.540
+First, let me describe the
+goal for any notation app.
+
+0:22:06.540,0:22:08.920
+When a user plugs in a
+library of orchestral sounds,
+
+0:22:08.920,0:22:10.520
+...it should just work immediately.
+
+0:22:10.520,0:22:12.120
+Violins should sound like violins,
+
+0:22:12.120,0:22:13.620
+...and performance techniques like
+
+0:22:13.620,0:22:15.440
+...pizzicato, arco, or tremolo
+
+0:22:15.440,0:22:16.880
+...should just sound
+like those things.
+
+0:22:17.150,0:22:19.220
+The user shouldn't have
+to manually hook it all up.
+
+0:22:19.470,0:22:20.220
+But at present,
+
+0:22:20.220,0:22:22.180
+...bearing in mind that
+one exception I mentioned,
+
+0:22:22.180,0:22:23.240
+...this doesn't happen.
+
+0:22:23.240,0:22:25.540
+No matter how expensive
+the orchestral VST,
+
+0:22:25.540,0:22:27.020
+...it will not automatically know
+
+0:22:27.020,0:22:28.810
+...what sounds to play
+in a notation app.
+
+0:22:28.810,0:22:30.530
+The reason for this is MIDI,
+
+0:22:30.530,0:22:32.140
+...the protocol used by notation apps
+
+0:22:32.140,0:22:34.350
+...to send musical instructions to VSTs.
+
+0:22:34.350,0:22:36.610
+MIDI has no understanding
+of notation at all,
+
+0:22:36.610,0:22:38.470
+...because it wasn't
+designed for that purpose.
+
+0:22:38.470,0:22:40.110
+Take this notated example.
+
+0:22:40.110,0:22:41.660
+We have four notes within a slur.
+
+0:22:41.660,0:22:43.010
+Each note has a staccato mark,
+
+0:22:43.010,0:22:44.970
+...and the fourth note
+has an accent too.
+
+0:22:44.970,0:22:47.410
+This is followed by a tremolo
+direction in the next bar.
+
+0:22:47.410,0:22:50.320
+Now, since MIDI has no understanding
+of any of these concepts,
+
+0:22:50.320,0:22:52.510
+...notation apps have to
+provide a translation
+
+0:22:52.510,0:22:55.460
+...that tells MIDI what
+instructions to send to a VST,
+
+0:22:55.460,0:22:57.060
+...but that translation is lossy,
+
+0:22:57.060,0:22:59.620
+...discarding a ton of vital
+information along the way.
+
+0:22:59.620,0:23:00.660
+To play this example,
+
+0:23:00.660,0:23:02.730
+...here's what MIDI will send to a VST.
+
+0:23:03.040,0:23:04.580
+First, the pitches of each note.
+
+0:23:04.580,0:23:05.700
+That part's fine.
+
+0:23:05.700,0:23:07.360
+However, for the duration of each note,
+
+0:23:07.360,0:23:09.050
+...bearing in mind
+these staccato marks,
+
+0:23:09.050,0:23:10.440
+...that's where things get messy.
+
+0:23:10.440,0:23:12.530
+All MIDI can send in
+this instance are:
+
+0:23:13.330,0:23:13.940
+...and:
+
+0:23:14.330,0:23:15.040
+...events,
+
+0:23:15.040,0:23:16.090
+...which basically means,
+
+0:23:16.090,0:23:17.030
+"Start the note now."
+
+0:23:17.030,0:23:18.140
+"End the note now."
+
+0:23:18.140,0:23:21.420
+So even if the VST has a specific
+recording of a staccato sound,
+
+0:23:21.420,0:23:24.620
+...it has no idea that staccato
+has been specified on the score.
+
+0:23:24.920,0:23:26.330
+All it knows is the instruction
+
+0:23:26.330,0:23:26.950
+'start now'
+
+0:23:26.950,0:23:29.310
+...and then another instruction
+a fraction of a second later
+
+0:23:29.310,0:23:30.130
+'end now'.
+
+0:23:30.130,0:23:32.900
+It doesn't know when the 'end now'
+instruction will be called,
+
+0:23:32.900,0:23:35.480
+...so it can't even take an educated
+guess at what the intention is.
+
+0:23:35.480,0:23:37.540
+It's like placing a screen
+in front of a performer
+
+0:23:37.540,0:23:39.790
+...that only gives
+moment-to-moment instructions.
+
+0:23:41.050,0:23:41.450
+"Okay."
+
+0:23:42.700,0:23:44.560
+The player would have no
+idea what's coming next,
+
+0:23:44.560,0:23:47.610
+...so would not be able to provide
+any kind of musical interpretation.
+
+0:23:47.830,0:23:49.230
+Back to the notation again.
+
+0:23:49.230,0:23:50.640
+To represent this accent,
+
+0:23:50.640,0:23:52.430
+...MIDI will usually send
+a higher velocity
+
+0:23:52.430,0:23:53.760
+...compared to the other notes,
+
+0:23:53.760,0:23:55.000
+...so that it sounds louder.
+
+0:23:55.000,0:23:57.630
+If it has a specific
+recording of a staccato accent,
+
+0:23:57.630,0:23:58.890
+...it doesn't know to use it.
+
+0:24:02.220,0:24:04.670
+It just plays whatever its
+default is for that velocity:
+
+0:24:08.060,0:24:09.140
+And this tremolo,
+
+0:24:09.140,0:24:10.400
+...which is meant to sound like this:
+
+0:24:14.240,0:24:16.318
+God, that's where
+desperation sets in.
+
+0:24:16.320,0:24:17.930
+Basically all you can do is specify
+
+0:24:17.930,0:24:20.460
+...a quick succession of
+'note on' and 'note off' events,
+
+0:24:20.460,0:24:23.290
+...which results in this
+grim-sounding machine-gun effect:
+
+0:24:29.200,0:24:31.860
+The only way VSTs can
+perform more accurately
+
+0:24:31.860,0:24:34.390
+...is if notation apps provide
+dedicated support for them.
+
+0:24:34.390,0:24:35.210
+The problem with this
+
+0:24:35.210,0:24:38.680
+...is that there's also no
+standardization among VST instruments,
+
+0:24:38.680,0:24:40.650
+...even ones from the
+same manufacturer.
+
+0:24:40.650,0:24:42.430
+This means that dedicated support
+
+0:24:42.430,0:24:45.020
+...needs to be provided on
+a plug-in-by-plug-in basis.
+
+0:24:45.020,0:24:46.970
+An enormous burden for notation apps,
+
+0:24:46.970,0:24:48.700
+...which is why it
+generally doesn't get done.
+
+0:24:48.700,0:24:51.130
+And the problem gets passed
+to the user instead,
+
+0:24:51.130,0:24:52.950
+...who needs to be
+technically savvy enough to
+
+0:24:52.950,0:24:54.800
+...map sounds themselves by manually
+
+0:24:54.800,0:24:58.510
+...associating all kinds of abstract
+MIDI parameters with notated symbols.
+
+0:24:58.510,0:25:00.360
+It's a slow and, for most,
+
+0:25:00.360,0:25:02.090
+...bafflingly complicated process.
+
+0:25:02.090,0:25:05.730
+But even if you do know how to hook up
+a notation app with an orchestral VST,
+
+0:25:05.730,0:25:07.250
+...there's another severe limitation,
+
+0:25:07.250,0:25:09.470
+...which is that VST
+is a real-time format.
+
+0:25:09.470,0:25:12.690
+This takes us back to that example of
+putting a screen in front of a performer
+
+0:25:12.690,0:25:14.620
+...that prevents them from
+seeing what's coming next.
+
+0:25:14.830,0:25:16.110
+All MIDI can do is give
+
+0:25:16.110,0:25:18.850
+...immediate moment-to-moment
+instructions to a VST,
+
+0:25:18.850,0:25:21.660
+...and can't look ahead to
+provide vital Information like
+
+0:25:21.660,0:25:23.210
+...when a phrase is going to end.
+
+0:25:23.210,0:25:24.150
+If it could,
+
+0:25:24.150,0:25:26.000
+...VST developers would
+be free to create
+
+0:25:26.000,0:25:29.230
+...all kinds of clever systems that
+can provide a musical interpretation,
+
+0:25:29.230,0:25:31.840
+...including a meaningful
+application of machine learning.
+
+0:25:31.840,0:25:33.590
+But because they don't
+know what's coming next,
+
+0:25:33.590,0:25:35.200
+...they can't interpret context.
+
+0:25:35.200,0:25:38.330
+This limitation is really
+holding orchestral VSTs back
+
+0:25:38.330,0:25:39.560
+...in terms of what they can offer,
+
+0:25:39.560,0:25:42.350
+...which is why even the most
+expensive VST libraries you can buy
+
+0:25:42.350,0:25:45.370
+...sound pretty underwhelming
+and machine-like in notation apps.
+
+0:25:45.960,0:25:47.650
+The only way a user
+could get around this
+
+0:25:47.650,0:25:49.620
+...was to buy the VST NotePerformer,
+
+0:25:49.620,0:25:52.250
+...which sidesteps the
+limitations of MIDI and VST
+
+0:25:52.250,0:25:54.950
+...by working directly with
+notation apps like Sibelius,
+
+0:25:54.950,0:25:56.930
+...who provided dedicated
+support for it.
+
+0:25:56.930,0:26:00.140
+This allows them to send mutually
+agreed-upon musical instructions,
+
+0:26:00.140,0:26:02.630
+...so NotePerformer understands
+the notated context.
+
+0:26:02.630,0:26:04.380
+And to sidestep the real-time problem,
+
+0:26:04.380,0:26:05.780
+...they came up with a clever hack,
+
+0:26:05.780,0:26:07.660
+...which was to intentionally
+delay playback
+
+0:26:07.660,0:26:09.760
+...for around a second after
+you press the play button,
+
+0:26:09.760,0:26:12.030
+...so that it has enough lead time
+to know what's coming next
+
+0:26:12.030,0:26:14.190
+...and calculate a
+musical interpretation.
+
+0:26:14.190,0:26:15.470
+NotePerformer is great,
+
+0:26:15.470,0:26:17.300
+...but it's a solution
+that can't scale.
+
+0:26:17.300,0:26:19.020
+The burden and risk
+of having to provide
+
+0:26:19.020,0:26:21.270
+...dedicated support to
+multiple notation apps
+
+0:26:21.270,0:26:23.740
+...and receive dedicated support
+from each of them in return
+
+0:26:23.740,0:26:25.160
+...is just too hard
+for others who might
+
+0:26:25.160,0:26:27.200
+...otherwise be tempted
+to enter into the market.
+
+0:26:27.420,0:26:28.820
+That's why there's only one option:
+
+0:26:28.820,0:26:29.700
+NotePerformer,
+
+0:26:29.700,0:26:31.700
+...even though there are hundreds
+of sample libraries out there
+
+0:26:31.700,0:26:33.720
+...that were recorded at
+the highest possible level.
+
+0:26:33.720,0:26:35.230
+It's insane when you think about it.
+
+0:26:35.230,0:26:36.880
+Why doesn't EastWest Quantum Leap
+
+0:26:36.880,0:26:38.530
+...naturally integrate with Sibelius?
+
+0:26:38.780,0:26:39.640
+The answer?
+
+0:26:39.640,0:26:41.640
+The limitations of MIDI and VST.
+
+0:26:41.640,0:26:43.720
+It's a very unsatisfying
+state of affairs,
+
+0:26:43.720,0:26:46.070
+...but really all we could
+hope for with Musescore 4
+
+0:26:46.070,0:26:47.940
+...without developing new
+standards of our own.
+
+0:26:47.940,0:26:50.620
+So our initial plan was to
+at least reach the standard,
+
+0:26:50.620,0:26:53.330
+...and then figure out how to
+go beyond it in later releases.
+
+0:26:53.700,0:26:54.810
+So we buckled down,
+
+0:26:54.810,0:26:57.430
+...feeling quite satisfied that
+we had a solid path forward.
+
+0:26:57.430,0:26:58.770
+It's just good to feel secure
+
+0:26:58.770,0:26:59.770
+...in knowing where you're-
+
+0:26:59.770,0:27:01.540
+['Inception' bwaaam]
+
+0:27:03.200,0:27:04.480
+['Inception' bwaaam]
+
+0:27:04.480,0:27:04.950
+['Incepti-]
+
+0:27:04.950,0:27:05.100
+['Ince-]
+
+0:27:05.200,0:27:05.300
+['I-]
+
+0:27:05.300,0:27:05.400
+['I']
+
+0:27:05.400,0:27:07.870
+TRAPPED IN CAPTIONING STUDIO
+SEND HELP
+
+0:27:07.870,0:27:10.820
+Okay, we return back to MIDI
+and VST in just a second,
+
+0:27:10.820,0:27:12.380
+...but I first need to
+describe what happened.
+
+0:27:12.380,0:27:14.410
+...when Muse was joined by Audacity,
+
+0:27:14.410,0:27:16.240
+...the famous open-source
+audio editor,
+
+0:27:16.240,0:27:17.250
+...and StaffPad,
+
+0:27:17.250,0:27:18.830
+...a notation app for tablet.
+
+0:27:18.830,0:27:20.120
+First, to my surprise,
+
+0:27:20.120,0:27:22.630
+...I was asked to also
+lead the Audacity project,
+
+0:27:22.630,0:27:24.960
+...which involved hiring a
+new team and setting out
+
+0:27:24.960,0:27:27.430
+...an entirely new and very
+different development roadmap.
+
+0:27:27.770,0:27:29.770
+This required a big
+change to how I worked,
+
+0:27:29.770,0:27:30.800
+...because until then,
+
+0:27:30.800,0:27:33.230
+...I was wearing quite a few
+hats on the Musescore team,
+
+0:27:33.230,0:27:34.660
+...being the lead on the project
+
+0:27:34.660,0:27:37.680
+...but also the senior designer
+and the main tester all in one.
+
+0:27:37.680,0:27:40.280
+And since that was obviously
+no longer going to be possible,
+
+0:27:40.280,0:27:42.630
+...it meant that I needed to
+find more people to take on
+
+0:27:42.630,0:27:44.230
+...many of my old responsibilities.
+
+0:27:44.230,0:27:45.380
+And it was around this moment
+
+0:27:45.380,0:27:47.310
+...that I was contacted
+by a guy called Bradley,
+
+0:27:47.310,0:27:50.370
+...who had seen a video I released
+about a new notation font last year.
+
+0:27:50.370,0:27:51.470
+As luck would have it,
+
+0:27:51.470,0:27:53.140
+...he was a perfect
+addition to the team,
+
+0:27:53.140,0:27:56.880
+...being a UX designer who also
+has a PhD in Musical Performance.
+
+0:27:56.880,0:27:58.640
+Brad is the criminology dog.
+
+0:27:58.640,0:28:01.180
+And even though he came on board
+a little later in the project,
+
+0:28:01.180,0:28:02.790
+...his impact was massive.
+
+0:28:02.790,0:28:04.630
+Now, as for the StaffPad acquisition,
+
+0:28:04.630,0:28:07.020
+...this changed things in a very
+different way because it brought
+
+0:28:07.020,0:28:10.240
+...a lot of playback and orchestral
+recording know-how into our orbit.
+
+0:28:10.240,0:28:12.040
+And as we got to know
+the StaffPad team,
+
+0:28:12.040,0:28:15.130
+...we began formulating plans to
+develop a playback system of our own
+
+0:28:15.130,0:28:16.640
+...that was based on notation,
+
+0:28:16.640,0:28:19.540
+...including the ability to send
+score information in advance,
+
+0:28:19.540,0:28:22.110
+...something that would open us
+up to all kinds of possibilities
+
+0:28:22.110,0:28:24.480
+...with creators of orchestral
+sounds in the future.
+
+0:28:24.480,0:28:25.910
+But we needed a first showcase of
+
+0:28:25.910,0:28:28.080
+...the kind of playback that
+was going to be possible
+
+0:28:28.080,0:28:31.040
+...given all this new rich information
+being sent from Musescore.
+
+0:28:31.040,0:28:32.790
+So, the StaffPad team began recording
+
+0:28:32.790,0:28:34.930
+...an entirely new set
+of orchestral sounds
+
+0:28:34.930,0:28:36.670
+...as well as a new
+sampler technology,
+
+0:28:36.670,0:28:38.030
+...all of which would
+eventually become
+
+0:28:38.030,0:28:40.270
+...an external plugin that
+worked with Musescore.
+
+0:28:40.430,0:28:43.530
+However, we still had to face
+the massive obstacle of time.
+
+0:28:43.730,0:28:46.790
+Because it was important that
+Musescore still worked with VST,
+
+0:28:46.790,0:28:48.600
+...we had to develop a
+system that could support
+
+0:28:48.600,0:28:50.240
+...real-time formats via MIDI
+
+0:28:50.240,0:28:52.930
+...as well as non-real-time
+formats via notation,
+
+0:28:52.930,0:28:54.460
+...something that's
+never been done before.
+
+0:28:54.710,0:28:57.170
+And for that reason, we knew that
+this was going to take a while.
+
+0:28:57.170,0:29:00.070
+We felt it would most likely
+become a Musescore 5 thing.
+
+0:29:00.070,0:29:02.100
+And just as we were
+coming to this conclusion,
+
+0:29:02.100,0:29:04.550
+...I got a curious email
+from Eugenie Nadianov,
+
+0:29:04.550,0:29:05.670
+...the founder of the company:
+
+0:29:11.350,0:29:13.720
+Now, I didn't quite know how
+to respond to this right away.
+
+0:29:13.720,0:29:14.870
+I loved the idea.
+
+0:29:14.870,0:29:15.820
+I really wanted to do it,
+
+0:29:15.820,0:29:17.940
+...but suspected the
+time extension required
+
+0:29:17.940,0:29:20.200
+...would take the option
+off the table for version 4.
+
+0:29:20.200,0:29:21.060
+So I wrote:
+
+0:29:25.470,0:29:28.490
+And I followed that with the list
+of all the challenges involved,
+
+0:29:28.490,0:29:30.840
+...along with the dreaded
+time estimates too.
+
+0:29:30.840,0:29:32.840
+I remember feeling a little
+down while writing this,
+
+0:29:32.840,0:29:35.400
+...because I honestly thought it would
+be considered out of the question.
+
+0:29:35.660,0:29:36.820
+But the response I got was:
+
+0:29:40.510,0:29:41.800
+It was one of the most surprising
+
+0:29:41.800,0:29:44.560
+...and enormously consequential
+moments of my career,
+
+0:29:44.560,0:29:46.560
+...and of course I wasn't gonna
+argue, because it meant that
+
+0:29:46.560,0:29:49.360
+...Musescore 4 wouldn't just be
+a big step in the right direction,
+
+0:29:49.360,0:29:52.510
+...it would be the most significant
+update to a notation app ever.
+
+0:29:52.830,0:29:55.940
+Now, since there is no universal
+standard out there that we could use,
+
+0:29:55.940,0:29:58.190
+...we had to develop this
+playback system from scratch,
+
+0:29:58.190,0:29:59.890
+...and there were many
+unknowns involved.
+
+0:30:00.190,0:30:02.030
+This is where our good
+looks struck again,
+
+0:30:02.030,0:30:04.630
+...because it turned out
+that early developer Vasily,
+
+0:30:04.630,0:30:05.920
+...who I've already introduced,
+
+0:30:05.920,0:30:07.640
+...was no ordinary developer.
+
+0:30:07.640,0:30:09.200
+He had been advocating for a while that
+
+0:30:09.200,0:30:11.090
+...we needed to develop
+our own solution,
+
+0:30:11.090,0:30:12.370
+...and once we got the go-ahead,
+
+0:30:12.370,0:30:14.220
+...built over the course of two years
+
+0:30:14.220,0:30:16.510
+...with the weight of the
+entire project on his shoulders
+
+0:30:16.510,0:30:18.950
+...the playback system
+we needed in its entirety.
+
+0:30:19.370,0:30:21.420
+First, it sends rich notated context.
+
+0:30:21.740,0:30:24.160
+Second, it can continuously
+process a score
+
+0:30:24.160,0:30:25.950
+...and send it to a
+sampler in advance,
+
+0:30:25.950,0:30:28.780
+...which enables the sampler to
+calculate a musical performance.
+
+0:30:29.000,0:30:31.670
+And it hasn't dropped any
+MIDI compatibility either,
+
+0:30:31.670,0:30:33.660
+...so things like external keyboards,
+
+0:30:33.660,0:30:36.290
+...soundfonts, and VSTs
+all work perfectly.
+
+0:30:36.550,0:30:39.620
+Watching this mountain of work
+come together was astonishing,
+
+0:30:39.620,0:30:40.780
+...although I have to admit
+
+0:30:40.780,0:30:42.140
+...the testing was a nightmare,
+
+0:30:42.140,0:30:44.840
+...reviewing hundreds of different
+combinations of techniques
+
+0:30:44.840,0:30:46.450
+...played by hundreds of
+different instruments
+
+0:30:46.450,0:30:48.000
+...across a variety of tempos,
+
+0:30:48.000,0:30:49.840
+...using a gazillion different scores.
+
+0:30:50.070,0:30:51.410
+It was endless,
+
+0:30:51.690,0:30:53.240
+...but ultimately worth it,
+
+0:30:53.240,0:30:56.400
+...because once we combined our playback
+system with the orchestral plugin,
+
+0:30:56.400,0:30:57.880
+...which we eventually gave the name:
+
+0:30:58.820,0:31:01.000
+...the improvement in
+quality was insane.
+
+0:31:01.000,0:31:04.170
+Let me demonstrate by comparing
+it to the playback of version 3.
+
+0:33:18.000,0:33:19.010
+I hope you agree
+
+0:33:19.010,0:33:20.770
+...the time extension was worth it.
+
+0:33:28.350,0:33:30.660
+So, now that our timeline
+had been extended,
+
+0:33:30.660,0:33:32.390
+...our engraving expert Simon
+
+0:33:32.390,0:33:33.810
+(you remember Simon, right?)
+
+0:33:33.810,0:33:35.590
+...and his team were able to achieve
+
+0:33:35.590,0:33:38.540
+...far more significant changes
+than we'd originally planned.
+
+0:33:38.540,0:33:41.330
+First, I should explain the
+overall purpose of these changes.
+
+0:33:41.480,0:33:44.490
+The primary focus of engraving
+is to achieve two things:
+
+0:33:44.490,0:33:46.240
+the highest possible legibility
+
+0:33:46.240,0:33:47.890
+...and the highest possible beauty.
+
+0:33:47.890,0:33:49.390
+And these aren't separate goals,
+
+0:33:49.390,0:33:52.120
+...because it tends to be the
+case that an improvement in one
+
+0:33:52.120,0:33:54.420
+...naturally leads to an
+improvement in the other.
+
+0:33:54.420,0:33:55.990
+For example, spacing.
+
+0:33:55.990,0:33:57.570
+When symbols are too close together,
+
+0:33:57.570,0:33:59.880
+...it can confuse the eye
+and look unpleasant.
+
+0:34:00.090,0:34:01.350
+When they're too far apart,
+
+0:34:01.350,0:34:03.220
+...the negative space
+becomes distracting
+
+0:34:03.220,0:34:05.440
+...and the eye can be tricked
+into making associations
+
+0:34:05.440,0:34:07.900
+...between elements that have
+nothing to do with each other,
+
+0:34:07.900,0:34:10.510
+...which can often lead to
+mistakes in musical performance.
+
+0:34:10.700,0:34:13.320
+So, in all cases, you need
+to find the perfect balance
+
+0:34:13.320,0:34:16.110
+...which naturally synthesizes
+beauty and legibility.
+
+0:34:16.340,0:34:17.660
+In pursuit of this goal,
+
+0:34:17.660,0:34:19.870
+...one key issue to avoid is noise.
+
+0:34:20.070,0:34:21.190
+Take this example,
+
+0:34:21.190,0:34:23.130
+...where, due to
+imprecise positioning,
+
+0:34:23.130,0:34:25.700
+...all kinds of unintentional
+collisions are occurring,
+
+0:34:25.700,0:34:27.600
+...which makes the symbols
+harder to identify
+
+0:34:27.600,0:34:29.860
+...while also creating
+loads of extra shapes
+
+0:34:29.860,0:34:31.900
+...which contributes
+noise to each bar,
+
+0:34:31.900,0:34:33.770
+...making the whole
+more difficult to read.
+
+0:34:33.770,0:34:35.710
+I often think about
+these noisy objects
+
+0:34:35.710,0:34:37.820
+...as things that the
+eye can get caught on,
+
+0:34:37.820,0:34:38.870
+...like a snag.
+
+0:34:40.730,0:34:43.260
+But since there are nearly
+always too many symbols
+
+0:34:43.260,0:34:45.440
+...and not enough space
+to achieve the ideal,
+
+0:34:45.440,0:34:47.480
+...excellent engraving
+is really all about
+
+0:34:47.480,0:34:49.460
+...choosing the best
+possible compromise.
+
+0:34:49.460,0:34:51.100
+As you add more and more information,
+
+0:34:51.100,0:34:52.790
+...the score must
+continuously rebalance
+
+0:34:52.790,0:34:54.620
+...to maintain the
+best possible spacing
+
+0:34:54.620,0:34:57.280
+...while avoiding as many
+eye snags as possible.
+
+0:34:57.280,0:34:59.980
+I can't begin to describe how
+many thousands of variables
+
+0:34:59.980,0:35:01.500
+...need to be written
+to achieve this,
+
+0:35:01.500,0:35:03.390
+...and how much testing
+it takes to get right.
+
+0:35:03.390,0:35:04.990
+Our ambitions for Musescore 4
+
+0:35:04.990,0:35:07.840
+...necessitated a rewrite
+of a significant amount
+
+0:35:07.840,0:35:09.490
+...of the existing engraving code.
+
+0:35:09.730,0:35:11.290
+One of the biggest rewrites was
+
+0:35:11.290,0:35:13.390
+...to how slurs and
+ties look and behave.
+
+0:35:13.980,0:35:14.910
+To demonstrate,
+
+0:35:14.910,0:35:17.150
+...let's look at these
+chords in Musescore 3.
+
+0:35:17.150,0:35:18.600
+If we now tie these together,
+
+0:35:18.980,0:35:20.580
+...you'll see loads of collisions,
+
+0:35:20.580,0:35:23.050
+...as if the chords are
+conducting missile warfare.
+
+0:35:23.050,0:35:24.400
+Ties are going through notes.
+
+0:35:24.400,0:35:25.920
+They're crisscrossing over each other.
+
+0:35:25.920,0:35:28.160
+This tie down here on the A is okay,
+
+0:35:28.160,0:35:30.460
+...but it's colliding with
+the lowest stave line,
+
+0:35:30.460,0:35:33.250
+...with the ends of either side
+only barely poking through.
+
+0:35:33.250,0:35:34.500
+In this case, it is legible,
+
+0:35:34.500,0:35:35.660
+...but just a bit ugly.
+
+0:35:35.660,0:35:37.420
+However, these same features produce
+
+0:35:37.420,0:35:39.530
+...much more of a
+problem here on the C.
+
+0:35:39.530,0:35:41.960
+Because this tie is also
+touching a stave line,
+
+0:35:41.960,0:35:44.030
+...it's harder to make out
+the overall arc.
+
+0:35:44.030,0:35:45.200
+And because you can't make out
+
+0:35:45.200,0:35:47.100
+...where either end of
+the tie terminates,
+
+0:35:47.100,0:35:49.110
+...the overall object
+is tough to read,
+
+0:35:49.110,0:35:51.070
+...and much, much tougher
+at normal sizes.
+
+0:35:51.070,0:35:52.250
+But we're not done yet.
+
+0:35:52.250,0:35:53.930
+Let's add some augmentation dots,
+
+0:35:53.930,0:35:56.620
+...and now you can see that
+the ties are ignoring the dots
+
+0:35:56.620,0:35:57.920
+...and just going beyond them,
+
+0:35:57.920,0:35:59.110
+...which is a bit weird.
+
+0:35:59.110,0:36:00.940
+But we've not yet
+reached peak horrible.
+
+0:36:00.940,0:36:02.310
+Let's make this a C-sharp,
+
+0:36:02.310,0:36:04.090
+...and for demonstration purposes,
+
+0:36:04.090,0:36:05.840
+...let's add a natural
+accidental here.
+
+0:36:06.140,0:36:06.830
+Yummy.
+
+0:36:07.050,0:36:08.990
+Now we have ties
+crisscrossing each other
+
+0:36:08.990,0:36:11.000
+...and skewering these
+poor accidentals.
+
+0:36:11.320,0:36:13.720
+Finally, if I drag this
+G down to be an F,
+
+0:36:13.720,0:36:15.520
+...now the ties are
+actually intersecting
+
+0:36:15.520,0:36:17.780
+...and obscuring the
+augmentation dots too.
+
+0:36:17.780,0:36:19.740
+It's military-grade jank.
+
+0:36:19.740,0:36:20.800
+In version 4,
+
+0:36:20.800,0:36:22.440
+...let's go through
+the same process.
+
+0:36:22.440,0:36:23.770
+If we add the ties,
+
+0:36:23.770,0:36:24.960
+...there are no collisions,
+
+0:36:24.960,0:36:27.520
+...and the peaks of the arcs
+never collide with stave lines.
+
+0:36:27.520,0:36:29.280
+If we add augmentation dots,
+
+0:36:29.280,0:36:30.860
+...they're taken into account too.
+
+0:36:30.860,0:36:33.100
+Now, if we add those
+same accidentals again,
+
+0:36:33.100,0:36:34.120
+...no collisions.
+
+0:36:34.120,0:36:36.130
+Also (and I really
+love this, by the way),
+
+0:36:36.130,0:36:38.980
+...if you increase or decrease
+the distance between chords,
+
+0:36:38.980,0:36:42.030
+...the ties cleverly update to
+find the best possible positioning
+
+0:36:42.030,0:36:44.040
+...so the arcs don't
+end up on the stave lines.
+
+0:36:44.260,0:36:46.510
+It's on a completely different
+level to what we had before.
+
+0:36:46.690,0:36:47.990
+Apart from thanking Simon,
+
+0:36:47.990,0:36:50.060
+...you can thank our
+engraving engineer Aaron
+
+0:36:50.060,0:36:51.760
+...for the implementation
+of all this stuff.
+
+0:36:51.760,0:36:53.380
+He worked incredibly hard on it.
+
+0:36:53.380,0:36:55.540
+Another thing Aaron spent
+a ton of time on was
+
+0:36:55.540,0:36:57.740
+...a new algorithm for
+how beaming works,
+
+0:36:57.740,0:36:59.750
+...so that it would be
+more rigorous and logical.
+
+0:36:59.920,0:37:02.150
+Many of the principles
+Simon and Aaron followed
+
+0:37:02.150,0:37:03.900
+...are documented in Ted Ross' book
+
+0:37:03.900,0:37:06.030
+'The Art of Music Engraving
+and Processing',
+
+0:37:06.030,0:37:09.210
+...which has long been considered the
+most comprehensive text on beaming rules.
+
+0:37:09.600,0:37:12.490
+So, this is an example
+of beaming in version 3.
+
+0:37:12.490,0:37:14.020
+One of the main aims of the algorithm
+
+0:37:14.020,0:37:16.220
+...is to avoid what
+Ross calls "wedges",
+
+0:37:16.220,0:37:17.520
+...which occur at these intersections
+
+0:37:17.520,0:37:19.420
+...at the beginning
+or end of the beam.
+
+0:37:19.420,0:37:21.880
+We also wanted to avoid
+unnecessary intersections
+
+0:37:21.880,0:37:23.710
+...between stave lines and beams too,
+
+0:37:23.710,0:37:26.240
+...because they generate more
+noisy objects on the page.
+
+0:37:26.240,0:37:27.720
+In version 4, you can see that
+
+0:37:27.720,0:37:29.280
+...all this noise has been removed.
+
+0:37:29.510,0:37:30.740
+This is important, because
+
+0:37:30.740,0:37:32.910
+...beaming occurs
+all the time in notation.
+
+0:37:32.910,0:37:34.560
+So when dealing with full scores,
+
+0:37:34.560,0:37:37.060
+...this system clears away
+hundreds, if not thousands,
+
+0:37:37.060,0:37:39.310
+...of instances of
+distracting visual noise.
+
+0:37:39.540,0:37:41.730
+Then there's our notation font Leland,
+
+0:37:41.730,0:37:43.800
+...which I released a
+video about last year.
+
+0:37:43.800,0:37:45.810
+We've added around 200 more symbols
+
+0:37:45.810,0:37:47.900
+...and redesigned many
+of the existing ones.
+
+0:37:47.900,0:37:49.570
+If you recall, I mentioned before
+
+0:37:49.570,0:37:52.370
+...that I suspected I'd need
+to revise those note flags,
+
+0:37:52.370,0:37:54.540
+...which are by far the
+hardest symbols to get right.
+
+0:37:54.800,0:37:56.900
+Well, after living with
+them for a few months,
+
+0:37:56.900,0:37:58.970
+...we became unhappy
+with this sort of...
+
+0:37:58.970,0:38:00.610
+...humpiness you see here,
+
+0:38:00.610,0:38:03.360
+...so I created straighter,
+more elegant versions instead.
+
+0:38:03.540,0:38:06.390
+Happily, a community contributor
+called Nick Mazuk,
+
+0:38:06.390,0:38:09.060
+...who also contributed quite a
+bit to our beaming, by the way,
+
+0:38:09.060,0:38:11.260
+...refined how the stem length
+of notes are displayed
+
+0:38:11.260,0:38:13.840
+...so that these new flags
+would always sit perfectly
+
+0:38:13.840,0:38:15.650
+...no matter where on
+the stave they appeared.
+
+0:38:16.250,0:38:18.880
+Now, one of the toughest nuts
+to crack in all engraving
+
+0:38:18.880,0:38:20.450
+...is horizontal spacing,
+
+0:38:20.450,0:38:22.060
+...which is the ultimate balancing act.
+
+0:38:22.340,0:38:24.760
+Simon had written a massive
+specification for this,
+
+0:38:24.760,0:38:26.030
+...which was so complicated
+
+0:38:26.030,0:38:28.230
+...and required such
+a fundamental rewrite
+
+0:38:28.230,0:38:31.350
+...we decided it was safer to
+delay it until a later version.
+
+0:38:31.680,0:38:33.070
+That is, until one morning
+
+0:38:33.070,0:38:35.590
+...Simon and I noticed a
+random submission coming in
+
+0:38:35.590,0:38:37.740
+...from a community
+member called Michele
+
+0:38:37.740,0:38:39.360
+...who we'd never heard of before.
+
+0:38:39.580,0:38:40.990
+Turns out Michele had been following
+
+0:38:40.990,0:38:42.940
+...the work we'd done
+on engraving last year,
+
+0:38:42.940,0:38:46.020
+...and had noticed all our talk about
+the horizontal spacing problem,
+
+0:38:46.020,0:38:48.350
+...and just decided one day
+to try his hand at it.
+
+0:38:48.350,0:38:50.090
+At first, we thought,
+"Who is this person,"
+
+0:38:50.090,0:38:52.510
+"...and why does he think he
+has the answer to this problem?"
+
+0:38:52.700,0:38:54.460
+But once we played around
+with his submission,
+
+0:38:54.460,0:38:57.530
+...our initial perception of
+him very quickly changed to
+
+0:38:57.530,0:38:58.990
+"We gotta get this guy in our team."
+
+0:38:59.160,0:39:01.610
+Michele was actually
+studying a PhD in Physics
+
+0:39:01.610,0:39:03.550
+...in Vienna at the time
+and, believe it or not,
+
+0:39:03.550,0:39:05.650
+...quit that PhD to come
+work on Musescore.
+
+0:39:05.650,0:39:08.460
+I asked him a while ago why he
+was so eager to make this change,
+
+0:39:08.460,0:39:10.040
+...and I really enjoyed his response:
+
+0:39:29.200,0:39:29.810
+Again,
+
+0:39:29.810,0:39:31.990
+...this project was just
+blessed with good luck.
+
+0:39:32.290,0:39:34.370
+Now, to understand what
+Michele actually did,
+
+0:39:34.370,0:39:36.440
+...let's look at the
+issues with Musescore 3,
+
+0:39:36.440,0:39:38.320
+...which is that it tends to create
+
+0:39:38.320,0:39:40.260
+...far too much additional
+space to everything
+
+0:39:40.260,0:39:43.120
+...and had poor systems
+for achieving consistency.
+
+0:39:43.120,0:39:44.620
+Here's a classic example.
+
+0:39:44.620,0:39:47.050
+It's giving too much space
+to these 30-second notes
+
+0:39:47.050,0:39:50.250
+...and incredibly inconsistent
+spacing to these quarter notes.
+
+0:39:50.450,0:39:53.290
+So, even though these quarter notes
+are all exactly the same duration,
+
+0:39:53.290,0:39:54.750
+...it's hard to look
+at them and not feel
+
+0:39:54.750,0:39:56.570
+...an instinctive increase in tempo.
+
+0:39:59.610,0:40:00.550
+In version 4,
+
+0:40:00.550,0:40:01.920
+...everything has been rebalanced.
+
+0:40:02.150,0:40:04.520
+These 30 seconds don't
+take up so much space,
+
+0:40:04.520,0:40:07.200
+...and the quarter note durations
+are perfectly consistent.
+
+0:40:07.520,0:40:08.460
+In Musescore 3,
+
+0:40:08.460,0:40:10.370
+...durations were
+unnecessarily lengthened
+
+0:40:10.370,0:40:11.750
+...when an accidental was added,
+
+0:40:11.750,0:40:13.540
+...again causing spacing weirdness
+
+0:40:13.540,0:40:16.170
+...where these two bars are quite
+a bit larger than the others.
+
+0:40:16.400,0:40:17.440
+In Musescore 4,
+
+0:40:17.440,0:40:19.170
+...they're now all
+perfectly consistent.
+
+0:40:19.610,0:40:21.220
+Here's another example from 3.
+
+0:40:21.220,0:40:22.890
+Look how much space that's taking up.
+
+0:40:22.890,0:40:24.680
+This actually highlights
+one of the major reasons
+
+0:40:24.680,0:40:26.600
+...horizontal spacing is so important,
+
+0:40:26.600,0:40:28.710
+...because when you're writing
+for multiple instruments,
+
+0:40:28.710,0:40:30.240
+...the measure that
+has the most detail
+
+0:40:30.240,0:40:31.700
+...defines the amount of space
+
+0:40:31.700,0:40:33.130
+...all the other measures
+are going to get.
+
+0:40:33.330,0:40:34.840
+And now look at version 4,
+
+0:40:34.840,0:40:36.370
+...where things are tucked in neatly.
+
+0:40:36.370,0:40:38.980
+Way more consistent with
+a lot of saved space.
+
+0:40:39.390,0:40:42.520
+One of the worst horizontal
+spacing problems in Musescore 3
+
+0:40:42.520,0:40:44.130
+...was how it handled tuplets.
+
+0:40:44.130,0:40:46.620
+You can see here that the
+spacing is all over the place.
+
+0:40:46.620,0:40:48.030
+But after Michele's work,
+
+0:40:48.030,0:40:49.160
+...they now look like this.
+
+0:40:49.160,0:40:51.430
+You don't know how satisfying
+it was for all of us
+
+0:40:51.430,0:40:52.980
+...when this fix was finally in.
+
+0:40:53.180,0:40:56.830
+There's also some really cool
+collision-avoidance stuff added too.
+
+0:40:56.830,0:40:58.340
+For example, in version 3,
+
+0:40:58.340,0:40:59.080
+...look at this.
+
+0:40:59.080,0:41:00.680
+These sharps with the arpeggio line
+
+0:41:00.680,0:41:02.410
+...have really blunt
+collision avoidance
+
+0:41:02.410,0:41:04.750
+...that's causing this
+big ugly gap to occur.
+
+0:41:04.750,0:41:05.680
+In version 4,
+
+0:41:05.680,0:41:06.840
+...it's way smarter
+
+0:41:06.840,0:41:08.820
+...and knows how to
+tuck in here nicely.
+
+0:41:08.820,0:41:10.550
+It's actually really
+cool playing with this
+
+0:41:10.550,0:41:11.970
+...to observe how it figures out
+
+0:41:11.970,0:41:13.950
+...when it has enough
+space to tuck things in.
+
+0:41:13.950,0:41:15.890
+Here's another example from version 3,
+
+0:41:15.890,0:41:17.570
+...where the notes are unnecessarily
+
+0:41:17.570,0:41:20.000
+...making space for this
+treble clef down here.
+
+0:41:20.000,0:41:21.560
+Not so in version 4.
+
+0:41:22.110,0:41:23.780
+Apart from horizontal spacing,
+
+0:41:23.780,0:41:26.030
+...there are hundreds of other
+little engraving improvements
+
+0:41:26.030,0:41:28.160
+...that would require a
+whole video to go through.
+
+0:41:28.160,0:41:29.350
+But just to name a few:
+
+0:41:29.360,0:41:31.090
+Footers now have consistent padding
+
+0:41:31.090,0:41:32.990
+...so that they don't
+overlap notation.
+
+0:41:33.210,0:41:34.160
+In Musescore 3,
+
+0:41:34.160,0:41:36.170
+...systems would all start
+at different positions
+
+0:41:36.170,0:41:38.040
+...depending on the length
+of the instrument name.
+
+0:41:38.040,0:41:39.910
+Now they all start at
+the same position.
+
+0:41:40.250,0:41:41.780
+Dynamics used to be
+centered to notes
+
+0:41:41.780,0:41:43.650
+...based on the width
+of their bounding box,
+
+0:41:43.650,0:41:45.680
+...which is too blunt
+a system that gives
+
+0:41:45.680,0:41:47.450
+...slightly off-centered-
+looking results,
+
+0:41:47.450,0:41:49.650
+...mainly because
+dynamics are italicized.
+
+0:41:49.910,0:41:50.680
+To fix this,
+
+0:41:50.680,0:41:52.050
+...we now recognize what's called
+
+0:41:52.050,0:41:53.710
+...the 'optical center' of dynamics,
+
+0:41:53.710,0:41:55.560
+...a smooth little definition
+which we included
+
+0:41:55.560,0:41:56.660
+...in this version of Leland.
+
+0:41:57.110,0:41:58.600
+Lines at the end of a system,
+
+0:41:58.600,0:41:59.700
+...like ottava marks,
+
+0:41:59.700,0:42:00.298
+...lyrics,
+
+0:42:00.300,0:42:01.000
+...trills,
+
+0:42:01.000,0:42:02.120
+...slurs and ties
+
+0:42:02.120,0:42:03.750
+...used to overlap
+the final bar line,
+
+0:42:03.750,0:42:06.210
+...which intersected nastily
+with these key changes.
+
+0:42:06.450,0:42:07.190
+Now they don't.
+
+0:42:07.410,0:42:09.810
+Nested tuplets used to
+intersect each other,
+
+0:42:09.810,0:42:11.010
+...and now they don't either.
+
+0:42:11.010,0:42:13.000
+And when tuplets are
+part of a beamed group,
+
+0:42:13.000,0:42:14.440
+...we have more
+intelligent bracketing
+
+0:42:14.440,0:42:16.000
+...that makes them
+easier to recognize.
+
+0:42:16.310,0:42:18.510
+I've put a link in the
+description to a post by Simon
+
+0:42:18.510,0:42:20.680
+...that lists out all the
+other changes we've made.
+
+0:42:21.020,0:42:22.600
+So one last thing I
+should mention is that
+
+0:42:22.600,0:42:25.150
+...as we were gradually introducing
+all these improvements,
+
+0:42:25.360,0:42:27.880
+...I'd often share little updates
+with their progress on Twitter.
+
+0:42:28.100,0:42:30.100
+This turned out to be
+quite practically useful,
+
+0:42:30.100,0:42:31.770
+...because there were
+a few occasions where
+
+0:42:31.770,0:42:34.770
+...people pointed out little details
+that helped us improve things further.
+
+0:42:34.770,0:42:37.190
+And it's worth mentioning that
+we're by no means finished.
+
+0:42:37.190,0:42:38.860
+There's a lot more coming down the pipe
+
+0:42:38.860,0:42:40.310
+...that's being worked on right now.
+
+0:42:44.440,0:42:46.310
+One of the petrifying
+things about overhauling
+
+0:42:46.310,0:42:48.920
+...the code base with 15 years
+worth of development put into it
+
+0:42:48.920,0:42:51.090
+...is that you are inevitably
+going to introduce
+
+0:42:51.090,0:42:52.130
+...thousands of bugs.
+
+0:42:52.130,0:42:53.970
+On GitHub, where we track this stuff,
+
+0:42:53.970,0:42:57.060
+...Musescore 4 has almost
+3,000 reported bugs,
+
+0:42:57.060,0:42:58.750
+...and that number
+can easily be doubled
+
+0:42:58.750,0:43:00.660
+...if we include all the
+internal testing done
+
+0:43:00.660,0:43:03.020
+...before features are pushed
+to the master version.
+
+0:43:03.020,0:43:04.850
+Dealing with this number
+of bugs presents
+
+0:43:04.850,0:43:06.630
+...significant
+organizational problems,
+
+0:43:06.630,0:43:08.540
+...since every bug
+needs investigation.
+
+0:43:08.770,0:43:09.670
+Is it well described?
+
+0:43:09.890,0:43:11.340
+Can it be reproduced reliably
+
+0:43:11.340,0:43:13.390
+...to help developers
+isolate and fix it?
+
+0:43:13.390,0:43:14.500
+Is the bug out of date?
+
+0:43:14.500,0:43:16.810
+Is it really a bug, or is it
+meant to be that way?
+
+0:43:16.810,0:43:19.000
+Is it a critical bug that
+needs to be fixed now,
+
+0:43:19.000,0:43:20.310
+...or is it medium priority,
+
+0:43:20.310,0:43:21.200
+...or is it trivial?
+
+0:43:21.200,0:43:23.270
+If you don't stay on top of
+these questions every day,
+
+0:43:23.270,0:43:24.950
+...you lose sight of
+the health of your app,
+
+0:43:24.950,0:43:26.160
+...all but guaranteeing that
+
+0:43:26.160,0:43:28.180
+...critical problems get
+released to the public.
+
+0:43:29.040,0:43:31.470
+Thankfully, we were again
+struck with good luck,
+
+0:43:31.470,0:43:32.900
+...when about halfway
+through development
+
+0:43:32.900,0:43:34.620
+...I found Dmitry, a composer
+
+0:43:34.620,0:43:37.200
+...who has a decade of experience
+testing notation software.
+
+0:43:37.200,0:43:38.550
+He then brought in Borys,
+
+0:43:38.550,0:43:39.990
+...another highly
+knowledgeable tester
+
+0:43:39.990,0:43:41.960
+...with a background in
+music and composition.
+
+0:43:41.960,0:43:43.780
+Dmitry and Borys worked tirelessly,
+
+0:43:43.780,0:43:46.100
+...reporting, confirming,
+prioritizing, and testing
+
+0:43:46.100,0:43:48.100
+...fixes for Mac, PC, and Linux,
+
+0:43:48.100,0:43:49.760
+...day after day after day.
+
+0:43:49.760,0:43:52.790
+Releasing Musescore 4 would have
+been a scary prospect without them.
+
+0:43:52.790,0:43:55.010
+And by the way, since they
+both live in Ukraine,
+
+0:43:55.010,0:43:59.430
+...they did this work under unimaginably
+awful circumstances throughout 2022.
+
+0:43:59.830,0:44:02.640
+Now, the community also played
+a massive role in testing too.
+
+0:44:02.640,0:44:04.330
+Bug-fixing is one
+of those superpowers
+
+0:44:04.330,0:44:06.180
+...that comes with being
+an open-source project,
+
+0:44:06.180,0:44:08.420
+...because it provides loads
+of experience to users
+
+0:44:08.420,0:44:11.090
+...who can sniff out all kinds
+of weird little niche issues
+
+0:44:11.090,0:44:13.350
+...and can often jump in
+to help solve them too.
+
+0:44:13.840,0:44:14.990
+Apart from testing,
+
+0:44:14.990,0:44:17.780
+...another problem for us was that
+Musescore 4 was going to make
+
+0:44:17.780,0:44:20.850
+...all our existing documentation
+and tutorials obsolete,
+
+0:44:20.850,0:44:22.630
+...and we had to tackle
+this in two ways.
+
+0:44:22.850,0:44:24.890
+First, we created a
+new online manual,
+
+0:44:24.890,0:44:27.430
+...a massive task headed
+up by Bradley and Peter,
+
+0:44:27.430,0:44:30.350
+...along with our longtime community
+contributor Marc Sabatella,
+
+0:44:30.350,0:44:31.830
+...who's been around
+since the early days.
+
+0:44:31.990,0:44:33.520
+The manual has now been opened up
+
+0:44:33.520,0:44:35.240
+...so that the rest of
+the community can provide
+
+0:44:35.240,0:44:37.520
+...contributions and
+translations too.
+
+0:44:37.520,0:44:40.570
+Second, we created a new
+series of video tutorials,
+
+0:44:40.570,0:44:42.280
+...some targeted at existing users,
+
+0:44:42.280,0:44:43.340
+...some at new users.
+
+0:44:43.560,0:44:46.710
+Bradley and I split the production work
+of all these videos down the middle.
+
+0:44:46.710,0:44:49.150
+And then we created a 'Learn'
+section in the app itself
+
+0:44:49.150,0:44:50.360
+...to make them easier to find.
+
+0:44:50.600,0:44:52.140
+The most stressful part came about
+
+0:44:52.140,0:44:53.830
+...three or four months
+before the release,
+
+0:44:53.830,0:44:55.970
+...when there were multiple
+features still not finished
+
+0:44:55.970,0:44:58.450
+...and around 500 critical
+bugs left to fix.
+
+0:44:58.450,0:45:00.850
+It was just a crazy bottleneck
+period for everyone,
+
+0:45:00.850,0:45:03.160
+...a once-in-a-lifetime
+release that was so big
+
+0:45:03.160,0:45:04.760
+...it just consumed everything.
+
+0:45:04.760,0:45:06.880
+And I'm pretty sure I can speak
+for the team when I say that
+
+0:45:06.880,0:45:08.700
+...the main emotions
+involved in releasing
+
+0:45:08.700,0:45:09.960
+...were pride, yes,
+
+0:45:10.160,0:45:11.780
+...but also a lot of relief.
+
+0:45:12.380,0:45:13.340
+It's over.
+
+0:45:14.300,0:45:15.510
+We're done.
+
+0:45:21.660,0:45:24.160
+Now, I wanted to mention one
+other thing before I sign off.
+
+0:45:24.160,0:45:26.190
+A very satisfying
+and wholesome feeling
+
+0:45:26.190,0:45:28.060
+...that comes with
+contributing to Musescore.
+
+0:45:28.260,0:45:30.030
+I've built a lot of
+software over the years.
+
+0:45:30.030,0:45:31.740
+And looking back, I can now see
+
+0:45:31.740,0:45:34.990
+...that a significant portion of my life
+has been dedicated to software that,
+
+0:45:34.990,0:45:37.300
+...for one reason or
+another, is now obsolete,
+
+0:45:37.300,0:45:38.850
+...with the code being
+locked away forever
+
+0:45:38.850,0:45:41.180
+...so that no one can ever
+see it or benefit from it.
+
+0:45:41.390,0:45:43.700
+But since Musescore is
+an open-source project,
+
+0:45:43.700,0:45:45.830
+...we know that all our work
+will always be available
+
+0:45:45.830,0:45:47.660
+...for others to build
+upon in the future.
+
+0:45:47.660,0:45:50.790
+As long as there are users and
+community members invested in it,
+
+0:45:50.790,0:45:53.150
+...it will continue to live,
+and will very likely provide
+
+0:45:53.150,0:45:56.410
+...a springboard for new solutions
+in the unpredictable future.
+
+0:45:56.410,0:45:58.210
+And the license we use, GPL,
+
+0:45:58.210,0:46:00.030
+...is kind of like an
+open-source patent.
+
+0:46:00.030,0:46:01.440
+What we build under the GPL
+
+0:46:01.440,0:46:04.270
+...can only be reused by apps
+that are also using GPL,
+
+0:46:04.270,0:46:06.240
+...which continuously
+shores up the advantage
+
+0:46:06.240,0:46:09.250
+...that the Free Software movement
+has over proprietary software.
+
+0:46:09.250,0:46:10.970
+So, with that in mind,
+here's to all the people
+
+0:46:10.970,0:46:12.900
+...who contributed to
+Musescore over the years,
+
+0:46:12.900,0:46:14.390
+...and also all the
+millions of people
+
+0:46:14.390,0:46:16.400
+...who use it to create
+sheet music every day.
+
+0:46:16.670,0:46:18.400
+We hope our de-Houstonification,
+
+0:46:18.400,0:46:20.590
+...which took the lives
+of many criminology dogs,
+
+0:46:20.590,0:46:22.570
+...significantly de-jankifies
+
+0:46:22.570,0:46:23.650
+...your experience.
+
